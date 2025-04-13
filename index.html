@@ -42,6 +42,20 @@
     .section p {
       color: #aaa;
     }
+    .btn {
+      background: gold;
+      color: black;
+      padding: 12px 24px;
+      font-size: 1rem;
+      font-weight: bold;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+    .btn:hover {
+      background: #e5c100;
+    }
     footer {
       text-align: center;
       padding: 20px;
@@ -55,12 +69,33 @@
     a:hover {
       text-decoration: underline;
     }
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      max-width: 400px;
+      margin: 0 auto;
+      padding-top: 20px;
+    }
+    input, textarea {
+      padding: 10px;
+      border-radius: 4px;
+      border: none;
+      font-size: 1rem;
+    }
+    @media (max-width: 600px) {
+      h1 { font-size: 2rem; }
+      .section h2 { font-size: 1.5rem; }
+      p { font-size: 1rem; }
+    }
   </style>
 </head>
 <body>
   <header>
+    <img src="logo.png" alt="NextLive Logo" style="max-width: 200px; margin-bottom: 20px;">
     <h1>NextLive</h1>
     <p>Tu plataforma para transmisiones 24/7 en vivo desde la nube. Sencillo. Estable. Sin interrupciones.</p>
+    <a href="#" class="btn">Accede al Panel</a>
   </header>
 
   <div class="section">
@@ -71,6 +106,16 @@
   <div class="section">
     <h2>⚙ En desarrollo...</h2>
     <p>Pronto podrás controlar tus emisiones, cambiar videos, y más desde esta misma plataforma.</p>
+  </div>
+
+  <div class="section">
+    <h2>📩 Solicita acceso beta</h2>
+    <form>
+      <input type="text" placeholder="Tu nombre" required>
+      <input type="email" placeholder="Tu correo electrónico" required>
+      <textarea rows="4" placeholder="Mensaje u observaciones (opcional)"></textarea>
+      <button type="submit" class="btn">Enviar solicitud</button>
+    </form>
   </div>
 
   <footer>
