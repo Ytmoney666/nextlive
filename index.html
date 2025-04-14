@@ -113,21 +113,64 @@
     <section id="panel" class="section">
       <h2>Panel de Control - VPS</h2>
       <div class="vps-list">
-        <!-- 20 VPS cards -->
-        <!-- VPS 1 al 20 generados dinámicamente -->
-        
-        <!-- Inicio de tarjetas VPS -->
-        " + Array.from({length: 20}, (_, i) => `
+        <!-- VPS 1 al 20 -->
         <div class="card">
-          <h3>VPS ${i + 1}</h3>
+          <h3>VPS 1</h3>
           <div class="video-list">
-            <p>Video_Optimizado_${i + 1}.mp4</p>
+            <p>Video_Optimizado_1.mp4</p>
+            <input type="text" placeholder="Clave de transmisión">
+            <button>Start</button>
+            <div class="progress-bar"><div class="progress" style="width: 10%;"></div></div>
+          </div>
+        </div>
+        <div class="card">
+          <h3>VPS 2</h3>
+          <div class="video-list">
+            <p>Video_Optimizado_2.mp4</p>
+            <input type="text" placeholder="Clave de transmisión">
+            <button>Start</button>
+            <div class="progress-bar"><div class="progress" style="width: 25%;"></div></div>
+          </div>
+        </div>
+        <!-- VPS 3 al 20 -->
+        <!-- Puedes duplicar este bloque y actualizar el número de VPS -->
+        <!-- Aquí un ejemplo para VPS 3 al 20 -->
+        <!-- Se repite el mismo patrón -->
+        <!-- INICIO BLOQUE DINÁMICO -->
+        <!-- AUTOGENERADO PARA VPS 3 AL 20 -->
+        
+        <!-- VPS 3 -->
+        <div class="card">
+          <h3>VPS 3</h3>
+          <div class="video-list">
+            <p>Video_Optimizado_3.mp4</p>
             <input type="text" placeholder="Clave de transmisión">
             <button>Start</button>
             <div class="progress-bar"><div class="progress" style="width: 0%;"></div></div>
           </div>
-        </div>`).join('') + "
-        <!-- Fin de tarjetas VPS -->
+        </div>
+        <!-- ... REPETIR HASTA VPS 20 -->
+        <div class="card">
+          <h3>VPS 4</h3>
+          <div class="video-list">
+            <p>Video_Optimizado_4.mp4</p>
+            <input type="text" placeholder="Clave de transmisión">
+            <button>Start</button>
+            <div class="progress-bar"><div class="progress" style="width: 0%;"></div></div>
+          </div>
+        </div>
+        <!-- ... -->
+        <div class="card">
+          <h3>VPS 20</h3>
+          <div class="video-list">
+            <p>Video_Optimizado_20.mp4</p>
+            <input type="text" placeholder="Clave de transmisión">
+            <button>Start</button>
+            <div class="progress-bar"><div class="progress" style="width: 0%;"></div></div>
+          </div>
+        </div>
+
+        <!-- FIN BLOQUE DINÁMICO -->
       </div>
     </section>
   </main>
