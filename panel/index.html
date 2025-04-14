@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Panel de Control - NextLive</title>
+  <style>
+    body { background-color: #000; color: #fff; font-family: 'Segoe UI', sans-serif; margin: 0; padding: 0; }
+    header, nav { background-color: #111; }
+    header { padding: 1rem 2rem; display: flex; justify-content: space-between; align-items: center; }
+    nav { display: flex; justify-content: center; gap: 2rem; padding: 1rem; }
+    nav a { color: white; text-decoration: none; font-weight: bold; }
+    header h1 { color: gold; margin: 0; }
+    header img { height: 40px; }
+    main { padding: 2rem; text-align: center; }
+    h2 { color: gold; }
+    .vps-card {
+      background-color: #111; padding: 1rem; margin: 1rem auto; width: 90%; max-width: 600px;
+      border-radius: 10px; text-align: left;
+    }
+    .vps-card input, .vps-card button {
+      padding: 0.5rem; margin-top: 0.5rem; width: 100%;
+    }
+    .vps-card button {
+      background-color: gold; border: none; color: black; font-weight: bold; cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>NextLive</h1>
+    <img src="../logo.png" alt="Logo" />
+  </header>
+  <nav>
+    <a href="../index.html">Inicio</a>
+    <a href="../optimizacion/index.html">Optimización</a>
+    <a href="index.html">Panel de Control</a>
+  </nav>
+  <main>
+    <h2>Panel de Control - 20 VPS</h2>
+    <div id="vps-container"></div>
+  </main>
+  <script>
+    const container = document.getElementById("vps-container");
+    for (let i = 1; i <= 20; i++) {
+      container.innerHTML += `
+        <div class="vps-card">
+          <h3>VPS ${i}</h3>
+          <p>Video_Optimizado_${i}.mp4</p>
+          <input placeholder="Clave de transmisión" />
+          <button>Start</button>
+        </div>
+      `;
+    }
+  </script>
+</body>
+</html>
