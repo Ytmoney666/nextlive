@@ -113,8 +113,10 @@
     <section id="panel" class="section">
       <h2>Panel de Control - VPS</h2>
       <div class="vps-list">
-        <!-- Generar 20 VPS -->
-        <!-- VPS 1 al 20 -->
+        <!-- 20 VPS cards -->
+        <!-- VPS 1 al 20 generados dinámicamente -->
+        
+        <!-- Inicio de tarjetas VPS -->
         " + Array.from({length: 20}, (_, i) => `
         <div class="card">
           <h3>VPS ${i + 1}</h3>
@@ -125,6 +127,7 @@
             <div class="progress-bar"><div class="progress" style="width: 0%;"></div></div>
           </div>
         </div>`).join('') + "
+        <!-- Fin de tarjetas VPS -->
       </div>
     </section>
   </main>
