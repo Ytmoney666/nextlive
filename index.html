@@ -1,35 +1,79 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>NextLive - Inicio</title>
-  <style>
-    body { background-color: #000; color: #fff; font-family: 'Segoe UI', sans-serif; margin: 0; padding: 0; }
-    header, nav { background-color: #111; }
-    header { padding: 1rem 2rem; display: flex; justify-content: space-between; align-items: center; }
-    nav { display: flex; justify-content: center; gap: 2rem; padding: 1rem; }
-    nav a { color: white; text-decoration: none; font-weight: bold; }
-    header h1 { color: gold; margin: 0; }
-    header img { height: 40px; }
-    main { text-align: center; padding: 2rem; }
-    h2 { color: gold; }
-    p { color: #ccc; }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NextLive - Tu Gestor de Streams</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh; /* Asegura que ocupe al menos el alto de la ventana */
+            box-sizing: border-box; /* Incluye padding y border en el tamaño total */
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px; /* Margen para pantallas más pequeñas */
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: left; /* Alinea el texto a la izquierda dentro del contenedor */
+            width: 90%; /* Ancho fluido para responsividad */
+        }
+        h1 {
+            color: #3498db;
+            text-align: center; /* Centra el título */
+            margin-bottom: 20px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
 </head>
 <body>
-  <header>
-    <h1>NextLive</h1>
-    <img src="logo.png" alt="Logo" />
-  </header>
-  <nav>
-    <a href="index.html">Inicio</a>
-    <a href="optimizacion/index.html">Optimización</a>
-    <a href="panel/index.html">Panel de Control</a>
-  </nav>
-  <main>
-    <h2>Transmite 24/7 desde la Nube</h2>
-    <p>Optimiza tus videos y lánzalos a YouTube con total estabilidad.</p>
-  </main>
+    <div class="container">
+        <h1>Bienvenido a NextLive</h1>
+        <p>NextLive es una aplicación de escritorio diseñada para gestionar y automatizar tus transmisiones en vivo a plataformas como YouTube.</p>
+        <p>Con NextLive, puedes:</p>
+        <ul>
+            <li>Programar transmisiones en vivo.</li>
+            <li>Gestionar y repetir videos únicos o listas de reproducción.</li>
+            <li>Monitorizar el estado y recursos de tus streams.</li>
+            <li>Configurar opciones avanzadas como proxy.</li>
+            <li>Automatizar el proceso de hacer tus videos públicos en YouTube.</li>
+        </ul>
+        <p>Nuestro objetivo es simplificar la creación de contenido y la gestión de transmisiones para que puedas concentrarte en lo que más importa: tu audiencia.</p>
+        <div class="footer">
+            <p>Si tienes preguntas o necesitas soporte, por favor contáctanos a: <a href="mailto:andresillouspreciosinous@gmail.com">andresillouspreciosinous@gmail.com</a></p>
+            <p>Puedes encontrar más información y descargar la aplicación en nuestro <a href="[ENLACE_A_TU_REPOSITORIO_GITHUB]" target="_blank">repositorio de GitHub</a>.</p>
+            <p>Revisa nuestra <a href="[ENLACE_A_TU_POLITICA_DE_PRIVACIDAD]" target="_blank">Política de Privacidad</a> para entender cómo manejamos tus datos.</p>
+        </div>
+    </div>
 </body>
 </html>
