@@ -3,77 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NextLive - Tu Gestor de Streams</title>
+    
+    <!-- PEGA AQUÍ LA ETIQUETA DE VERIFICACIÓN DE GOOGLE SEARCH CONSOLE -->
+    <!-- Ejemplo: <meta name="google-site-verification" content="tu_codigo_aqui" /> -->
+    
+    <title>NextLive - Automatización de Streams</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh; /* Asegura que ocupe al menos el alto de la ventana */
-            box-sizing: border-box; /* Incluye padding y border en el tamaño total */
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px; /* Margen para pantallas más pequeñas */
-            background: #fff;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            text-align: left; /* Alinea el texto a la izquierda dentro del contenedor */
-            width: 90%; /* Ancho fluido para responsividad */
-        }
-        h1 {
-            color: #3498db;
-            text-align: center; /* Centra el título */
-            margin-bottom: 20px;
-        }
-        p {
-            margin-bottom: 15px;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-            margin-bottom: 15px;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .footer {
-            margin-top: 30px;
-            text-align: center;
-            font-size: 0.9em;
-            color: #666;
+            font-family: 'Inter', sans-serif;
         }
     </style>
 </head>
-<body>
-    <div class="container">
-        <h1>Bienvenido a NextLive</h1>
-        <p>NextLive es una aplicación de escritorio diseñada para gestionar y automatizar tus transmisiones en vivo a plataformas como YouTube.</p>
-        <p>Con NextLive, puedes:</p>
-        <ul>
-            <li>Programar transmisiones en vivo.</li>
-            <li>Gestionar y repetir videos únicos o listas de reproducción.</li>
-            <li>Monitorizar el estado y recursos de tus streams.</li>
-            <li>Configurar opciones avanzadas como proxy.</li>
-            <li>Automatizar el proceso de hacer tus videos públicos en YouTube.</li>
-        </ul>
-        <p>Nuestro objetivo es simplificar la creación de contenido y la gestión de transmisiones para que puedas concentrarte en lo que más importa: tu audiencia.</p>
-        <div class="footer">
-            <p>Si tienes preguntas o necesitas soporte, por favor contáctanos a: <a href="mailto:andresillouspreciosinous@gmail.com">andresillouspreciosinous@gmail.com</a></p>
-            <p>Puedes encontrar más información y descargar la aplicación en nuestro <a href="[ENLACE_A_TU_REPOSITORIO_GITHUB]" target="_blank">repositorio de GitHub</a>.</p>
-            <p>Revisa nuestra <a href="[ENLACE_A_TU_POLITICA_DE_PRIVACIDAD]" target="_blank">Política de Privacidad</a> para entender cómo manejamos tus datos.</p>
+<body class="bg-gray-900 text-gray-300 flex flex-col min-h-screen">
+
+    <!-- Header -->
+    <header class="bg-gray-900/80 backdrop-blur-sm shadow-lg">
+        <nav class="container mx-auto px-6 py-4">
+            <div class="flex items-center justify-between">
+                <div class="text-white font-bold text-2xl">
+                    NextLive
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-grow">
+        <div class="container mx-auto px-6 py-16 text-center">
+            <div class="max-w-3xl mx-auto">
+                <h1 class="text-4xl md:text-6xl font-extrabold text-white leading-tight mb-6">
+                    Automatiza tus Transmisiones de YouTube
+                </h1>
+                <p class="text-lg md:text-xl text-gray-400 mb-8">
+                    NextLive es una aplicación de escritorio diseñada para gestionar y automatizar tus streams en YouTube, permitiéndote programar contenido, manejar playlists y controlar la visibilidad de tus videos de forma eficiente.
+                </p>
+            </div>
         </div>
-    </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 mt-auto">
+        <div class="container mx-auto px-6 py-8">
+            <div class="flex flex-col items-center text-center">
+                <p class="text-gray-400 mb-4">&copy; 2025 NextLive. Todos los derechos reservados.</p>
+                
+                <!-- ESTE ES EL ENLACE QUE GOOGLE NECESITA VER -->
+                <a href="privacy_policy.html" class="text-blue-400 hover:text-blue-300 underline transition duration-300">
+                    Política de Privacidad
+                </a>
+            </div>
+        </div>
+    </footer>
+
 </body>
 </html>
