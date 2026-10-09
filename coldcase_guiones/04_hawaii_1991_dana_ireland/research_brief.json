@@ -1,0 +1,239 @@
+{
+  "research_method_note": "Research done on 2026-10-09 with WebSearch only (24 queries). WebFetch and direct HTTP access were unavailable (DNS/proxy errors), so no article was read in full: every fact below comes from search-engine summaries of the cited pages. Source numbers [n] match section 13 of investigacion.md. Items marked SNIPPET-ONLY or DISPUTED must be checked against the full article before publishing.",
+  "video_metadata": {
+    "working_title": "HAWAII 1991 Cold Case Solved After 32 Years — Justice for Dana Ireland",
+    "topic_one_sentence": "On Christmas Eve 1991, 23-year-old Dana Ireland was struck while riding a bicycle in Kapoho, Puna, abducted, sexually assaulted, beaten and left on a fishing trail; three Native Hawaiian men were convicted, two were later exonerated and the third died in prison, and in 2024 genetic genealogy led police to Albert Lauro Jr., who died by suicide before any charge.",
+    "primary_emotion_to_evoke": "grief turning into outrage at a system that convicted the wrong men, then bittersweet relief at the truth arriving too late for a courtroom",
+    "target_length_minutes": "70"
+  },
+  "protagonist": {
+    "_instructions": "Main character: the victim, Dana Ireland (the story is victim-centred). The man identified by DNA is described in supporting_characters.",
+    "full_name": "Dana Marie Ireland",
+    "age_at_time_of_events": "23 (born December 12, 1968 according to Find a Grave / WikiTree; SNIPPET-ONLY, genealogy sites)",
+    "occupation_or_status": "Recent graduate of George Mason University (1991); hoped to work in the physical therapy field [29][33]",
+    "location": "Visiting her family in the Kapoho area of Puna, Hawaii Island (Big Island), from Virginia [3][29]",
+    "physical_description": "Not used (no verified description beyond photos).",
+    "background_brief": "Born at Fort Belvoir, Virginia (genealogy sites) and raised in Springfield, Virginia, a suburb about 11 miles southwest of Washington, D.C. [28]. Daughter of John Ireland, a retired Army officer, and Louise Ireland [29][32]. Her older sister Sandra (Sandy) had moved to Hawaii when Dana was little; one account says Sandy moved to the Kapoho area in 1977 [29].",
+    "psychological_profile": "Family and friends recalled her as shy, kind, loyal, an athlete, a sweet daughter and a tomboy (Star-Bulletin feature by Cynthia Oi, June 8, 1999) [28].",
+    "mundane_humanizing_detail": "On the afternoon of December 24, 1991 she wanted to invite a friend to the family's Christmas party the next day; offered the family car, she preferred to ride a bicycle for the exercise (secondary account, SNIPPET-ONLY) [51][63]. Another account says she was riding to the family's rented vacation home [33].",
+    "nickname_or_alias_if_any": ""
+  },
+  "victims_or_targets": {
+    "_instructions": "People harmed.",
+    "individuals": [
+      {"name": "Dana Ireland", "role_or_profession": "23-year-old recent college graduate from Virginia", "connection_to_protagonist": "victim", "specific_impact_suffered": "Struck by a vehicle while cycling on Kapoho Kai Drive, abducted, sexually assaulted, beaten and left on a fishing trail off Waa Waa Road; died at Hilo hospital just after midnight on December 25, 1991, from her injuries and massive blood loss [3][13][29][33]", "humanizing_detail": "shy, kind, loyal, an athlete, a tomboy [28]", "any_quotes_from_them": ""},
+      {"name": "Albert \"Ian\" Schweitzer", "role_or_profession": "Native Hawaiian man from Puna; about 20 in 1991 (derived from age 51 at release in 2023 [33])", "connection_to_protagonist": "Wrongfully convicted (verdict February 16, 2000) of second-degree murder, kidnapping and first-degree sexual assault; life plus two consecutive 20-year terms, reported as 130 years [14][20]", "specific_impact_suffered": "Conviction vacated and charges dismissed January 24, 2023 by Judge Peter Kubota; released the same day after more than two decades in custody (reports range from 23 to 26 years) [14][15][17][19]", "humanizing_detail": "Appeared at a news conference with his mother and relatives after release [18]", "any_quotes_from_them": "\"I'm just grateful, very thankful.\" (January 2023) [18]; his feelings were \"all over the place. Nerves, anxiety, scared.\" [18]; \"My family and the Ireland family are all victims of this terrible injustice.\" (January 2025 statement) [35]"},
+      {"name": "Shawn Schweitzer", "role_or_profession": "Ian's younger brother; reported as 16 at the time of the crime [MINOR in 1991] [14][34]", "connection_to_protagonist": "Pleaded guilty in 2000 to manslaughter and kidnapping in a deal requiring him to implicate his brother and Pauline; credit for about one year served plus five years' probation [13][14]", "specific_impact_suffered": "Recanted (October 2022, per Innocence Project summary); conviction vacated and case dismissed October 23, 2023 [16][21][22]", "humanizing_detail": "Said he pleaded guilty because his parents did not want to risk losing another son [21][22]", "any_quotes_from_them": ""},
+      {"name": "Frank Pauline Jr.", "role_or_profession": "Puna man convicted in 1999", "connection_to_protagonist": "Gave police statements in 1994 while in custody on unrelated charges, implicating himself and the Schweitzers; later said he did it to help his half-brother with drug charges; recanted in 1996 [26][27]", "specific_impact_suffered": "Convicted 1999; conviction upheld by Hawaii Supreme Court 2002; sentence reported differently (180 years, 160 years, consecutive life terms) DISPUTED [20][27][55]. Killed April 27, 2015, aged 42, at Southern New Mexico Correctional Facility, Las Cruces [24][25]. Posthumous petition to vacate his conviction was pending/delayed as of January 2024; no later ruling found [23]", "humanizing_detail": "Transferred from Hawaii to the New Mexico prison in December 2012 [24]", "any_quotes_from_them": ""},
+      {"name": "John Ireland", "role_or_profession": "Dana's father, retired Army officer", "connection_to_protagonist": "father", "specific_impact_suffered": "Spent the rest of his life campaigning for crime victims; helped pass Hawaii laws letting families speak at sentencing and allowing life without parole for especially 'heinous, atrocious, or cruel' murders (not retroactive); died in Virginia around October 31, 2000, aged 76 [32]", "humanizing_detail": "With Louise, moved to Puna for some months in 1994 to press for an arrest; returned in 1996 with a petition of several thousand signatures [33]", "any_quotes_from_them": ""},
+      {"name": "Louise Ireland", "role_or_profession": "Dana's mother", "connection_to_protagonist": "mother", "specific_impact_suffered": "Died in 2016 at 92 (Find a Grave / WikiTree, SNIPPET-ONLY) [53]", "humanizing_detail": "", "any_quotes_from_them": ""},
+      {"name": "Sandra (Sandy) Ireland", "role_or_profession": "Dana's older sister, Kapoho resident", "connection_to_protagonist": "sister", "specific_impact_suffered": "Among the first to arrive where Dana's bicycle wreckage was found; testified at Pauline's 1999 trial about the last time she saw Dana [30][31]", "humanizing_detail": "Moved to Hawaii when Dana was little [29]", "any_quotes_from_them": ""}
+    ],
+    "collective_victims_if_applicable": {"group_description": "The Ireland family; the Schweitzer and Pauline families; the Puna community", "total_number_affected": "1 murder victim; 3 men convicted", "range_of_impacts": "death; decades of wrongful imprisonment; a death in prison; unresolved compensation"}
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, lawyers, witnesses.",
+    "characters": [
+      {"name": "Ida Smith", "role_in_story": "Waawaa resident who found Dana alive on the trail", "key_actions_they_took": "Covered her with a quilt and prayed with her while waiting for a passing motorist; there were no phones in the area (SNIPPET-ONLY) [29][33]", "notable_quotes": ""},
+      {"name": "John Gonsalves", "role_in_story": "Pauline's half-brother", "key_actions_they_took": "On May 23, 1994 told authorities Pauline had been present at the attack [26]", "notable_quotes": ""},
+      {"name": "Michael Ortiz", "role_in_story": "Jailhouse informant", "key_actions_they_took": "In May 1999 claimed Ian Schweitzer confessed to him at Hawaii Community Correctional Center; parts of his testimony later found false; the 2025 lawsuit alleges detectives told him what to say (allegation) [13][14][36]", "notable_quotes": ""},
+      {"name": "Charlene Iboshi", "role_in_story": "Prosecutor at Pauline's 1999 trial", "key_actions_they_took": "Called Sandy Ireland to testify [31]", "notable_quotes": ""},
+      {"name": "Kenneth (Ken) Lawson", "role_in_story": "Co-director, Hawaii Innocence Project", "key_actions_they_took": "Led the fight to free the Schweitzers; worked with Indago and law enforcement on the DNA [5][17][23]", "notable_quotes": "Called the January 2023 ruling \"a long time coming\" [17]"},
+      {"name": "Judge Peter Kubota", "role_in_story": "Hilo Circuit Court judge", "key_actions_they_took": "Vacated Ian's conviction January 24, 2023 and Shawn's October 23, 2023 [16][17]", "notable_quotes": "Said the new DNA evidence \"conclusively proves a jury would likely reach a different verdict of acquittal\" (SNIPPET-ONLY) [45]"},
+      {"name": "Dr. Adam Freeman", "role_in_story": "Forensic odontologist for the defense", "key_actions_they_took": "Concluded the circular injury was not a human bite mark [14]", "notable_quotes": ""},
+      {"name": "Stephen Kramer", "role_in_story": "Former federal prosecutor; Indago Solutions co-founder (with former FBI agent Stephen Busch); credited in reports with the 2018 identification in the Golden State Killer case", "key_actions_they_took": "Identified Lauro on February 26, 2024 from ancestry, age, genetics and address history; passed the lead to the FBI [2][4][59]", "notable_quotes": "Paraphrase only: said the DNA match was enough probable cause to arrest, and that the July 19 swab served no purpose other than to tip Lauro off [4]"},
+      {"name": "Benjamin Moszkowicz", "role_in_story": "Hawaii Police Department chief (2024)", "key_actions_they_took": "Announced the identification July 29, 2024; defended not arresting Lauro [1][10][11]", "notable_quotes": "\"The presence of Lauro's DNA at the crime scene was, in and of itself, not sufficient evidence to prove that Lauro intentionally or knowingly caused her death.\" / \"We remain committed, as we have since day one, of solving this case.\" [11]"},
+      {"name": "Kelden Waltjen", "role_in_story": "Hawaii County Prosecuting Attorney", "key_actions_they_took": "Statement on identification [11]", "notable_quotes": "\"It is our hope that law enforcement's continued investigation, the advancements in technology that weren't previously available, and the identification of Unknown Male #1 will afford the Ireland family some sense of closure.\" [11]"},
+      {"name": "Albert Lauro Jr.", "role_in_story": "Man police identified through DNA as 'Unknown Male #1'; 57, of Hawaiian Paradise Park; in his mid-twenties in 1991; reportedly lived in the Kapoho area at the time (SNIPPET-ONLY); no violent criminal history (traffic citations, a civil case with a bank) [1][9]", "key_actions_they_took": "Voluntarily interviewed July 19, 2024 and gave court-ordered cheek swab; found dead at home July 23, 2024 (apparent suicide); never charged, never tried, never convicted [6][9]", "notable_quotes": ""},
+      {"name": "Myles Breiner", "role_in_story": "Attorney for Pauline's family", "key_actions_they_took": "Pursued posthumous exoneration; hearing delayed January 2024 for lack of an official New Mexico death certificate [23]", "notable_quotes": ""},
+      {"name": "Daniel Hood", "role_in_story": "New Mexico inmate", "key_actions_they_took": "Confessed to killing Pauline with a rock; pleaded to second-degree murder; 15 years [24][25]", "notable_quotes": "Per New Mexico DPS, said he did it \"because he was a snitch and he walked around like he owned the place\" [24]"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "Backbone.",
+    "events": [
+      {"date": "1968-12-12", "location": "Fort Belvoir, Virginia", "what_happened": "Dana Marie Ireland born", "significance": "turned 23 twelve days before her death", "source": "[53] Find a Grave (SNIPPET-ONLY)"},
+      {"date": "1977", "location": "Kapoho, Puna", "what_happened": "Sister Sandy moves to the Kapoho area (one account)", "significance": "why the family was in Puna", "source": "[29] (SNIPPET-ONLY)"},
+      {"date": "1991 (June per one account)", "location": "Fairfax, Virginia", "what_happened": "Dana graduates from George Mason University", "significance": "new adult life", "source": "[29] (SNIPPET-ONLY)"},
+      {"date": "1991-12-24, about 4 p.m. (one account)", "location": "Kapoho, Puna", "what_happened": "Dana leaves on her sister's bicycle", "significance": "last outing", "source": "[51][63] secondary, SNIPPET-ONLY"},
+      {"date": "1991-12-24, late afternoon", "location": "Kapoho Kai Drive, Vacationland area", "what_happened": "Dana is struck by a vehicle; mangled bicycle left at the scene", "significance": "first crime scene; tire tracks", "source": "[3][17][30]"},
+      {"date": "1991-12-24, evening", "location": "Fishing trail off Waa Waa Road, about 5 miles from the bicycle", "what_happened": "Dana found alive, barely conscious, by resident Ida Smith; more than two hours pass before an ambulance reaches her", "significance": "rescue delays later led to a lawsuit", "source": "[29][33] SNIPPET-ONLY"},
+      {"date": "1991-12-25, just after midnight (12:07 a.m. per one account)", "location": "Hilo hospital", "what_happened": "Dana dies of her injuries and blood loss", "significance": "Christmas Day", "source": "[3][13][29]"},
+      {"date": "1994-05-23", "location": "Hawaii Island", "what_happened": "John Gonsalves tells authorities his half-brother Frank Pauline Jr. was present", "significance": "start of the wrong theory", "source": "[26]"},
+      {"date": "1994 (June onward)", "location": "Hilo", "what_happened": "Pauline, in custody facing a 10-year sentence on unrelated charges, interviewed at least seven times; inconsistent accounts; implicates himself and the Schweitzers", "significance": "false statements", "source": "[26]"},
+      {"date": "1994", "location": "Puna", "what_happened": "John and Louise Ireland move to Puna for some months to press for an arrest; family reward of $22,200", "significance": "public pressure", "source": "[33]"},
+      {"date": "1996", "location": "Puna / Hilo", "what_happened": "Pauline recants; Irelands return with a petition of several thousand signatures; wrongful-death suit against Hawaii County over rescue delays settled out of court ($452,000 or $452,500)", "significance": "pressure and money", "source": "[26][29][33]"},
+      {"date": "1997-10 (indictment Oct 9, 1997)", "location": "Hilo", "what_happened": "Ian and Shawn Schweitzer and Pauline arrested; Schweitzers indicted", "significance": "arrests", "source": "[13][14]"},
+      {"date": "1998", "location": "Hilo", "what_happened": "DNA testing does not connect the Schweitzers to the sexual assault; case against them dismissed", "significance": "first warning sign", "source": "[13]"},
+      {"date": "1999-05", "location": "HCCC, Hilo", "what_happened": "Informant Michael Ortiz claims Ian confessed; statute of limitations days away for some crimes; Schweitzers re-indicted", "significance": "informant evidence", "source": "[13][14]"},
+      {"date": "1999 (summer)", "location": "Hilo", "what_happened": "Pauline tried (prosecutor Charlene Iboshi; Sandy Ireland testifies) and convicted", "significance": "first conviction", "source": "[27][31]"},
+      {"date": "2000-02-16", "location": "Hilo", "what_happened": "Jury convicts Ian Schweitzer of second-degree murder, kidnapping and first-degree sexual assault; life plus two consecutive 20-year terms (reported as 130 years)", "significance": "second conviction", "source": "[14][20]"},
+      {"date": "2000-03-24", "location": "Hawaii", "what_happened": "State Attorney General's examiner gives Shawn a polygraph as part of his deal", "significance": "plea deal", "source": "[13]"},
+      {"date": "2000 (April 17 per Innocence Project; May 9 per another source)", "location": "Hilo", "what_happened": "Shawn pleads guilty to manslaughter and kidnapping; about one year credited, five years' probation", "significance": "third conviction", "source": "[13][14] DISPUTED date"},
+      {"date": "2000-10-31 (approx.)", "location": "Virginia", "what_happened": "John Ireland dies at 76", "significance": "died believing the case solved (inference, not stated by sources; do not state as fact)", "source": "[32]"},
+      {"date": "2002", "location": "Honolulu", "what_happened": "Hawaii Supreme Court upholds Pauline's conviction", "significance": "appeal fails", "source": "[27][55]"},
+      {"date": "2012-12", "location": "Las Cruces, New Mexico", "what_happened": "Pauline transferred to Southern New Mexico Correctional Facility", "significance": "", "source": "[24]"},
+      {"date": "2015-04-27", "location": "Las Cruces, New Mexico", "what_happened": "Pauline, 42, found dead in prison recreation yard; inmate Daniel Hood confesses; days earlier HIP had announced DNA could point to a different attacker", "significance": "death before exoneration", "source": "[24][25][26]"},
+      {"date": "2016-10-10", "location": "Virginia", "what_happened": "Louise Ireland dies at 92", "significance": "", "source": "[53] SNIPPET-ONLY"},
+      {"date": "2017-01-19", "location": "Hawaii", "what_happened": "Hawaii Innocence Project files motion to overturn conviction", "significance": "", "source": "[52] (title only)"},
+      {"date": "2018", "location": "Hawaii", "what_happened": "Press reports: video suggests killer still at large (March); genetic genealogy could help the case (December)", "significance": "", "source": "[49][50]"},
+      {"date": "2018 (May–August)", "location": "Lower Puna", "what_happened": "Kilauea lower East Rift Zone eruption covers Kapoho and Vacationland with lava", "significance": "the first crime scene no longer exists", "source": "general public record (USGS); not from case sources"},
+      {"date": "2022-10", "location": "Hilo", "what_happened": "Shawn meets prosecutors and recants", "significance": "", "source": "[14] SNIPPET-ONLY"},
+      {"date": "2023-01-24", "location": "Hilo Circuit Court", "what_happened": "Judge Peter Kubota vacates Ian's conviction on stipulated new evidence (Unknown Male #1 DNA, bite mark, tire treads, recantation); charges dismissed; Ian released", "significance": "exoneration", "source": "[14][15][17][19][20]"},
+      {"date": "2023-10-23", "location": "Hilo Circuit Court", "what_happened": "Shawn's conviction vacated and case dismissed (Deputy Prosecutor Shannon Kagawa agreed)", "significance": "second exoneration", "source": "[16][21][22]"},
+      {"date": "2024-01", "location": "Hilo", "what_happened": "Pauline's posthumous exoneration hearing delayed: no official death certificate", "significance": "", "source": "[23]"},
+      {"date": "2024-02-26", "location": "", "what_happened": "Indago Solutions identifies Albert Lauro Jr. as the only potential candidate; lead given to FBI", "significance": "breakthrough", "source": "[2][5]"},
+      {"date": "2024-06 / early July", "location": "Hawaii Island", "what_happened": "FBI agent and Hawaii police surveil Lauro and collect a fork he discarded in public; it matches Unknown Male #1 (swab from body, hospital sheet, T-shirt)", "significance": "confirmation", "source": "[7][8][9]"},
+      {"date": "2024-07-19", "location": "Hilo", "what_happened": "Lauro voluntarily interviewed; court-ordered cheek swab; asks to leave and is allowed", "significance": "", "source": "[6][7]"},
+      {"date": "2024-07-23", "location": "Hawaiian Paradise Park", "what_happened": "Lauro, 57, found dead at home; apparent suicide", "significance": "never charged", "source": "[9][2]"},
+      {"date": "2024-07-24", "location": "", "what_happened": "Cheek swab confirms the match", "significance": "", "source": "[9]"},
+      {"date": "2024-07-29", "location": "Hilo", "what_happened": "Police news conference names Lauro", "significance": "public reveal", "source": "[1][9][11]"},
+      {"date": "2024-08", "location": "Hilo / Honolulu", "what_happened": "Judge rebukes county for delaying release of evidence; fight goes to Hawaii Supreme Court", "significance": "", "source": "[57][62]"},
+      {"date": "2024-10", "location": "Honolulu", "what_happened": "Hawaii Supreme Court: compensation claims must go to a separate civil case; 'actually innocent' means the person did not commit the crime; police need not release records about the new suspect in that proceeding", "significance": "", "source": "[39][40][41]"},
+      {"date": "2025-01-22", "location": "U.S. District Court, Honolulu", "what_happened": "Schweitzers file federal civil-rights suit (conspiracy, malicious prosecution, due process, emotional distress) against Hawaii County and its police", "significance": "", "source": "[35][36][37][46]"},
+      {"date": "2025-08-05", "location": "Hilo", "what_happened": "Trial on state compensation claim set for March 30, 2026", "significance": "", "source": "[42]"},
+      {"date": "2026-09-19", "location": "Honolulu", "what_happened": "Report: Hawaii Supreme Court asked three questions on whether the brothers can seek state compensation and also sue the county in federal court; both cases on hold; no money received", "significance": "current status", "source": "[43]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "Hook.",
+    "the_moment": {"exact_date": "December 24, 1991", "exact_location": "Kapoho Kai Drive, Kapoho, Puna, Hawaii Island", "what_is_happening": "A 23-year-old from Virginia rides her sister's bicycle on Christmas Eve", "what_makes_it_shocking": "She was struck, taken miles away, and found alive on a fishing trail; help took more than two hours", "ironic_twist": "The DNA that named a suspect was on her and on a T-shirt from the start; it matched none of the three men sent to prison"},
+    "central_mystery_question": "If the DNA never matched the three men convicted, whose was it, and why did it take 32 years to find out?"
+  },
+  "the_method": {
+    "_instructions": "Investigative genetic genealogy.",
+    "technique_name": "Investigative (forensic) genetic genealogy",
+    "step_by_step_explanation": ["Crime-scene DNA (rape kit, hospital sheet, T-shirt) yields a single male profile, 'Unknown Male #1', which matched none of the three convicted men and no CODIS offender", "Hawaii Innocence Project works with law enforcement and sends samples to Indago Solutions", "A dense SNP profile is compared with genealogy databases open to law enforcement to find relatives", "Genealogists build family trees from relatives back to a common ancestor and forward to candidates, filtering by ancestry (about 80% Filipino), age and address history", "February 26, 2024: one candidate, Albert Lauro Jr.; lead to FBI and Hawaii police", "Discarded fork collected under surveillance; match", "Court-ordered cheek swab July 19, 2024; confirmation July 24"],
+    "why_it_worked": "Unlike CODIS, which only matches people already in it, genealogy finds relatives who chose to share their DNA",
+    "technical_terms_to_explain": [{"term": "CODIS", "simple_explanation": "the FBI's national DNA database of offenders and crime scenes; it only matches people already in it"}, {"term": "SNP profile", "simple_explanation": "hundreds of thousands of genetic markers, like a full barcode instead of the 20-point fingerprint used by CODIS"}, {"term": "Discarded DNA / abandoned property", "simple_explanation": "an object a person throws away in public can be collected and tested"}, {"term": "Buccal swab", "simple_explanation": "a cotton swab rubbed inside the cheek"}, {"term": "Statute of limitations", "simple_explanation": "a legal deadline after which some crimes can no longer be charged; murder has none in Hawaii, sexual assault had expired here"}],
+    "scale_of_operation": "Two companies/agencies (Indago, FBI) plus Hawaii police; identification about five months before confirmation"
+  },
+  "systemic_failure": {
+    "_instructions": "",
+    "institution_that_failed": "Hawaii County Police Department and the prosecution of the 1990s; also the emergency response on December 24, 1991",
+    "how_they_were_supposed_to_protect": "Find the real attacker and convict on reliable evidence",
+    "why_they_failed": "Years of public pressure; reliance on an informant facing his own charges, a jailhouse informant and a teenage co-defendant's plea; DNA exclusions explained away; later-discredited bite-mark testimony",
+    "specific_incompetence_examples": ["Pauline interviewed at least seven times with inconsistent accounts [26]", "1998 DNA testing excluded the Schweitzers from the sexual assault, yet they were re-indicted in 1999 on an informant's word [13]", "Odontologist who first excluded Ian later testified his teeth were consistent with the mark; defense expert later found it was not a human bite [14]", "Tire treads at both scenes did not come from Ian's Volkswagen Beetle [17]", "More than two hours before an ambulance reached Dana [29]"],
+    "ironic_details_about_the_failure": "The evidence that freed the men and named a new suspect was the same evidence collected in 1991"
+  },
+  "the_investigation": {
+    "_instructions": "",
+    "investigating_agency": "Hawaii Police Department (Hawaii County), FBI, Hawaii Innocence Project, Indago Solutions",
+    "operation_code_name_if_any": "",
+    "when_investigation_began": "December 24, 1991",
+    "initial_wrong_assumptions": "That Pauline's 1994 statements were true and that the unknown DNA could be explained away",
+    "key_breakthrough": "Genetic genealogy (February 26, 2024)",
+    "the_fatal_mistake": "Lauro discarded a fork in public that investigators collected",
+    "how_long_until_caught": "Identified 32 years and 7 months later; never arrested"
+  },
+  "the_confrontation": {
+    "_instructions": "",
+    "date_and_time": "July 19, 2024",
+    "location": "Hawaii Police Department, Hilo (interview)",
+    "scene_description": "Voluntary interview, not in custody; court-ordered buccal swab taken; Lauro asked to leave and was allowed to [6]",
+    "protagonist_reaction": "No public account of what he said; police were reviewing the interview transcript and his phone [11]",
+    "ironic_or_absurd_details": "He was found dead July 23, one day before the swab confirmed the match [9]"
+  },
+  "legal_resolution": {
+    "_instructions": "",
+    "charges_filed": ["None against Albert Lauro Jr.", "Historic: Pauline (1999), Ian Schweitzer (2000) convicted of murder, kidnapping and sexual assault; Shawn Schweitzer pleaded guilty to manslaughter and kidnapping (2000)"],
+    "trial_date_if_applicable": "Pauline 1999; Ian verdict February 16, 2000",
+    "notable_court_testimony": "Sandy Ireland at Pauline's trial; informant Michael Ortiz; forensic odontologist on the bite mark",
+    "victim_impact_statements": [{"from_whom": "", "key_quote": "No verified quote found", "emotional_impact": ""}],
+    "sentence_received": "Ian: life plus two consecutive 20-year terms (reported as 130 years); Pauline: reports differ (180 years / 160 years / consecutive life terms); Shawn: about one year credited plus five years' probation",
+    "protagonist_statement_in_court": "",
+    "current_status": "As of October 2026: Ian and Shawn Schweitzer's convictions vacated and charges dismissed (2023), reportedly without prejudice; they are counted as exonerated by the Innocence Project and the National Registry of Exonerations; county prosecutors have argued a vacated conviction is not proof of innocence and one report says they still call the brothers suspects. Their state compensation claim (HRS 661B, $50,000 per year) and federal civil-rights suit were on hold in September 2026 pending Hawaii Supreme Court questions; no money paid. Pauline died in 2015; a posthumous petition was delayed in January 2024 and no ruling vacating his conviction was found. Albert Lauro Jr. died July 23, 2024, never charged or convicted; police said DNA gave probable cause for sexual assault, whose limitation period had expired, but not enough evidence to charge murder."
+  },
+  "verified_quotes": {
+    "_instructions": "All from search summaries; verify wording in full articles before publishing.",
+    "quotes": [
+      {"speaker": "Albert \"Ian\" Schweitzer", "exact_quote": "I'm just grateful, very thankful.", "context": "News conference after release, January 2023", "source": "[18]"},
+      {"speaker": "Albert \"Ian\" Schweitzer", "exact_quote": "all over the place. Nerves, anxiety, scared.", "context": "Describing his feelings at release", "source": "[18]"},
+      {"speaker": "Ken Lawson, Hawaii Innocence Project", "exact_quote": "a long time coming", "context": "On the January 24, 2023 ruling", "source": "[17]"},
+      {"speaker": "Judge Peter Kubota", "exact_quote": "conclusively proves a jury would likely reach a different verdict of acquittal", "context": "January 2023 ruling on the new DNA evidence (SNIPPET-ONLY)", "source": "[45]"},
+      {"speaker": "Chief Benjamin Moszkowicz", "exact_quote": "The presence of Lauro's DNA at the crime scene was, in and of itself, not sufficient evidence to prove that Lauro intentionally or knowingly caused her death.", "context": "July 29, 2024 news conference, Hilo", "source": "[11]"},
+      {"speaker": "Chief Benjamin Moszkowicz", "exact_quote": "We remain committed, as we have since day one, of solving this case.", "context": "July 29, 2024", "source": "[11]"},
+      {"speaker": "Chief Benjamin Moszkowicz", "exact_quote": "In order to obtain a search warrant, investigators would have to have established probable cause for the crime of murder and explained specifically what evidence it was seeking.", "context": "On why the swab was taken by court order rather than a warrant (SNIPPET-ONLY)", "source": "[10][12]"},
+      {"speaker": "Prosecuting Attorney Kelden Waltjen", "exact_quote": "It is our hope that law enforcement's continued investigation, the advancements in technology that weren't previously available, and the identification of Unknown Male #1 will afford the Ireland family some sense of closure.", "context": "Statement, July 2024", "source": "[11]"},
+      {"speaker": "Albert \"Ian\" Schweitzer", "exact_quote": "My family and the Ireland family are all victims of this terrible injustice.", "context": "Statement on federal lawsuit, January 2025", "source": "[35]"},
+      {"speaker": "Daniel Hood (per New Mexico Department of Public Safety)", "exact_quote": "because he was a snitch and he walked around like he owned the place", "context": "Why he attacked Pauline, 2015", "source": "[24]"},
+      {"speaker": "A Hawaii County deputy prosecutor", "exact_quote": "I don't believe that not guilty and actually innocent are the same thing.", "context": "Compensation proceedings (SNIPPET-ONLY, speaker unnamed)", "source": "[58]"},
+      {"speaker": "Schweitzers' federal complaint (allegation)", "exact_quote": "under immense pressure to solve the high-profile murder", "context": "January 2025 lawsuit", "source": "[35][38]"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "",
+    "figures": [
+      {"number": "23", "what_it_represents": "Dana's age", "source": "[3]"},
+      {"number": "about 5 miles", "what_it_represents": "distance from bicycle scene to fishing trail", "source": "[29]"},
+      {"number": "more than 2 hours", "what_it_represents": "from impact to ambulance", "source": "[29][33]"},
+      {"number": "$22,200", "what_it_represents": "Ireland family reward", "source": "[33]"},
+      {"number": "$452,000 / $452,500", "what_it_represents": "1996 settlement with Hawaii County (reports differ)", "source": "[29][33]"},
+      {"number": "at least 7", "what_it_represents": "Pauline interviews in 1994", "source": "[26]"},
+      {"number": "130 years", "what_it_represents": "Ian's reported sentence", "source": "[20]"},
+      {"number": "51", "what_it_represents": "Ian's age at release", "source": "[33]"},
+      {"number": "42", "what_it_represents": "Pauline's age at death, 2015", "source": "[24]"},
+      {"number": "15 years", "what_it_represents": "Hood's sentence", "source": "[25]"},
+      {"number": "about 80% Filipino", "what_it_represents": "ancestry estimate of the unknown profile", "source": "[5]"},
+      {"number": "57", "what_it_represents": "Lauro's age at death", "source": "[1][9]"},
+      {"number": "4 days", "what_it_represents": "between swab (July 19) and death (July 23)", "source": "[9]"},
+      {"number": "$50,000 per year", "what_it_represents": "Hawaii wrongful-imprisonment compensation (HRS 661B)", "source": "[44]"},
+      {"number": "about $1.25–1.3 million / about $100,000", "what_it_represents": "potential compensation for Ian / Shawn", "source": "[44][45]"},
+      {"number": "32 years, 7 months", "what_it_represents": "from crime to identification", "source": "derived"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "",
+    "details": [
+      "The DNA that excluded the three men in the 1990s was the same DNA that pointed to a new name in 2024.",
+      "Pauline was killed in April 2015, days after the Innocence Project announced the DNA could point to someone else.",
+      "Lauro died one day before the confirmatory swab came back.",
+      "The sexual assault could no longer be charged because of the statute of limitations; the murder could, but police said they lacked evidence.",
+      "The Kapoho road where Dana was struck was buried by lava in 2018.",
+      "John Ireland's laws on heinous murders could not be applied retroactively to his own daughter's case."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "General context only.",
+    "key_locations": [
+      {"location_name": "Kapoho / Vacationland, Puna", "physical_description": "Easternmost coast of Hawaii Island, rural lava-rock subdivisions and vacation homes", "atmosphere": "remote, few phones in 1991", "relevant_details": "Buried by lava in 2018 (general record)"},
+      {"location_name": "Waa Waa fishing trail", "physical_description": "Remote trail off Waa Waa Road", "atmosphere": "no phones nearby [29]", "relevant_details": "about 5 miles from the bicycle"},
+      {"location_name": "Hilo", "physical_description": "County seat of Hawaii County", "atmosphere": "", "relevant_details": "hospital, courthouse, police headquarters"},
+      {"location_name": "Hawaiian Paradise Park", "physical_description": "Large Puna subdivision", "atmosphere": "", "relevant_details": "Lauro's home in 2024"},
+      {"location_name": "Southern New Mexico Correctional Facility, Las Cruces", "physical_description": "State prison", "atmosphere": "", "relevant_details": "Pauline killed there 2015"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "",
+    "why_this_matters_to_viewer": "One crime produced two kinds of victims: the young woman killed, and the men convicted for it.",
+    "how_this_could_happen_to_them": "Pressure, informants and confident experts can convict anyone.",
+    "lesson_or_warning": "Evidence kept and re-tested can correct the system; the truth that comes late is still the truth.",
+    "current_relevance": "Genetic genealogy now used both to identify perpetrators and to free the innocent; compensation laws in Hawaii have paid no one as of 2025 reporting."
+  },
+  "sources": {
+    "_instructions": "Full numbered list in investigacion.md section 13.",
+    "primary_sources": [
+      {"type": "police press release", "title": "7-29-24 Police Identify Suspect in Dana Ireland Murder Investigation", "url_or_reference": "https://www.hawaiipolice.gov/7-29-24-police-identify-suspect-in-dana-ireland-murder-investigation/", "key_information_obtained": "identification, Lauro 57, Hawaiian Paradise Park"},
+      {"type": "court opinion", "title": "Hawaii Supreme Court SCPW-24-0000537", "url_or_reference": "https://www.courts.state.hi.us/wp-content/uploads/2024/10/SCPW-24-0000537.pdf", "key_information_obtained": "compensation claims to separate civil case; meaning of actually innocent"},
+      {"type": "court opinion", "title": "State v. Pauline", "url_or_reference": "http://oaoa.hawaii.gov/jud/22961.htm", "key_information_obtained": "2002 appeal"},
+      {"type": "federal complaint", "title": "Schweitzer v. County of Hawaii, 1:25-cv-00025", "url_or_reference": "https://www.govinfo.gov/content/pkg/USCOURTS-hid-1_25-cv-00025/pdf/USCOURTS-hid-1_25-cv-00025-1.pdf", "key_information_obtained": "lawsuit claims"},
+      {"type": "exoneration database", "title": "National Registry of Exonerations: Albert Ian Schweitzer", "url_or_reference": "https://exonerationregistry.org/cases/13482", "key_information_obtained": "Shawn dismissed Oct 23, 2023"},
+      {"type": "advocacy", "title": "Innocence Project: Ian Schweitzer", "url_or_reference": "https://innocenceproject.org/cases/ian-schweitzer/", "key_information_obtained": "evidence, sentence, Ortiz, bite mark"}
+    ],
+    "secondary_sources": [
+      {"type": "newspaper/TV", "title": "See investigacion.md section 13 [1]-[63]", "url_or_reference": "investigacion.md", "key_information_obtained": "all other facts"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "",
+    "next_topic": "TEXAS 1974 — Carla Walker (Fort Worth, Valentine's dance; Glen Samuel McCurley)",
+    "connection_to_current_video": "Another young woman taken in a single moment, and DNA that waited decades for a name",
+    "teaser_line": "Fort Worth, Texas, February 1974. A Valentine's dance, a parked car, a girl who never came home, and a man whose name sat in a police file for 46 years. Next time: Carla Walker."
+  },
+  "notes_and_gaps": {
+    "_instructions": "",
+    "unverified_claims": ["Pauline's sentence length (180 / 160 years / consecutive life)", "Shawn's plea date (April 17 vs May 9, 2000)", "Time Ian spent in custody (23, 25 or 26 years)", "Dana's exact errand and departure time", "Finder Ida Smith and quilt detail", "Settlement amount $452,000 vs $452,500", "Lauro living in Kapoho area in 1991 and 'Puna fisherman' description", "Kubota quote wording", "Date of birth 12 Dec 1968 and Louise's death in 2016 (genealogy sites)"],
+    "information_gaps": ["Any formal ruling on Pauline's posthumous petition after January 2024", "Outcome of the March 30, 2026 compensation trial date (reported on hold in September 2026)", "Ireland family statements 2023–2024", "Contents of Lauro's interview"],
+    "questions_to_answer": ["Did the Hawaii Supreme Court answer the 2026 questions?", "Has the federal case settled?"]
+  }
+}
