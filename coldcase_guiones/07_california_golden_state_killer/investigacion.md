@@ -179,3 +179,94 @@ Joseph James DeAngelo se **declaró culpable** el 29 de junio de 2020 de 13 carg
 
 ## 13. Fuentes
 
+[1] Joseph DeAngelo Jr. Pleads Guilty to 13 Murders, 13 Kidnappings & Uncharged Crimes — Contra Costa County DA — tipo: Prosecutor press release — https://www.contracosta.ca.gov/CivicAlerts.aspx?AID=2331&ARC=8982
+[2] Joseph DeAngelo Sentenced to 11 Consecutive LWOP for 13 Murders — Contra Costa County DA — tipo: Prosecutor press release — https://www.contracosta.ca.gov/CivicAlerts.aspx?AID=2380&ARC=7624
+[3] Where Is the Golden State Killer Now? — A&E (2026) — tipo: Magazine — https://www.aetv.com/articles/where-is-the-golden-state-killer-now-joseph-deangelo-life-in-prison
+[4] NBC News, Golden State Killer Joseph DeAngelo sentenced to life without possibility of parole (Aug 21, 2020) — tipo: News — https://www.nbcnews.com/news/us-news/golden-state-killer-joseph-deangelo-sentenced-life-without-possibility-parole-n1237670
+[5] AP via ABC13, Golden State Killer sentenced to life for 26 rapes, slayings (Aug 21, 2020) — tipo: News (AP) — https://abc13.com/post/golden-state-killer-sentenced-to-life-for-26-rapes-slayings/6381825/
+[6] ABC News, 'Golden State Killer' addresses the court: 'I'm truly sorry' (Aug 21, 2020) — tipo: News — https://abcnews.com/US/living-witness-teen-dads-murder-confronts-golden-state/story?id=72473195
+[7] The State Hornet, Golden State Killer suspect pleads guilty in hearing at Sac State (June 2020) — tipo: News — https://statehornet.com/2020/06/golden-state-killer-plea-guilty-sac-state
+[8] Fox News, DeAngelo pleads guilty to murder for first time (June 29, 2020) — tipo: News — https://www.foxnews.com/us/golden-state-killer-joseph-james-deangelo-pleads-guilty-murder-first-time
+[9] CBS Sacramento, 'I Did All That': Inner Person Drove The Golden State Killer, Prosecutor Says (June 2020) — tipo: News — https://www.cbsnews.com/amp/sacramento/news/golden-state-killer-joseph-deangelo-pleads-guilty-sac-county-da/
+[10] SFGate, Golden State Killer has history of faking insanity, feebleness, prosecutor says (June 2020) — tipo: News — https://www.sfgate.com/crime/article/Golden-State-Killer-Joseph-DeAngelo-mental-health-15374517.php
+[11] NBC News, Golden State Killer suspect charged with 13th murder — possibly his first (Aug 2018) — tipo: News — https://www.nbcnews.com/news/us-news/police-pin-13th-murder-accused-golden-state-killer-n900266
+[12] ABC30, Daughter of Golden State Killer's first murder victim shares heartbreaking story (Aug 20, 2020) — tipo: Local TV — https://abc30.com/post/golden-state-killer-victims-continue-impact-statements-in-sacramento/6379912/
+[13] Katie and Brian Maggiore — FBI — tipo: FBI image repository — https://www.fbi.gov/image-repository/katie_brian_maggiore.jpg/view
+[14] Oxygen, These Are The 12 Suspected Murder Victims Of The Golden State Killer — tipo: News — https://www.oxygen.com/crime-time/murder-victims-golden-state-killer
+[15] CBS Sacramento, After Suspect's Arrest, Victims Share Horror Of East Area Rapist — tipo: Local TV — https://www.cbsnews.com/sacramento/news/east-area-rapist-horror/
+[16] Murder by Design (Medium), GSK Victim Impact Statements And Sentencing — tipo: Blog/recap — https://medium.com/murder-by-design/gsk-victim-impact-statements-and-sentencing-168af2ecca63
+[17] ABC10, Golden State Killer back in court for the final day of victim impact statements (Aug 20, 2020) — tipo: Local TV — https://www.abc10.com/article/news/crime/golden-state-killer-back-in-court-for-the-final-day-of-victim-impact-statements/103-1341b6d2-a0bd-4845-99c1-d2ad778bbfd2
+[18] goldenstatekillertrial.com, August 20th, 2020 Victim Impact Statements — tipo: Court-watch site — http://goldenstatekillertrial.com/august-20th-2020-victim-impact-statements-in-sacramento/
+[19] Jennifer Carole, 'Golden State Killer: Writing My Victim Impact Statement' (Medium) — tipo: Victim's family writing — https://jcarole.medium.com/golden-state-killer-writing-my-victim-impact-statement-706793fd7221
+[20] Jennifer Carole, 'In the Case of Joseph DeAngelo, Justice Has Not Been Served' (Medium) — tipo: Victim's family writing — https://medium.com/@JenCarole/in-the-case-of-joseph-deangelo-justice-has-not-been-served-a55924af9173
+[21] Oxygen, Daughter Of Victims Of Golden State Killer Faces Suspect For First Time — tipo: News — https://www.oxygen.com/crime-time/golden-state-killer-joseph-deangelo-jennifer-carole-victim-court
+[22] ABC News, 'Golden State Killer' victims included couple murdered in their home — tipo: News — https://abcnews.com/US/portraits-golden-state-killer-victims/story?id=54748646
+[23] CBS San Francisco, Brother Of Golden State Killer's Victim Advocated For DNA Testing — tipo: Local TV — https://www.cbsnews.com/sanfrancisco/news/brother-golden-state-killers-victim-advocated-dna-testing/
+[24] CBS Sacramento, East Area Rapist Victims' Brother Led Crusade For DNA Database — tipo: Local TV — https://www.cbsnews.com/sacramento/news/dna-database-east-area-rapist/
+[25] Dana Point Times (Picket Fence Media), GSK Suspect Pleads Guilty to 13 Murder Counts, Including Dana Point Couple — tipo: Local news — https://www.picketfencemedia.com/golden-state-killer-suspect-pleads-guilty-to-13-murder-counts-including-dana-point-couple/article_60f20e33-be5f-5b3b-95bd-24cbd8f7c5d3.html
+[26] City of Irvine news release (2018) — tipo: City press release — https://cityofirvine.org/news-media/press/article/46381
+[27] Spectrum News 1, Golden State Killer Faces His Victims Before Sentencing (Aug 18, 2020) — tipo: Local TV — https://spectrumnews1.com/ca/orange-county/public-safety/2020/08/18/golden-state-killer-faces-his-victims-before-sentencing
+[28] KFI AM 640, Relatives of Golden State Killer's Murder Victims Testify (Aug 20, 2020) — tipo: Radio — https://kfiam640.iheart.com/content/2020-08-20-golden-state-killer-to-face-murder-victims/
+[29] Noozhawk, Family, Friends of Homicide Victims Confront Joseph DeAngelo — tipo: Local news — https://www.noozhawk.com/deangelo_golden_state_killer_victim_impact_statements/
+[30] NBC News, Golden State Killer suspect charged with four more murders, total 12 — tipo: News — https://www.nbcnews.com/news/us-news/golden-state-killer-suspect-charged-four-more-murders-total-12-n873201
+[31] Good Morning America, 'Golden State Killer' victim's sister: 'I can finally breathe again' (April 2018) — tipo: TV — https://www.goodmorningamerica.com/news/story/golden-state-killer-victims-sister-finally-breathe-54743720
+[32] UPI, Victims' relatives face Golden State Killer in court (Aug 20, 2020) — tipo: Wire — https://www.upi.com/Top_News/US/2020/08/20/Victims-relatives-face-Golden-State-Killer-in-court/8831597876685/
+[33] CBS Sacramento, Survivors Ready For The Future After Golden State Killer Is Sentenced — tipo: Local TV — https://www.cbsnews.com/sacramento/news/survivors-ready-future-golden-state-killer-sentenced/
+[34] First Coast News, 'She can rest in peace now' — mother of last known victim — tipo: Local TV — https://firstcoastnews.com/article/news/crime/she-can-rest-in-peace-now-first-coast-mother-of-last-known-victim-of-the-golden-state-killer-speaks-on-his-life-sentence/77-fd32cbec-3a29-4727-ade8-f9f9fe543f23
+[35] Heavy, Janelle Cruz's Death: 5 Fast Facts (July 2020) — tipo: News — https://heavy.com/entertainment/2020/07/janelle-cruz-death/
+[36] Oxygen, What book inspired Michelle McNamara… — tipo: News — https://www.oxygen.com/true-crime-buzz/sudden-terror-inspired-michelle-mcnamaras-gsk-book-ill-be-gone-in-the-dark
+[37] Wikipedia, Michelle McNamara — tipo: Encyclopedia — https://en.wikipedia.org/wiki/Michelle_McNamara
+[38] Wikipedia, I'll Be Gone in the Dark — tipo: Encyclopedia — https://en.wikipedia.org/wiki/I%27ll_Be_Gone_in_the_Dark
+[39] Fox News, Patton Oswalt credits late wife in Golden State Killer case (April 2018) — tipo: News — https://www.foxnews.com/us/patton-oswalt-credits-late-wife-in-golden-state-killer-case
+[40] TODAY, Patton Oswalt honors late wife after Golden State Killer sentencing (Aug 2020) — tipo: News — https://www.today.com/popculture/patton-oswalt-honors-late-wife-after-golden-state-killer-sentencing-t190038
+[41] E! Online, Patton Oswalt speaks out on plea (June 2020) — tipo: News — https://www.eonline.com/news/1166103/golden-state-killer-pleads-guilty-michelle-mcnamaras-widow-patton-oswalt-speaks-out
+[42] KTVU, Critical genealogist in Golden State Killer case speaks out about her role — tipo: Local TV — https://www.ktvu.com/news/critical-genealogist-in-golden-state-killer-case-speaks-out-about-her-role
+[43] Wikipedia, Barbara Rae-Venter — tipo: Encyclopedia — https://en.wikipedia.org/wiki/Barbara_Rae-Venter
+[44] Barbara Rae-Venter, I Know Who You Are (2023) — Goodreads listing — tipo: Book (genealogist) — https://www.goodreads.com/en/book/show/61111260
+[45] NPR, In Hunt For Golden State Killer, Investigators Uploaded His DNA To Genealogy Site (Apr 27, 2018) — tipo: News — https://www.npr.org/sections/thetwo-way/2018/04/27/606624218/in-hunt-for-golden-state-killer-investigators-uploaded-his-dna-to-genealogy-site
+[46] ResearchGate, The Golden State Killer investigation and the nascent field of forensic genealogy (2018) — tipo: Academic — https://www.researchgate.net/publication/326475141_The_Golden_State_Killer_investigation_and_the_nascent_field_of_forensic_genealogy
+[47] CNN, Golden State Killer suspect's stop at Hobby Lobby key to his arrest (June 2, 2018) — tipo: News — https://www.cnn.com/2018/06/02/us/golden-state-killer-unsealed-warrants/index.html
+[48] ABC News, DNA from tissue taken out of alleged Golden State Killer's trash led to arrest, warrant shows — tipo: News — https://abcnews.com/US/dna-tissue-alleged-golden-state-killers-trash-led/story?id=55602892
+[49] San Francisco Chronicle, Golden State Killer suspect's DNA taken from car as he shopped at Hobby Lobby — tipo: News — https://www.sfchronicle.com/crime/article/Golden-State-Killer-suspect-s-DNA-taken-from-12961700.php
+[50] NPR, After a career of cracking cold cases, investigator Paul Holes opens up (Aug 10, 2022) — tipo: Memoir interview — https://www.npr.org/2022/08/10/1116304728/golden-state-killer-paul-holes-unmasked-cold-case
+[51] Colorado Sun, In his memoir, cold-case investigator Paul Holes also shined a light on himself (Nov 6, 2022) — tipo: News — https://coloradosun.com/2022/11/06/sunlit-paul-holes-unmasked/
+[52] TheWrap, 'We Found the Needle in the Haystack,' DA Says (Apr 25, 2018) — tipo: News — https://www.thewrap.com/golden-state-killer-suspect-arrest-we-found-the-needle-in-the-haystack-da-says/
+[53] CNN, Authorities have been looking for the Golden State Killer for 40 years. They've arrested an ex-cop (Apr 25, 2018) — tipo: News — https://www.cnn.com/2018/04/25/us/golden-state-killer-development
+[54] KQED, Suspected Golden State Killer, a Former Police Officer, Arrested in Sacramento — tipo: Public radio — https://www.kqed.org/news/11664637/suspected-golden-state-killer-a-former-police-officer-arrested-in-sacramento
+[55] NPR, 'Golden State Killer,' Suspected Of Terrorizing California For Years, Arrested (Apr 25, 2018) — tipo: Public radio — https://www.npr.org/sections/thetwo-way/2018/04/25/605771646/golden-state-killer-suspected-of-terrorizing-california-for-years-arrested
+[56] Biography.com, Golden State Killer — tipo: Reference — https://biography.com/crime-figure/golden-state-killer
+[57] Valley Voice, Former Exeter officer identified as Golden State Killer, Visalia Ransacker suspect (Apr 25, 2018) — tipo: Local news — https://www.ourvalleyvoice.com/2018/04/25/former-exeter-officer-identified-as-golden-state-killer-visalia-ransacker/
+[58] CBS News, Alleged Golden State Killer's former boss: He was an average cop — tipo: News — https://www.cbsnews.com/news/alleged-golden-state-killers-former-boss-he-was-an-average-cop
+[59] Death Penalty Information Center, 74-Year-Old 'Golden State Killer' Pleads Guilty… Gets 11 Life Sentences — tipo: NGO — https://deathpenaltyinfo.org/74-year-old-golden-state-killer-joseph-deangelo-pleads-guilty-to-13-murders-and-rapes-gets-11-life-sentences
+[60] Oxygen, Survivors And Relatives Of Golden State Killer… Tell Him He 'Can Go Straight To Hell' — tipo: News — https://www.oxygen.com/crime-news/golden-state-killer-joseph-deangelo-victims-read-statements
+[61] TheWrap, Golden State Killer victim statements: 'After 42 years I still look over my shoulder' — tipo: News — https://www.thewrap.com/golden-state-killer-victim-statements-ahead-of-sentencing-after-42-years-i-still-look-over-my-shoulder-video/
+[62] CBS Sacramento, 'I Will Never Be The Same Person': Ex-Wife Of Golden State Killer Submits Victim Impact Statement — tipo: Local TV — https://www.cbsnews.com/amp/sacramento/news/ex-wife-golden-state-killer-impact-statement
+[63] CBS Los Angeles, $50,000 Reward Offered For Elusive Cold Case 'Golden State Killer' — tipo: Local TV — https://www.cbsnews.com/losangeles/news/50000-reward-offered-for-elusive-cold-case-serial-killer/
+[64] Wikipedia, Joseph James DeAngelo (via search summary) — tipo: Encyclopedia — https://en.wikipedia.org/wiki/Joseph_James_DeAngelo
+[65] CBS Los Angeles, Accused Golden State Killer to be charged for first murder in 1975 — tipo: Local TV — https://www.cbsnews.com/losangeles/news/accused-golden-state-killer-to-be-charged-for-first-murder-in-1975
+[66] KARK/Nexstar, Capturing the Golden State Killer: Former DA Schubert recalls 'seismic shift' — tipo: News — https://www.kark.com/news/national-news/capturing-the-golden-state-killer-former-da-schubert-recalls-seismic-shift-that-led-to-his-arrest/
+[67] BuzzFeed News, GEDmatch Was Used To Crack The Golden State Killer Case And Has Been Bought By A Forensic Genetics Firm — tipo: News — https://www.buzzfeednews.com/article/peteraldhous/the-genealogy-website-that-helped-crack-the-golden-state
+[68] ABC News, The 'Golden State Killer': Inside the timeline of crimes — tipo: News — https://abcnews.com/US/inside-timeline-crimes-golden-state-killer/story?id=54744307
+
+> Todas las URL se citan tal como aparecieron en los resultados de búsqueda; las páginas no pudieron abrirse directamente por bloqueo del proxy.
+
+## 14. Verificación del guion
+
+- Palabras totales: **12,854**
+- Palabras por parte: P1: 1,259, P2: 1,219, P3: 1,217, P4: 1,346, P5: 1,232, P6: 1,366, P7: 1,215, P8: 1,220, P9: 1,519, P10: 1,261
+- 10 párrafos, separados por una línea en blanco; todas las partes ≥ 1.200 palabras.
+- Duración estimada a 170 ppm: **75.6 minutos** (≈ 75 min 37 s).
+- Llamadas a la acción: exactamente dos (tras el gancho y al final), refiriéndose a "this channel".
+- Revisión frase a frase: se eliminaron o suavizaron detalles no verificados (barrios concretos del EAR, quién encontró a Janelle, quién había trabajado con McNamara, cambios de política de GEDmatch, etc.).
+
+**Las 10 afirmaciones más importantes del guion y su fuente:**
+1. Brian (21) y Katie (20) Maggiore fueron perseguidos y asesinados a tiros mientras paseaban a su perro en Rancho Cordova el 2-2-1978 — [13][14][15]
+2. Claude Snelling, 45, profesor del College of the Sequoias, murió de dos disparos el 11-9-1975 al enfrentarse al hombre que se llevaba a su hija — [11][12]
+3. DeAngelo fue policía en Exeter, a unas 12 millas de Visalia, desde 1973, y en Auburn de 1976 a 1979; despedido en 1979 por robar un martillo y un repelente para perros — [11][57][53][58]
+4. Bruce Harrington impulsó y financió la Proposición 69, aprobada en 2004 con más del 62 % — [23][24]
+5. Michelle McNamara acuñó "Golden State Killer" en Los Angeles Magazine (marzo 2013), murió el 21-4-2016 y su libro salió el 27-2-2018 — [36][37][38]
+6. El perfil de la escena subido a GEDmatch devolvió más de 1.000 primos genéticos; Rae-Venter construyó los árboles — [42][45]
+7. El 18-4-2018 se hisopó la manija de su coche en un Hobby Lobby de Roseville; el 23-4-2018 un pañuelo de su basura coincidió con el ADN del caso de Charlene Smith — [47][48][49]
+8. Arrestado el 24-4-2018 en Citrus Heights, con 72 años, por los asesinatos Maggiore; Schubert: "We found the needle in the haystack…" — [52][53]
+9. El 29-6-2020 se declaró culpable de 13 asesinatos y 13 secuestros con fines de robo; admitió crímenes contra 87 víctimas en 53 escenas — [7][1][3]
+10. El 21-8-2020 fue condenado a 11 cadenas perpetuas consecutivas sin libertad condicional, más una perpetua y ocho años; en 2026, con 80 años, está en la PHU de Corcoran — [5][4][3]

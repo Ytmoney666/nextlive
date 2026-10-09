@@ -487,7 +487,7 @@
    {
     "from_whom": "John Stonebraker, brother-in-law (video)",
     "key_quote": "Burns would \"forfeit his freedom forever and die alone.\" His mark on the world would be a short notice: \"Convicted Martinko murderer dies in prison.\"",
-    "emotional_impact": "Michelle's parents died without knowing; she was 'her own best witness'."
+    "emotional_impact": "Michelle's parents died without knowing; she was 'her own best witness'. He noted Burns cannot be put to death because Iowa has no death penalty, and said the family was at peace with that (paraphrase) [28]."
    }
   ],
   "sentence_received": "Life in prison without the possibility of parole (mandatory in Iowa for first-degree murder); $150,000 to Michelle's estate.",
@@ -668,6 +668,26 @@
     "number": "40 years",
     "what_it_represents": "Crime to verdict (Dec 1979 to Feb 2020)",
     "source": "[25] https://www.kcrg.com/content/news/Jerry-Burns-found-guilty-of-first-degree-murder-after-closing-arguments-only-three-hours-of-deliberation-568158631.html; [2] https://iowacoldcases.org/case-summaries/michelle-martinko/"
+   },
+   {
+    "number": "51 days",
+    "what_it_represents": "From the straw collection (29 Oct 2018) to the arrest (19 Dec 2018); derived arithmetically",
+    "source": "[20] + [16]"
+   },
+   {
+    "number": "27 years / 12 years",
+    "what_it_represents": "1979 to first DNA profile (2006); 2006 profile unmatched until 2018; derived",
+    "source": "[11] [12]"
+   },
+   {
+    "number": "57",
+    "what_it_represents": "Age Michelle would have been in December 2018 (born 1961); 58 or 59 at the verdict; derived",
+    "source": "[5]"
+   },
+   {
+    "number": "30 days",
+    "what_it_represents": "Time given to appeal after sentencing",
+    "source": "[30]"
    }
   ]
  },
@@ -1060,7 +1080,9 @@
    "Burns' place of incarceration (Anamosa) from a weak entertainment source.",
    "Golden State Killer date and Cedar Rapids population are background knowledge, not re-verified this session.",
    "The trial venue city was not confirmed in the sources reached (not stated in the script).",
-   "Interview demeanor details (work calls, no emotion, 'no recollection', anniversary chosen by Denlinger) rely on a blog summary [51]; hedged in script."
+   "Interview demeanor details (work calls, no emotion, 'no recollection', anniversary chosen by Denlinger) rely on a blog summary [51]; hedged in script.",
+   "'Never a suspect' / no connection: no source reports Burns' name in the original investigation or any link to Michelle; stated in the script as 'as far as the public record shows'.",
+   "Golden State Killer: script states only the arrest date (24 Apr 2018), the name Joseph James DeAngelo, and that GEDmatch genealogy was used [49]."
   ],
   "information_gaps": [
    "Research limitation: WebFetch/curl were blocked (DNS failure / proxy 403) and the shared WebSearch budget ran out after 13 queries; facts come from search-engine summaries and snippets of the listed articles, not full-text reads. Re-verify before publishing.",

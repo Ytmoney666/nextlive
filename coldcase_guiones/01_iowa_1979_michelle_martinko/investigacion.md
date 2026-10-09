@@ -156,9 +156,9 @@ El miércoles 19 de diciembre de 1979, Michelle Martinko, de 18 años y alumna d
 
 Jerry Lynn Burns **fue condenado** por asesinato en primer grado (veredicto del 24 de febrero de 2020) y **sentenciado** el 7 de agosto de 2020 a cadena perpetua sin posibilidad de libertad condicional, la pena obligatoria en Iowa. El Tribunal Supremo de Iowa **confirmó** la condena el 31 de marzo de 2023 (State v. Burns, n.º 20-1150, 5-2) y el Tribunal Supremo de EE. UU. **denegó** el certiorari el 10 de octubre de 2023 (n.º 23-206). Burns **mantiene su inocencia**. A finales de abril de 2026 presentó una **petición de postconviction relief**. En ella alega asistencia letrada ineficaz y que un compañero de celda declaró en falso para obtener una pena menor (esto es una alegación, no un hecho probado). También alega que su abogado abrió la puerta a un testimonio pericial indebido sobre el ADN masculino y que no presentó pruebas contra el exnovio de Michelle. El Estado pidió la desestimación el 29 de mayo de 2026. Según KCTN y un blog, el juicio de esa petición está programado para el 20 de abril de 2027 en el juzgado del condado de Linn. **En octubre de 2026 no consta ninguna resolución.**
 
-## 12. Puntos dudosos o disputados y Datos pendientes de verificar
+## 12. Puntos dudosos o disputados — Datos pendientes de verificar antes de publicar
 
-**Datos pendientes de verificar** (no se usan en el guion o se usan con cautela):
+**Datos pendientes de verificar antes de publicar** (no se usan en el guion o se usan con cautela):
 - La fecha exacta de nacimiento de Michelle. En el guion solo aparece "1961".
 - El último avistamiento "junto a una joyería" tiene una sola fuente [4]. En el guion se atribuye a "the reporting".
 - Quién apartó el abrigo (¿la madre?). En el guion: "one account says".
@@ -235,3 +235,23 @@ Jerry Lynn Burns **fue condenado** por asesinato en primer grado (veredicto del 
 [51] The murder of Michelle Martinko. Crime and Coffee Couple, 2024-12-17. (Blog). https://crimeandcoffeecouple.com/2024/12/17/the-murder-of-michelle-martinko/
 [52] DNA fingerprinting discovered by Alec Jeffreys, University of Leicester, 1984; FBI CODIS national index operational 1998; GEDmatch launched 2010. Wikipedia / FBI, n.d.. (Background (not re-verified this session)). https://en.wikipedia.org/wiki/DNA_profiling
 [53] Disappearance of Jodi Huisentruit, KIMT morning anchor, Mason City, Iowa, 27 June 1995. Wikipedia / CBS News [9], n.d.. (Background (not re-verified this session)). https://en.wikipedia.org/wiki/Disappearance_of_Jodi_Huisentruit
+
+## 14. Verificación del guion
+
+- **Total:** 12.570 palabras en 10 partes (un párrafo cada una, separadas por una línea en blanco).
+- **Por parte:** 1) 1.232 · 2) 1.263 · 3) 1.250 · 4) 1.262 · 5) 1.263 · 6) 1.254 · 7) 1.282 · 8) 1.259 · 9) 1.251 · 10) 1.254
+- **Duración estimada a 170 ppm:** unos 74 minutos (73,9).
+- **Llamadas a la acción:** 2, tras el gancho y al final, con "this channel". Lema final: "no case stays cold forever".
+- **Revisión:** se repasaron las frases una a una contra research_brief.json. Se quitaron o matizaron un peinado "feathered", el clima, el motivo del aplazamiento de la sentencia (pandemia), la edad y la profesión de DeAngelo, "8 billion people" y el detalle de Huisentruit "on her way to the newscast", porque no estaban en el dossier. Las 29 heridas, el exnovio y el historial de internet no aparecen en el guion.
+
+**Las 10 afirmaciones clave y su fuente**
+1. 19 dic. 1979: banquete del Kennedy Concert Choir en el Sheraton Inn; luego, sola a Westdale Mall (abierto hacía menos de dos semanas) a por un abrigo apartado, con 180 $ — [4][1]
+2. Último avistamiento hacia las 8 p.m. junto a una joyería; denuncia hacia las 2 a.m.; hallazgo hacia las 4 a.m. del 20 dic. en el Buick Electra de 1972 — [4][43]
+3. Apuñalada, con heridas defensivas en las manos, sin agresión sexual ni robo, sin arma ni huellas; "personal in nature" — [4][1]
+4. La sangre del agresor quedó en la palanca de cambios y en el vestido — [7][13]
+5. Perfil de ADN en 2006 sin coincidencia en CODIS (unos 14 millones de perfiles); retratos de Parabon en mayo de 2017 — [11][12][23][10]
+6. En mayo de 2018, GEDmatch y Brandy Jennings (Vancouver, WA), prima lejana por la rama paterna; dos ramas descartadas; tres hermanos — [13][14][15]
+7. 29 oct. 2018: Denlinger recoge la pajita de Jerry Burns en Pizza Ranch (Manchester); la DCI: "could NOT be eliminated"; después, "less than 1 out of 100 billion" — [20][13]
+8. 19 dic. 2018: entrevista con la cámara de la taza, mención espontánea de Jodi Huisentruit, "block things out of your memories", detención, fianza de 5 millones y la frase del jefe Jerman — [17][21][9][16][19][43]
+9. Culpable de asesinato en primer grado el 24 feb. 2020 tras ~3 h de deliberación; cadena perpetua sin libertad condicional y 150.000 $ el 7 ago. 2020; citas de Burns y de Stonebraker — [25][2][28][30][31]
+10. El Supremo de Iowa (5-2, ponente May; disienten McDermott y Oxley) confirma el 31 mar. 2023; el Supremo de EE. UU. deniega el 10 oct. 2023; petición de PCR en abr. 2026, el Estado pide desestimarla en may. 2026 y la audiencia se prevé para abr. 2027 — [34][35][36][37][38][39][40][41]
