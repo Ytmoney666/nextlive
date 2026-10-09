@@ -1,0 +1,1076 @@
+{
+ "video_metadata": {
+  "working_title": "PENNSYLVANIA 1957 Cold Case Identified After 65 Years — The Boy in the Box Has a Name",
+  "topic_one_sentence": "A 4-year-old boy found in a J.C. Penney bassinet box in Philadelphia's Fox Chase woods on February 25, 1957 stayed nameless for 65 years until forensic genetic genealogy identified him in December 2022 as Joseph Augustus Zarelli; his killer has never been identified or charged.",
+  "primary_emotion_to_evoke": "grief turning into dignified hope: a forgotten child gets his name back, while the question of who killed him remains open",
+  "target_length_minutes": "70"
+ },
+ "protagonist": {
+  "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+  "full_name": "Joseph Augustus Zarelli (known for 65 years as 'the Boy in the Box' and 'America's Unknown Child')",
+  "age_at_time_of_events": "4 (born January 13, 1953; found February 25, 1957, about 1,504 days after his birth)",
+  "occupation_or_status": "Child; homicide victim; never reported missing",
+  "location": "Believed by police to have lived in West Philadelphia (area of 61st and Market streets); found in Fox Chase, Northeast Philadelphia",
+  "physical_description": "Small and malnourished; blue eyes; hair recently and crudely cut close to the scalp; trimmed fingernails; widely reported as about 30 pounds and about 40 to 41 inches tall (secondary sources); scars that appeared surgical (ankle, groin, chin) per secondary sources.",
+  "background_brief": "Born to Mary Elizabeth 'Betsy' Abel (21, from the Tioga section) and Augustus 'Gus' Zarelli (a West Philadelphia concrete-and-stone mason), per The Inquirer; parents not married; police withheld the parents' names out of respect for living siblings on both sides. Whether he was adopted or raised by others is not confirmed.",
+  "psychological_profile": "Not applicable / unknown. Nothing is documented about his personality.",
+  "mundane_humanizing_detail": "He had just turned four. His middle name, Augustus, was also his father's first name. On his 70th birthday in 2023 strangers brought toys, balloons and birthday cards to his grave and called out 'happy birthday'.",
+  "nickname_or_alias_if_any": "The Boy in the Box; America's Unknown Child; 'Our Joseph' (Northeast Times headline)"
+ },
+ "victims_or_targets": {
+  "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+  "individuals": [
+   {
+    "name": "Joseph Augustus Zarelli [MINOR]",
+    "role_or_profession": "Victim, age 4",
+    "connection_to_protagonist": "He is the protagonist",
+    "specific_impact_suffered": "Killed by blunt force trauma to the head; malnourished; left in a box in the woods; unnamed for 65 years",
+    "humanizing_detail": "Blue eyes; birthday January 13",
+    "any_quotes_from_them": "None"
+   },
+   {
+    "name": "Living siblings of Joseph (maternal and paternal sides; names withheld)",
+    "role_or_profession": "Family",
+    "connection_to_protagonist": "Half-siblings",
+    "specific_impact_suffered": "Learned in 2022 of a brother killed in 1957; police withheld parents' names to protect them",
+    "humanizing_detail": "Gus Zarelli's four children, through attorney Dan Bush, called social-media treatment of their family baseless",
+    "any_quotes_from_them": "Via attorney Dan Bush (paraphrase): no credible allegations that Gus Zarelli knew about Joseph's birth, life or the harm he suffered."
+   },
+   {
+    "name": "Bill Kelly's family (daughter Kathleen Kelly Greene; granddaughter Jessica Greene)",
+    "role_or_profession": "Family of the 1957 fingerprint expert",
+    "connection_to_protagonist": "Kelly devoted his life to the case",
+    "specific_impact_suffered": "Watched him carry the case until his death",
+    "humanizing_detail": "Granddaughter said the prints were ingrained in his mind his whole life (paraphrase)",
+    "any_quotes_from_them": "Kathleen Kelly Greene said her father would have been thrilled the boy was identified (paraphrase)."
+   }
+  ],
+  "collective_victims_if_applicable": {
+   "group_description": "Unidentified child homicide victims across the United States",
+   "total_number_affected": "Not quantified in verified sources",
+   "range_of_impacts": "In January 2026 the Vidocq Society announced a nationwide initiative to identify them, launched on Joseph's 73rd birthday."
+  }
+ },
+ "supporting_characters": {
+  "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+  "characters": [
+   {
+    "name": "Frederick Benonis",
+    "role_in_story": "La Salle College student named in accounts as the person who found the box (secondary sources)",
+    "key_actions_they_took": "Reported the box",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Dr. Joseph Spelman",
+    "role_in_story": "Philadelphia chief medical examiner in 1957",
+    "key_actions_they_took": "Performed the autopsy; head trauma",
+    "notable_quotes": ""
+   },
+   {
+    "name": "William 'Bill' Kelly",
+    "role_in_story": "PPD fingerprint expert, 29 in 1957; later Vidocq Society member and co-director of its Boy in the Box investigation",
+    "key_actions_they_took": "Took the boy's fingerprints and footprints; compared footprints with hospital birth records and a home for unwed mothers, unpaid; worked the case until his death (reported 2014, age 86 - single source)",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Remington Bristow",
+    "role_in_story": "Investigator, Philadelphia Medical Examiner's Office",
+    "key_actions_they_took": "Pursued the case for decades; foster-home theory (1960); pushed re-interview (1984); died 1993",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Thomas Joseph Augustine",
+    "role_in_story": "Philadelphia homicide detective/lieutenant who reopened the case in the 1990s",
+    "key_actions_they_took": "Requested the case; worked with Vidocq; 1998 exhumation and reburial (pallbearer); died Oct. 15, 2022, age 76",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Joseph McGillen (also spelled McGillin)",
+    "role_in_story": "Former ME's Office investigator; Vidocq co-director of the case",
+    "key_actions_they_took": "Kept the case alive; linked Vidocq site to America's Unknown Child site; died 2015",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Sam Weinstein",
+    "role_in_story": "Vidocq Society member",
+    "key_actions_they_took": "Helped Augustine; part of Vidocq team",
+    "notable_quotes": ""
+   },
+   {
+    "name": "William 'Bill' Fleisher",
+    "role_in_story": "Vidocq Society co-founder and leader",
+    "key_actions_they_took": "Investigated 'Martha'; spoke at memorials and the 2023 headstone dedication",
+    "notable_quotes": "Nothing she said has been proved; nothing she said has been disproved."
+   },
+   {
+    "name": "Jim Hoffmann",
+    "role_in_story": "Author from Glendale Heights, Illinois; wrote 'The Boy in the Box: America's Unknown Child' (2006, revised, 3rd ed.)",
+    "key_actions_they_took": "With Louis Romano, developed the Memphis relative lead (2013-2017), which proved negative",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Colleen Fitzpatrick",
+    "role_in_story": "Forensic genealogist, Identifinders International; co-founder of the DNA Doe Project",
+    "key_actions_they_took": "Led the international DNA/genealogy effort 2019-2022",
+    "notable_quotes": "the most challenging case in my whole career"
+   },
+   {
+    "name": "Danielle Outlaw",
+    "role_in_story": "Philadelphia Police Commissioner in 2022",
+    "key_actions_they_took": "Announced the name Dec. 8, 2022",
+    "notable_quotes": "This announcement only closes one chapter in this little boy's story while opening up a new one."
+   },
+   {
+    "name": "Capt. Jason Smith",
+    "role_in_story": "Commander, PPD Homicide Unit",
+    "key_actions_they_took": "Explained the identification; withheld parents' names; said police have suspicions",
+    "notable_quotes": "We have our suspicions as to who may be responsible..."
+   },
+   {
+    "name": "'Martha' / 'M' (pseudonym)",
+    "role_in_story": "Ohio woman who in 2002 claimed her mother had acquired and killed the boy",
+    "key_actions_they_took": "Gave account via psychiatrist; never corroborated",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Mary Elizabeth 'Betsy' Abel (later Plunkett), 1931-1991",
+    "role_in_story": "Joseph's mother according to The Inquirer",
+    "key_actions_they_took": "Not accused by police; later cashier at the Goldman Theater; married John J. Plunkett",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Augustus J. 'Gus' Zarelli",
+    "role_in_story": "Joseph's father according to The Inquirer; West Philadelphia mason",
+    "key_actions_they_took": "Not accused by police; no credible allegation he knew of Joseph (family attorney); reportedly died 2014",
+    "notable_quotes": ""
+   }
+  ]
+ },
+ "chronological_timeline": {
+  "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+  "events": [
+   {
+    "date": "1952 (spring)",
+    "location": "Philadelphia",
+    "what_happened": "According to The Inquirer's reporting, Augustus 'Gus' Zarelli and Mary Elizabeth 'Betsy' Abel conceive a child. They were not married; the Inquirer found no accounts of them being in a relationship.",
+    "significance": "Origin of Joseph's life; police have never confirmed the parents' names publicly.",
+    "source": "[5] The Philadelphia Inquirer, 2023-01-19, https://www.inquirer.com/news/joseph-augustus-zarelli-parents-relatives-20230119.html"
+   },
+   {
+    "date": "1953-01-13 (Tuesday)",
+    "location": "Philadelphia, Pennsylvania",
+    "what_happened": "Joseph Augustus Zarelli is born. Betsy Abel is 21. His birth certificate lists both parents (father's name slightly misspelled).",
+    "significance": "The birth date police announced in 2022; makes him 4 years old at discovery.",
+    "source": "[3] The Philadelphia Inquirer, 2022-12-08, https://www.inquirer.com/news/boy-in-the-box-joseph-zarelli-identity-news-20221208.html; [11] NBC10 Philadelphia, 2022-12-08, https://www.nbcphiladelphia.com/investigators/after-65-years-philadelphia-police-identify-the-boy-in-the-box/3445387/; [17] PhillyVoice, 2022-12-08, https://www.phillyvoice.com/boy-in-box-philadelphia-joseph-augustus-zarelli-homicide-victim-identfiied/; [5] The Philadelphia Inquirer, 2023-01-19, https://www.inquirer.com/news/joseph-augustus-zarelli-parents-relatives-20230119.html"
+   },
+   {
+    "date": "1953-1957",
+    "location": "West Philadelphia (area of 61st and Market streets, per police)",
+    "what_happened": "Police later said they believe Joseph lived in West Philadelphia. He was never reported missing.",
+    "significance": "No missing-person report ever existed, which is why no one could match him for 65 years.",
+    "source": "[12] NBC News / Associated Press, 2023-01-13, https://www.nbcnews.com/news/crime-courts/phillys-newly-idd-boy-box-gets-grave-marker-70-rcna65887; [39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
+   },
+   {
+    "date": "mid-February 1957 (exact date unknown)",
+    "location": "Unknown",
+    "what_happened": "Joseph dies. Accounts of the medical examiner's estimate range from two or three days to as long as two weeks before discovery; police said he had been beaten and was malnourished; cause of death blunt force trauma to the head.",
+    "significance": "The crime itself; where and by whom remains unknown.",
+    "source": "[11] NBC10 Philadelphia, 2022-12-08, https://www.nbcphiladelphia.com/investigators/after-65-years-philadelphia-police-identify-the-boy-in-the-box/3445387/; [13] NBC News, 2022-12-08, https://www.nbcnews.com/news/us-news/boy-box-identified-4-year-old-rcna60630; [39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
+   },
+   {
+    "date": "before 1957-02-25 (date uncertain)",
+    "location": "Woods off Susquehanna Road, Fox Chase",
+    "what_happened": "According to later accounts, a man checking muskrat traps saw the box first but did not report it because trapping there was illegal and he feared losing his traps.",
+    "significance": "Secondary-source detail; flagged.",
+    "source": "[38] All That's Interesting, n.d., https://allthatsinteresting.com/boy-in-the-box; [39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
+   },
+   {
+    "date": "1957-02-25 (Monday)",
+    "location": "Wooded lot off Susquehanna Road, Fox Chase, Northeast Philadelphia",
+    "what_happened": "A boy of about 4 is found nude, bruised, wrapped in a flannel blanket inside a cardboard box that had held a bassinet sold by J.C. Penney. Accounts name La Salle College student Frederick Benonis as the finder; one Inquirer-based account dates police involvement to Feb. 26.",
+    "significance": "Start of Philadelphia's oldest unsolved homicide.",
+    "source": "[3] The Philadelphia Inquirer, 2022-12-08, https://www.inquirer.com/news/boy-in-the-box-joseph-zarelli-identity-news-20221208.html; [8] CNN, 2022-12-08, https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html; [11] NBC10 Philadelphia, 2022-12-08, https://www.nbcphiladelphia.com/investigators/after-65-years-philadelphia-police-identify-the-boy-in-the-box/3445387/; [16] FOX 29 Philadelphia, 2022-12-08, https://www.fox29.com/news/boy-in-the-box-identity-revealed-joseph-augustus-zarelli; [38] All That's Interesting, n.d., https://allthatsinteresting.com/boy-in-the-box; [39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli; [1] The Philadelphia Inquirer, 2022-12-07, https://www.inquirer.com/news/philadelphia/boy-in-the-box-philadelphia-case-backstory-20221207.html; [36] NBC10 Philadelphia, 2023-02, https://www.nbcphiladelphia.com/video/news/local/memorial-service-marks-66-years-since-body-of-joseph-augustus-zarelli-was-found/3508897/"
+   },
+   {
+    "date": "late Feb. 1957",
+    "location": "Philadelphia Medical Examiner's Office",
+    "what_happened": "Chief medical examiner Dr. Joseph Spelman performs the autopsy and attributes death to head trauma. Accounts describe a recent, crude haircut, trimmed fingernails, scars that appeared surgical, and a weight of about 30 pounds.",
+    "significance": "The physical clues investigators had for 65 years.",
+    "source": "[39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli; [38] All That's Interesting, n.d., https://allthatsinteresting.com/boy-in-the-box"
+   },
+   {
+    "date": "Feb. 1957",
+    "location": "Scene / PPD",
+    "what_happened": "Fingerprint expert William 'Bill' Kelly, 29, inks the boy's fingerprints and footprints; he later compares footprints with hospital birth records and a home for unwed mothers, unpaid.",
+    "significance": "Start of Kelly's lifelong involvement.",
+    "source": "[14] 6abc Action News (WPVI), 2022-12-08, https://6abc.com/boy-in-the-box-philadelphia-cold-case-watch-news-conference-live-name/12541611; [27] Philadelphia Magazine, 2003-11-01, https://www.phillymag.com/news/2003/11/01/boy-in-the-box-philadelphia/"
+   },
+   {
+    "date": "1957",
+    "location": "Philadelphia",
+    "what_happened": "Hundreds of officers search a 12-square-mile area around the scene; The Philadelphia Inquirer prints 400,000 flyers with the boy's image, distributed in shops and with every gas bill in the city. Hundreds of tips; none identify him.",
+    "significance": "Described as the most intensive homicide investigation Philadelphia had attempted at the time.",
+    "source": "[19] PhillyVoice, 2022-12, https://www.phillyvoice.com/boy-in-the-box-identified-podcast-criminology-philly-dna-analysis/amp/; [38] All That's Interesting, n.d., https://allthatsinteresting.com/boy-in-the-box"
+   },
+   {
+    "date": "1957",
+    "location": "Potter's field, Philadelphia",
+    "what_happened": "The unidentified boy is buried in the city's potter's field under a donated marker reading 'Heavenly Father, Bless This Unknown Boy.'",
+    "significance": "His remains (bones, teeth) would later provide the DNA.",
+    "source": "[39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli; [12] NBC News / Associated Press, 2023-01-13, https://www.nbcnews.com/news/crime-courts/phillys-newly-idd-boy-box-gets-grave-marker-70-rcna65887"
+   },
+   {
+    "date": "1960",
+    "location": "New Jersey / Fox Chase area",
+    "what_happened": "Remington Bristow, an investigator for the Medical Examiner's Office, consults a New Jersey psychic who points him to a foster home about 1.5 miles from the discovery site; at an estate sale there he sees a bassinet resembling the J.C. Penney model and blankets resembling the one around the boy. His theory: the boy was the child of the foster father's stepdaughter and died by accident. Police had found all foster children accounted for.",
+    "significance": "The 'foster home theory'; never proven.",
+    "source": "[2] The Philadelphia Inquirer, 2022-12-07, https://www.inquirer.com/news/boy-box-identity-bristow-investigator-20221207.html; [47] The Line Up, n.d., https://the-line-up.com/boy-in-the-box-case; [39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
+   },
+   {
+    "date": "1984",
+    "location": "Philadelphia",
+    "what_happened": "At Bristow's urging, police interview the foster father again; again no connection found.",
+    "significance": "Foster-home theory persists without evidence.",
+    "source": "[47] The Line Up, n.d., https://the-line-up.com/boy-in-the-box-case; [39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
+   },
+   {
+    "date": "1993",
+    "location": "Philadelphia area",
+    "what_happened": "Remington Bristow dies with the boy still unidentified. He had carried the case for decades, reportedly keeping a plaster death mask of the boy in his briefcase.",
+    "significance": "End of the first investigator's quest.",
+    "source": "[2] The Philadelphia Inquirer, 2022-12-07, https://www.inquirer.com/news/boy-box-identity-bristow-investigator-20221207.html; [47] The Line Up, n.d., https://the-line-up.com/boy-in-the-box-case"
+   },
+   {
+    "date": "1990s (exact year uncertain)",
+    "location": "Philadelphia Police Department",
+    "what_happened": "Detective Thomas J. Augustine asks to be assigned to the case and turns to Vidocq Society member Sam Weinstein for help.",
+    "significance": "Revival of the case.",
+    "source": "[28] CBS News, n.d., https://www.cbsnews.com/news/remembering-the-boy-in-the-box/; [24] Mann-Slonaker Funeral Home, 2022-10, https://www.mannslonakerfuneralhome.com/obituaries/thomas-augustine"
+   },
+   {
+    "date": "1998",
+    "location": "Philadelphia",
+    "what_happened": "The Vidocq Society (founded 1990 by William Fleisher, Richard Walter and Frank Bender) takes up the case; Kelly, Joseph McGillen and Weinstein are members. The Society helps obtain a court order and pays for exhumation.",
+    "significance": "Private volunteers join the investigation.",
+    "source": "[25] CBS Philadelphia (KYW-TV), 2018, https://www.cbsnews.com/philadelphia/news/memorial-services-held-for-boy-in-the-box-decades-after-murder-remains-unsolved-mystery/; [26] Main Line Today, n.d., https://mainlinetoday.com/life-style/philadelphias-vidocq-society-battles-age-and-dead-ends-to-stay-hot-on-the-trail-of-cold-cases/; [46] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Vidocq_Society; [45] Police1, n.d., https://www.police1.com/cold-case/articles/5-things-to-know-about-the-vidocq-society-Ehe6wY3ZQNZk5cZe/"
+   },
+   {
+    "date": "1998",
+    "location": "Philadelphia",
+    "what_happened": "Lt. Tom Augustine and Vidocq members interview the foster father and stepdaughter; the foster-home line is closed.",
+    "significance": "Bristow's theory closed.",
+    "source": "[39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli; [47] The Line Up, n.d., https://the-line-up.com/boy-in-the-box-case"
+   },
+   {
+    "date": "1998",
+    "location": "Potter's field -> Medical Examiner",
+    "what_happened": "First exhumation; mitochondrial DNA is taken from a tooth. It cannot identify him (too limited) but reportedly rules out that he was Steven Damman, a boy missing from Long Island.",
+    "significance": "First DNA, inconclusive.",
+    "source": "[20] Identifinders International, LLC, 2022-12, https://identifinders.com/the-boy-in-the-box/; [39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
+   },
+   {
+    "date": "1998-11-11 (date per secondary source)",
+    "location": "Ivy Hill Cemetery, Northwest Philadelphia",
+    "what_happened": "Reburial in a donated coffin under a new headstone reading 'America's Unknown Child'; Augustine serves as a pallbearer. The Vidocq Society later contributes a bench; the original marker is kept at the grave.",
+    "significance": "The grave becomes the site of annual memorials.",
+    "source": "[15] 6abc Action News (WPVI), 2022-11-30, https://6abc.com/post/boy-in-the-box-philadelphia-cold-case-unsolved-murder-susquehanna-road/12513069/; [12] NBC News / Associated Press, 2023-01-13, https://www.nbcnews.com/news/crime-courts/phillys-newly-idd-boy-box-gets-grave-marker-70-rcna65887; [39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
+   },
+   {
+    "date": "2002-02",
+    "location": "Cincinnati, Ohio / Philadelphia",
+    "what_happened": "Via an Ohio psychiatrist, a woman known as 'Martha' or 'M' (Inquirer pseudonym 'Mary') claims her mother acquired a boy, called him Jonathan, and later killed him and left him in Fox Chase. Some details matched unreleased autopsy facts (beans in the stomach, water-wrinkled fingers); neighbors denied any boy lived there; she had a history of mental illness. Never proved or disproved.",
+    "significance": "The 'Martha theory'; unverified.",
+    "source": "[39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli; [27] Philadelphia Magazine, 2003-11-01, https://www.phillymag.com/news/2003/11/01/boy-in-the-box-philadelphia/; [1] The Philadelphia Inquirer, 2022-12-07, https://www.inquirer.com/news/philadelphia/boy-in-the-box-philadelphia-case-backstory-20221207.html"
+   },
+   {
+    "date": "2006 onward",
+    "location": "Glendale Heights, Illinois",
+    "what_happened": "Author Jim Hoffmann publishes 'The Boy in the Box: America's Unknown Child' (2006), later a revised edition and a 3rd edition subtitled 'My Obsession with America's Greatest Crime'.",
+    "significance": "Keeps public attention on the case.",
+    "source": "[41] Goodreads / Amazon author page, n.d., https://www.goodreads.com/author/show/2831067.Jim_Hoffmann"
+   },
+   {
+    "date": "2009-06-16",
+    "location": "Philadelphia",
+    "what_happened": "The Inquirer reports that, decades on, there are still no leads.",
+    "significance": "The cold years.",
+    "source": "[48] The Philadelphia Inquirer, 2009-06-16, https://www.inquirer.com/philly/news/pennsylvania/20090616_50_years_later__still_no_leads__The__Boy_in_the_Box__case_remains.html"
+   },
+   {
+    "date": "early 2013 - Oct. 2017",
+    "location": "Memphis, Tennessee / Philadelphia",
+    "what_happened": "A lead developed by Jim Hoffmann with writer Louis Romano (a possible relative in Memphis) is presented to police and the Vidocq Society in 2013; DNA from the relative is sent to police in January 2014; in October 2017 police confirm no match.",
+    "significance": "Another dead end.",
+    "source": "[39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli; [40] Wikipedia (Dutch), accessed 2026-10, https://nl.wikipedia.org/wiki/Moord_op_Joseph_Augustus_Zarelli"
+   },
+   {
+    "date": "2015",
+    "location": "Philadelphia area",
+    "what_happened": "Former Medical Examiner's investigator and Vidocq co-director of the case, Joseph McGillen, dies (reported age 89).",
+    "significance": "Another investigator dies without an answer.",
+    "source": "[39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
+   },
+   {
+    "date": "2018",
+    "location": "Ivy Hill Cemetery",
+    "what_happened": "At the annual memorial, the Vidocq Society says it believes it is close to an answer.",
+    "significance": "Hope before the science arrives.",
+    "source": "[25] CBS Philadelphia (KYW-TV), 2018, https://www.cbsnews.com/philadelphia/news/memorial-services-held-for-boy-in-the-box-decades-after-murder-remains-unsolved-mystery/"
+   },
+   {
+    "date": "2018-04-24",
+    "location": "California (background)",
+    "what_happened": "Joseph James DeAngelo arrested as the Golden State Killer after investigators used a public genealogy database (GEDmatch).",
+    "significance": "Landmark case that proved forensic genetic genealogy; background, not case-specific.",
+    "source": "[52] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Joseph_James_DeAngelo"
+   },
+   {
+    "date": "fall 2018",
+    "location": "Laboratories",
+    "what_happened": "Initial extraction attempts fail to produce SNP data usable for genetic genealogy; the DNA was highly degraded.",
+    "significance": "Science hits the limit of old samples.",
+    "source": "[20] Identifinders International, LLC, 2022-12, https://identifinders.com/the-boy-in-the-box/"
+   },
+   {
+    "date": "2019-04-24 (Wednesday)",
+    "location": "Ivy Hill Cemetery",
+    "what_happened": "Court-ordered second exhumation to obtain better samples.",
+    "significance": "Begins the work that identifies him.",
+    "source": "[20] Identifinders International, LLC, 2022-12, https://identifinders.com/the-boy-in-the-box/; [12] NBC News / Associated Press, 2023-01-13, https://www.nbcnews.com/news/crime-courts/phillys-newly-idd-boy-box-gets-grave-marker-70-rcna65887; [17] PhillyVoice, 2022-12-08, https://www.phillyvoice.com/boy-in-box-philadelphia-joseph-augustus-zarelli-homicide-victim-identfiied/"
+   },
+   {
+    "date": "2019-2022",
+    "location": "International team led by Identifinders International (Colleen Fitzpatrick)",
+    "what_happened": "About two and a half years of work to get usable DNA from degraded bone; SNP profile uploaded and compared; maternal relatives found (Inquirer: relatives had used an at-home DNA kit).",
+    "significance": "The breakthrough.",
+    "source": "[20] Identifinders International, LLC, 2022-12, https://identifinders.com/the-boy-in-the-box/; [8] CNN, 2022-12-08, https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html; [4] The Philadelphia Inquirer, 2022-12-09, https://www.inquirer.com/news/philadelphia/boy-in-the-box-joseph-augustus-zarelli-dna-kit-ancestry-amazon-20221209.html"
+   },
+   {
+    "date": "2022 (before Nov. 30)",
+    "location": "Philadelphia",
+    "what_happened": "Detectives identify the mother; via court order obtain state birth, death and adoption records for her children born 1944-1956; find a 1953 birth certificate for a boy listing the parents; paternal-side DNA confirms the father.",
+    "significance": "Name confirmed: Joseph Augustus Zarelli.",
+    "source": "[17] PhillyVoice, 2022-12-08, https://www.phillyvoice.com/boy-in-box-philadelphia-joseph-augustus-zarelli-homicide-victim-identfiied/; [11] NBC10 Philadelphia, 2022-12-08, https://www.nbcphiladelphia.com/investigators/after-65-years-philadelphia-police-identify-the-boy-in-the-box/3445387/; [23] WJHL / Nexstar, 2022-12-08, https://www.wjhl.com/news/remains-of-boy-in-the-box-identified-by-philadelphia-police-after-65-years/"
+   },
+   {
+    "date": "2022-10-15",
+    "location": "Pennsylvania",
+    "what_happened": "Retired detective Thomas Joseph Augustine dies at 76, about six weeks before the identification became public.",
+    "significance": "Then-and-now: the man who reopened the case missed the answer.",
+    "source": "[24] Mann-Slonaker Funeral Home, 2022-10, https://www.mannslonakerfuneralhome.com/obituaries/thomas-augustine; [12] NBC News / Associated Press, 2023-01-13, https://www.nbcnews.com/news/crime-courts/phillys-newly-idd-boy-box-gets-grave-marker-70-rcna65887"
+   },
+   {
+    "date": "2022-11-30",
+    "location": "Philadelphia",
+    "what_happened": "Police announce that the boy has been positively identified and that the name will be revealed.",
+    "significance": "Public learns a name is coming.",
+    "source": "[51] Salon, 2022-11-30, https://www.salon.com/2022/11/30/the-mystery-of-philadelphias-gruesome-the-boy-in-the-box-case-has-been-partially-solved/; [15] 6abc Action News (WPVI), 2022-11-30, https://6abc.com/post/boy-in-the-box-philadelphia-cold-case-unsolved-murder-susquehanna-road/12513069/"
+   },
+   {
+    "date": "2022-12-08 (Thursday)",
+    "location": "Philadelphia Police Headquarters",
+    "what_happened": "Commissioner Danielle Outlaw announces the name Joseph Augustus Zarelli, born Jan. 13, 1953; Capt. Jason Smith says police have suspicions but will not share them; parents' names withheld out of respect for living siblings.",
+    "significance": "Identification after 65 years; homicide still open.",
+    "source": "[3] The Philadelphia Inquirer, 2022-12-08, https://www.inquirer.com/news/boy-in-the-box-joseph-zarelli-identity-news-20221208.html; [8] CNN, 2022-12-08, https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html; [9] CBS News / CBS Philadelphia, 2022-12-08, https://www.cbsnews.com/news/box-in-the-box-child-murder-victim-identified-joseph-augustus-zarelli-police-philadelphia/; [11] NBC10 Philadelphia, 2022-12-08, https://www.nbcphiladelphia.com/investigators/after-65-years-philadelphia-police-identify-the-boy-in-the-box/3445387/; [13] NBC News, 2022-12-08, https://www.nbcnews.com/news/us-news/boy-box-identified-4-year-old-rcna60630; [16] FOX 29 Philadelphia, 2022-12-08, https://www.fox29.com/news/boy-in-the-box-identity-revealed-joseph-augustus-zarelli"
+   },
+   {
+    "date": "Dec. 2022",
+    "location": "Philadelphia",
+    "what_happened": "A Mass is held for Joseph.",
+    "significance": "First religious service under his name.",
+    "source": "[50] FOX 29 Philadelphia, 2022-12, https://www.fox29.com/news/boy-in-the-box-mass-held-for-child-identified-in-decades-old-philadelphia-cold-case; [30] Northeast Times, 2023-01-04, https://northeasttimes.com/2023/01/04/mass-celebrated-headstone-inscription-planned-for-joseph-zarelli/"
+   },
+   {
+    "date": "2023-01-13 (Friday)",
+    "location": "Ivy Hill Cemetery",
+    "what_happened": "On what would have been his 70th birthday, an interfaith service dedicates a new headstone bearing his name; attendees bring flowers, toys, balloons and cards and call out 'happy birthday'.",
+    "significance": "Public restoration of his name.",
+    "source": "[6] The Philadelphia Inquirer, 2023-01-13, https://www.inquirer.com/news/philadelphia/boy-in-the-box-joseph-zarelli-headstone-20230113.html; [18] PhillyVoice, 2023-01-13, https://www.phillyvoice.com/boy-in-box-new-headstone-ivy-hill-cemetary-philly-cold-case-homicide/; [32] KYW Newsradio (Audacy), 2023-01-13, https://www.audacy.com/kywnewsradio/news/local/boy-in-the-box-joseph-augustus-zarelli-new-headstone; [12] NBC News / Associated Press, 2023-01-13, https://www.nbcnews.com/news/crime-courts/phillys-newly-idd-boy-box-gets-grave-marker-70-rcna65887; [29] Northeast Times, 2023-01-18, https://northeasttimes.com/2023/01/18/a-fitting-tribute-for-our-joseph/"
+   },
+   {
+    "date": "2023-01-19",
+    "location": "Philadelphia",
+    "what_happened": "The Inquirer reports that the parents are Augustus 'Gus' Zarelli (West Philadelphia concrete-and-stone mason) and Mary Elizabeth 'Betsy' Abel (later a cashier at the Goldman Theater; died 1991 as Betsy Plunkett). Police decline to comment.",
+    "significance": "Parents named by press, not by police.",
+    "source": "[5] The Philadelphia Inquirer, 2023-01-19, https://www.inquirer.com/news/joseph-augustus-zarelli-parents-relatives-20230119.html; [43] Find a Grave, n.d., https://www.findagrave.com/memorial/91232246/mary_elizabeth-plunkett"
+   },
+   {
+    "date": "2023-02",
+    "location": "Ivy Hill Cemetery",
+    "what_happened": "Vidocq Society memorial marks 66 years since the discovery on Susquehanna Road.",
+    "significance": "Annual memorial continues with his name.",
+    "source": "[36] NBC10 Philadelphia, 2023-02, https://www.nbcphiladelphia.com/video/news/local/memorial-service-marks-66-years-since-body-of-joseph-augustus-zarelli-was-found/3508897/; [31] Northeast Times, 2023-03-01, https://northeasttimes.com/2023/03/01/annual-memorial-tribute-for-joseph-augustus-zarelli/"
+   },
+   {
+    "date": "2024-01",
+    "location": "Ivy Hill Cemetery",
+    "what_happened": "Graveside tribute on what would have been Joseph's 71st birthday.",
+    "significance": "Continuing remembrance.",
+    "source": "[33] KYW Newsradio (Audacy), 2024-01, https://www.audacy.com/kywnewsradio/news/local/boy-in-box-71st-birthday-graveside-tribute"
+   },
+   {
+    "date": "2026-01 (73rd birthday)",
+    "location": "Ivy Hill Cemetery",
+    "what_happened": "At a ceremony for his 73rd birthday, the Vidocq Society announces a nationwide initiative to identify unidentified child murder victims in America.",
+    "significance": "Legacy of the case.",
+    "source": "[35] NBC10 Philadelphia, 2026-01, https://www.nbcphiladelphia.com/news/local/nationwide-victim-id-initiative-unveiled-on-73rd-birthday-of-boy-in-the-box/4332339/"
+   },
+   {
+    "date": "as of 2026-10-09",
+    "location": "Philadelphia",
+    "what_happened": "No arrest has been announced and no one has been charged in Joseph's death; police have described it as an active homicide investigation. No official 2024-2026 police update found.",
+    "significance": "Killer not identified.",
+    "source": "[3] The Philadelphia Inquirer, 2022-12-08, https://www.inquirer.com/news/boy-in-the-box-joseph-zarelli-identity-news-20221208.html; [8] CNN, 2022-12-08, https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html; [22] A&E (aetv.com), updated 2026-07-16, https://www.aetv.com/articles/how-authorities-identified-the-boy-in-the-box-after-65-years; [35] NBC10 Philadelphia, 2026-01, https://www.nbcphiladelphia.com/news/local/nationwide-victim-id-initiative-unveiled-on-73rd-birthday-of-boy-in-the-box/4332339/"
+   }
+  ]
+ },
+ "cold_open_material": {
+  "_instructions": "The most dramatic moment of your story - this will be your hook.",
+  "the_moment": {
+   "exact_date": "Monday, February 25, 1957",
+   "exact_location": "Wooded lot off Susquehanna Road, Fox Chase, Philadelphia",
+   "what_is_happening": "A cardboard box that once held a J.C. Penney bassinet is found in the brush; inside, wrapped in a flannel blanket, is a boy of about four.",
+   "what_makes_it_shocking": "No one ever reported him missing; 400,000 flyers and hundreds of officers produced no name.",
+   "ironic_twist": "He had a name, a birth certificate and two living parents all along; the record that named him sat in state files for 65 years. Investigator Tom Augustine died six weeks before the answer."
+  },
+  "central_mystery_question": "Who was the boy in the box, and who put him there? Science answered the first question in 2022. The second remains open."
+ },
+ "the_method": {
+  "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+  "technique_name": "Forensic investigative genetic genealogy (SNP testing of degraded bone + family-tree research + court-ordered vital records + confirmatory DNA)",
+  "step_by_step_explanation": [
+   "1998: first exhumation; mitochondrial DNA from a tooth - only the maternal line, too limited to name anyone.",
+   "Fall 2018: first attempts to extract SNP data from the old samples fail; the DNA is too degraded.",
+   "April 24, 2019: court-ordered second exhumation for better bone samples.",
+   "About 2.5 years of lab work by an international team (Identifinders International) to produce a usable SNP profile.",
+   "Profile compared with genealogy databases; matches with maternal relatives (Inquirer: relatives who used an at-home DNA kit).",
+   "Genealogists build family trees; detectives identify the likely mother.",
+   "Court order: state birth, death and adoption records for all children born to her 1944-1956.",
+   "A 1953 birth certificate for a boy lists the mother and a father (name slightly misspelled).",
+   "DNA from the paternal side confirms the father; identity: Joseph Augustus Zarelli, born Jan. 13, 1953."
+  ],
+  "why_it_worked": "Public genealogy databases grew large after 2018, and lab techniques could finally recover SNP data from 60-year-old bone; a birth certificate existed even though no missing report ever did.",
+  "technical_terms_to_explain": [
+   {
+    "term": "Mitochondrial DNA",
+    "simple_explanation": "DNA passed only from mother to child; like knowing a family's surname line but not the person - good for excluding, weak for naming."
+   },
+   {
+    "term": "SNP profile",
+    "simple_explanation": "Hundreds of thousands of tiny genetic markers, the same kind read by at-home ancestry tests, which can be compared with relatives' tests."
+   },
+   {
+    "term": "Forensic genetic genealogy",
+    "simple_explanation": "Finding distant cousins in a database, then building their family trees backward and forward until the branches meet at one person."
+   },
+   {
+    "term": "Exhumation",
+    "simple_explanation": "Court-approved removal of remains from a grave for examination."
+   }
+  ],
+  "scale_of_operation": "Two exhumations (1998, 2019); about two and a half years of DNA work; an international team; 65 years 9 months from discovery to public identification."
+ },
+ "systemic_failure": {
+  "_instructions": "What institution, system, or authority failed to prevent this?",
+  "institution_that_failed": "No single institution is documented as failing; the gap was systemic: no missing-person report, no national databases in 1957.",
+  "how_they_were_supposed_to_protect": "Child-welfare and reporting systems; vital records that could have been matched.",
+  "why_they_failed": "No one reported him missing; in 1957 there was no national missing-person computer system (NCIC began 1967) or national missing children's center (NCMEC 1984); footprint comparison against hospital records found nothing.",
+  "specific_incompetence_examples": [
+   "400,000 flyers and hundreds of officers produced no identification.",
+   "Buried in a potter's field for 41 years before the first exhumation.",
+   "1998 mitochondrial DNA too limited.",
+   "Decades spent on unproven theories (foster home; 'Martha'; Memphis relative)."
+  ],
+  "ironic_details_about_the_failure": "The birth certificate that named him existed in state records from 1953."
+ },
+ "the_investigation": {
+  "_instructions": "How was the protagonist caught?",
+  "investigating_agency": "Philadelphia Police Department Homicide Unit, Philadelphia Medical Examiner's Office, with the Vidocq Society and Identifinders International",
+  "operation_code_name_if_any": "None known",
+  "when_investigation_began": "February 1957",
+  "initial_wrong_assumptions": "Foster-home theory (1960-1998); 'Martha' account (2002, unproven); Memphis relative (2013-2017, negative)",
+  "key_breakthrough": "SNP profile from 2019 bone samples matched maternal relatives in genealogy databases; court-ordered vital records produced his 1953 birth certificate.",
+  "the_fatal_mistake": "Not applicable: the killer has not been identified.",
+  "how_long_until_caught": "Not caught. Identification took about 65 years 9 months."
+ },
+ "the_confrontation": {
+  "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+  "date_and_time": "Thursday, December 8, 2022 (press conference)",
+  "location": "Philadelphia Police Headquarters",
+  "scene_description": "Commissioner Danielle Outlaw announces the boy's name; Capt. Jason Smith explains the genealogy and declines to name the parents or the suspected killer.",
+  "protagonist_reaction": "Not applicable",
+  "ironic_or_absurd_details": "No arrest; police said they have suspicions but would not share them."
+ },
+ "legal_resolution": {
+  "_instructions": "Court proceedings, sentencing, and aftermath.",
+  "charges_filed": [],
+  "trial_date_if_applicable": "None",
+  "notable_court_testimony": "None. The only court actions documented are orders authorizing exhumations and the release of vital records.",
+  "victim_impact_statements": [
+   {
+    "from_whom": "Jean Bova, member of the public at the headstone dedication",
+    "key_quote": "I'm just glad that he's got a name now.",
+    "emotional_impact": "Relief that the child is no longer nameless"
+   }
+  ],
+  "sentence_received": "None",
+  "protagonist_statement_in_court": "None",
+  "current_status": "As of October 9, 2026: no one has been charged; police have called it an active homicide investigation; both parents named by The Inquirer are deceased and have not been accused by police. No 2024-2026 official update found."
+ },
+ "verified_quotes": {
+  "_instructions": "ONLY include quotes you can verify from reliable sources.",
+  "quotes": [
+   {
+    "speaker": "Danielle Outlaw, Philadelphia Police Commissioner",
+    "exact_quote": "This announcement only closes one chapter in this little boy's story while opening up a new one.",
+    "context": "Press conference announcing the identification, Dec. 8, 2022",
+    "source": "[3] The Philadelphia Inquirer, 2022-12-08, https://www.inquirer.com/news/boy-in-the-box-joseph-zarelli-identity-news-20221208.html; [8] CNN, 2022-12-08, https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html; [11] NBC10 Philadelphia, 2022-12-08, https://www.nbcphiladelphia.com/investigators/after-65-years-philadelphia-police-identify-the-boy-in-the-box/3445387/"
+   },
+   {
+    "speaker": "Danielle Outlaw",
+    "exact_quote": "This is still an active homicide investigation and we still need the public's help in filling in this child's life story.",
+    "context": "Same press conference, Dec. 8, 2022",
+    "source": "[3] The Philadelphia Inquirer, 2022-12-08, https://www.inquirer.com/news/boy-in-the-box-joseph-zarelli-identity-news-20221208.html; [8] CNN, 2022-12-08, https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html; [11] NBC10 Philadelphia, 2022-12-08, https://www.nbcphiladelphia.com/investigators/after-65-years-philadelphia-police-identify-the-boy-in-the-box/3445387/"
+   },
+   {
+    "speaker": "Danielle Outlaw",
+    "exact_quote": "Without the hard work, dedication, passion and doggedness of the many we would not be here today to give America's formerly unknown child Joseph Augustus Zarelli a voice.",
+    "context": "Same press conference, Dec. 8, 2022",
+    "source": "[21] Oxygen, 2022-12, https://www.oxygen.com/crime-news/philadelphia-boy-in-the-box-joseph-augustus-zarelli; [56] Law&Crime, 2022-12-08, https://lawandcrime.com/crime/philadelphia-police-identify-slain-4-year-old-who-came-to-be-known-decades-ago-as-the-boy-in-the-box/"
+   },
+   {
+    "speaker": "Capt. Jason Smith, Philadelphia Police Homicide Unit",
+    "exact_quote": "We have our suspicions as to who may be responsible, but it would be irresponsible of me to share these suspicions, as this remains an active and ongoing criminal investigation.",
+    "context": "Same press conference, Dec. 8, 2022",
+    "source": "[9] CBS News / CBS Philadelphia, 2022-12-08, https://www.cbsnews.com/news/box-in-the-box-child-murder-victim-identified-joseph-augustus-zarelli-police-philadelphia/; [21] Oxygen, 2022-12, https://www.oxygen.com/crime-news/philadelphia-boy-in-the-box-joseph-augustus-zarelli; [13] NBC News, 2022-12-08, https://www.nbcnews.com/news/us-news/boy-box-identified-4-year-old-rcna60630"
+   },
+   {
+    "speaker": "Colleen Fitzpatrick, forensic genealogist, Identifinders International",
+    "exact_quote": "the most challenging case in my whole career",
+    "context": "Interview on the identification, Dec. 2022",
+    "source": "[8] CNN, 2022-12-08, https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html; [20] Identifinders International, LLC, 2022-12, https://identifinders.com/the-boy-in-the-box/"
+   },
+   {
+    "speaker": "Colleen Fitzpatrick",
+    "exact_quote": "took 2 1/2 years to get the DNA in shape",
+    "context": "Interview on the identification, Dec. 2022 (fragment)",
+    "source": "[8] CNN, 2022-12-08, https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html; [20] Identifinders International, LLC, 2022-12, https://identifinders.com/the-boy-in-the-box/"
+   },
+   {
+    "speaker": "William Fleisher, Vidocq Society co-founder, on 'Martha'",
+    "exact_quote": "Nothing she said has been proved; nothing she said has been disproved.",
+    "context": "Quoted in Philadelphia Magazine coverage of the case (2003)",
+    "source": "[27] Philadelphia Magazine, 2003-11-01, https://www.phillymag.com/news/2003/11/01/boy-in-the-box-philadelphia/"
+   },
+   {
+    "speaker": "William Fleisher, on 'Martha' (fragment)",
+    "exact_quote": "8,000 to 1 that she's lying",
+    "context": "Told The Philadelphia Inquirer in 2002 (as cited by later accounts) - secondary",
+    "source": "[39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
+   },
+   {
+    "speaker": "Jean Bova, Glenside resident at the headstone dedication",
+    "exact_quote": "I'm just glad that he's got a name now.",
+    "context": "Ivy Hill Cemetery, Jan. 13, 2023",
+    "source": "[6] The Philadelphia Inquirer, 2023-01-13, https://www.inquirer.com/news/philadelphia/boy-in-the-box-joseph-zarelli-headstone-20230113.html; [18] PhillyVoice, 2023-01-13, https://www.phillyvoice.com/boy-in-box-new-headstone-ivy-hill-cemetary-philly-cold-case-homicide/"
+   },
+   {
+    "speaker": "Unnamed close relative of Betsy Abel, responding to suspicion she harmed the boy",
+    "exact_quote": "No way in the world.",
+    "context": "The Philadelphia Inquirer, Jan. 19, 2023",
+    "source": "[5] The Philadelphia Inquirer, 2023-01-19, https://www.inquirer.com/news/joseph-augustus-zarelli-parents-relatives-20230119.html"
+   },
+   {
+    "speaker": "Larry Krasner, Philadelphia District Attorney",
+    "exact_quote": "You've heard about the Boy in the Box, you've heard about the Girl in the Box, well, those aren't the only people who have been found deceased, unidentified and apparently killed.",
+    "context": "Later news conference on releasing photos of unidentified homicide victims (date not verified)",
+    "source": "[37] CBS Philadelphia, n.d. (after Dec 2022), https://www.cbsnews.com/philadelphia/news/philadelphia-plans-to-release-victim-photos-in-unsolved-homicides/"
+   }
+  ]
+ },
+ "statistics_and_numbers": {
+  "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+  "figures": [
+   {
+    "number": "4",
+    "what_it_represents": "Joseph's age (born Jan. 13, 1953; found Feb. 25, 1957)",
+    "source": "[3] The Philadelphia Inquirer, 2022-12-08, https://www.inquirer.com/news/boy-in-the-box-joseph-zarelli-identity-news-20221208.html; [13] NBC News, 2022-12-08, https://www.nbcnews.com/news/us-news/boy-box-identified-4-year-old-rcna60630"
+   },
+   {
+    "number": "65 years (about 65 years 9 months)",
+    "what_it_represents": "Time from discovery to public identification (Feb. 25, 1957 to Dec. 8, 2022)",
+    "source": "[3] The Philadelphia Inquirer, 2022-12-08, https://www.inquirer.com/news/boy-in-the-box-joseph-zarelli-identity-news-20221208.html; [8] CNN, 2022-12-08, https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html"
+   },
+   {
+    "number": "400,000",
+    "what_it_represents": "Flyers printed with the boy's image in 1957, distributed in shops and with gas bills",
+    "source": "[19] PhillyVoice, 2022-12, https://www.phillyvoice.com/boy-in-the-box-identified-podcast-criminology-philly-dna-analysis/amp/; [38] All That's Interesting, n.d., https://allthatsinteresting.com/boy-in-the-box"
+   },
+   {
+    "number": "12 square miles",
+    "what_it_represents": "Area searched by hundreds of officers",
+    "source": "[19] PhillyVoice, 2022-12, https://www.phillyvoice.com/boy-in-the-box-identified-podcast-criminology-philly-dna-analysis/amp/"
+   },
+   {
+    "number": "1.5 miles",
+    "what_it_represents": "Distance from the discovery site to the foster home of Bristow's theory",
+    "source": "[47] The Line Up, n.d., https://the-line-up.com/boy-in-the-box-case; [39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
+   },
+   {
+    "number": "1998 and 2019",
+    "what_it_represents": "Two exhumations",
+    "source": "[20] Identifinders International, LLC, 2022-12, https://identifinders.com/the-boy-in-the-box/; [12] NBC News / Associated Press, 2023-01-13, https://www.nbcnews.com/news/crime-courts/phillys-newly-idd-boy-box-gets-grave-marker-70-rcna65887"
+   },
+   {
+    "number": "2.5 years",
+    "what_it_represents": "Time to get the DNA usable (Fitzpatrick)",
+    "source": "[8] CNN, 2022-12-08, https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html; [20] Identifinders International, LLC, 2022-12, https://identifinders.com/the-boy-in-the-box/"
+   },
+   {
+    "number": "1944-1956",
+    "what_it_represents": "Range of birth years covered by the court-ordered records search",
+    "source": "[17] PhillyVoice, 2022-12-08, https://www.phillyvoice.com/boy-in-box-philadelphia-joseph-augustus-zarelli-homicide-victim-identfiied/; [11] NBC10 Philadelphia, 2022-12-08, https://www.nbcphiladelphia.com/investigators/after-65-years-philadelphia-police-identify-the-boy-in-the-box/3445387/"
+   },
+   {
+    "number": "29",
+    "what_it_represents": "Bill Kelly's age in 1957",
+    "source": "[14] 6abc Action News (WPVI), 2022-12-08, https://6abc.com/boy-in-the-box-philadelphia-cold-case-watch-news-conference-live-name/12541611"
+   },
+   {
+    "number": "76",
+    "what_it_represents": "Tom Augustine's age at death, Oct. 15, 2022, six weeks before the answer",
+    "source": "[24] Mann-Slonaker Funeral Home, 2022-10, https://www.mannslonakerfuneralhome.com/obituaries/thomas-augustine; [12] NBC News / Associated Press, 2023-01-13, https://www.nbcnews.com/news/crime-courts/phillys-newly-idd-boy-box-gets-grave-marker-70-rcna65887"
+   },
+   {
+    "number": "70th / 71st / 73rd",
+    "what_it_represents": "Birthdays marked at his grave in 2023, 2024 and 2026",
+    "source": "[6] The Philadelphia Inquirer, 2023-01-13, https://www.inquirer.com/news/philadelphia/boy-in-the-box-joseph-zarelli-headstone-20230113.html; [33] KYW Newsradio (Audacy), 2024-01, https://www.audacy.com/kywnewsradio/news/local/boy-in-box-71st-birthday-graveside-tribute; [35] NBC10 Philadelphia, 2026-01, https://www.nbcphiladelphia.com/news/local/nationwide-victim-id-initiative-unveiled-on-73rd-birthday-of-boy-in-the-box/4332339/"
+   },
+   {
+    "number": "about 30 pounds",
+    "what_it_represents": "Reported weight (secondary sources)",
+    "source": "[39] Wikipedia (English), accessed 2026-10, https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli; [38] All That's Interesting, n.d., https://allthatsinteresting.com/boy-in-the-box"
+   },
+   {
+    "number": "0",
+    "what_it_represents": "People charged in his death as of October 2026",
+    "source": "[3] The Philadelphia Inquirer, 2022-12-08, https://www.inquirer.com/news/boy-in-the-box-joseph-zarelli-identity-news-20221208.html; [22] A&E (aetv.com), updated 2026-07-16, https://www.aetv.com/articles/how-authorities-identified-the-boy-in-the-box-after-65-years; [35] NBC10 Philadelphia, 2026-01, https://www.nbcphiladelphia.com/news/local/nationwide-victim-id-initiative-unveiled-on-73rd-birthday-of-boy-in-the-box/4332339/"
+   }
+  ]
+ },
+ "ironic_and_absurd_details": {
+  "_instructions": "Small details that highlight contradictions.",
+  "details": [
+   "A boy with a birth certificate stayed 'unknown' for 65 years because no one reported him missing.",
+   "Detective Tom Augustine died six weeks before the name was found.",
+   "The second exhumation (April 24, 2019) fell exactly one year after the Golden State Killer arrest (April 24, 2018) that proved the method (background date).",
+   "His middle name, Augustus, was his father's first name; Augustine was the name of the detective who reopened his case (coincidence, stated as such).",
+   "The father's name on the birth certificate was slightly misspelled."
+  ]
+ },
+ "sensory_and_environmental_details": {
+  "_instructions": "Details that help viewers visualize scenes.",
+  "key_locations": [
+   {
+    "location_name": "Susquehanna Road woods, Fox Chase",
+    "physical_description": "Wooded, brushy lot in what was then a rural edge of Northeast Philadelphia",
+    "atmosphere": "Late-winter woods; secondary accounts mention cold, rainy weather in the days before",
+    "relevant_details": "Box that had held a J.C. Penney bassinet; flannel blanket"
+   },
+   {
+    "location_name": "Ivy Hill Cemetery, Northwest Philadelphia",
+    "physical_description": "Grave with 'America's Unknown Child' stone (1998), original marker, Vidocq bench; new named headstone (2023)",
+    "atmosphere": "Annual memorials, birthday balloons and toys",
+    "relevant_details": "Reburial 1998; exhumation 2019; renaming 2023"
+   },
+   {
+    "location_name": "West Philadelphia, 61st and Market area",
+    "physical_description": "Where police believe Joseph lived",
+    "atmosphere": "Not documented",
+    "relevant_details": "Opposite side of the city from Fox Chase"
+   }
+  ]
+ },
+ "universal_stakes": {
+  "_instructions": "Why should viewers care?",
+  "why_this_matters_to_viewer": "A child can vanish from the world without anyone noticing; names matter.",
+  "how_this_could_happen_to_them": "Any relative's at-home DNA test can be the link that names an unidentified person.",
+  "lesson_or_warning": "Persistence across generations of investigators and volunteers, plus preserved remains, made identification possible.",
+  "current_relevance": "Thousands of unidentified remains in the U.S.; the Vidocq Society's 2026 nationwide initiative for child victims."
+ },
+ "sources": {
+  "_instructions": "List ALL sources.",
+  "primary_sources": [
+   {
+    "type": "primary (genealogy firm)",
+    "title": "The Boy In The Box (Identifinders International, LLC, 2022-12)",
+    "url_or_reference": "https://identifinders.com/the-boy-in-the-box/",
+    "key_information_obtained": "see timeline [20]"
+   },
+   {
+    "type": "obituary",
+    "title": "Thomas Augustine Obituary (Mann-Slonaker Funeral Home, 2022-10)",
+    "url_or_reference": "https://www.mannslonakerfuneralhome.com/obituaries/thomas-augustine",
+    "key_information_obtained": "see timeline [24]"
+   },
+   {
+    "type": "organization",
+    "title": "Publications by Members of the Vidocq Society (The Vidocq Society, n.d.)",
+    "url_or_reference": "https://vidocq.org/publications/member-publications/",
+    "key_information_obtained": "see timeline [42]"
+   }
+  ],
+  "secondary_sources": [
+   {
+    "type": "news",
+    "title": "'Boy in the Box': The history of the notorious Philadelphia homicide case (The Philadelphia Inquirer, 2022-12-07)",
+    "url_or_reference": "https://www.inquirer.com/news/philadelphia/boy-in-the-box-philadelphia-case-backstory-20221207.html",
+    "key_information_obtained": "see timeline [1]"
+   },
+   {
+    "type": "news",
+    "title": "The 'Boy in the Box' haunted one late investigator (Remington Bristow) for decades (The Philadelphia Inquirer, 2022-12-07)",
+    "url_or_reference": "https://www.inquirer.com/news/boy-box-identity-bristow-investigator-20221207.html",
+    "key_information_obtained": "see timeline [2]"
+   },
+   {
+    "type": "news",
+    "title": "Philadelphia 'Boy in the Box' identified as Joseph Augustus Zarelli thanks to DNA advances (The Philadelphia Inquirer, 2022-12-08)",
+    "url_or_reference": "https://www.inquirer.com/news/boy-in-the-box-joseph-zarelli-identity-news-20221208.html",
+    "key_information_obtained": "see timeline [3]"
+   },
+   {
+    "type": "news",
+    "title": "Boy in the Box Joseph Augustus Zarelli family members identified by at-home DNA kit (The Philadelphia Inquirer, 2022-12-09)",
+    "url_or_reference": "https://www.inquirer.com/news/philadelphia/boy-in-the-box-joseph-augustus-zarelli-dna-kit-ancestry-amazon-20221209.html",
+    "key_information_obtained": "see timeline [4]"
+   },
+   {
+    "type": "news",
+    "title": "Joseph Augustus Zarelli's parents identified as a movie theater cashier and West Philly mason (J. Nark, W. Ruderman, M. Marin) (The Philadelphia Inquirer, 2023-01-19)",
+    "url_or_reference": "https://www.inquirer.com/news/joseph-augustus-zarelli-parents-relatives-20230119.html",
+    "key_information_obtained": "see timeline [5]"
+   },
+   {
+    "type": "news",
+    "title": "Joseph Augustus Zarelli, the 'Boy in the Box,' gets new headstone with his name (The Philadelphia Inquirer, 2023-01-13)",
+    "url_or_reference": "https://www.inquirer.com/news/philadelphia/boy-in-the-box-joseph-zarelli-headstone-20230113.html",
+    "key_information_obtained": "see timeline [6]"
+   },
+   {
+    "type": "news",
+    "title": "'Boy in the Box' identified, Philadelphia police say. They'll release findings Thursday. (The Philadelphia Inquirer, 2022-12-06)",
+    "url_or_reference": "https://www.inquirer.com/news/boy-in-the-box-philadelphia-police-identify-dna-homicide-20221206.html",
+    "key_information_obtained": "see timeline [7]"
+   },
+   {
+    "type": "news",
+    "title": "Boy in the Box: Philadelphia police reveal identity of child found dead inside a box 65 years ago (CNN, 2022-12-08)",
+    "url_or_reference": "https://www.cnn.com/2022/12/08/us/philadelphia-boy-in-box-thursday/index.html",
+    "key_information_obtained": "see timeline [8]"
+   },
+   {
+    "type": "news",
+    "title": "'Boy in the Box' murder victim found in 1957 identified by Philadelphia police as Joseph Augustus Zarelli (CBS News / CBS Philadelphia, 2022-12-08)",
+    "url_or_reference": "https://www.cbsnews.com/news/box-in-the-box-child-murder-victim-identified-joseph-augustus-zarelli-police-philadelphia/",
+    "key_information_obtained": "see timeline [9]"
+   },
+   {
+    "type": "news",
+    "title": "How 'Boy in the Box' mystery will help solve other cases (genetic genealogy) (CBS News, 2022-12)",
+    "url_or_reference": "https://www.cbsnews.com/news/genetic-genealogy-forensic-techniques-investigations-joseph-zarelli-boy-in-the-box/",
+    "key_information_obtained": "see timeline [10]"
+   },
+   {
+    "type": "news",
+    "title": "After 65 Years, Philadelphia Police Identify 'The Boy in the Box' (NBC10 Philadelphia, 2022-12-08)",
+    "url_or_reference": "https://www.nbcphiladelphia.com/investigators/after-65-years-philadelphia-police-identify-the-boy-in-the-box/3445387/",
+    "key_information_obtained": "see timeline [11]"
+   },
+   {
+    "type": "news (AP)",
+    "title": "Philly's newly ID'd 'Boy in the Box' gets grave marker at 70 (Maryclaire Dale, Associated Press) (NBC News / Associated Press, 2023-01-13)",
+    "url_or_reference": "https://www.nbcnews.com/news/crime-courts/phillys-newly-idd-boy-box-gets-grave-marker-70-rcna65887",
+    "key_information_obtained": "see timeline [12]"
+   },
+   {
+    "type": "news",
+    "title": "'Boy in the Box' identified as 4-year-old Joseph Augustus Zarelli (NBC News, 2022-12-08)",
+    "url_or_reference": "https://www.nbcnews.com/news/us-news/boy-box-identified-4-year-old-rcna60630",
+    "key_information_obtained": "see timeline [13]"
+   },
+   {
+    "type": "news (TV)",
+    "title": "Joseph Augustus Zarelli: Philadelphia police identify body of 'Boy in the Box' (includes Bill Kelly family interviews) (6abc Action News (WPVI), 2022-12-08)",
+    "url_or_reference": "https://6abc.com/boy-in-the-box-philadelphia-cold-case-watch-news-conference-live-name/12541611",
+    "key_information_obtained": "see timeline [14]"
+   },
+   {
+    "type": "news (TV)",
+    "title": "Philadelphia police to reveal update on 'Boy in the Box' case (6abc Action News (WPVI), 2022-11-30)",
+    "url_or_reference": "https://6abc.com/post/boy-in-the-box-philadelphia-cold-case-unsolved-murder-susquehanna-road/12513069/",
+    "key_information_obtained": "see timeline [15]"
+   },
+   {
+    "type": "news (TV)",
+    "title": "Boy in the Box: Police reveal identity of child in decades-old Philadelphia cold case (FOX 29 Philadelphia, 2022-12-08)",
+    "url_or_reference": "https://www.fox29.com/news/boy-in-the-box-identity-revealed-joseph-augustus-zarelli",
+    "key_information_obtained": "see timeline [16]"
+   },
+   {
+    "type": "news",
+    "title": "Joseph Augustus Zarelli identified as 'Boy in the Box' in Philly cold case homicide (PhillyVoice, 2022-12-08)",
+    "url_or_reference": "https://www.phillyvoice.com/boy-in-box-philadelphia-joseph-augustus-zarelli-homicide-victim-identfiied/",
+    "key_information_obtained": "see timeline [17]"
+   },
+   {
+    "type": "news",
+    "title": "Joseph Zarelli, long called the 'Boy in the Box,' gets a new gravestone after breakthrough in Philly cold case (PhillyVoice, 2023-01-13)",
+    "url_or_reference": "https://www.phillyvoice.com/boy-in-box-new-headstone-ivy-hill-cemetary-philly-cold-case-homicide/",
+    "key_information_obtained": "see timeline [18]"
+   },
+   {
+    "type": "news",
+    "title": "Who is the 'Boy in the Box?' A look back at the efforts to solve the 1957 homicide in Northeast Philly (PhillyVoice, 2022-12)",
+    "url_or_reference": "https://www.phillyvoice.com/boy-in-the-box-identified-podcast-criminology-philly-dna-analysis/amp/",
+    "key_information_obtained": "see timeline [19]"
+   },
+   {
+    "type": "news",
+    "title": "Philadelphia's 'Boy In The Box' Was Joseph Augustus Zarelli (Oxygen, 2022-12)",
+    "url_or_reference": "https://www.oxygen.com/crime-news/philadelphia-boy-in-the-box-joseph-augustus-zarelli",
+    "key_information_obtained": "see timeline [21]"
+   },
+   {
+    "type": "feature",
+    "title": "How Police Identified the 'Boy in the Box' After 65 Years (A&E (aetv.com), updated 2026-07-16)",
+    "url_or_reference": "https://www.aetv.com/articles/how-authorities-identified-the-boy-in-the-box-after-65-years",
+    "key_information_obtained": "see timeline [22]"
+   },
+   {
+    "type": "news (TV)",
+    "title": "Remains of 'Boy in the Box' identified by Philadelphia police after 65 years (WJHL / Nexstar, 2022-12-08)",
+    "url_or_reference": "https://www.wjhl.com/news/remains-of-boy-in-the-box-identified-by-philadelphia-police-after-65-years/",
+    "key_information_obtained": "see timeline [23]"
+   },
+   {
+    "type": "news (TV)",
+    "title": "Vidocq Society Believes They Are Close To Figuring Out 'The Boy In The Box' In 61-Year-Old Philly Cold Case (CBS Philadelphia (KYW-TV), 2018)",
+    "url_or_reference": "https://www.cbsnews.com/philadelphia/news/memorial-services-held-for-boy-in-the-box-decades-after-murder-remains-unsolved-mystery/",
+    "key_information_obtained": "see timeline [25]"
+   },
+   {
+    "type": "magazine",
+    "title": "Philadelphia's Vidocq Society Battles Age and Dead Ends to Stay Hot on the Trail of Cold Cases (Main Line Today, n.d.)",
+    "url_or_reference": "https://mainlinetoday.com/life-style/philadelphias-vidocq-society-battles-age-and-dead-ends-to-stay-hot-on-the-trail-of-cold-cases/",
+    "key_information_obtained": "see timeline [26]"
+   },
+   {
+    "type": "magazine",
+    "title": "Who is the Boy in the Box? (Philadelphia Magazine, 2003-11-01)",
+    "url_or_reference": "https://www.phillymag.com/news/2003/11/01/boy-in-the-box-philadelphia/",
+    "key_information_obtained": "see timeline [27]"
+   },
+   {
+    "type": "news (TV)",
+    "title": "Remembering The Boy In The Box (CBS News, n.d.)",
+    "url_or_reference": "https://www.cbsnews.com/news/remembering-the-boy-in-the-box/",
+    "key_information_obtained": "see timeline [28]"
+   },
+   {
+    "type": "news (local)",
+    "title": "A fitting tribute for 'Our Joseph' (Northeast Times, 2023-01-18)",
+    "url_or_reference": "https://northeasttimes.com/2023/01/18/a-fitting-tribute-for-our-joseph/",
+    "key_information_obtained": "see timeline [29]"
+   },
+   {
+    "type": "news (local)",
+    "title": "Mass celebrated, headstone inscription planned for Joseph Zarelli (Northeast Times, 2023-01-04)",
+    "url_or_reference": "https://northeasttimes.com/2023/01/04/mass-celebrated-headstone-inscription-planned-for-joseph-zarelli/",
+    "key_information_obtained": "see timeline [30]"
+   },
+   {
+    "type": "news (local)",
+    "title": "Annual memorial tribute for Joseph Augustus Zarelli (Northeast Times, 2023-03-01)",
+    "url_or_reference": "https://northeasttimes.com/2023/03/01/annual-memorial-tribute-for-joseph-augustus-zarelli/",
+    "key_information_obtained": "see timeline [31]"
+   },
+   {
+    "type": "news (radio)",
+    "title": "Identified after 65 years, 'Boy in the Box' gets new headstone on his 70th birthday (KYW Newsradio (Audacy), 2023-01-13)",
+    "url_or_reference": "https://www.audacy.com/kywnewsradio/news/local/boy-in-the-box-joseph-augustus-zarelli-new-headstone",
+    "key_information_obtained": "see timeline [32]"
+   },
+   {
+    "type": "news (radio)",
+    "title": "Boy in the Box 71st birthday graveside tribute (KYW Newsradio (Audacy), 2024-01)",
+    "url_or_reference": "https://www.audacy.com/kywnewsradio/news/local/boy-in-box-71st-birthday-graveside-tribute",
+    "key_information_obtained": "see timeline [33]"
+   },
+   {
+    "type": "news (radio)",
+    "title": "'Boy in the Box' identity brings closure for some, investigation continues (KYW Newsradio (Audacy), 2022-12)",
+    "url_or_reference": "https://www.audacy.com/kywnewsradio/news/local/philadelphia-identity-boy-box-investigation-genealogy-closure",
+    "key_information_obtained": "see timeline [34]"
+   },
+   {
+    "type": "news (TV)",
+    "title": "Nationwide victim ID initiative unveiled on 73rd birthday of 'Boy in the Box' (NBC10 Philadelphia, 2026-01)",
+    "url_or_reference": "https://www.nbcphiladelphia.com/news/local/nationwide-victim-id-initiative-unveiled-on-73rd-birthday-of-boy-in-the-box/4332339/",
+    "key_information_obtained": "see timeline [35]"
+   },
+   {
+    "type": "news (TV video)",
+    "title": "Memorial Service Marks 66 Years Since Body of Joseph Augustus Zarelli Was Found (NBC10 Philadelphia, 2023-02)",
+    "url_or_reference": "https://www.nbcphiladelphia.com/video/news/local/memorial-service-marks-66-years-since-body-of-joseph-augustus-zarelli-was-found/3508897/",
+    "key_information_obtained": "see timeline [36]"
+   },
+   {
+    "type": "news (TV)",
+    "title": "Philadelphia plans to release victim photos in unsolved homicides (DA Larry Krasner) (CBS Philadelphia, n.d. (after Dec 2022))",
+    "url_or_reference": "https://www.cbsnews.com/philadelphia/news/philadelphia-plans-to-release-victim-photos-in-unsolved-homicides/",
+    "key_information_obtained": "see timeline [37]"
+   },
+   {
+    "type": "feature (secondary)",
+    "title": "How The Creepy Case Of The 'Boy In The Box' Was Finally Solved After 65 Years (All That's Interesting, n.d.)",
+    "url_or_reference": "https://allthatsinteresting.com/boy-in-the-box",
+    "key_information_obtained": "see timeline [38]"
+   },
+   {
+    "type": "encyclopedia (secondary)",
+    "title": "Killing of Joseph Augustus Zarelli (Wikipedia (English), accessed 2026-10)",
+    "url_or_reference": "https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli",
+    "key_information_obtained": "see timeline [39]"
+   },
+   {
+    "type": "encyclopedia (secondary)",
+    "title": "Moord op Joseph Augustus Zarelli (Wikipedia (Dutch), accessed 2026-10)",
+    "url_or_reference": "https://nl.wikipedia.org/wiki/Moord_op_Joseph_Augustus_Zarelli",
+    "key_information_obtained": "see timeline [40]"
+   },
+   {
+    "type": "book listing",
+    "title": "Jim Hoffmann, The Boy in the Box: America's Unknown Child (2006; revised ed.; 3rd ed. 'My Obsession with America's Greatest Crime') (Goodreads / Amazon author page, n.d.)",
+    "url_or_reference": "https://www.goodreads.com/author/show/2831067.Jim_Hoffmann",
+    "key_information_obtained": "see timeline [41]"
+   },
+   {
+    "type": "record (secondary)",
+    "title": "Mary Elizabeth 'Betsy' Abel Plunkett (1931-1991) memorial (Find a Grave, n.d.)",
+    "url_or_reference": "https://www.findagrave.com/memorial/91232246/mary_elizabeth-plunkett",
+    "key_information_obtained": "see timeline [43]"
+   },
+   {
+    "type": "encyclopedia (background)",
+    "title": "Colleen M. Fitzpatrick (Wikipedia (English), accessed 2026-10)",
+    "url_or_reference": "https://en.wikipedia.org/wiki/Colleen_M._Fitzpatrick",
+    "key_information_obtained": "see timeline [44]"
+   },
+   {
+    "type": "feature",
+    "title": "Solving cold cases over lunch: History of the Vidocq Society (Police1, n.d.)",
+    "url_or_reference": "https://www.police1.com/cold-case/articles/5-things-to-know-about-the-vidocq-society-Ehe6wY3ZQNZk5cZe/",
+    "key_information_obtained": "see timeline [45]"
+   },
+   {
+    "type": "encyclopedia (background)",
+    "title": "Vidocq Society (Wikipedia (English), accessed 2026-10)",
+    "url_or_reference": "https://en.wikipedia.org/wiki/Vidocq_Society",
+    "key_information_obtained": "see timeline [46]"
+   },
+   {
+    "type": "feature (secondary)",
+    "title": "The Boy in the Box: Philadelphia's Decades-Long Child Murder Mystery (The Line Up, n.d.)",
+    "url_or_reference": "https://the-line-up.com/boy-in-the-box-case",
+    "key_information_obtained": "see timeline [47]"
+   },
+   {
+    "type": "news",
+    "title": "50 years later, still no leads in 'Boy in the Box' case (The Philadelphia Inquirer, 2009-06-16)",
+    "url_or_reference": "https://www.inquirer.com/philly/news/pennsylvania/20090616_50_years_later__still_no_leads__The__Boy_in_the_Box__case_remains.html",
+    "key_information_obtained": "see timeline [48]"
+   },
+   {
+    "type": "news",
+    "title": "'Boy in Box' identified as police hope to revive case (Axios Philadelphia, 2022-12-09)",
+    "url_or_reference": "https://www.axios.com/local/philadelphia/2022/12/09/philadelphia-boy-in-box-identified-joseph-augustus-zarelli",
+    "key_information_obtained": "see timeline [49]"
+   },
+   {
+    "type": "news (TV)",
+    "title": "Boy in the Box: Mass held for child identified in decades old Philadelphia cold case (FOX 29 Philadelphia, 2022-12)",
+    "url_or_reference": "https://www.fox29.com/news/boy-in-the-box-mass-held-for-child-identified-in-decades-old-philadelphia-cold-case",
+    "key_information_obtained": "see timeline [50]"
+   },
+   {
+    "type": "news",
+    "title": "The mystery of Philadelphia's gruesome 'The Boy in the Box' case has been partially solved (Salon, 2022-11-30)",
+    "url_or_reference": "https://www.salon.com/2022/11/30/the-mystery-of-philadelphias-gruesome-the-boy-in-the-box-case-has-been-partially-solved/",
+    "key_information_obtained": "see timeline [51]"
+   },
+   {
+    "type": "encyclopedia (background, not case-specific)",
+    "title": "Joseph James DeAngelo (Golden State Killer) - arrest April 24, 2018 via genetic genealogy (Wikipedia (English), accessed 2026-10)",
+    "url_or_reference": "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo",
+    "key_information_obtained": "see timeline [52]"
+   },
+   {
+    "type": "encyclopedia (background, not case-specific)",
+    "title": "National Crime Information Center (launched 1967) and National Center for Missing & Exploited Children (founded 1984) (Wikipedia (English), accessed 2026-10)",
+    "url_or_reference": "https://en.wikipedia.org/wiki/National_Crime_Information_Center",
+    "key_information_obtained": "see timeline [53]"
+   },
+   {
+    "type": "encyclopedia (background, not case-specific)",
+    "title": "1957 in the United States / Demographics of Philadelphia (1950 census: about 2.07 million residents) (Wikipedia (English), accessed 2026-10)",
+    "url_or_reference": "https://en.wikipedia.org/wiki/1957_in_the_United_States",
+    "key_information_obtained": "see timeline [54]"
+   },
+   {
+    "type": "news (low reliability)",
+    "title": "Gus Zarelli biography: 13 things about Philadelphia, Pennsylvania native (Conan Daily, 2023-01-19)",
+    "url_or_reference": "https://conandaily.com/2023/01/19/gus-zarelli-biography-13-things-about-philadelphia-pennsylvania-native/",
+    "key_information_obtained": "see timeline [55]"
+   },
+   {
+    "type": "news",
+    "title": "Philadelphia Police Identify Slain 4-Year-Old Who Came to Be Known Decades Ago as the 'Boy in the Box' (Law&Crime, 2022-12-08)",
+    "url_or_reference": "https://lawandcrime.com/crime/philadelphia-police-identify-slain-4-year-old-who-came-to-be-known-decades-ago-as-the-boy-in-the-box/",
+    "key_information_obtained": "see timeline [56]"
+   }
+  ]
+ },
+ "next_video_hook": {
+  "_instructions": "Tease for your next video.",
+  "next_topic": "PENNSYLVANIA 1992 — Christy Mirack (Lancaster County teacher; DJ Raymond Rowe)",
+  "connection_to_current_video": "Another Pennsylvania cold case where genetic genealogy changed everything - but this time it led all the way to an arrest and a guilty plea.",
+  "teaser_line": "In Joseph's case, DNA gave back a name. In Lancaster County, a quarter of a century after a young teacher was killed in her home in December 1992, the same science would do something else: it would lead detectives to a man who had been working as a local DJ."
+ },
+ "notes_and_gaps": {
+  "_instructions": "Things you still need to research or verify.",
+  "unverified_claims": [
+   "Finder's name (Frederick Benonis) and the muskrat-trapper detail come from secondary sources.",
+   "Exact discovery/report date: Feb. 25 (most sources) vs. Feb. 26 (one Inquirer-based account).",
+   "Weight ~30 lb, height ~40.5-41 in., scars, death-mask-in-briefcase: secondary sources.",
+   "Reburial date Nov. 11, 1998 and Steven Damman exclusion: single secondary source (Wikipedia).",
+   "Bill Kelly's death year (2014, age 86) single source; not used in script.",
+   "Gus Zarelli's death (2014, age 87): low-reliability source; script says 'reportedly'.",
+   "Parents' names come from The Inquirer, not police.",
+   "Fleisher's '8,000 to 1' fragment is cited secondhand.",
+   "Krasner quote date not verified.",
+   "Some aggregators say a new headstone was placed in 2024; the verified date is Jan. 13, 2023."
+  ],
+  "information_gaps": [
+   "Who raised Joseph and where he was in 1956-57; whether he was adopted.",
+   "Identity of anyone police suspect.",
+   "Any official PPD statement 2024-2026.",
+   "Primary text of the 1957 autopsy report."
+  ],
+  "questions_to_answer": [
+   "Has PPD released any update since 2023?",
+   "Details of the Vidocq Society's 2026 initiative.",
+   "Research note: web page fetching was unavailable during research; facts were verified through search-engine summaries of the cited pages and cross-checked across outlets."
+  ]
+ }
+}

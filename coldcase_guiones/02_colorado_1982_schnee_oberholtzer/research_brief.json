@@ -1,0 +1,363 @@
+{
+  "video_metadata": {
+    "working_title": "COLORADO 1982 Cold Case Solved After 39 Years — Justice for Annette and Bobbie Jo",
+    "topic_one_sentence": "On January 6, 1982, two young women hitchhiking out of Breckenridge, Colorado, were abducted and shot hours apart by the same man, who was rescued from a snowbound mountain pass that same night; a pair of orange socks linked the murders, blood on a glove preserved his DNA, and 39 years later genetic genealogy named Alan Lee Phillips, who was convicted in 2022 and died in prison in 2023.",
+    "primary_emotion_to_evoke": "grief turning into stunned disbelief at how close the killer was all along (he was rescued by authorities the same night), then hard-won justice shadowed by later doubts raised over a disgraced DNA analyst",
+    "target_length_minutes": "70"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Alan Lee Phillips (convicted killer; antagonist). Born 1951, died February 27, 2023.",
+    "age_at_time_of_events": "30 in January 1982 [12]; 70 at arrest in February 2021 [1][11]; 71 at sentencing in November 2022 [3][4]; 71 at death (some outlets say 72) [31][33]",
+    "occupation_or_status": "Mechanic in 1982 [12]; described in 2021 as a semi-retired mechanic living in Dumont, Clear Creek County, Colorado [19][45]",
+    "location": "Dumont, Clear Creek County, Colorado, at the time of arrest [3][30]",
+    "physical_description": "On the night of January 6, 1982, rescuers noticed a bruised face; he gave explanations (a fall in the snow; hitting his truck) that investigators later rejected [12][17]. No other verified description gathered.",
+    "background_brief": "Arrested in 1973 for assault and burglary, according to Det. Sgt. Wendy Kipple's account of his criminal history [12][46]. On the night of the murders his pickup, without tire chains, became stuck in a drift on Guanella Pass during a snowstorm; he flashed SOS with his headlights, a sheriff aboard a passing airliner saw it, and a fire chief, Dave Montoya, drove up and rescued him [12][15][16]. He told Montoya he had been drinking and decided to drive home [12]. He lived in Colorado for decades afterward without being connected to the killings until 2020-2021 [1].",
+    "psychological_profile": "Not documented by any expert source gathered. Kipple described him as someone who 'wouldn't throw anything away' and 'didn't even throw out his garbage' during surveillance [12][46]. He maintained his innocence, said he would appeal, and claimed the DNA was contaminated and mishandled [3][4]. Do NOT speculate about motive; none was established in sources gathered.",
+    "mundane_humanizing_detail": "Semi-retired mechanic in a small mountain town; kept his garbage instead of throwing it out, which slowed the covert DNA collection [12][46].",
+    "nickname_or_alias_if_any": "None found"
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {
+        "name": "Annette Kay Schnee",
+        "role_or_profession": "21-year-old woman, formerly of Sioux City, Iowa, living in the Breckenridge area; born 1960 [25][47]. Occupation not verified.",
+        "connection_to_protagonist": "Stranger. Picked up while hitchhiking home from Breckenridge to Blue River on January 6, 1982 [25][10].",
+        "specific_impact_suffered": "Abducted and shot to death; body found July 3, 1982, face down in Sacramento Creek near Fairplay, Park County, about 10 miles south of Hoosier Pass, fully clothed in a blue jacket and wearing one orange sock [13][25][9].",
+        "humanizing_detail": "The orange socks were a recent Christmas present from her mother [13]. Her younger sister Cindy French remembered that Annette babysat her: 'She was with me a lot babysitting me' [28]. Her brother Russell is seven years older and still lives in the Siouxland area [28][29].",
+        "any_quotes_from_them": "None documented"
+      },
+      {
+        "name": "Barbara 'Bobbie Jo' Oberholtzer (also spelled Bobbi Jo)",
+        "role_or_profession": "29-year-old woman living in Alma, Park County, married to Jeff Oberholtzer [12][25]. Occupation not verified.",
+        "connection_to_protagonist": "Stranger. Picked up while hitchhiking home from Breckenridge to Alma on the evening of January 6, 1982 [25].",
+        "specific_impact_suffered": "Shot twice in the chest; found the next day (January 7, 1982 per most sources; January 8 per 48 Hours) hidden by snowbanks a few hundred feet from the top of Hoosier Pass, with an 18-inch zip tie on one wrist [9][46]. Investigators concluded she fought back, likely striking him with a brass key ring; her glove carried his blood [12][14].",
+        "humanizing_detail": "She phoned her husband that evening to say she had a ride and would be home relatively soon [12][46].",
+        "any_quotes_from_them": "As relayed by Jeff Oberholtzer: she said she'd be home relatively soon and that she had a ride [12]."
+      },
+      {
+        "name": "Jeff Oberholtzer",
+        "role_or_profession": "Bobbie Jo's husband",
+        "connection_to_protagonist": "None. Wrongly suspected for years.",
+        "specific_impact_suffered": "Reported his wife missing, found her bloody glove and tissue on the roadside the next day, and lived under suspicion until DNA in the early 1990s showed the blood belonged to an unidentified man [12][19][46]. His business card had been found in Annette Schnee's pocket; he said he had once given it to her when he gave her a ride hitchhiking [19].",
+        "humanizing_detail": "Described being 'tried in the court of public opinion' [46].",
+        "any_quotes_from_them": "'It was very painful.' / 'Being under suspicion from not only the authorities, but also being tried in the court of public opinion. People didn't want a suspected murderer in their house.' [46]"
+      },
+      {
+        "name": "The Schnee family: mother (name not verified), brother Russell Schnee, sister Cindy French, another sister",
+        "role_or_profession": "Family of Annette",
+        "connection_to_protagonist": "None",
+        "specific_impact_suffered": "Six months of not knowing; Cindy French's statement at sentencing described their mother breaking down crying during the months Annette was missing [3][4]. Her mother, brother and two sisters lived to see the conviction [25].",
+        "humanizing_detail": "The family retained retired Denver homicide detective Charlie McCormick as a private investigator for one dollar a year [19][20].",
+        "any_quotes_from_them": "Cindy French: 'She was with me a lot babysitting me' [28]."
+      },
+      {
+        "name": "Andrea Shelton",
+        "role_or_profession": "Daughter of Alan Phillips",
+        "connection_to_protagonist": "Daughter",
+        "specific_impact_suffered": "Believes her father was wrongfully convicted; through the Mehr Jolly law firm she gave notice of intent to sue CBI and in June 2025 filed a notice of claim seeking $100 million over former CBI analyst Yvonne 'Missy' Woods' role [34][35][36]. These are allegations; no court finding.",
+        "humanizing_detail": "",
+        "any_quotes_from_them": "None verified directly"
+      }
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "Two families (Schnee and Oberholtzer), Jeff Oberholtzer as a long-time suspect, and the wider Colorado justice system later shaken by the Missy Woods DNA scandal",
+      "total_number_affected": "2 murdered women",
+      "range_of_impacts": "Grief, decades of uncertainty, wrongful suspicion, and after the conviction, renewed doubt raised by the defendant's family"
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Det. Sgt. Wendy Kipple", "role_in_story": "Park County Sheriff's Office detective who worked the genealogy lead, the surveillance and the arrest", "key_actions_they_took": "Received the names Alan and Bruce Phillips; checked criminal history; found a file tab 'Alan Phillips' in old records; ran surveillance; obtained discarded DNA; handcuffed Phillips [12][46]", "notable_quotes": "'Halfway back I see this tab, says, \"Alan Phillips.\"' / 'He wouldn't throw anything away.' / 'He didn't even throw out his garbage.' / 'I got to put the handcuffs on him and he was shocked.' / 'The look on his face was just priceless.' [12][46]; 'It was his own stupidity that got him up there, because the pass is not passable in the wintertime' (as reported by the New York Times, via secondary summary; single-sourced) [12]"},
+      {"name": "Charlie McCormick", "role_in_story": "Retired Denver homicide detective; private investigator for the Schnee family", "key_actions_they_took": "Worked the case for decades (one report: 32 years) for a fee of one dollar a year; described in one headline as an 81-year-old still on the trail [19][20][21]", "notable_quotes": "None verified verbatim"},
+      {"name": "Investigator Eaton (first name not verified)", "role_in_story": "Stayed on the case for the Summit County Sheriff's Office", "key_actions_they_took": "Long-term case work alongside McCormick [20]", "notable_quotes": ""},
+      {"name": "Jim Hardtke", "role_in_story": "Colorado Bureau of Investigation agent in 1982", "key_actions_they_took": "Worked the original scene where the first orange sock was found [13]", "notable_quotes": "'It didn't fit anything connected to Bobbie Jo Oberholtzer. It was just one of those mysterious things that you pick up at a crime scene.' [13]"},
+      {"name": "Dave Montoya", "role_in_story": "Fire chief in 1982 who drove up Guanella Pass and rescued Phillips", "key_actions_they_took": "Rescued Phillips the night of January 6, 1982; later recalled Phillips saying he had gotten drunk and decided to drive home [12]", "notable_quotes": "Paraphrase only"},
+      {"name": "Sheriff Tom McGraw", "role_in_story": "Park County Sheriff in 2021", "key_actions_they_took": "Announced the arrest at CBI headquarters on March 3, 2021 [1]", "notable_quotes": ""},
+      {"name": "United Data Connect", "role_in_story": "Denver genetic genealogy company (founded by former Denver District Attorney Mitch Morrissey) that worked with Metro Denver Crime Stoppers", "key_actions_they_took": "Extracted DNA from case evidence and traced it through genealogy to two brothers, only one of whom, Alan, had lived in Colorado [1][25][43]", "notable_quotes": ""},
+      {"name": "Mark Hurlbert", "role_in_story": "Deputy District Attorney who prosecuted / read victim family statement at sentencing", "key_actions_they_took": "Read Cindy French's statement at sentencing [3][4]", "notable_quotes": ""},
+      {"name": "Judge Stephen Broome", "role_in_story": "Sentencing judge, Park County", "key_actions_they_took": "Imposed two consecutive life sentences without parole on November 7, 2022 [3][4]", "notable_quotes": ""},
+      {"name": "Kevin Mehr", "role_in_story": "Attorney, Mehr Jolly firm, for Andrea Shelton", "key_actions_they_took": "Filed notice of intent to sue CBI; argued the conviction rested on DNA handled by Missy Woods [34][35][36]", "notable_quotes": "'the only evidence against our client was DNA and DNA specifically processed and analyzed by \"Missy\" Woods' [34][35]"},
+      {"name": "Yvonne 'Missy' Woods", "role_in_story": "Former CBI DNA analyst at the center of a statewide scandal", "key_actions_they_took": "Charged with 102 felonies (January 2025); pleaded guilty June 2026 to four felonies; sentenced September 8, 2026 to 10 years [38][40][49]. Her specific role in the Phillips case is alleged by the Phillips family's lawyer; not established by any court in sources gathered.", "notable_quotes": "'I know an apology cannot undo the harm' (at sentencing, September 2026) [38]"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "1951", "location": "", "what_happened": "Alan Lee Phillips born", "significance": "Age 30 at the crimes, 70 at arrest", "source": "[48] Find a Grave (1951-2023); [12] CBS (age 30 in 1982)"},
+      {"date": "1960", "location": "", "what_happened": "Annette Kay Schnee born", "significance": "", "source": "[47] Find a Grave (1960-1982)"},
+      {"date": "1973", "location": "", "what_happened": "Phillips arrested for assault and burglary (per Kipple's review of his criminal history)", "significance": "Red flag for investigators in 2020", "source": "[12][46] CBS 48 Hours"},
+      {"date": "Christmas 1981", "location": "", "what_happened": "Annette's mother gives her a pair of orange socks as a Christmas present", "significance": "The socks will link the two murders", "source": "[13] CBS News orange socks"},
+      {"date": "January 6, 1982 (day)", "location": "Breckenridge to Blue River, Summit County", "what_happened": "Annette Schnee, 21, disappears while hitchhiking home from Breckenridge to Blue River on a very snowy day", "significance": "First victim", "source": "[25] KTIV; [10] KIRO7; [9] KKTV"},
+      {"date": "January 6, 1982 (evening)", "location": "Breckenridge to Alma", "what_happened": "Bobbie Jo Oberholtzer, 29, phones husband Jeff saying she has a ride and will be home relatively soon; disappears while hitchhiking home to Alma", "significance": "Second victim, hours later", "source": "[25] KTIV; [12][46] CBS 48 Hours"},
+      {"date": "January 6, 1982 (night)", "location": "Guanella Pass", "what_happened": "Phillips' pickup, without chains, stuck in a drift during a severe snowstorm; he flashes SOS with headlights; a sheriff aboard a passing airliner sees it and alerts the crew; fire chief Dave Montoya drives up and rescues him; Phillips says he got drunk and decided to drive home; bruised face", "significance": "The killer was rescued by authorities the same night; not connected for 39 years", "source": "[12] CBS; [15] 9News; [16] StrangeOutdoors; [17] Law&Crime"},
+      {"date": "January 7, 1982 (48 Hours says January 8)", "location": "Highway near Breckenridge / Hoosier Pass", "what_happened": "Jeff Oberholtzer finds Bobbie Jo's bloody glove and tissue on roadside; authorities find her license, backpack, an orange sock/bootie, wool glove and bloody tissue; her body found that afternoon hidden by snowbanks a few hundred feet from the top of Hoosier Pass; shot twice in the chest; zip tie on one wrist", "significance": "The glove blood is the evidence that will name the killer", "source": "[9] KKTV (CDAC); [46] 48 Hours; [13] CBS"},
+      {"date": "January-July 1982", "location": "Sioux City / Colorado", "what_happened": "Annette missing for six months; her mother breaks down crying, per Cindy French's later statement", "significance": "Family's ordeal", "source": "[3][4] CBS/AP sentencing"},
+      {"date": "July 3, 1982", "location": "Sacramento Creek near Fairplay, Park County, ~10 miles south of Hoosier Pass", "what_happened": "A boy fishing with his father finds Annette's body face down in the creek, fully clothed in a blue jacket, wearing one orange sock; Jeff Oberholtzer's business card in her pocket", "significance": "The matching orange sock links the two murders", "source": "[13] CBS; [25] KTIV; [19] Denver7"},
+      {"date": "1982 onward", "location": "", "what_happened": "Jeff Oberholtzer treated as a suspect; says he once gave Annette his card when he gave her a ride", "significance": "Wrong suspect", "source": "[19] Denver7; [46] 48 Hours"},
+      {"date": "Early 1990s", "location": "", "what_happened": "Blood near Bobbie Jo's body and on tissues in her backpack determined to belong to an unidentified male; DNA excludes Jeff Oberholtzer", "significance": "Unknown male profile exists", "source": "[19] Denver7; [46]"},
+      {"date": "Decades (one report: 32 years)", "location": "", "what_happened": "Retired Denver homicide detective Charlie McCormick works the case for the Schnee family for $1 a year; Summit County investigator Eaton stays on", "significance": "Persistence", "source": "[20] Denver7; [21] Journal Times"},
+      {"date": "January 2015 (approx.)", "location": "", "what_happened": "Public invited to help solve the then-33-year-old double murder", "significance": "Public appeals", "source": "[24] Mountain Mail"},
+      {"date": "2020", "location": "Colorado", "what_happened": "Investigation with Metro Denver Crime Stoppers and United Data Connect; DNA extracted from evidence; genealogy points to two brothers, Alan and Bruce Phillips; only Alan had lived in Colorado", "significance": "Breakthrough", "source": "[1] CBI/PCSO release; [25] KTIV; [46] 48 Hours"},
+      {"date": "Early 2021 (one report: 4-5 weeks)", "location": "Dumont", "what_happened": "Surveillance; Phillips keeps his garbage; discarded item (reported as a napkin / a Sonic bag) collected; DNA matches glove blood", "significance": "Confirmation sample", "source": "[12][46] 48 Hours; [31]/[33] (Sonic bag); [1]"},
+      {"date": "February 24, 2021", "location": "Clear Creek County", "what_happened": "Phillips arrested without incident during a traffic stop near his home; DNA re-tested after arrest and matched again", "significance": "Arrest after 39 years", "source": "[1] CBI/PCSO; [45] Colorado Sun; [19]"},
+      {"date": "March 3, 2021", "location": "CBI headquarters", "what_happened": "Park County Sheriff Tom McGraw announces the arrest; initial charges: 2 counts first-degree kidnapping, 2 counts first-degree assault, 2 counts first-degree homicide", "significance": "Public announcement", "source": "[1] CBI/PCSO; [9] KKTV"},
+      {"date": "2021 (date not verified)", "location": "Park County", "what_happened": "After a preliminary hearing, a judge orders Phillips to stand trial", "significance": "", "source": "[18] 9News"},
+      {"date": "September 15, 2022", "location": "Fairplay, Park County", "what_happened": "Jury convicts Phillips on all eight counts (per victim: first-degree murder after deliberation, two counts of felony murder tied to kidnapping and robbery, second-degree kidnapping) after about four to five hours of deliberation", "significance": "Conviction 40 years later", "source": "[2] Park County release; [5] Colorado Sun; [25] KTIV; [6] The Flume"},
+      {"date": "November 7, 2022", "location": "Park County court", "what_happened": "Judge Stephen Broome sentences Phillips, 71, to two consecutive life sentences without parole; Mark Hurlbert reads Cindy French's statement; Phillips says he will appeal claiming DNA was contaminated and mishandled", "significance": "Sentence", "source": "[3] CBS/AP; [4] KSAT/AP; [26] KTIV"},
+      {"date": "February 27, 2023", "location": "Arkansas Valley Correctional Facility, Ordway", "what_happened": "Phillips dies in prison at 71; Crowley County coroner Gary Gibson: no foul play suspected; autopsy March 1, 2023; later reported as suicide", "significance": "Dies about five and a half months after the verdict; no appellate ruling found", "source": "[30] Summit Daily; [31] CBS Colorado; [33] Denver Gazette; [27] KTIV (suicide); [34][35]"},
+      {"date": "2024 (exact date not verified; Denver7 reports notice delivered on a Wednesday)", "location": "Denver", "what_happened": "Mehr Jolly firm gives CBI notice of intent to sue on behalf of Andrea Shelton over Missy Woods' work in the case; CBI declines comment on pending litigation", "significance": "Post-conviction doubt raised by the family", "source": "[34] Denver7; [35] KDVR; [37] The Flume"},
+      {"date": "January 2025", "location": "Jefferson County", "what_happened": "Missy Woods charged with 102 felonies", "significance": "Context", "source": "[49]; [36] KRDO"},
+      {"date": "June 2025 (KRDO article June 27, 2025)", "location": "", "what_happened": "Notice of claim seeking $100 million filed against CBI on behalf of Phillips' daughter", "significance": "Allegation only", "source": "[36] KRDO"},
+      {"date": "June 2026", "location": "Jefferson County", "what_happened": "Woods pleads guilty to four felonies (cybercrime, first-degree perjury, forgery, attempting to influence a public servant); remaining charges dropped", "significance": "Context", "source": "[40] Colorado Sun; [38]"},
+      {"date": "September 8, 2026", "location": "Jefferson County", "what_happened": "Woods, 66, sentenced to 10 years by Judge Andrew Poland; about $11 million spent revisiting her cases", "significance": "Context; no report found that the Phillips conviction was reviewed or vacated", "source": "[38] Colorado Sun; [39] Denver7"},
+      {"date": "General background (not re-verified in this session)", "location": "", "what_happened": "Golden State Killer arrest via public genealogy database, April 2018, popularised investigative genetic genealogy", "significance": "Landmark case for the science explainer", "source": "General knowledge; flagged as not fetched in this session"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {
+      "exact_date": "January 6, 1982 (night)",
+      "exact_location": "Guanella Pass and Hoosier Pass, Colorado Rockies",
+      "what_is_happening": "Two women have vanished from the roadsides of Breckenridge. That same night, on another mountain pass, a man flashes SOS with his truck's headlights; a sheriff on an airliner sees it, and rescuers bring him down.",
+      "what_makes_it_shocking": "The rescued man was the killer, with a bruised face; 39 years pass before anyone knows.",
+      "ironic_twist": "Authorities saved the killer's life the same night; and an orange sock given as a Christmas present was the clue that tied two murders together."
+    },
+    "central_mystery_question": "Who picked up two hitchhikers hours apart on the same snowy day, and how did a drop of his blood on a glove wait 39 years to name him?"
+  },
+  "the_method": {
+    "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+    "technique_name": "Investigative (forensic) genetic genealogy, followed by a covert discarded-DNA confirmation sample",
+    "step_by_step_explanation": [
+      "1982: blood on Bobbie Jo's glove and tissues is collected and preserved [9][14].",
+      "Early 1990s: DNA analysis shows the blood belongs to an unidentified male and excludes Jeff Oberholtzer [19].",
+      "2020: Park County, with Metro Denver Crime Stoppers and United Data Connect, extracts DNA from the evidence and builds a genealogy profile [1].",
+      "Comparisons with relatives who had shared DNA in genealogy databases lead to a family tree and two brothers: Alan and Bruce Phillips [1][46].",
+      "Only Alan had lived in Colorado [1][25].",
+      "Kipple checks his record (1973 arrest) and old files [12][46].",
+      "Surveillance (one report: 4-5 weeks); a discarded item is collected; its DNA matches the glove blood [1][12][31].",
+      "Arrest February 24, 2021; a direct DNA sample is taken and the match is confirmed again [1][19]."
+    ],
+    "why_it_worked": "The killer's blood was preserved on the victim's glove for decades; genealogy databases reach relatives even when the suspect himself was never in a criminal DNA database.",
+    "technical_terms_to_explain": [
+      {"term": "Investigative genetic genealogy", "simple_explanation": "Using DNA shared with distant relatives who uploaded their DNA to genealogy sites to rebuild a family tree that narrows to one person"},
+      {"term": "Discarded DNA / abandoned property", "simple_explanation": "DNA left on something a person threw away, which police can collect without a warrant to confirm a lead"},
+      {"term": "Confirmation sample", "simple_explanation": "A direct comparison between the suspect's DNA and the crime-scene DNA; genealogy alone is only a lead"}
+    ],
+    "scale_of_operation": "One preserved bloodstain; two brothers narrowed to one; weeks of surveillance"
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "Not a single institutional failure; the limits of 1982 forensics, siloed records (a rescue report on another pass the same night was never connected), and a long-wrong suspect. Later: the CBI lab scandal (Missy Woods) cast a shadow over many convictions.",
+    "how_they_were_supposed_to_protect": "Investigators were supposed to identify the man who left blood on Bobbie Jo's glove.",
+    "why_they_failed": "No DNA technology in 1982; the cases were not linked until July 1982; the husband became the focus; the man rescued from Guanella Pass that night was not tied to the murders until genealogy in 2020 [12][17][19].",
+    "specific_incompetence_examples": [
+      "Jeff Oberholtzer lived under suspicion until the early 1990s, when DNA cleared him [19][46].",
+      "Phillips was rescued with a bruised face on the night of the murders but was not linked for 39 years [12][17].",
+      "Concerns about Missy Woods' work were raised in 2014 and 2018; she was suspended from casework and then reinstated, per an internal affairs report (general CBI context, not specific to this case) [36]/[50]."
+    ],
+    "ironic_details_about_the_failure": "The killer's life was saved by an emergency response that same night."
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Park County Sheriff's Office, with Summit County Sheriff's Office, Colorado Bureau of Investigation, Metro Denver Crime Stoppers and United Data Connect [1]",
+    "operation_code_name_if_any": "None found",
+    "when_investigation_began": "January 7, 1982",
+    "initial_wrong_assumptions": "Focus on husband Jeff Oberholtzer; the two cases were not linked until Annette's body was found in July 1982 [13][19]",
+    "key_breakthrough": "2020 genetic genealogy pointing to the Phillips brothers [1]",
+    "the_fatal_mistake": "His blood on Bobbie Jo's glove, left as she fought back [12][14]",
+    "how_long_until_caught": "39 years (January 1982 to February 2021)"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "February 24, 2021 (time not verified)",
+    "location": "Near his home, Clear Creek County (traffic stop)",
+    "scene_description": "Arrested without incident during a traffic stop; Kipple put the handcuffs on him [1][12][19]",
+    "protagonist_reaction": "Per Kipple: 'he was shocked' [12][46]",
+    "ironic_or_absurd_details": "He had lived roughly an hour's drive from the crime scenes for decades (general geography; distance not verified - do not state a number)."
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["Initial: 2 counts first-degree kidnapping, 2 counts first-degree assault, 2 counts first-degree homicide [1]", "Convicted on 8 counts: first-degree murder after deliberation, first-degree felony murder (kidnapping), first-degree felony murder (robbery) and second-degree kidnapping, for each victim [2][25]"],
+    "trial_date_if_applicable": "Trial in Fairplay, Park County; verdict September 15, 2022 [2][5]",
+    "notable_court_testimony": "Not gathered verbatim. Defense position: DNA contaminated / mishandled [3][4]. Mehr later said Woods' DNA evidence entered at the '11th hour' (allegation) [34].",
+    "victim_impact_statements": [
+      {"from_whom": "Cindy French, Annette's sister (read by Deputy DA Mark Hurlbert)", "key_quote": "Described their mother breaking down crying during the six months Annette was missing (paraphrase) [3][4]", "emotional_impact": "The family's half-year of not knowing"}
+    ],
+    "sentence_received": "Two consecutive life sentences without the possibility of parole, November 7, 2022 [3][4]",
+    "protagonist_statement_in_court": "Said he would appeal, claiming the DNA was contaminated and mishandled [3][4]",
+    "current_status": "As of October 2026: Phillips is dead (February 27, 2023; reported suicide). No appellate ruling was found in public reporting; whether a direct appeal was filed or abated was not verified. His daughter's lawyers allege the DNA work was tainted by Missy Woods and filed a $100 million notice of claim (June 2025); no resolution found. Woods was sentenced to 10 years on September 8, 2026. CBI has said it found no evidence that Woods manufactured profiles or planted DNA. No court has vacated or questioned the Phillips conviction in sources gathered."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Jim Hardtke, CBI agent (1982)", "exact_quote": "It didn't fit anything connected to Bobbie Jo Oberholtzer. It was just one of those mysterious things that you pick up at a crime scene.", "context": "On the orange sock found at the first scene, to 48 Hours", "source": "[13] CBS News orange socks article"},
+      {"speaker": "Jeff Oberholtzer", "exact_quote": "She said she'd be home relatively soon … she said she had a ride", "context": "Bobbie Jo's last phone call, to 48 Hours", "source": "[12][46] CBS 48 Hours"},
+      {"speaker": "Jeff Oberholtzer", "exact_quote": "It was very painful.", "context": "On living under suspicion, to Natalie Morales, 48 Hours", "source": "[46]"},
+      {"speaker": "Jeff Oberholtzer", "exact_quote": "Being under suspicion from not only the authorities, but also being tried in the court of public opinion. People didn't want a suspected murderer in their house.", "context": "48 Hours", "source": "[46]"},
+      {"speaker": "Det. Sgt. Wendy Kipple", "exact_quote": "Halfway back I see this tab, says, 'Alan Phillips.'", "context": "Searching old files after receiving the genealogy names (context of the file not fully verified)", "source": "[46] 48 Hours"},
+      {"speaker": "Det. Sgt. Wendy Kipple", "exact_quote": "He wouldn't throw anything away.", "context": "Surveillance for a discarded DNA sample", "source": "[12][46]"},
+      {"speaker": "Det. Sgt. Wendy Kipple", "exact_quote": "He didn't even throw out his garbage.", "context": "Surveillance", "source": "[12][46]"},
+      {"speaker": "Det. Sgt. Wendy Kipple", "exact_quote": "I got to put the handcuffs on him and he was shocked.", "context": "Arrest, February 24, 2021", "source": "[12][46]"},
+      {"speaker": "Det. Sgt. Wendy Kipple", "exact_quote": "The look on his face was just priceless.", "context": "Arrest", "source": "[12][46]"},
+      {"speaker": "Det. Sgt. Wendy Kipple", "exact_quote": "It was his own stupidity that got him up there, because the pass is not passable in the wintertime", "context": "On the Guanella Pass rescue, as reported by the New York Times (seen only via secondary summary; single-sourced)", "source": "[12] (secondary)"},
+      {"speaker": "Cindy French, Annette's sister", "exact_quote": "She was with me a lot babysitting me", "context": "Remembering Annette, Siouxland media, 2022", "source": "[28] SiouxlandProud"},
+      {"speaker": "Kevin Mehr, attorney for Phillips' daughter", "exact_quote": "the only evidence against our client was DNA and DNA specifically processed and analyzed by 'Missy' Woods", "context": "Notice of intent to sue CBI", "source": "[34] Denver7; [35] KDVR"},
+      {"speaker": "Yvonne 'Missy' Woods", "exact_quote": "I know an apology cannot undo the harm", "context": "At her sentencing, September 8, 2026", "source": "[38] Colorado Sun"},
+      {"speaker": "Headline phrase (Denver7, March 2021), quoting the families", "exact_quote": "39 years of hell", "context": "Families' reaction to the arrest; individual speaker not verified", "source": "[19] Denver7"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "21 and 29", "what_it_represents": "Ages of Annette Schnee and Bobbie Jo Oberholtzer", "source": "[3][25]"},
+      {"number": "30 / 70 / 71", "what_it_represents": "Phillips' age in 1982, at arrest, at sentencing and death", "source": "[12][1][3][31]"},
+      {"number": "about 6 months", "what_it_represents": "Time Annette was missing (Jan 6 to July 3, 1982)", "source": "[13][25]"},
+      {"number": "about 10 miles", "what_it_represents": "Distance south of Hoosier Pass where Annette was found", "source": "[9]"},
+      {"number": "a few hundred feet (about 300-400 feet)", "what_it_represents": "Distance of Bobbie Jo's body from the Hoosier Pass summit / parking area", "source": "[9] (CDAC 400 ft; KKTV 300 ft)"},
+      {"number": "2", "what_it_represents": "Gunshots to Bobbie Jo's chest", "source": "[9]"},
+      {"number": "18 inches", "what_it_represents": "Length of the zip tie on Bobbie Jo's wrist", "source": "[9]"},
+      {"number": "$1 a year", "what_it_represents": "Charlie McCormick's fee as the Schnee family's private investigator", "source": "[20]"},
+      {"number": "32 years", "what_it_represents": "Years McCormick pursued the case, per one report", "source": "[20]"},
+      {"number": "1973", "what_it_represents": "Year of Phillips' earlier arrest for assault and burglary", "source": "[12][46]"},
+      {"number": "2 brothers", "what_it_represents": "Genealogy narrowed to Alan and Bruce Phillips", "source": "[1][46]"},
+      {"number": "4-5 weeks", "what_it_represents": "Surveillance before the arrest (one report)", "source": "search summary of arrest coverage; single-sourced"},
+      {"number": "39 years", "what_it_represents": "January 1982 to arrest in February 2021", "source": "[1][19]"},
+      {"number": "8 counts", "what_it_represents": "Convictions, September 15, 2022", "source": "[2][5]"},
+      {"number": "about 4-5 hours", "what_it_represents": "Jury deliberation", "source": "[2][5]"},
+      {"number": "2 consecutive life sentences", "what_it_represents": "Sentence, November 7, 2022", "source": "[3][4]"},
+      {"number": "February 27, 2023", "what_it_represents": "Phillips' death in prison", "source": "[30][31]"},
+      {"number": "$100 million", "what_it_represents": "Notice of claim by Phillips' daughter against CBI (June 2025)", "source": "[36]"},
+      {"number": "102", "what_it_represents": "Felony charges originally filed against Missy Woods", "source": "[49]"},
+      {"number": "10 years", "what_it_represents": "Woods' prison sentence, September 8, 2026", "source": "[38][39]"},
+      {"number": "about $11 million", "what_it_represents": "Cost to Colorado of revisiting Woods' cases and retesting", "source": "[38]"},
+      {"number": "about 1,000+ (reported 1,045 to about 1,100)", "what_it_represents": "Cases affected by Woods' data manipulation", "source": "[38][41]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "The killer was rescued from a mountain pass the same night, after a sheriff on an airliner saw his SOS [12][15].",
+      "A Christmas present (orange socks) from a mother linked two murders [13].",
+      "The husband's business card in Annette's pocket made an innocent man a suspect for years [19].",
+      "The suspect who kept his own garbage made the covert DNA collection difficult [12].",
+      "The conviction obtained through DNA was later attacked by his family through the scandal of a DNA analyst [34][36]."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "Breckenridge, Summit County", "physical_description": "Ski resort town in the Colorado Rockies", "atmosphere": "Mountain ski town; hitchhiking used by young residents to get between towns (general context)", "relevant_details": "Both women were last seen hitchhiking out of town [3][10]"},
+      {"location_name": "Blue River", "physical_description": "Small town south of Breckenridge on the road toward Hoosier Pass (general geography)", "atmosphere": "", "relevant_details": "Annette's destination [25]"},
+      {"location_name": "Hoosier Pass", "physical_description": "High mountain pass between Summit County and Park County on the road from Breckenridge to Alma (general geography; elevation not verified in session)", "atmosphere": "Snowbanks in January", "relevant_details": "Bobbie Jo found a few hundred feet from the top [9]"},
+      {"location_name": "Alma, Park County", "physical_description": "Small mountain town on the south side of Hoosier Pass (general geography)", "atmosphere": "", "relevant_details": "Bobbie Jo's home [25]"},
+      {"location_name": "Sacramento Creek near Fairplay", "physical_description": "Mountain valley creek about 10 miles south of Hoosier Pass", "atmosphere": "Fishing spot in July", "relevant_details": "Annette found July 3, 1982 [9][25]"},
+      {"location_name": "Guanella Pass", "physical_description": "High pass not passable in winter (Kipple); severe snowstorm that night; one account gives temperatures near minus 22 degrees F", "atmosphere": "", "relevant_details": "Phillips rescued there the night of January 6, 1982 [12][16]"},
+      {"location_name": "Fairplay, Park County", "physical_description": "County seat", "atmosphere": "", "relevant_details": "Trial and verdict, September 2022 [2][5]"},
+      {"location_name": "Dumont, Clear Creek County", "physical_description": "Small community", "atmosphere": "", "relevant_details": "Phillips' home at arrest [3][30]"},
+      {"location_name": "Arkansas Valley Correctional Facility, Ordway", "physical_description": "State prison", "atmosphere": "", "relevant_details": "Where Phillips died [30][31]"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "A killer can be hidden in plain sight, even in an official rescue report from the same night.",
+    "how_this_could_happen_to_them": "Ordinary trust (accepting a ride in a snowstorm) and an ordinary small-town life.",
+    "lesson_or_warning": "Preserve evidence; one glove kept for 39 years gave two families an answer. And forensic labs must be honest, because every conviction depends on them.",
+    "current_relevance": "Genetic genealogy keeps solving Colorado cold cases, while the Missy Woods scandal (sentenced September 2026) shows why DNA work must be trustworthy."
+  },
+  "sources": {
+    "_instructions": "List ALL sources. Numbering matches investigacion.md section 13. NOTE: in this session, WebFetch could not reach any domain and the web-search budget ran out after 13 queries; facts were taken from search-engine summaries of these pages, not full-page reads.",
+    "primary_sources": [
+      {"type": "Police/CBI press release", "title": "[1] Clear Creek County Man Arrested Cold Case Homicides from 1982", "url_or_reference": "https://cbi.colorado.gov/news-article/clear-creek-county-man-arrested-cold-case-homicides-from-1982", "key_information_obtained": "Arrest Feb 24, 2021; announcement March 3, 2021 by Sheriff Tom McGraw; UDC and Metro CrimeStoppers; initial charges; two brothers, only Alan lived in Colorado; discarded DNA; re-test after arrest"},
+      {"type": "County press release", "title": "[2] Cold Case Conviction - Park County", "url_or_reference": "https://parkcountyco.gov/DocumentCenter/View/7916/Cold-Case-Conviction-Park-County", "key_information_obtained": "Verdict Sept 15, 2022; eight counts; about five hours of deliberation"},
+      {"type": "TV news (48 Hours)", "title": "[46] Two women, two unsolved murders, and two orange socks", "url_or_reference": "https://www.cbsnews.com/video/two-women-two-unsolved-murders-and-two-orange-socks/", "key_information_obtained": "Kipple and Jeff Oberholtzer quotes; family declined interviews"},
+      {"type": "Court record (docket listing, unclear)", "title": "[51] Register of actions 21CR16 (Phillips, Alan Lee)", "url_or_reference": "https://www.coloradojudicial.gov/sites/default/files/2023-08/ROA%2021CR16.PDF", "key_information_obtained": "Snippet only: lists case close date June 2, 2021 and 'not appealed'; meaning unclear (possibly county-court case before bind-over). Not used in script."}
+    ],
+    "secondary_sources": [
+      {"type": "News (AP via CBS)", "title": "[3] Man sentenced to two terms of life in prison after DNA linked him to 1982 killings of Colorado women", "url_or_reference": "https://www.cbsnews.com/news/alan-lee-phillips-life-prison-dna-1982-killings-annette-schnee-bobbie-jo-oberholtzer-colorado/", "key_information_obtained": "Sentence; Judge Broome; Cindy French statement; appeal intention"},
+      {"type": "News (AP via KSAT)", "title": "[4] Man gets life in killings of 2 Colorado women in 1982", "url_or_reference": "https://www.ksat.com/news/national/2022/11/07/man-gets-life-in-killings-of-2-colorado-women-in-1982/", "key_information_obtained": "Same; age 71"},
+      {"type": "News", "title": "[5] Alan Lee Phillips convicted (Colorado Sun)", "url_or_reference": "https://coloradosun.com/2022/09/16/alan-lee-phillips-convicted/", "key_information_obtained": "Verdict details"},
+      {"type": "News", "title": "[6] Jury convicts Alan Phillips of 1982 murders (The Flume)", "url_or_reference": "https://www.theflume.com/free_content/jury-convicts-alan-phillips-of-1982-murders/article_edce4690-39f3-11ed-a589-73f04e9aa7b5.html", "key_information_obtained": "Verdict"},
+      {"type": "News", "title": "[7] Alan Lee Phillips convicted in 1982 slayings (CBS Colorado)", "url_or_reference": "https://www.cbsnews.com/colorado/news/alan-lee-phillips-convicted-1982-slayings-bobbie-jo-oberholtzer-annette-schnee-breckenridge/", "key_information_obtained": "Verdict"},
+      {"type": "News", "title": "[8] Alan Lee Phillips sentenced to 2 life sentences (CBS Colorado)", "url_or_reference": "https://www.cbsnews.com/colorado/news/alan-lee-phillips-sentenced-life-sentences-1982-murders-women-breckenridge/", "key_information_obtained": "Sentence"},
+      {"type": "News", "title": "[9] Man arrested for 1982 killings of Colorado women (KKTV)", "url_or_reference": "https://www.kktv.com/2021/03/03/watch-major-break-in-1982-colorado-double-murder-case/", "key_information_obtained": "Scene details per CDAC: belongings, 400 ft/300 ft, two shots to chest, zip tie, Sacramento Creek July 3, 10 miles south"},
+      {"type": "News", "title": "[10] Genetic genealogy leads to alleged killer of 2 Colorado women taken, killed hours apart in 1982 (KIRO7)", "url_or_reference": "https://www.kiro7.com/news/trending/genetic-genealogy-leads-alleged-killer-2-colorado-women-taken-killed-hours-apart-1982/3LMTM2QZHVAKDFSCK6LABGK4XY/", "key_information_obtained": "Hours apart; ages"},
+      {"type": "News", "title": "[11] Colorado man arrested in 1982 cold case murders of 2 women (ABC News)", "url_or_reference": "https://abcnews.go.com/US/colorado-man-arrested-1982-cold-case-murders-women/story?id=76246371", "key_information_obtained": "Arrest; age 70"},
+      {"type": "News (48 Hours article)", "title": "[12] Authorities unknowingly rescue Alan Lee Phillips from a snowdrift after he killed 2 women (CBS News)", "url_or_reference": "https://www.cbsnews.com/news/annette-schnee-bobbie-jo-oberholtzer-1982-cold-case-murders-alan-lee-phillips-rescued-breckenridge-colorado/", "key_information_obtained": "Guanella Pass rescue, SOS, airliner, Dave Montoya, bruised face, key ring theory, Kipple quotes"},
+      {"type": "News (48 Hours article)", "title": "[13] How a pair of orange socks connected two Colorado cold case murders (CBS News)", "url_or_reference": "https://www.cbsnews.com/news/annette-schnee-bobbie-jo-oberholtzer-colorado-murders-orange-socks-connected-1982-cold-cases/", "key_information_obtained": "Orange socks, Christmas present, Hardtke quote, Kipple theory"},
+      {"type": "News photo gallery", "title": "[14] After almost 40 years, blood on a victim's glove IDs the killer (CBS News)", "url_or_reference": "https://www.cbsnews.com/pictures/annette-schnee-bobbie-jo-oberholtzer-murder-evidence-photos/", "key_information_obtained": "Glove blood as key evidence"},
+      {"type": "News", "title": "[15] Sheriff on United flight spots SOS on Guanella Pass in 1982 (9News)", "url_or_reference": "https://www.9news.com/article/news/investigations/double-murder-mountain-rescue-connection/73-6a464873-84da-4c1f-a64e-41cbc2f98282", "key_information_obtained": "SOS seen from an airliner"},
+      {"type": "Blog/feature", "title": "[16] The miracle rescue of Alan Lee Phillips at Colorado's Guanella Pass (StrangeOutdoors)", "url_or_reference": "https://www.strangeoutdoors.com/true-crime-in-the-outdoors/alan-lee-phillips", "key_information_obtained": "Severe snowstorm; temperatures near -22 F (single-sourced)"},
+      {"type": "News", "title": "[17] Alan Phillips 1982 Mountain Rescue Linked to Schnee, Oberholtzer Murders (Law&Crime)", "url_or_reference": "https://lawandcrime.com/crime/alan-phillips-rescue-the-night-of-the-murders-viewed-in-new-light/", "key_information_obtained": "Rescue viewed in new light; differing injury explanation"},
+      {"type": "News", "title": "[18] Judge orders trial for suspect in 1982 Breckenridge double murder (9News)", "url_or_reference": "https://www.9news.com/article/news/crime/park-county-cold-case-murders/73-8dff6903-eae6-4071-8cdf-0c83bac319a1", "key_information_obtained": "Bound over for trial"},
+      {"type": "News", "title": "[19] '39 years of hell': Families get closer to closure after arrest (Denver7)", "url_or_reference": "https://www.denver7.com/news/local-news/39-years-of-hell-families-get-closer-to-closure-after-arrest-in-murders-of-young-colorado-women", "key_information_obtained": "Business card; Jeff cleared by DNA early 1990s; traffic stop; re-test"},
+      {"type": "News", "title": "[20] 'You can't walk away': A Colorado double murder and the chase for closure (Denver7)", "url_or_reference": "https://www.denver7.com/news/crime/you-cant-walk-away-a-colorado-double-murder-and-the-chase-for-closure-before-time-runs-out", "key_information_obtained": "Charlie McCormick, $1/year, Eaton"},
+      {"type": "News", "title": "[21] The cold case that had an 81-year-old hot on its trail (Journal Times)", "url_or_reference": "https://journaltimes.com/news/local/crime-and-courts/the-cold-case-that-had-an-81-year-old-hot-on-its-trail-solving-bobbie/article_e52b578d-fd90-5688-8e89-9ea88dcefc06.html", "key_information_obtained": "Elderly investigator still on the case"},
+      {"type": "News", "title": "[22] Cold case: Tracking a Summit County double-murder from 1982 (Summit Daily)", "url_or_reference": "https://www.summitdaily.com/news/cold-case-tracking-a-summit-county-double-murder-from-1982/", "key_information_obtained": "Background"},
+      {"type": "News", "title": "[23] Breckenridge investigator looking for new clues in unsolved 1982 double homicide (Summit Daily)", "url_or_reference": "https://www.summitdaily.com/news/crime/breckenridge-investigator-looking-for-new-clues-in-unsolved-1982-double-homicide/", "key_information_obtained": "Ongoing appeals for clues"},
+      {"type": "News", "title": "[24] Public invited to help solve 33-year-old double murder (Mountain Mail)", "url_or_reference": "https://www.themountainmail.com/free_content/article_b1380916-9d91-11e4-99f4-7b617b4e8955.html", "key_information_obtained": "2015 public appeal"},
+      {"type": "News", "title": "[25] A former Sioux City woman's shooting death ends in conviction 40 years later (KTIV)", "url_or_reference": "https://www.ktiv.com/2022/09/17/former-sioux-city-womans-shooting-death-ends-conviction-40-years-later/", "key_information_obtained": "Annette formerly of Sioux City; routes; counts; family present"},
+      {"type": "News", "title": "[26] Sioux City woman's murderer sentenced Monday 40 years after crime happened (KTIV)", "url_or_reference": "https://www.ktiv.com/2022/11/08/sioux-city-womans-murderer-sentenced-today-40-years-after-crime-happened/", "key_information_obtained": "Sentence"},
+      {"type": "News", "title": "[27] Autopsy released on man convicted of former Sioux City woman's death (KTIV)", "url_or_reference": "https://www.ktiv.com/2023/05/02/autopsy-released-man-convicted-former-sioux-city-womans-death/", "key_information_obtained": "Cause of death suicide per official records"},
+      {"type": "News", "title": "[28] Family, friends remember Sioux City victim of Colorado cold case (SiouxlandProud)", "url_or_reference": "https://www.siouxlandproud.com/news/local-news/family-friends-remember-sioux-city-victim-of-colorado-cold-case/", "key_information_obtained": "Cindy French quote; Russell Schnee"},
+      {"type": "News", "title": "[29] Annette Schnee's brother shares emotions after murderer convicted (Fox San Antonio / Sinclair)", "url_or_reference": "https://foxsanantonio.com/news/nation-world/brother-of-annette-schnee-40-year-cold-case-shares-emotions-after-murder-convicted", "key_information_obtained": "Brother's reaction (verbatim not gathered)"},
+      {"type": "News", "title": "[30] Dumont man serving 2 life sentences dies 6 months after his conviction (Summit Daily)", "url_or_reference": "https://www.summitdaily.com/news/dumont-man-serving-2-life-sentences-for-1982-murders-near-breckenridge-dies-6-months-after-his-conviction/", "key_information_obtained": "Death"},
+      {"type": "News", "title": "[31] Man recently sentenced for 1982 slayings dies in prison (CBS Colorado)", "url_or_reference": "https://www.cbsnews.com/colorado/news/alan-lee-phillips-dies-murdered-annette-schnee-barbara-bobbi-jo-oberholtzer-colorado-near-breckenridge-cold-case/", "key_information_obtained": "Death Feb 27, 2023; coroner"},
+      {"type": "News", "title": "[32] Cold case murder convict Alan Phillips dies (9News)", "url_or_reference": "https://www.9news.com/article/news/crime/cold-case-murder-convict-dies-alan-phillips/73-76b4594c-3d01-4f91-9919-d07f59ffc1e6", "key_information_obtained": "Death"},
+      {"type": "News", "title": "[33] Man recently sentenced in Breckenridge cold case slayings dies (Denver Gazette)", "url_or_reference": "https://denvergazette.com/outtherecolorado/news/man-recently-sentenced-in-breckenridge-cold-case-slayings-dies/article_cc272976-e8ae-572c-ba7a-fbf1981b72bb.html", "key_information_obtained": "Death; Sonic bag DNA"},
+      {"type": "News", "title": "[34] Law firm intends to sue CBI over Missy Woods' alleged mishandling of evidence in 1982 double homicide case (Denver7)", "url_or_reference": "https://www.denver7.com/news/investigations/law-firm-intends-to-sue-cbi-over-missy-woods-alleged-mishandling-of-evidence-in-1982-double-homicide-case", "key_information_obtained": "Mehr quote; Andrea Shelton; suicide; CBI no comment"},
+      {"type": "News", "title": "[35] Lawsuit to be filed in cold case reviewed by Missy Woods (KDVR)", "url_or_reference": "https://kdvr.com/news/local/attorneys-plan-to-file-lawsuit-in-cold-case-reviewed-by-missy-woods/", "key_information_obtained": "Same"},
+      {"type": "News", "title": "[36] Attorneys file $100M claim against CBI over alleged wrongful murder conviction linked to Missy Woods (KRDO, June 27, 2025)", "url_or_reference": "https://krdo.com/news/2025/06/27/attorneys-file-100m-claim-against-cbi-over-alleged-wrongful-murder-conviction-linked-to-missy-woods/", "key_information_obtained": "$100M notice of claim; allegation that CBI staff were aware of anomalies"},
+      {"type": "News", "title": "[37] Former CBI scientist faces lawsuit for evidence mishandling (The Flume)", "url_or_reference": "https://www.theflume.com/news/phillips-double-homicide-evidence-mishandling/article_abb99e3b-ebe5-4d0d-8466-a8bc08e759a0.html", "key_information_obtained": "Local coverage of lawsuit"},
+      {"type": "News", "title": "[38] Former CBI scientist Missy Woods sentenced to prison in DNA scandal (Colorado Sun, Sept 8, 2026)", "url_or_reference": "https://coloradosun.com/2026/09/08/yvonne-missy-woods-cbi-scientist-sentenced/", "key_information_obtained": "10 years; Judge Poland; $11M; quote"},
+      {"type": "News", "title": "[39] A legacy of doubt: Former CBI forensic scientist sentenced to 10 years (Denver7)", "url_or_reference": "https://www.denver7.com/news/local-news/in-your-community/jeffco/a-legacy-of-doubt-former-cbi-forensic-scientist-who-mishandled-dna-sentenced-to-10-years-in-prison", "key_information_obtained": "Sentence"},
+      {"type": "News", "title": "[40] Former CBI scientist Missy Woods pleads guilty (Colorado Sun, June 23, 2026)", "url_or_reference": "https://coloradosun.com/2026/06/23/yvonne-missy-woods-guilty-plea-colorado-bureau-of-investigation/", "key_information_obtained": "Plea to four felonies; CBI position that she cut corners, no fabricated profiles"},
+      {"type": "News", "title": "[41] Review of all CBI cases involving Missy Woods complete (Denver7)", "url_or_reference": "https://www.denver7.com/news/local-news/review-of-all-cbi-cases-involving-missy-woods-complete-more-than-1k-cases-impacted-by-mishandling-of-dna", "key_information_obtained": "1,000+ cases impacted"},
+      {"type": "News", "title": "[42] The CBI is retesting DNA after forensic scientist manipulated DNA in over 800 cases (CPR, Nov 14, 2024)", "url_or_reference": "https://www.cpr.org/2024/11/14/cbi-retesting-dna-manipulated-results-yvonne-missy-wood/", "key_information_obtained": "Retesting"},
+      {"type": "News", "title": "[43] Cold No More: How genetic genealogy is helping solve Colorado's cold cases (Denver7)", "url_or_reference": "https://www.denver7.com/news/local-news/cold-no-more-how-genetic-genealogy-is-helping-solve-colorados-cold-cases", "key_information_obtained": "United Data Connect founded by former Denver DA Mitch Morrissey"},
+      {"type": "TV network feature", "title": "[44] Bobbie Jo Oberholtzer, Annette Schnee Slain Amid 1982 Blizzard (Oxygen)", "url_or_reference": "https://www.oxygen.com/buried-in-the-backyard/crime-news/bobbie-jo-oberholtzer-annette-schnee-murder-alan-phillips", "key_information_obtained": "Blizzard context"},
+      {"type": "News", "title": "[45] 70-year-old Colorado man arrested in 1982 murders of two women (Colorado Sun, March 4, 2021)", "url_or_reference": "https://coloradosun.com/2021/03/04/alan-lee-phillips-double-murder-arrest-colorado/", "key_information_obtained": "Arrest; semi-retired mechanic"},
+      {"type": "Memorial database", "title": "[47] Annette Kay Schnee (1960-1982) - Find a Grave", "url_or_reference": "https://www.findagrave.com/memorial/201251087/annette-kay-schnee", "key_information_obtained": "Middle name, birth year"},
+      {"type": "Memorial database", "title": "[48] Alan Lee Phillips (1951-2023) - Find a Grave", "url_or_reference": "https://www.findagrave.com/memorial/271604395/alan_lee-phillips", "key_information_obtained": "Birth year"},
+      {"type": "News", "title": "[49] Former CBI forensic scientist Yvonne 'Missy' Woods facing 102 felony charges (Yahoo News)", "url_or_reference": "https://www.yahoo.com/news/former-cbi-forensic-scientist-yvonne-221848252.html", "key_information_obtained": "102 felony charges"},
+      {"type": "News", "title": "[50] CBI director says department missed signs that analyst was altering data (Denver7)", "url_or_reference": "https://www.denver7.com/news/local-news/colorado-bureau-of-investigation-director-says-department-missed-signs-that-analyst-was-altering-data", "key_information_obtained": "CBI missed signs (2014, 2018 concerns)"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "IDAHO 1996 — Angie Dodge (Idaho Falls; Christopher Tapp exonerated; Brian Leigh Dripps)",
+    "connection_to_current_video": "Another case where DNA left at the scene waited decades and genetic genealogy named a man no one had suspected; and where an innocent man (like Jeff Oberholtzer here, though never charged) paid for the investigators' wrong focus, this time with years in prison.",
+    "teaser_line": "In Idaho Falls in 1996, an 18-year-old was murdered in her apartment, and a young man went to prison for it. The DNA never matched him. It took a mother's refusal to give up and a family tree to prove it."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Cause of Phillips' death: reported as suicide by KTIV (official records) and Denver7/KDVR; the coroner initially said only that no foul play was suspected.",
+      "Discovery date of Bobbie Jo: January 7 (most sources) vs January 8 (48 Hours).",
+      "Distance of Bobbie Jo's body: about 400 feet from the top (CDAC) vs 300 feet from the parking lot (KKTV).",
+      "Confirmation sample: napkin vs Sonic bag vs 'garbage'.",
+      "Surveillance length 4-5 weeks: single report.",
+      "Temperature near -22 F on Guanella Pass: single-sourced.",
+      "Kipple's New York Times quote seen only via secondary summary.",
+      "Deliberation time: 4 hours vs 5 hours (one summary said five days, clearly an error).",
+      "Whether Missy Woods personally processed or testified about the DNA in this case is an allegation by the Phillips family's lawyer; not confirmed by CBI or a court in sources gathered.",
+      "Schnee age: 21 in most sources, 22 in some."
+    ],
+    "information_gaps": [
+      "Occupations and personal biographies of Annette and Bobbie Jo (jobs, hobbies) were not gathered; full-page reads were impossible.",
+      "Exact times on January 6, 1982.",
+      "Name of the sheriff aboard the airliner; name of Annette's mother.",
+      "Trial testimony details; defense attorney names.",
+      "Whether a direct appeal was filed and what happened to it after death (Colorado abatement doctrine) - not verified.",
+      "Status of Andrea Shelton's $100M claim as of October 2026.",
+      "Context of the 'Alan Phillips' file tab Kipple found."
+    ],
+    "questions_to_answer": [
+      "Was the Phillips DNA analyzed by Woods, and did CBI include the case in its Woods review?",
+      "Did the conviction abate on death?",
+      "Has the daughter's lawsuit been filed in court or dismissed?"
+    ]
+  }
+}

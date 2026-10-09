@@ -1,0 +1,1294 @@
+{
+ "video_metadata": {
+  "working_title": "IDAHO 1996 Cold Case Solved After 23 Years — Justice for Angie Dodge",
+  "topic_one_sentence": "An 18-year-old is raped and killed in her first apartment in Idaho Falls in 1996; police extract a false confession from a 20-year-old who spends 20 years in prison, until the victim's own mother pushes genetic genealogy to find the real killer, the man who lived across the street.",
+  "primary_emotion_to_evoke": "grief turning into outrage at a broken system, then hope through a mother's persistence and science",
+  "target_length_minutes": "70"
+ },
+ "protagonist": {
+  "_instructions": "Main character: in this story the moral protagonist is Carol Dodge; the perpetrator is Brian Leigh Dripps Sr. Both summarized.",
+  "full_name": "Carol Dodge (mother of Angie Raye Dodge); perpetrator: Brian Leigh Dripps Sr.",
+  "age_at_time_of_events": "Carol: age not verified. Dripps: 53 at arrest (May 15, 2019), 55 at sentencing (June 8, 2021); by those figures he was 30 in June 1996 (derived, not directly reported).",
+  "occupation_or_status": "Carol: mother, advocate, co-founder with son Brent of the '5 for HOPE' fundraising for cold-case foundations and police. Dripps: lived across the street from Angie in 1996; later of Caldwell, Idaho; now serving 20-years-to-life in Idaho prison.",
+  "location": "Idaho Falls, Bonneville County, eastern Idaho; Dripps later in Caldwell, Canyon County.",
+  "physical_description": "Not used (avoid). Parabon's 2017 predicted phenotype for the perpetrator: Northern European ancestry, fair skin, brown eyes, brown hair (one account).",
+  "background_brief": "Carol believed police for years that Christopher Tapp was guilty; she later concluded he was innocent, supported his exoneration, and pushed CeCe Moore and Parabon NanoLabs to try genetic genealogy on the degraded sample in November 2018.",
+  "psychological_profile": "Do not speculate. Documented: relentless persistence, publicly described as a '20-year crusade' (ABC News).",
+  "mundane_humanizing_detail": "Carol and son Brent ask people to honor Angie by donating to '5 for HOPE' to help cold-case foundations and under-funded police departments.",
+  "nickname_or_alias_if_any": "Dripps: 'Brian Dripps Sr.'; Angie's middle name Raye."
+ },
+ "victims_or_targets": {
+  "_instructions": "People affected.",
+  "individuals": [
+   {
+    "name": "Angie Raye Dodge",
+    "role_or_profession": "18; Idaho Falls High School graduate (1995, with honors), briefly at Idaho State University; worked at Beauty for All Seasons",
+    "connection_to_protagonist": "Daughter of Carol Dodge; murdered by Brian Dripps, her neighbor across the street",
+    "specific_impact_suffered": "Raped and stabbed to death in her apartment at 444 I Street on June 13, 1996",
+    "humanizing_detail": "Only daughter, youngest of four; tutored children in reading/math; loved camping and starting water fights with cousins; artistic, wrote poetry; dreamed of becoming an entrepreneur (family tribute)",
+    "any_quotes_from_them": "None verified."
+   },
+   {
+    "name": "Christopher 'Chris' Tapp",
+    "role_or_profession": "20 in January 1997; wrongfully convicted; exonerated July 17, 2019; later advocate",
+    "connection_to_protagonist": "Falsely confessed after coercive interrogations; Carol Dodge came to support his innocence",
+    "specific_impact_suffered": "About 20 years in prison (1997-2017) for a crime he did not commit; died Nov 5, 2023 at 47 after an altercation in Las Vegas",
+    "humanizing_detail": "Lobbied for Idaho's wrongful-conviction compensation law and testified in several states against deceptive interrogation tactics (Innocence Project)",
+    "any_quotes_from_them": "No verified direct quote gathered in this session."
+   },
+   {
+    "name": "Carol Dodge",
+    "role_or_profession": "Angie's mother",
+    "connection_to_protagonist": "Moral protagonist",
+    "specific_impact_suffered": "25 years of waiting",
+    "humanizing_detail": "Changed her mind about Tapp; pushed for genealogy",
+    "any_quotes_from_them": "We had to go through 25 years of hell. / Whatever you give this man is not enough. / You have shattered our family."
+   },
+   {
+    "name": "Todd Dodge",
+    "role_or_profession": "Angie's brother",
+    "connection_to_protagonist": "Family",
+    "specific_impact_suffered": "Counted 9,126 days",
+    "humanizing_detail": "Asked judge to reject the plea so Dripps would face a jury",
+    "any_quotes_from_them": "he sentenced me to a lifetime of hell. And so far, I have served 9,126 days."
+   },
+   {
+    "name": "Brent Dodge",
+    "role_or_profession": "Angie's brother",
+    "connection_to_protagonist": "Family; co-runs 5 for HOPE",
+    "specific_impact_suffered": "Was at the police department when family was called to identify Angie (one account)",
+    "humanizing_detail": "",
+    "any_quotes_from_them": "I wouldn't say it's closure because as Todd described there is still a lot of chaos."
+   },
+   {
+    "name": "Michael Usry Jr.",
+    "role_or_profession": "New Orleans filmmaker",
+    "connection_to_protagonist": "Wrongly suspected via 2014 familial Y-DNA search",
+    "specific_impact_suffered": "Questioned, gave DNA, cleared about a month later",
+    "humanizing_detail": "",
+    "any_quotes_from_them": ""
+   }
+  ],
+  "collective_victims_if_applicable": {
+   "group_description": "Dodge family; Tapp and his family; Usry family; Hobbs and Sargis (suspected, never charged in this crime)",
+   "total_number_affected": "n/a",
+   "range_of_impacts": "grief, wrongful imprisonment, suspicion"
+  }
+ },
+ "supporting_characters": {
+  "_instructions": "Investigators, witnesses, family.",
+  "characters": [
+   {
+    "name": "Jared Fuhriman",
+    "role_in_story": "Idaho Falls police officer/detective who interrogated Tapp; former school resource officer Tapp trusted; later mayor of Idaho Falls; died at 60 after a long battle with Alzheimer's (date not verified)",
+    "key_actions_they_took": "Testified at 1998 trial that officers did not feed Tapp information; recordings later showed otherwise (per later reviews); testified at Feb 29, 2012 hearing as mayor",
+    "notable_quotes": "None verified."
+   },
+   {
+    "name": "Ben Hobbs",
+    "role_in_story": "Original suspect; arrested in Nevada on a separate charge; never charged in Angie's death; DNA excluded",
+    "key_actions_they_took": "",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Jeremy Sargis",
+    "role_in_story": "Second man added to police theory; DNA not a match; never charged",
+    "key_actions_they_took": "",
+    "notable_quotes": ""
+   },
+   {
+    "name": "CeCe Moore",
+    "role_in_story": "Genetic genealogist, Parabon NanoLabs",
+    "key_actions_they_took": "Built family trees from a degraded sample at Carol Dodge's urging; found the Dripps branch",
+    "notable_quotes": "Said genealogy had never been done in a suspect case with such a degraded sample (paraphrase, not exact quote)."
+   },
+   {
+    "name": "Detective Sage Albright",
+    "role_in_story": "Idaho Falls detective; wrote probable cause affidavit",
+    "key_actions_they_took": "Documented Dripps' admissions",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Daniel (Danny) Clark",
+    "role_in_story": "Bonneville County Prosecuting Attorney",
+    "key_actions_they_took": "2016 review found no reason to reverse; July 17, 2019 filed to exonerate Tapp",
+    "notable_quotes": "clear and convincing evidence"
+   },
+   {
+    "name": "John Thomas",
+    "role_in_story": "Tapp's attorney who negotiated the 2017 release",
+    "key_actions_they_took": "",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Idaho Innocence Project (Boise State University)",
+    "role_in_story": "Took Tapp's case in 2007",
+    "key_actions_they_took": "DNA requests 2008, supported 2012 law",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Judge Joel Tingey",
+    "role_in_story": "Seventh District judge; took Dripps' plea and sentenced him",
+    "key_actions_they_took": "",
+    "notable_quotes": "That falls on you."
+   },
+   {
+    "name": "Deputy Attorney General Jessica Kuehn",
+    "role_in_story": "Prosecutor at plea hearing",
+    "key_actions_they_took": "Argued Dripps lived 23 years knowing he killed Dodge and never came forward (paraphrase)",
+    "notable_quotes": ""
+   },
+   {
+    "name": "Daniel Rodimer",
+    "role_in_story": "Former pro wrestler and former Nevada congressional candidate charged with murder in Tapp's 2023 death; pleaded not guilty; has NOT been convicted; trial reported set for Feb 1, 2027",
+    "key_actions_they_took": "",
+    "notable_quotes": ""
+   }
+  ]
+ },
+ "chronological_timeline": {
+  "_instructions": "Every event with source.",
+  "events": [
+   {
+    "date": "1977-12-21",
+    "location": "Vancouver, Washington",
+    "what_happened": "Angie Raye Dodge is born; the only daughter and youngest of four children.",
+    "significance": "Victim's birth; she will be 18 at her death.",
+    "source": "[16] https://www.angiedodge.com/tribute/; [17] https://www.findagrave.com/memorial/7645270/angie_raye-dodge"
+   },
+   {
+    "date": "Childhood (dates not given)",
+    "location": "San Diego, California; then Idaho Falls, Idaho",
+    "what_happened": "Angie begins preschool in San Diego and continues through grade school, junior high and high school in Idaho Falls; tutors younger children in math and English/reading.",
+    "significance": "Humanizing background.",
+    "source": "[16] https://www.angiedodge.com/tribute/"
+   },
+   {
+    "date": "1995",
+    "location": "Idaho Falls High School",
+    "what_happened": "Angie graduates with honors, then attends Idaho State University (ISU) for a short time.",
+    "significance": "Portrait. NOTE: one weak source [54] says she 'had just graduated' in May 1996; family tribute says 1995 - use 1995.",
+    "source": "[16] https://www.angiedodge.com/tribute/"
+   },
+   {
+    "date": "June 1996 (before the 13th)",
+    "location": "444 I Street, Idaho Falls",
+    "what_happened": "Angie, 18, lives in her first apartment and works at Beauty for All Seasons.",
+    "significance": "Setting; the apartment where she is killed.",
+    "source": "[16] https://www.angiedodge.com/tribute/; [54] https://www.linkedin.com/pulse/story-behind-angie-dodge-murder-mystery-jared-bradley-mba; [1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge"
+   },
+   {
+    "date": "1996-06-13, morning",
+    "location": "444 I Street, Idaho Falls",
+    "what_happened": "Angie is raped and stabbed to death in her apartment. She does not show up for work.",
+    "significance": "The crime.",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [3] https://innocenceproject.org/cases/christopher-tapp/; [6] https://www.eastidahonews.com/2019/05/dripps-told-police-he-didnt-mean-to-kill-angie-dodge-according-to-court-documents/"
+   },
+   {
+    "date": "1996-06-13, about 11:15 a.m.",
+    "location": "444 I Street, Idaho Falls",
+    "what_happened": "Coworkers worried that she had not come to work go to the apartment; one account says a friend/coworker entered the unlocked apartment and called 911; Angie is found dead.",
+    "significance": "Discovery. Exact finder names not verified.",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [54] https://www.linkedin.com/pulse/story-behind-angie-dodge-murder-mystery-jared-bradley-mba"
+   },
+   {
+    "date": "1996 (exact date unknown)",
+    "location": "Idaho Falls Police Department",
+    "what_happened": "The family is called to the police department to identify Angie; her brother Brent is there (one account).",
+    "significance": "Family's first day of grief.",
+    "source": "[26] https://abcnews.com/US/mothers-pursuit-justice-overturns-wrongful-conviction-catches-true/story?id=76392277"
+   },
+   {
+    "date": "1996-1997",
+    "location": "Idaho Falls / Nevada",
+    "what_happened": "Ben Hobbs becomes the original suspect; he is arrested in Nevada on a separate charge and serves time there for a separate attack. He is never charged in Angie's death; DNA eliminates him.",
+    "significance": "First wrong lead.",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [5] https://www.themarshallproject.org/2019/07/16/in-an-apparent-first-genetic-genealogy-aids-a-wrongful-conviction-case"
+   },
+   {
+    "date": "1997-01-07",
+    "location": "Idaho Falls Police Department",
+    "what_happened": "Christopher Tapp, 20, a friend of Hobbs, is first interviewed by Idaho Falls police and released.",
+    "significance": "Start of the wrongful prosecution.",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [19] https://boisestate.edu/news/?p=1022967"
+   },
+   {
+    "date": "January 1997",
+    "location": "Idaho Falls Police Department",
+    "what_happened": "Tapp is questioned repeatedly, including through polygraph examinations; officers including Jared Fuhriman feed him details of the case and tell him he could face the death penalty unless he implicates himself and another suspect. One source says the questioning totalled about 20 hours (single-sourced).",
+    "significance": "Coerced false confession.",
+    "source": "[19] https://boisestate.edu/news/?p=1022967; [2] https://www.exonerationregistry.org/cases/12683; [22] https://www.criminallegalnews.org/news/2021/jun/15/ignoble-process-how-high-pressure-tactics-and-flawed-investigative-techniques-created-miscarriage-justice/; [27] https://deathpenaltyinfo.org/news/idaho-falls-will-pay-11-7-million-to-exoneree-coerced-into-false-confession-by-threat-of-the-death-penalty"
+   },
+   {
+    "date": "1997-01-29",
+    "location": "Idaho Falls Police Department",
+    "what_happened": "An interrogation of Tapp later becomes the sole focus of a 2012 evidentiary hearing.",
+    "significance": "Key recorded session.",
+    "source": "[22] https://www.criminallegalnews.org/news/2021/jun/15/ignoble-process-how-high-pressure-tactics-and-flawed-investigative-techniques-created-miscarriage-justice/; [21] https://localnews8.com/news/2012/02/29/tapps-ex-attorney-mayor-fuhriman-take-stand-in-murder-confession-hearing/"
+   },
+   {
+    "date": "1997-01-30",
+    "location": "Idaho Falls Police Department",
+    "what_happened": "Tapp's fifth polygraph. He is told he might get a more lenient sentence if he had been in fear for his life; the examiner says he was 'deceptive' but 'passed'. Tapp then says he cut Dodge because Hobbs had threatened to kill him.",
+    "significance": "The confession that convicted him.",
+    "source": "[22] https://www.criminallegalnews.org/news/2021/jun/15/ignoble-process-how-high-pressure-tactics-and-flawed-investigative-techniques-created-miscarriage-justice/; [2] https://www.exonerationregistry.org/cases/12683"
+   },
+   {
+    "date": "1997-1998",
+    "location": "Idaho Falls",
+    "what_happened": "With DNA excluding Hobbs, police theory expands to include Jeremy Sargis and then a third, never-identified man; Sargis's DNA also does not match.",
+    "significance": "Tunnel vision.",
+    "source": "[5] https://www.themarshallproject.org/2019/07/16/in-an-apparent-first-genetic-genealogy-aids-a-wrongful-conviction-case; [2] https://www.exonerationregistry.org/cases/12683"
+   },
+   {
+    "date": "1998-05-12",
+    "location": "Seventh Judicial District Court, Bonneville County",
+    "what_happened": "Tapp's trial begins. Fuhriman testifies officers did not reveal information to Tapp; later reviews of the videos showed otherwise.",
+    "significance": "Trial.",
+    "source": "[2] https://www.exonerationregistry.org/cases/12683; [22] https://www.criminallegalnews.org/news/2021/jun/15/ignoble-process-how-high-pressure-tactics-and-flawed-investigative-techniques-created-miscarriage-justice/"
+   },
+   {
+    "date": "1998-05-28",
+    "location": "Bonneville County",
+    "what_happened": "After about 13 hours of deliberation, the jury finds Tapp guilty of rape and first-degree murder although his DNA did not match the crime-scene sample.",
+    "significance": "Wrongful conviction.",
+    "source": "[2] https://www.exonerationregistry.org/cases/12683; [5] https://www.themarshallproject.org/2019/07/16/in-an-apparent-first-genetic-genealogy-aids-a-wrongful-conviction-case"
+   },
+   {
+    "date": "1998 (sentencing)",
+    "location": "Bonneville County",
+    "what_happened": "The judge declines the death penalty and sentences Tapp to 30 years to life (Marshall Project; NBC gives 40 years - conflict). Judge: 'had Mr. Tapp not confessed, there would have been no conviction in this case.'",
+    "significance": "Sentence.",
+    "source": "[5] https://www.themarshallproject.org/2019/07/16/in-an-apparent-first-genetic-genealogy-aids-a-wrongful-conviction-case; [2] https://www.exonerationregistry.org/cases/12683; [31] https://www.nbcnews.com/news/us-news/chris-tapp-death-conviction-justice-dateline-rcna139707"
+   },
+   {
+    "date": "2007",
+    "location": "Boise State University",
+    "what_happened": "The Idaho Innocence Project agrees to take Tapp's case.",
+    "significance": "Start of the fight to free him.",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [4] https://innocenceproject.org/news/remembering-christopher-tapp-beloved-innocence-project-client-the-first-person-in-the-world-to-be-exonerated-with-genetic-genealogy/; [19] https://boisestate.edu/news/?p=1022967"
+   },
+   {
+    "date": "2008",
+    "location": "Idaho",
+    "what_happened": "The Idaho Innocence Project requests DNA testing on hairs recovered from the scene.",
+    "significance": "New testing push.",
+    "source": "[4] https://innocenceproject.org/news/remembering-christopher-tapp-beloved-innocence-project-client-the-first-person-in-the-world-to-be-exonerated-with-genetic-genealogy/"
+   },
+   {
+    "date": "2012",
+    "location": "Idaho Legislature",
+    "what_happened": "A state law gives defendants greater post-conviction access to DNA evidence; the Idaho Innocence Project supported it.",
+    "significance": "Legal change.",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [19] https://boisestate.edu/news/?p=1022967"
+   },
+   {
+    "date": "2012-02-29",
+    "location": "Bonneville County court",
+    "what_happened": "Evidentiary hearing on the confession: Tapp's former attorney and Jared Fuhriman, by then mayor of Idaho Falls, take the stand.",
+    "significance": "Then-and-now irony.",
+    "source": "[21] https://localnews8.com/news/2012/02/29/tapps-ex-attorney-mayor-fuhriman-take-stand-in-murder-confession-hearing/"
+   },
+   {
+    "date": "2012 (August)",
+    "location": "Bonneville County court",
+    "what_happened": "A judge turns down the request for additional testing; later that year limited testing excludes Tapp and Hobbs as contributors.",
+    "significance": "System resistance, then exclusion.",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [19] https://boisestate.edu/news/?p=1022967"
+   },
+   {
+    "date": "2014",
+    "location": "Idaho Falls / Sorenson database via Ancestry",
+    "what_happened": "Police find a 34-of-35 Y-chromosome marker match to Michael Usry Sr. in a Sorenson database (obtained from Ancestry with a court order); his son, New Orleans filmmaker Michael Usry Jr., is questioned, gives DNA, and is cleared about a month later (reported 2015).",
+    "significance": "Familial DNA false lead.",
+    "source": "[24] https://www.theadvocate.com/new_orleans/news/article_1b3a3f96-d574-59e0-9c6a-c3c7c0d2f166.html; [46] https://www.cbsnews.com/news/how-safe-is-your-dna-familal-search-privacy-rights/; [1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge"
+   },
+   {
+    "date": "2014",
+    "location": "Idaho",
+    "what_happened": "A Judges for Justice review concludes Tapp's confession was coerced and did not match the physical evidence.",
+    "significance": "Outside review.",
+    "source": "[2] https://www.exonerationregistry.org/cases/12683; [22] https://www.criminallegalnews.org/news/2021/jun/15/ignoble-process-how-high-pressure-tactics-and-flawed-investigative-techniques-created-miscarriage-justice/"
+   },
+   {
+    "date": "2016 (July and December)",
+    "location": "Bonneville County",
+    "what_happened": "Prosecutor Daniel (Danny) Clark hires a private firm to review the case; in December he says he found no evidence reversing the conviction.",
+    "significance": "Prosecutor holds the line.",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [19] https://boisestate.edu/news/?p=1022967"
+   },
+   {
+    "date": "2017-03-22, 11 a.m.",
+    "location": "Idaho",
+    "what_happened": "Tapp is released. Under a deal negotiated by attorney John Thomas, his rape conviction is vacated and he is released on time served for murder, giving up further appeals.",
+    "significance": "Freedom without exoneration.",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [19] https://boisestate.edu/news/?p=1022967"
+   },
+   {
+    "date": "2017",
+    "location": "Parabon NanoLabs",
+    "what_happened": "Idaho Falls police use Parabon's Snapshot DNA phenotyping: a composite predicting ancestry, eye, hair, skin color, freckling and face shape at default age 25 and BMI 22.",
+    "significance": "First step of the new science.",
+    "source": "[25] https://www.buzzfeednews.com/article/peteraldhous/angie-dodge-cold-case-murder-genetic-genealogy-parabon; [57] https://www.eastidahonews.com/2019/07/the-angie-dodge-case-from-1996-until-today-whats-happened-why-and-whats-next/"
+   },
+   {
+    "date": "2017-07-12",
+    "location": "Idaho Falls Police Department",
+    "what_happened": "Police announce Parabon kinship analysis is 87.63 percent confident the crime-scene DNA does not match the Usry family.",
+    "significance": "Usry family formally cleared.",
+    "source": "[23] https://idahofallsidaho.gov/m/newsflash/Archive/Item/279?arcId=434"
+   },
+   {
+    "date": "2018-11",
+    "location": "Idaho Falls / Parabon",
+    "what_happened": "Carol Dodge reaches out to genetic genealogist CeCe Moore and urges her to take the case.",
+    "significance": "The mother's push.",
+    "source": "[26] https://abcnews.com/US/mothers-pursuit-justice-overturns-wrongful-conviction-catches-true/story?id=76392277; [48] https://legalclarity.org/brian-dripps-the-angie-dodge-murder-case-explained/"
+   },
+   {
+    "date": "2018-2019",
+    "location": "Parabon NanoLabs / GEDmatch",
+    "what_happened": "Despite a degraded sample (about 61 percent of the data usually needed), Moore's team uploads the profile to GEDmatch, builds three family trees that converge on one couple (apparent great-grandparents of the perpetrator), narrows to about six men, all excluded by discarded-item DNA; the break is a son conceived shortly before a divorce who took his stepfather's surname: Brian Dripps.",
+    "significance": "Genealogy breakthrough.",
+    "source": "[5] https://www.themarshallproject.org/2019/07/16/in-an-apparent-first-genetic-genealogy-aids-a-wrongful-conviction-case; [25] https://www.buzzfeednews.com/article/peteraldhous/angie-dodge-cold-case-murder-genetic-genealogy-parabon; [49] https://www.foxnews.com/us/dna-genetic-genealogy-exonerates-innocent-man-christopher-tapp"
+   },
+   {
+    "date": "2019 (spring; exact date not verified)",
+    "location": "Caldwell area, Idaho",
+    "what_happened": "Police surveil Dripps; in the first hour he flips a cigarette butt from his vehicle but it is lost in traffic; after more than 20 hours of surveillance he discards another; the Idaho State Police lab matches it to the crime-scene DNA.",
+    "significance": "The discarded object.",
+    "source": "[7] https://www.postregister.com/star/news/cigarette-butt-leads-to-arrest-in-angie-dodge-murder-case/article_a0e036bc-efcd-56d8-9161-5918c299775d.html; [6] https://www.eastidahonews.com/2019/05/dripps-told-police-he-didnt-mean-to-kill-angie-dodge-according-to-court-documents/"
+   },
+   {
+    "date": "2019-05-15",
+    "location": "Caldwell, Canyon County, Idaho",
+    "what_happened": "Brian Leigh Dripps, 53, is arrested and charged with first-degree murder and rape. In an interview he first denies involvement, then, confronted with the DNA result, admits entering the apartment alone with a knife intending to rape her, says he did not mean to kill her, and believes she was alive when he left (affidavit by Detective Sage Albright).",
+    "significance": "Arrest and admission.",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [6] https://www.eastidahonews.com/2019/05/dripps-told-police-he-didnt-mean-to-kill-angie-dodge-according-to-court-documents/; [8] https://localnews8.com/archive/2019/05/17/documents-show-suspect-didnt-intend-to-kill-angie-dodge/; [56] https://localnews8.com/archive/2019/05/22/the-angie-dodge-case/"
+   },
+   {
+    "date": "May 2019",
+    "location": "Bonneville County",
+    "what_happened": "Dripps is arraigned by video and denied bail; his attorney argues he is a 'kind, loving father'. Reports note he lived across the street from Angie in 1996 and was never asked for DNA.",
+    "significance": "Court begins.",
+    "source": "[39] https://www.postregister.com/news/crime_courts/dripps-arraigned-via-video-denied-bail/article_b3fa1211-4d05-5787-8ab8-c1c705753722.html; [40] https://www.eastidahonews.com/2019/05/attorney-for-man-accused-of-killing-angie-dodge-argues-hes-a-kind-loving-father/; [25] https://www.buzzfeednews.com/article/peteraldhous/angie-dodge-cold-case-murder-genetic-genealogy-parabon"
+   },
+   {
+    "date": "2019 (exact date not verified)",
+    "location": "Bonneville County",
+    "what_happened": "Prosecutors file notice to seek the death penalty against Dripps.",
+    "significance": "Stakes.",
+    "source": "[38] https://www.ktvb.com/article/news/crime/death-penalty-prosecutors-seek-brian-dripps-angie-dodge-murder/277-5bd90f03-fae7-4624-a02d-880cd3c6dbc5"
+   },
+   {
+    "date": "2019-07-16",
+    "location": "The Marshall Project",
+    "what_happened": "National report: in an apparent first, genetic genealogy aids a wrongful-conviction case.",
+    "significance": "Historic framing.",
+    "source": "[5] https://www.themarshallproject.org/2019/07/16/in-an-apparent-first-genetic-genealogy-aids-a-wrongful-conviction-case"
+   },
+   {
+    "date": "2019-07-17",
+    "location": "Bonneville County court, Idaho Falls",
+    "what_happened": "Prosecutor Daniel Clark files to clear Tapp, writing there is 'clear and convincing evidence' he was convicted of a crime he did not commit; a judge vacates the remaining conviction. Tapp is exonerated.",
+    "significance": "Exoneration; the Innocence Project calls him the first person in the world proven innocent with genetic genealogy.",
+    "source": "[18] https://www.ktvb.com/article/news/local/christopher-tapp-exonerated-in-1996-murder-of-angie-dodge/277-56728db1-97ab-47b9-91b5-58b0c5edf40d; [19] https://boisestate.edu/news/?p=1022967; [20] https://www.postregister.com/news/crime_courts/after-years-christopher-tapp-cleared-of-all-charges-in-dodge/article_d0249678-6069-57db-a657-5722525a4918.html; [4] https://innocenceproject.org/news/remembering-christopher-tapp-beloved-innocence-project-client-the-first-person-in-the-world-to-be-exonerated-with-genetic-genealogy/"
+   },
+   {
+    "date": "2019-11",
+    "location": "Bonneville County",
+    "what_happened": "Dripps' trial is set for 2021; defense says it will seek a change of venue.",
+    "significance": "Delay.",
+    "source": "[42] https://www.eastidahonews.com/2019/11/dripps-trial-to-begin-in-2021-defense-intends-to-ask-for-change-of-venue/"
+   },
+   {
+    "date": "2020-08",
+    "location": "Bonneville County",
+    "what_happened": "Defense asks for Dripps' release from jail because of COVID-19.",
+    "significance": "Delay; denied/not granted (he remained in custody through plea).",
+    "source": "[41] https://www.eastidahonews.com/2020/08/defense-for-brian-dripps-asks-he-be-released-from-jail-because-of-covid-19/"
+   },
+   {
+    "date": "2020-10",
+    "location": "U.S. District Court, Idaho",
+    "what_happened": "Tapp sues the City of Idaho Falls and several former officers.",
+    "significance": "Civil accountability.",
+    "source": "[27] https://deathpenaltyinfo.org/news/idaho-falls-will-pay-11-7-million-to-exoneree-coerced-into-false-confession-by-threat-of-the-death-penalty"
+   },
+   {
+    "date": "2021-02-09",
+    "location": "Bonneville County courthouse, Idaho Falls",
+    "what_happened": "Dripps pleads guilty to first-degree murder and rape before Judge Joel Tingey under a plea deal: fixed 20 years, up to life; the death penalty is off the table.",
+    "significance": "Guilty plea.",
+    "source": "[9] https://www.eastidahonews.com/2021/02/brian-dripps-pleads-guilty-to-the-rape-and-murder-of-angie-dodge/; [10] https://www.cbsnews.com/news/angie-dodge-murder-brian-dripps-pleads-guilty-idaho-cold-case/; [12] https://www.spokesman.com/stories/2021/jun/08/idaho-man-gets-life-in-prison-in-cold-case-murder-/"
+   },
+   {
+    "date": "2021-06-08",
+    "location": "Bonneville County courthouse, Idaho Falls",
+    "what_happened": "Judge Joel Tingey sentences Dripps, 55, to 20 years to life, credit for about two years served, sex-offender registration, $10,000 in fines. Family members deliver impact statements.",
+    "significance": "Sentence.",
+    "source": "[11] https://www.eastidahonews.com/2021/06/after-25-years-brian-dripps-goes-to-prison-for-rape-and-death-of-angie-dodge/; [12] https://www.spokesman.com/stories/2021/jun/08/idaho-man-gets-life-in-prison-in-cold-case-murder-/; [13] https://www.ktvb.com/article/news/crime/angie-ddge-murder-brian-dripps-chris-tapp-idaho-falls-sentencing/277-e486ce71-b35a-42e7-91a3-ce79f2a84773; [14] https://www.postregister.com/news/crime_courts/after-25-years-justice-is-found-for-angie-dodge/article_7f8ca756-c667-5c49-a19d-3e966a2f89b1.html; [15] https://www.investigationdiscovery.com/crimefeed/murder/idaho-killer-sentenced-for-murder-that-put-innocent-man-in-prison"
+   },
+   {
+    "date": "2022-06-09",
+    "location": "Idaho Falls City Council",
+    "what_happened": "Council unanimously approves an $11.7 million settlement with Tapp, paid by the city's insurer, plus a formal apology letter and a public discussion on interrogation techniques; the mayor apologizes.",
+    "significance": "Accountability.",
+    "source": "[27] https://deathpenaltyinfo.org/news/idaho-falls-will-pay-11-7-million-to-exoneree-coerced-into-false-confession-by-threat-of-the-death-penalty; [28] https://www.ksl.com/article/50421525/mayor-apologizes-as-chris-tapp-city-of-idaho-falls-settle-lawsuit-for-117m; [29] https://www.postregister.com/news/crime_courts/idaho-falls-settles-with-chris-tapp-for-11-7-million/article_f4c9495d-749b-56cf-88d3-01b3d60b9770.html"
+   },
+   {
+    "date": "2023-10-29",
+    "location": "Resorts World, Las Vegas, Nevada",
+    "what_happened": "Tapp is injured during an altercation at a party in a resort suite; first reported as an accident.",
+    "significance": "Final chapter for Tapp.",
+    "source": "[31] https://www.nbcnews.com/news/us-news/chris-tapp-death-conviction-justice-dateline-rcna139707; [33] https://www.reviewjournal.com/crime/homicides/wrongfully-convicted-idaho-mans-las-vegas-death-now-a-homicide-probe-2979479/"
+   },
+   {
+    "date": "2023-11-05",
+    "location": "Las Vegas, Nevada",
+    "what_happened": "Christopher Tapp dies at 47. Clark County coroner later rules the death a homicide from blunt force trauma to the head.",
+    "significance": "Death.",
+    "source": "[30] https://www.eastidahonews.com/2023/11/chris-tapp-idaho-falls-man-wrongfully-convicted-dies-at-47/; [31] https://www.nbcnews.com/news/us-news/chris-tapp-death-conviction-justice-dateline-rcna139707; [33] https://www.reviewjournal.com/crime/homicides/wrongfully-convicted-idaho-mans-las-vegas-death-now-a-homicide-probe-2979479/"
+   },
+   {
+    "date": "2023-11-08",
+    "location": "Innocence Project",
+    "what_happened": "Tribute calls Tapp 'the first person in the world to be proven innocent with genetic genealogy' and notes his advocacy for an Idaho compensation law and against deceptive interrogation.",
+    "significance": "Legacy.",
+    "source": "[4] https://innocenceproject.org/news/remembering-christopher-tapp-beloved-innocence-project-client-the-first-person-in-the-world-to-be-exonerated-with-genetic-genealogy/"
+   },
+   {
+    "date": "2023-11-14",
+    "location": "Clark County, Nevada",
+    "what_happened": "Tapp's legal team (later his mother and estate) files a wrongful-death suit against the resort and others.",
+    "significance": "Civil case.",
+    "source": "[37] https://www.ktvb.com/article/news/local/wrongful-death-lawsuit-filed-christopher-tapps-death-las-vegas-resort/277-0e63937e-1f1e-4704-883a-5443cd274615"
+   },
+   {
+    "date": "2024-03",
+    "location": "Las Vegas, Nevada",
+    "what_happened": "Police obtain a murder warrant for Daniel Rodimer, 45, former pro wrestler and former Nevada congressional candidate; he surrenders and later pleads not guilty.",
+    "significance": "Charge (not convicted).",
+    "source": "[32] https://www.nbcnews.com/news/us-news/former-nevada-congressional-hopeful-accused-death-chris-tapp-served-20-rcna141273; [53] https://mynews4.com/news/local/ex-congressional-candidate-daniel-rodimer-pleads-not-guilty-las-vegas-murder-case-clark-county-district-court-christopher-tapp"
+   },
+   {
+    "date": "2026-05-05",
+    "location": "Clark County District Court",
+    "what_happened": "Rodimer's attorneys move to dismiss, arguing the coroner's findings show injuries resulted from drug and alcohol use.",
+    "significance": "Defense position.",
+    "source": "[35] https://www.fox5vegas.com/2026/05/05/ex-pro-wrestler-daniel-rodimer-seeks-dismissal-las-vegas-murder-charge-resorts-world-death/"
+   },
+   {
+    "date": "2026-07-09",
+    "location": "Clark County District Court",
+    "what_happened": "Judge denies Rodimer's motion to dismiss the indictment; trial reported set for February 1, 2027 (originally June 15, 2026).",
+    "significance": "Current status: pending, presumed innocent.",
+    "source": "[34] https://www.fox5vegas.com/2026/07/09/las-vegas-judge-denies-former-nevada-congressmans-motion-dismiss-murder-indictment/; [36] https://www.8newsnow.com/news/local-news/trial-date-set-for-ex-republican-congressional-candidate-accused-in-las-vegas-murder/; [52] https://hoodline.com/2025/11/former-nevada-congressional-candidate-daniel-rodimer-to-face-trial-in-2026-for-alleged-las-vegas-murder-of-christopher-tapp/"
+   }
+  ]
+ },
+ "cold_open_material": {
+  "_instructions": "Hook.",
+  "the_moment": {
+   "exact_date": "Thursday, June 13, 1996, about 11:15 a.m.",
+   "exact_location": "444 I Street, Idaho Falls, Idaho",
+   "what_is_happening": "Coworkers worried that 18-year-old Angie Dodge has not come to work go to her apartment and find her dead.",
+   "what_makes_it_shocking": "The killer left his DNA; it would not match the man convicted. The real killer lived across the street.",
+   "ironic_twist": "The victim's own mother became the strongest voice for the innocent man convicted of killing her daughter."
+  },
+  "central_mystery_question": "If the DNA never matched the man in prison, whose was it, and why did it take 23 years to find him?"
+ },
+ "the_method": {
+  "_instructions": "Investigative genetic genealogy.",
+  "technique_name": "Investigative genetic genealogy (IGG) plus DNA phenotyping (Parabon NanoLabs)",
+  "step_by_step_explanation": [
+   "Crime-scene DNA (semen) had a standard forensic profile that never matched anyone in CODIS.",
+   "2014: a familial Y-chromosome search of a Sorenson genealogy database produced a near match (34 of 35 markers) to the Usry family - a false lead.",
+   "2017: Parabon Snapshot phenotyping predicted ancestry and traits and produced a composite; kinship analysis cleared the Usry family (87.63 percent confidence).",
+   "Nov 2018: Carol Dodge contacts CeCe Moore. The sample is degraded: about 61 percent of the SNP data usually needed.",
+   "The SNP profile is uploaded to GEDmatch; partial matches (distant cousins) are used to build three family trees, which converge on one couple who appear to be the perpetrator's great-grandparents.",
+   "Researchers narrow to about six men in the descendants; police collect discarded items; none match.",
+   "Moore realizes one woman conceived a son shortly before divorcing; the boy took his stepfather's surname - Dripps - so he was invisible in the trees.",
+   "Surveillance: a first cigarette butt is lost in traffic; after more than 20 hours a second is collected; the state lab matches it to the crime-scene DNA.",
+   "Confirmation after arrest by a full match to the CODIS profile."
+  ],
+  "why_it_worked": "Genealogy databases let investigators find relatives of an unknown person when the person himself is in no police database; persistence by the victim's mother pushed the lab to try a sample it considered too degraded.",
+  "technical_terms_to_explain": [
+   {
+    "term": "CODIS",
+    "simple_explanation": "The FBI-run DNA index of profiles from offenders and crime scenes; a match only works if the person is already in it."
+   },
+   {
+    "term": "Y-chromosome (Y-STR) familial search",
+    "simple_explanation": "Looks only at the father-to-son line; many men in a family share it, so it points to a surname, not a person - and can mislead."
+   },
+   {
+    "term": "SNP",
+    "simple_explanation": "Hundreds of thousands of single-letter spelling differences in DNA; consumer genealogy tests read them to measure how related two people are."
+   },
+   {
+    "term": "GEDmatch",
+    "simple_explanation": "A public site where people upload their genealogy DNA to find relatives; investigators used it in the 2018 Golden State Killer case."
+   },
+   {
+    "term": "DNA phenotyping",
+    "simple_explanation": "Predicts likely ancestry and features such as eye and hair color from DNA; age and weight cannot be read, so defaults (25, BMI 22) are used."
+   },
+   {
+    "term": "Discarded DNA / abandoned property",
+    "simple_explanation": "Police may collect an item a person throws away in public, like a cigarette butt, and test it."
+   }
+  ],
+  "scale_of_operation": "About 850,000 SNPs typically read; roughly 329,000 missing in this sample (one source); about 6-7 candidate men; more than 20 hours of surveillance."
+ },
+ "systemic_failure": {
+  "_instructions": "Institution that failed.",
+  "institution_that_failed": "Idaho Falls Police Department interrogation practices; the prosecution and courts that upheld a confession contradicted by DNA.",
+  "how_they_were_supposed_to_protect": "Find the person whose DNA was at the scene; test confessions against physical evidence.",
+  "why_they_failed": "Tunnel vision on Hobbs and his friends; repeated interrogations and polygraphs with threats of the death penalty and fed details; when DNA excluded suspects the theory expanded to new unidentified men instead of being dropped.",
+  "specific_incompetence_examples": [
+   "Tapp's DNA did not match and no physical evidence tied him to the crime, yet he was convicted (1998).",
+   "Five polygraphs by Jan 30, 1997; examiner told him he was 'deceptive' but 'passed'.",
+   "Officer testified no details were fed; recordings later showed otherwise (per reviews).",
+   "Theory expanded from Hobbs to Sargis to a never-identified third man as each DNA test excluded them.",
+   "August 2012 a judge refused additional testing; 2016 prosecutor's review found no reason to reverse.",
+   "The real killer lived across the street and was never asked for DNA in 1996."
+  ],
+  "ironic_details_about_the_failure": "The officer who helped obtain the confession, Jared Fuhriman, was mayor of Idaho Falls when he took the stand at the 2012 hearing; in 2022 the city paid $11.7 million and its mayor apologized."
+ },
+ "the_investigation": {
+  "_instructions": "How caught.",
+  "investigating_agency": "Idaho Falls Police Department, with Parabon NanoLabs (CeCe Moore) and the Idaho State Police forensic lab",
+  "operation_code_name_if_any": "None known",
+  "when_investigation_began": "June 13, 1996",
+  "initial_wrong_assumptions": "That Ben Hobbs and his friends (Tapp, then Sargis, then an unknown man) were responsible.",
+  "key_breakthrough": "Genetic genealogy (2018-2019) revealed a son who carried his stepfather's surname.",
+  "the_fatal_mistake": "Dripps flicked a cigarette butt out of his vehicle window during police surveillance.",
+  "how_long_until_caught": "Nearly 23 years (June 13, 1996 - May 15, 2019)."
+ },
+ "the_confrontation": {
+  "_instructions": "Arrest.",
+  "date_and_time": "May 15, 2019 (time not verified)",
+  "location": "Caldwell, Canyon County, Idaho",
+  "scene_description": "Dripps, 53, is arrested and interviewed; he first denies ever being in the apartment, then is confronted with the DNA test result.",
+  "protagonist_reaction": "Admitted he entered alone with a knife intending to rape her; said he did not mean to kill her; said he wore gloves and believed she was alive when he left (affidavit).",
+  "ironic_or_absurd_details": "Defense attorney described him as a 'kind, loving father'; he had lived across the street from the victim."
+ },
+ "legal_resolution": {
+  "_instructions": "Court.",
+  "charges_filed": [
+   "First-degree murder",
+   "Rape"
+  ],
+  "trial_date_if_applicable": "No trial: guilty plea Feb 9, 2021 (trial had been set for 2021).",
+  "notable_court_testimony": "Plea: 'When I went over, I went with the intent to just rape her.' 'I didn't mean to murder her.'",
+  "victim_impact_statements": [
+   {
+    "from_whom": "Carol Dodge",
+    "key_quote": "We had to go through 25 years of hell.",
+    "emotional_impact": "Decades of waiting"
+   },
+   {
+    "from_whom": "Todd Dodge",
+    "key_quote": "And so far, I have served 9,126 days.",
+    "emotional_impact": "Counting every day"
+   },
+   {
+    "from_whom": "Brent Dodge",
+    "key_quote": "I wouldn't say it's closure...",
+    "emotional_impact": "No closure"
+   }
+  ],
+  "sentence_received": "June 8, 2021: fixed 20 years to life in prison; credit for about two years served; sex-offender registration; $10,000 fines. Both sides said that, due to poor health, 20 years was effectively a life sentence.",
+  "protagonist_statement_in_court": "I know you'll never forgive me, but I'm sorry.",
+  "current_status": "As of October 2026: Dripps remains in Idaho prison; no appeal or death reported in any source found. One unverified page lists parole eligibility May 16, 2039. Tapp: exonerated July 17, 2019; died Nov 5, 2023 (homicide ruling); Daniel Rodimer charged with murder, pleaded not guilty, motion to dismiss denied July 2026, trial reported set for Feb 1, 2027 - has not been convicted."
+ },
+ "verified_quotes": {
+  "_instructions": "Verified quotes.",
+  "quotes": [
+   {
+    "speaker": "Carol Dodge",
+    "exact_quote": "We had to go through 25 years of hell.",
+    "context": "Victim impact statement at Dripps' sentencing, June 8, 2021.",
+    "source": "[11] https://www.eastidahonews.com/2021/06/after-25-years-brian-dripps-goes-to-prison-for-rape-and-death-of-angie-dodge/; [14] https://www.postregister.com/news/crime_courts/after-25-years-justice-is-found-for-angie-dodge/article_7f8ca756-c667-5c49-a19d-3e966a2f89b1.html"
+   },
+   {
+    "speaker": "Carol Dodge",
+    "exact_quote": "Whatever you give this man is not enough.",
+    "context": "Victim impact statement, June 8, 2021.",
+    "source": "[11] https://www.eastidahonews.com/2021/06/after-25-years-brian-dripps-goes-to-prison-for-rape-and-death-of-angie-dodge/; [14] https://www.postregister.com/news/crime_courts/after-25-years-justice-is-found-for-angie-dodge/article_7f8ca756-c667-5c49-a19d-3e966a2f89b1.html"
+   },
+   {
+    "speaker": "Carol Dodge",
+    "exact_quote": "You have shattered our family.",
+    "context": "Victim impact statement as reported by East Idaho News / Post Register, June 8, 2021.",
+    "source": "[11] https://www.eastidahonews.com/2021/06/after-25-years-brian-dripps-goes-to-prison-for-rape-and-death-of-angie-dodge/; [14] https://www.postregister.com/news/crime_courts/after-25-years-justice-is-found-for-angie-dodge/article_7f8ca756-c667-5c49-a19d-3e966a2f89b1.html"
+   },
+   {
+    "speaker": "Carol Dodge",
+    "exact_quote": "You, Brian Dripps, deserve eternal Hell.",
+    "context": "Victim impact statement, June 8, 2021 (Post Register).",
+    "source": "[14] https://www.postregister.com/news/crime_courts/after-25-years-justice-is-found-for-angie-dodge/article_7f8ca756-c667-5c49-a19d-3e966a2f89b1.html"
+   },
+   {
+    "speaker": "Carol Dodge (attributed)",
+    "exact_quote": "I can't forgive you, ever.",
+    "context": "KTVB headline and Investigation Discovery attribute this to Angie's mother at sentencing; Post Register version does not include it - use with attribution 'reported by KTVB'.",
+    "source": "[13] https://www.ktvb.com/article/news/crime/angie-ddge-murder-brian-dripps-chris-tapp-idaho-falls-sentencing/277-e486ce71-b35a-42e7-91a3-ce79f2a84773; [15] https://www.investigationdiscovery.com/crimefeed/murder/idaho-killer-sentenced-for-murder-that-put-innocent-man-in-prison"
+   },
+   {
+    "speaker": "Todd Dodge (Angie's brother)",
+    "exact_quote": "Because of Mr. Dripps' premeditated actions, he sentenced me to a lifetime of hell. And so far, I have served 9,126 days.",
+    "context": "Impact statement June 8, 2021. 9,126 days = exactly June 13, 1996 to June 8, 2021 (verified by calculation).",
+    "source": "[14] https://www.postregister.com/news/crime_courts/after-25-years-justice-is-found-for-angie-dodge/article_7f8ca756-c667-5c49-a19d-3e966a2f89b1.html; [11] https://www.eastidahonews.com/2021/06/after-25-years-brian-dripps-goes-to-prison-for-rape-and-death-of-angie-dodge/"
+   },
+   {
+    "speaker": "Brent Dodge (Angie's brother)",
+    "exact_quote": "I wouldn't say it's closure because as Todd described there is still a lot of chaos.",
+    "context": "After sentencing, June 8, 2021.",
+    "source": "[11] https://www.eastidahonews.com/2021/06/after-25-years-brian-dripps-goes-to-prison-for-rape-and-death-of-angie-dodge/"
+   },
+   {
+    "speaker": "Judge Joel Tingey",
+    "exact_quote": "Twenty-five years is a long time to wait for some type of closure on such a brutal crime.",
+    "context": "Sentencing, June 8, 2021.",
+    "source": "[11] https://www.eastidahonews.com/2021/06/after-25-years-brian-dripps-goes-to-prison-for-rape-and-death-of-angie-dodge/; [12] https://www.spokesman.com/stories/2021/jun/08/idaho-man-gets-life-in-prison-in-cold-case-murder-/"
+   },
+   {
+    "speaker": "Judge Joel Tingey",
+    "exact_quote": "It's impossible to quantify how much damage has been caused, and it's spread wide.",
+    "context": "Sentencing, June 8, 2021.",
+    "source": "[14] https://www.postregister.com/news/crime_courts/after-25-years-justice-is-found-for-angie-dodge/article_7f8ca756-c667-5c49-a19d-3e966a2f89b1.html"
+   },
+   {
+    "speaker": "Judge Joel Tingey",
+    "exact_quote": "A young man spent a significant portion of his life in prison for no good reason. He was innocent. That falls on you.",
+    "context": "To Dripps at sentencing, June 8, 2021.",
+    "source": "[13] https://www.ktvb.com/article/news/crime/angie-ddge-murder-brian-dripps-chris-tapp-idaho-falls-sentencing/277-e486ce71-b35a-42e7-91a3-ce79f2a84773; [14] https://www.postregister.com/news/crime_courts/after-25-years-justice-is-found-for-angie-dodge/article_7f8ca756-c667-5c49-a19d-3e966a2f89b1.html; [15] https://www.investigationdiscovery.com/crimefeed/murder/idaho-killer-sentenced-for-murder-that-put-innocent-man-in-prison"
+   },
+   {
+    "speaker": "Brian Dripps",
+    "exact_quote": "When I went over, I went with the intent to just rape her.",
+    "context": "Guilty plea hearing, Feb 9, 2021.",
+    "source": "[9] https://www.eastidahonews.com/2021/02/brian-dripps-pleads-guilty-to-the-rape-and-murder-of-angie-dodge/; [10] https://www.cbsnews.com/news/angie-dodge-murder-brian-dripps-pleads-guilty-idaho-cold-case/"
+   },
+   {
+    "speaker": "Brian Dripps",
+    "exact_quote": "I didn't mean to murder her.",
+    "context": "Guilty plea hearing, Feb 9, 2021.",
+    "source": "[9] https://www.eastidahonews.com/2021/02/brian-dripps-pleads-guilty-to-the-rape-and-murder-of-angie-dodge/; [10] https://www.cbsnews.com/news/angie-dodge-murder-brian-dripps-pleads-guilty-idaho-cold-case/"
+   },
+   {
+    "speaker": "Brian Dripps",
+    "exact_quote": "No sir.",
+    "context": "Asked at plea hearing whether he remembered cutting the victim's throat; he did not deny it.",
+    "source": "[9] https://www.eastidahonews.com/2021/02/brian-dripps-pleads-guilty-to-the-rape-and-murder-of-angie-dodge/"
+   },
+   {
+    "speaker": "Brian Dripps",
+    "exact_quote": "I know you'll never forgive me, but I'm sorry.",
+    "context": "Sentencing, June 8, 2021; he also said he wished for a 'do-over' of that night.",
+    "source": "[14] https://www.postregister.com/news/crime_courts/after-25-years-justice-is-found-for-angie-dodge/article_7f8ca756-c667-5c49-a19d-3e966a2f89b1.html; [15] https://www.investigationdiscovery.com/crimefeed/murder/idaho-killer-sentenced-for-murder-that-put-innocent-man-in-prison"
+   },
+   {
+    "speaker": "Original sentencing judge (1998)",
+    "exact_quote": "had Mr. Tapp not confessed, there would have been no conviction in this case.",
+    "context": "Tapp's 1998 sentencing, as quoted by The Marshall Project / Registry.",
+    "source": "[5] https://www.themarshallproject.org/2019/07/16/in-an-apparent-first-genetic-genealogy-aids-a-wrongful-conviction-case; [2] https://www.exonerationregistry.org/cases/12683"
+   },
+   {
+    "speaker": "Bonneville County Prosecutor Daniel Clark (court filing)",
+    "exact_quote": "clear and convincing evidence",
+    "context": "Filing of July 17, 2019 stating Tapp was convicted of a crime he did not commit.",
+    "source": "[18] https://www.ktvb.com/article/news/local/christopher-tapp-exonerated-in-1996-murder-of-angie-dodge/277-56728db1-97ab-47b9-91b5-58b0c5edf40d; [19] https://boisestate.edu/news/?p=1022967; [1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge"
+   },
+   {
+    "speaker": "Innocence Project (Peter Neufeld, Vanessa Potkin)",
+    "exact_quote": "the first person in the world to be proven innocent with genetic genealogy",
+    "context": "Tribute, Nov 8, 2023.",
+    "source": "[4] https://innocenceproject.org/news/remembering-christopher-tapp-beloved-innocence-project-client-the-first-person-in-the-world-to-be-exonerated-with-genetic-genealogy/"
+   },
+   {
+    "speaker": "Defense attorney for Dripps (2019)",
+    "exact_quote": "kind, loving father",
+    "context": "Bail argument, May 2019 (headline quote).",
+    "source": "[40] https://www.eastidahonews.com/2019/05/attorney-for-man-accused-of-killing-angie-dodge-argues-hes-a-kind-loving-father/"
+   },
+   {
+    "speaker": "Polygraph expert Charles Honts (as reported)",
+    "exact_quote": "psychological rubber hose",
+    "context": "Describing police use of polygraph on Tapp; reported second-hand via advocacy/legal-journal coverage.",
+    "source": "[22] https://www.criminallegalnews.org/news/2021/jun/15/ignoble-process-how-high-pressure-tactics-and-flawed-investigative-techniques-created-miscarriage-justice/; [55] https://libertarianinstitute.org/everything-will/make-this-right-jared-help-free-chris-tapp/"
+   }
+  ]
+ },
+ "statistics_and_numbers": {
+  "_instructions": "Figures.",
+  "figures": [
+   {
+    "number": "18",
+    "what_it_represents": "Angie's age at death (born Dec 21, 1977)",
+    "source": "[16] https://www.angiedodge.com/tribute/; [17] https://www.findagrave.com/memorial/7645270/angie_raye-dodge"
+   },
+   {
+    "number": "444 I Street",
+    "what_it_represents": "Apartment address",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [54] https://www.linkedin.com/pulse/story-behind-angie-dodge-murder-mystery-jared-bradley-mba"
+   },
+   {
+    "number": "11:15 a.m.",
+    "what_it_represents": "Approximate discovery time, June 13, 1996",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [54] https://www.linkedin.com/pulse/story-behind-angie-dodge-murder-mystery-jared-bradley-mba"
+   },
+   {
+    "number": "20",
+    "what_it_represents": "Tapp's age when named a suspect (Jan 1997)",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge"
+   },
+   {
+    "number": "5",
+    "what_it_represents": "Polygraphs by Jan 30, 1997",
+    "source": "[22] https://www.criminallegalnews.org/news/2021/jun/15/ignoble-process-how-high-pressure-tactics-and-flawed-investigative-techniques-created-miscarriage-justice/"
+   },
+   {
+    "number": "about 20 hours",
+    "what_it_represents": "Total interrogation (single source; flag)",
+    "source": "[27] https://deathpenaltyinfo.org/news/idaho-falls-will-pay-11-7-million-to-exoneree-coerced-into-false-confession-by-threat-of-the-death-penalty"
+   },
+   {
+    "number": "about 13 hours",
+    "what_it_represents": "Jury deliberation, May 1998",
+    "source": "[2] https://www.exonerationregistry.org/cases/12683"
+   },
+   {
+    "number": "30 years to life",
+    "what_it_represents": "Tapp sentence (NBC says 40; conflict)",
+    "source": "[5] https://www.themarshallproject.org/2019/07/16/in-an-apparent-first-genetic-genealogy-aids-a-wrongful-conviction-case; [31] https://www.nbcnews.com/news/us-news/chris-tapp-death-conviction-justice-dateline-rcna139707"
+   },
+   {
+    "number": "about 20 years",
+    "what_it_represents": "Tapp's time in prison (Jan 1997 - Mar 22, 2017)",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [4] https://innocenceproject.org/news/remembering-christopher-tapp-beloved-innocence-project-client-the-first-person-in-the-world-to-be-exonerated-with-genetic-genealogy/"
+   },
+   {
+    "number": "34 of 35",
+    "what_it_represents": "Y-STR markers in the misleading Usry match (2014)",
+    "source": "[24] https://www.theadvocate.com/new_orleans/news/article_1b3a3f96-d574-59e0-9c6a-c3c7c0d2f166.html"
+   },
+   {
+    "number": "87.63 percent",
+    "what_it_represents": "Parabon confidence the scene DNA did not match the Usry family (2017)",
+    "source": "[23] https://idahofallsidaho.gov/m/newsflash/Archive/Item/279?arcId=434"
+   },
+   {
+    "number": "about 61 percent",
+    "what_it_represents": "Share of usually needed SNP data in the degraded sample",
+    "source": "[5] https://www.themarshallproject.org/2019/07/16/in-an-apparent-first-genetic-genealogy-aids-a-wrongful-conviction-case"
+   },
+   {
+    "number": "about 329,000 of 850,000",
+    "what_it_represents": "SNPs missing (one source)",
+    "source": "[48] https://legalclarity.org/brian-dripps-the-angie-dodge-murder-case-explained/"
+   },
+   {
+    "number": "3",
+    "what_it_represents": "Family trees that converged on one couple",
+    "source": "[25] https://www.buzzfeednews.com/article/peteraldhous/angie-dodge-cold-case-murder-genetic-genealogy-parabon"
+   },
+   {
+    "number": "about 6, then a 7th",
+    "what_it_represents": "Candidate men before Dripps",
+    "source": "[25] https://www.buzzfeednews.com/article/peteraldhous/angie-dodge-cold-case-murder-genetic-genealogy-parabon; [49] https://www.foxnews.com/us/dna-genetic-genealogy-exonerates-innocent-man-christopher-tapp"
+   },
+   {
+    "number": "more than 20 hours",
+    "what_it_represents": "Surveillance before second cigarette butt",
+    "source": "[7] https://www.postregister.com/star/news/cigarette-butt-leads-to-arrest-in-angie-dodge-murder-case/article_a0e036bc-efcd-56d8-9161-5918c299775d.html"
+   },
+   {
+    "number": "53 / 55",
+    "what_it_represents": "Dripps' age at arrest / sentencing",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge; [11] https://www.eastidahonews.com/2021/06/after-25-years-brian-dripps-goes-to-prison-for-rape-and-death-of-angie-dodge/"
+   },
+   {
+    "number": "9,126",
+    "what_it_represents": "Days from murder to sentencing (Todd Dodge; verified by calculation)",
+    "source": "[14] https://www.postregister.com/news/crime_courts/after-25-years-justice-is-found-for-angie-dodge/article_7f8ca756-c667-5c49-a19d-3e966a2f89b1.html"
+   },
+   {
+    "number": "20 years to life",
+    "what_it_represents": "Dripps sentence",
+    "source": "[11] https://www.eastidahonews.com/2021/06/after-25-years-brian-dripps-goes-to-prison-for-rape-and-death-of-angie-dodge/; [12] https://www.spokesman.com/stories/2021/jun/08/idaho-man-gets-life-in-prison-in-cold-case-murder-/"
+   },
+   {
+    "number": "$10,000",
+    "what_it_represents": "Fines imposed on Dripps",
+    "source": "[15] https://www.investigationdiscovery.com/crimefeed/murder/idaho-killer-sentenced-for-murder-that-put-innocent-man-in-prison"
+   },
+   {
+    "number": "$11.7 million",
+    "what_it_represents": "Idaho Falls settlement with Tapp, June 9, 2022",
+    "source": "[27] https://deathpenaltyinfo.org/news/idaho-falls-will-pay-11-7-million-to-exoneree-coerced-into-false-confession-by-threat-of-the-death-penalty; [28] https://www.ksl.com/article/50421525/mayor-apologizes-as-chris-tapp-city-of-idaho-falls-settle-lawsuit-for-117m; [29] https://www.postregister.com/news/crime_courts/idaho-falls-settles-with-chris-tapp-for-11-7-million/article_f4c9495d-749b-56cf-88d3-01b3d60b9770.html"
+   },
+   {
+    "number": "47",
+    "what_it_represents": "Tapp's age at death, Nov 5, 2023",
+    "source": "[30] https://www.eastidahonews.com/2023/11/chris-tapp-idaho-falls-man-wrongfully-convicted-dies-at-47/; [4] https://innocenceproject.org/news/remembering-christopher-tapp-beloved-innocence-project-client-the-first-person-in-the-world-to-be-exonerated-with-genetic-genealogy/"
+   },
+   {
+    "number": "23 years",
+    "what_it_represents": "From murder to arrest (22 years 11 months)",
+    "source": "[1] https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge"
+   }
+  ]
+ },
+ "ironic_and_absurd_details": {
+  "_instructions": "Contradictions.",
+  "details": [
+   "The killer lived across the street from Angie and was never asked for DNA.",
+   "The victim's mother became one of the strongest supporters of the man convicted of killing her daughter.",
+   "The officer central to the confession later became the city's mayor and testified as mayor in 2012.",
+   "A polygraph examiner told Tapp he was 'deceptive' but had 'passed'.",
+   "Dripps' 20-years-to-life sentence was lower than the one Tapp received in 1998 (Post Register).",
+   "Tapp was released in 2017 still legally a convicted murderer; he was exonerated only after the real killer was found.",
+   "The first person in the world exonerated with genetic genealogy died violently four years later; the man charged has not been convicted."
+  ]
+ },
+ "sensory_and_environmental_details": {
+  "_instructions": "Visualize.",
+  "key_locations": [
+   {
+    "location_name": "444 I Street, Idaho Falls",
+    "physical_description": "Apartment building; Angie's first apartment (no verified description of interior).",
+    "atmosphere": "Ordinary residential street; Dripps lived across the street.",
+    "relevant_details": "Door found unlocked (one account)."
+   },
+   {
+    "location_name": "Idaho Falls, Idaho",
+    "physical_description": "City in eastern Idaho on the Snake River, seat of Bonneville County (general knowledge).",
+    "atmosphere": "Described in one account as a relatively quiet city.",
+    "relevant_details": "Idaho Falls Police Department ran the case."
+   },
+   {
+    "location_name": "Bonneville County Courthouse",
+    "physical_description": "Site of the 1998 trial and 2021 plea and sentencing.",
+    "atmosphere": "",
+    "relevant_details": ""
+   },
+   {
+    "location_name": "Caldwell, Idaho",
+    "physical_description": "Southwest Idaho, Canyon County; Dripps' home at arrest.",
+    "atmosphere": "",
+    "relevant_details": ""
+   },
+   {
+    "location_name": "Resorts World Las Vegas",
+    "physical_description": "Resort on the Las Vegas Strip where Tapp was fatally injured during a party in a suite.",
+    "atmosphere": "",
+    "relevant_details": ""
+   }
+  ]
+ },
+ "universal_stakes": {
+  "_instructions": "Why care.",
+  "why_this_matters_to_viewer": "A confession can be produced by pressure; DNA that does not fit should stop a case, not be explained away.",
+  "how_this_could_happen_to_them": "Tapp was a 20-year-old who trusted an officer he knew; anyone questioned for hours under threat of execution can say what investigators want to hear.",
+  "lesson_or_warning": "Physical evidence outranks a story; and one person who keeps asking can move an entire system.",
+  "current_relevance": "Genetic genealogy and its privacy debate; reform of interrogation practices; Idaho wrongful-conviction compensation."
+ },
+ "sources": {
+  "_instructions": "All sources. NOTE: in this session direct page fetching was unavailable (DNS blocked); all facts were gathered via 21 web-search queries whose result summaries quote these pages. Key facts were cross-checked across at least two results where possible.",
+  "primary_sources": [
+   {
+    "type": "Local news (court documents)",
+    "title": "Dripps says he didn't mean to kill Angie Dodge and acted alone, according to court documents - East Idaho News, May 2019",
+    "url_or_reference": "https://www.eastidahonews.com/2019/05/dripps-told-police-he-didnt-mean-to-kill-angie-dodge-according-to-court-documents/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local TV",
+    "title": "Documents show suspect didn't intend to kill Angie Dodge - KIFI Local News 8, May 17 2019",
+    "url_or_reference": "https://localnews8.com/archive/2019/05/17/documents-show-suspect-didnt-intend-to-kill-angie-dodge/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Police press release",
+    "title": "DNA Report Clears Usry Family of Involvement in Angie Dodge Homicide Case - City of Idaho Falls News Flash, Jul 12 2017 (also East Idaho News, Jul 2017)",
+    "url_or_reference": "https://idahofallsidaho.gov/m/newsflash/Archive/Item/279?arcId=434",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "University (Idaho Innocence Project)",
+    "title": "Boise State University News - Tapp exoneration",
+    "url_or_reference": "https://boisestate.edu/news/?p=1022967",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Advocacy org",
+    "title": "Remembering Christopher Tapp (Peter Neufeld, Vanessa Potkin), Innocence Project, Nov 8 2023",
+    "url_or_reference": "https://innocenceproject.org/news/remembering-christopher-tapp-beloved-innocence-project-client-the-first-person-in-the-world-to-be-exonerated-with-genetic-genealogy/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Advocacy org",
+    "title": "Christopher Tapp - Innocence Project case page",
+    "url_or_reference": "https://innocenceproject.org/cases/christopher-tapp/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Registry",
+    "title": "Christopher Tapp - National Registry of Exonerations",
+    "url_or_reference": "https://www.exonerationregistry.org/cases/12683",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local newspaper (police statement)",
+    "title": "Idaho Falls Police statement on Angie Dodge case - Post Register, May 2019",
+    "url_or_reference": "https://www.postregister.com/news/crime_courts/idaho-falls-police-statement-on-angie-dodge-case/article_1aec2c11-81ab-5aac-915c-c408f0513e24.html",
+    "key_information_obtained": ""
+   }
+  ],
+  "secondary_sources": [
+   {
+    "type": "Encyclopedia",
+    "title": "Murder of Angie Dodge",
+    "url_or_reference": "https://en.wikipedia.org/wiki/Murder_of_Angie_Dodge",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Investigative news",
+    "title": "In an Apparent First, Genetic Genealogy Aids a Wrongful Conviction Case - The Marshall Project, Jul 16 2019",
+    "url_or_reference": "https://www.themarshallproject.org/2019/07/16/in-an-apparent-first-genetic-genealogy-aids-a-wrongful-conviction-case",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local newspaper",
+    "title": "Cigarette butt leads to arrest in Angie Dodge murder case - Post Register, May 2019",
+    "url_or_reference": "https://www.postregister.com/star/news/cigarette-butt-leads-to-arrest-in-angie-dodge-murder-case/article_a0e036bc-efcd-56d8-9161-5918c299775d.html",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local news",
+    "title": "Brian Dripps pleads guilty to the rape and murder of Angie Dodge - East Idaho News, Feb 2021",
+    "url_or_reference": "https://www.eastidahonews.com/2021/02/brian-dripps-pleads-guilty-to-the-rape-and-murder-of-angie-dodge/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "National TV",
+    "title": "Angie Dodge murder: Brian Dripps pleads guilty in Idaho cold case - CBS News, Feb 2021",
+    "url_or_reference": "https://www.cbsnews.com/news/angie-dodge-murder-brian-dripps-pleads-guilty-idaho-cold-case/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local news",
+    "title": "After 25 years, Brian Dripps goes to prison for rape and murder of Angie Dodge - East Idaho News, Jun 8 2021",
+    "url_or_reference": "https://www.eastidahonews.com/2021/06/after-25-years-brian-dripps-goes-to-prison-for-rape-and-death-of-angie-dodge/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Wire (AP, Rebecca Boone)",
+    "title": "Idaho man gets life in prison in cold-case murder and rape - AP via The Spokesman-Review / Court TV, Jun 8 2021",
+    "url_or_reference": "https://www.spokesman.com/stories/2021/jun/08/idaho-man-gets-life-in-prison-in-cold-case-murder-/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local TV",
+    "title": "'I can't forgive you, ever:' Culprit in cold-case murder of Angie Dodge sentenced - KTVB, Jun 2021",
+    "url_or_reference": "https://www.ktvb.com/article/news/crime/angie-ddge-murder-brian-dripps-chris-tapp-idaho-falls-sentencing/277-e486ce71-b35a-42e7-91a3-ce79f2a84773",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local newspaper",
+    "title": "After 25 years, justice is found for Angie Dodge - Post Register, Jun 2021",
+    "url_or_reference": "https://www.postregister.com/news/crime_courts/after-25-years-justice-is-found-for-angie-dodge/article_7f8ca756-c667-5c49-a19d-3e966a2f89b1.html",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "TV network site",
+    "title": "Convicted Killer Sentenced For Murder That Put Innocent Man In Prison For Decades - Investigation Discovery CrimeFeed, Jun 2021",
+    "url_or_reference": "https://www.investigationdiscovery.com/crimefeed/murder/idaho-killer-sentenced-for-murder-that-put-innocent-man-in-prison",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Family memorial site",
+    "title": "Tribute - angiedodge.com (Dodge family)",
+    "url_or_reference": "https://www.angiedodge.com/tribute/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Memorial record",
+    "title": "Angie Raye Dodge (1977-1996) - Find a Grave",
+    "url_or_reference": "https://www.findagrave.com/memorial/7645270/angie_raye-dodge",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local TV",
+    "title": "Christopher Tapp exonerated in 1996 murder of Angie Dodge - KTVB, Jul 17 2019",
+    "url_or_reference": "https://www.ktvb.com/article/news/local/christopher-tapp-exonerated-in-1996-murder-of-angie-dodge/277-56728db1-97ab-47b9-91b5-58b0c5edf40d",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local newspaper",
+    "title": "After 23 years, Christopher Tapp cleared of all charges in Dodge murder - Post Register, Jul 2019",
+    "url_or_reference": "https://www.postregister.com/news/crime_courts/after-years-christopher-tapp-cleared-of-all-charges-in-dodge/article_d0249678-6069-57db-a657-5722525a4918.html",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local TV",
+    "title": "Tapp's Ex-Attorney, Mayor Fuhriman Take Stand In Murder-Confession Hearing - KIFI, Feb 29 2012",
+    "url_or_reference": "https://localnews8.com/news/2012/02/29/tapps-ex-attorney-mayor-fuhriman-take-stand-in-murder-confession-hearing/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Legal journal",
+    "title": "An Ignoble Process: How High-Pressure Tactics and Flawed Investigative Techniques Created a Miscarriage of Justice - Criminal Legal News, Jun 15 2021",
+    "url_or_reference": "https://www.criminallegalnews.org/news/2021/jun/15/ignoble-process-how-high-pressure-tactics-and-flawed-investigative-techniques-created-miscarriage-justice/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Newspaper",
+    "title": "New Orleans filmmaker cleared in cold-case murder; false positive highlights limitations of familial DNA searching - The Advocate, 2015",
+    "url_or_reference": "https://www.theadvocate.com/new_orleans/news/article_1b3a3f96-d574-59e0-9c6a-c3c7c0d2f166.html",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "National news",
+    "title": "Genetic Genealogy Helped Finally Crack The 1996 Murder Of 18-Year-Old Angie Dodge - BuzzFeed News (Peter Aldhous), 2019",
+    "url_or_reference": "https://www.buzzfeednews.com/article/peteraldhous/angie-dodge-cold-case-murder-genetic-genealogy-parabon",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "National TV",
+    "title": "A mother's pursuit for justice overturns wrongful conviction, catches the true killer - ABC News 20/20, 2021",
+    "url_or_reference": "https://abcnews.com/US/mothers-pursuit-justice-overturns-wrongful-conviction-catches-true/story?id=76392277",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Nonprofit",
+    "title": "Idaho Falls Will Pay $11.7 Million to Exoneree Coerced Into False Confession by Threat of the Death Penalty - Death Penalty Information Center, Jun 2022",
+    "url_or_reference": "https://deathpenaltyinfo.org/news/idaho-falls-will-pay-11-7-million-to-exoneree-coerced-into-false-confession-by-threat-of-the-death-penalty",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Regional TV",
+    "title": "Mayor apologizes as Chris Tapp, city of Idaho Falls settle lawsuit for $11.7M - KSL, Jun 2022",
+    "url_or_reference": "https://www.ksl.com/article/50421525/mayor-apologizes-as-chris-tapp-city-of-idaho-falls-settle-lawsuit-for-117m",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local newspaper",
+    "title": "Idaho Falls settles with Chris Tapp for $11.7 million - Post Register, Jun 9 2022",
+    "url_or_reference": "https://www.postregister.com/news/crime_courts/idaho-falls-settles-with-chris-tapp-for-11-7-million/article_f4c9495d-749b-56cf-88d3-01b3d60b9770.html",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local news",
+    "title": "Chris Tapp, Idaho Falls man wrongfully convicted of murder, dies at 47 - East Idaho News, Nov 2023",
+    "url_or_reference": "https://www.eastidahonews.com/2023/11/chris-tapp-idaho-falls-man-wrongfully-convicted-dies-at-47/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "National TV",
+    "title": "An exonerated Idaho man finally had his freedom. What came next was 'incomprehensible.' - NBC News / Dateline, 2024",
+    "url_or_reference": "https://www.nbcnews.com/news/us-news/chris-tapp-death-conviction-justice-dateline-rcna139707",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "National TV",
+    "title": "Former Nevada congressional hopeful accused in death of Chris Tapp - NBC News, Mar 2024",
+    "url_or_reference": "https://www.nbcnews.com/news/us-news/former-nevada-congressional-hopeful-accused-death-chris-tapp-served-20-rcna141273",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Newspaper",
+    "title": "Wrongfully convicted Idaho man Christopher Tapp's Las Vegas death being probed as homicide - Las Vegas Review-Journal, 2024",
+    "url_or_reference": "https://www.reviewjournal.com/crime/homicides/wrongfully-convicted-idaho-mans-las-vegas-death-now-a-homicide-probe-2979479/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local TV",
+    "title": "Las Vegas judge denies former Nevada congressman's motion to dismiss murder indictment - FOX5 Las Vegas, Jul 9 2026",
+    "url_or_reference": "https://www.fox5vegas.com/2026/07/09/las-vegas-judge-denies-former-nevada-congressmans-motion-dismiss-murder-indictment/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local TV",
+    "title": "Daniel Rodimer asks judge to dismiss Las Vegas murder charge in Resorts World death of Christopher Tapp - FOX5 Las Vegas, May 5 2026",
+    "url_or_reference": "https://www.fox5vegas.com/2026/05/05/ex-pro-wrestler-daniel-rodimer-seeks-dismissal-las-vegas-murder-charge-resorts-world-death/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local TV",
+    "title": "Trial date set for ex-Republican congressional candidate accused in Las Vegas murder - 8 News Now",
+    "url_or_reference": "https://www.8newsnow.com/news/local-news/trial-date-set-for-ex-republican-congressional-candidate-accused-in-las-vegas-murder/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local TV",
+    "title": "Wrongful death lawsuit filed in Christopher Tapp's death at a Las Vegas resort - KTVB, Nov 2023",
+    "url_or_reference": "https://www.ktvb.com/article/news/local/wrongful-death-lawsuit-filed-christopher-tapps-death-las-vegas-resort/277-0e63937e-1f1e-4704-883a-5443cd274615",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local TV",
+    "title": "Prosecutors seek death penalty in murder of Angie Dodge - KTVB, 2019",
+    "url_or_reference": "https://www.ktvb.com/article/news/crime/death-penalty-prosecutors-seek-brian-dripps-angie-dodge-murder/277-5bd90f03-fae7-4624-a02d-880cd3c6dbc5",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local newspaper",
+    "title": "Dripps arraigned via video, denied bail - Post Register, May 2019",
+    "url_or_reference": "https://www.postregister.com/news/crime_courts/dripps-arraigned-via-video-denied-bail/article_b3fa1211-4d05-5787-8ab8-c1c705753722.html",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local news",
+    "title": "Attorney for man accused of killing Angie Dodge argues he's a 'kind, loving father' - East Idaho News, May 2019",
+    "url_or_reference": "https://www.eastidahonews.com/2019/05/attorney-for-man-accused-of-killing-angie-dodge-argues-hes-a-kind-loving-father/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local news",
+    "title": "Defense for Brian Dripps asks he be released from jail because of COVID-19 - East Idaho News, Aug 2020",
+    "url_or_reference": "https://www.eastidahonews.com/2020/08/defense-for-brian-dripps-asks-he-be-released-from-jail-because-of-covid-19/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local news",
+    "title": "Dripps' trial to begin in 2021, defense intends to ask for change of venue - East Idaho News, Nov 2019",
+    "url_or_reference": "https://www.eastidahonews.com/2019/11/dripps-trial-to-begin-in-2021-defense-intends-to-ask-for-change-of-venue/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local newspaper",
+    "title": "Remembering Fuhriman's impact on the city of Idaho Falls - Post Register",
+    "url_or_reference": "https://www.postregister.com/news/local/remembering-fuhrimans-impact-on-the-city-of-idaho-falls/article_644ee987-275d-5bad-8027-75458168d732.html",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local news",
+    "title": "Angie Dodge was killed 23 years ago today. Here's how her family wants you to remember her. - East Idaho News, Jun 13 2019",
+    "url_or_reference": "https://www.eastidahonews.com/2019/06/angie-dodge-was-killed-23-years-ago-today-heres-how-her-family-wants-you-to-remember-her/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "TV network site",
+    "title": "Brian Dripps Killed Angie Dodge, Chris Tapp Exonerated - Oxygen / Dateline: Unforgettable (Jill Sederstrom), Feb 27 2025",
+    "url_or_reference": "https://www.oxygen.com/dateline-unforgettable/crime-news/brian-dripps-killed-angie-dodge-chris-tapp-exonerated",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "National TV",
+    "title": "How safe is your DNA? - CBS News 48 Hours",
+    "url_or_reference": "https://www.cbsnews.com/news/how-safe-is-your-dna-familal-search-privacy-rights/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "National TV",
+    "title": "Angie Dodge case: How a discarded cigarette led to an arrest in Idaho Falls teen's cold case murder - CBS News (updated Sep 4 2024)",
+    "url_or_reference": "https://www.cbsnews.com/news/angie-dodge-murder-how-a-discarded-cigarette-led-to-an-arrest-in-idaho-falls-teens-cold-case/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Explainer (secondary)",
+    "title": "Brian Dripps: The Angie Dodge Murder Case Explained - LegalClarity",
+    "url_or_reference": "https://legalclarity.org/brian-dripps-the-angie-dodge-murder-case-explained/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "National news",
+    "title": "DNA, genetic genealogy helps exonerate an innocent man of murder for first time - Fox News, Jul 2019",
+    "url_or_reference": "https://www.foxnews.com/us/dna-genetic-genealogy-exonerates-innocent-man-christopher-tapp",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "National TV",
+    "title": "Watch the Dateline episode 'True Confession' - NBC News, Feb 2024",
+    "url_or_reference": "https://www.nbcnews.com/dateline/in-the-news/watch-dateline-episode-true-confession-now-rcna140901",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local news",
+    "title": "Former Nevada Congressional Candidate Daniel Rodimer to Face Trial in 2026 - Hoodline, Nov 2025",
+    "url_or_reference": "https://hoodline.com/2025/11/former-nevada-congressional-candidate-daniel-rodimer-to-face-trial-in-2026-for-alleged-las-vegas-murder-of-christopher-tapp/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local TV",
+    "title": "Ex-Congressional candidate pleads not guilty in Las Vegas murder case - News 4 (KRNV)",
+    "url_or_reference": "https://mynews4.com/news/local/ex-congressional-candidate-daniel-rodimer-pleads-not-guilty-las-vegas-murder-case-clark-county-district-court-christopher-tapp",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Opinion/essay (weak)",
+    "title": "The Untold Story Behind The 1996 Angie Dodge Murder Mystery - LinkedIn (Jared Bradley)",
+    "url_or_reference": "https://www.linkedin.com/pulse/story-behind-angie-dodge-murder-mystery-jared-bradley-mba",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Advocacy blog (weak)",
+    "title": "Make This Right, Jared: Help Free Chris Tapp - Libertarian Institute",
+    "url_or_reference": "https://libertarianinstitute.org/everything-will/make-this-right-jared-help-free-chris-tapp/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local TV",
+    "title": "The Angie Dodge Case - KIFI Local News 8, May 22 2019",
+    "url_or_reference": "https://localnews8.com/archive/2019/05/22/the-angie-dodge-case/",
+    "key_information_obtained": ""
+   },
+   {
+    "type": "Local news",
+    "title": "The Angie Dodge case from 1996 until today - East Idaho News, Jul 2019",
+    "url_or_reference": "https://www.eastidahonews.com/2019/07/the-angie-dodge-case-from-1996-until-today-whats-happened-why-and-whats-next/",
+    "key_information_obtained": ""
+   }
+  ]
+ },
+ "next_video_hook": {
+  "_instructions": "Tease.",
+  "next_topic": "HAWAII 1991 — Dana Ireland (Big Island; three men wrongly convicted; DNA later identified Albert Lauro Jr.)",
+  "connection_to_current_video": "Another young woman killed in the 1990s, another case where police convicted the wrong men and DNA later pointed to someone else entirely.",
+  "teaser_line": "In 1991, on the Big Island of Hawaii, three men went to prison for the death of Dana Ireland. Decades later, DNA named a fourth man no one had charged."
+ },
+ "notes_and_gaps": {
+  "_instructions": "Unverified.",
+  "unverified_claims": [
+   "Total interrogation time 'over 20 hours' (single source).",
+   "Tapp's sentence: 30 years to life (Marshall Project) vs 40 years (NBC).",
+   "Exact identity/number of coworkers who found Angie; the door 'unlocked' (one account).",
+   "Whether Angie graduated in 1995 (family tribute) or 1996 (weak LinkedIn essay) - script uses 1995.",
+   "'I can't forgive you, ever' - attributed to Carol Dodge by KTVB/ID, not in Post Register version.",
+   "Roger Dodge's relationship to Angie not verified (asked judge with Todd to reject plea).",
+   "Dripps' age in 1996 (30) is derived from reported ages, not directly reported.",
+   "Dripps' prison location and parole date (May 16, 2039) from unreliable pages.",
+   "How the obituary fit into the genealogy chain (accounts differ).",
+   "Specific details allegedly fed to Tapp (body position, weapon, time) - from critics' accounts.",
+   "Year Carol Dodge publicly changed her mind about Tapp's guilt (not established)."
+  ],
+  "information_gaps": [
+   "Angie's movements on the evening of June 12, 1996 (not publicly documented in sources found).",
+   "Exact date of Dripps' surveillance and cigarette collection.",
+   "Exact date prosecutors filed death penalty notice.",
+   "Date of Jared Fuhriman's death.",
+   "No direct verbatim quotes from Christopher Tapp or CeCe Moore gathered."
+  ],
+  "questions_to_answer": [
+   "Has Dripps filed any post-conviction petition (none found)?",
+   "Will Rodimer's trial proceed on Feb 1, 2027?"
+  ]
+ },
+ "era_and_place_context": {
+  "_note": "General, widely documented background knowledge (not fetched in this session; no web fetch available). Used only as context in the script.",
+  "items": [
+   "June 13, 1996 was a Thursday (calendar calculation).",
+   "1996 was a U.S. presidential election year; the Summer Olympics were held in Atlanta beginning July 19, 1996.",
+   "In 1996 most people had no cell phone; communication ran through landlines, answering machines and pagers; home internet was mostly dial-up.",
+   "The FBI's national DNA index (NDIS, part of CODIS) began operating nationally in October 1998.",
+   "GEDmatch, a free site where people upload genealogy DNA files, launched in 2010.",
+   "The Golden State Killer case: Joseph James DeAngelo was arrested in California in April 2018 after investigators used genetic genealogy via GEDmatch; widely cited as the landmark case (also referenced in coverage of the Dodge case).",
+   "Idaho Falls is in eastern Idaho on the Snake River and is the seat of Bonneville County; Idaho State University is in Pocatello; Caldwell is in Canyon County in southwest Idaho.",
+   "Angie was 18 years and about 6 months old (Dec 21, 1977 - June 13, 1996): an adult for less than six months."
+  ]
+ }
+}

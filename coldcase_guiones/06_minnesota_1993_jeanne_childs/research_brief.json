@@ -1,0 +1,990 @@
+{
+  "video_metadata": {
+    "working_title": "MINNESOTA 1993 Cold Case Solved After 25 Years — Justice for Jeanie Childs",
+    "topic_one_sentence": "In June 1993, 35-year-old Jeanne Ann 'Jeanie' Childs was found stabbed to death in her south Minneapolis high-rise apartment, the killer leaving bloody bare footprints and DNA; 25 years later, forensic genetic genealogy and a napkin thrown away at a hockey game led to Isanti businessman Jerry Arnold Westrom, convicted of first-degree premeditated murder in August 2022.",
+    "primary_emotion_to_evoke": "grief for a woman the world had already written off, then quiet vindication that time and science refused to forget her",
+    "target_length_minutes": "70"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Jeanne Ann 'Jeanie' Childs (victim and heart of the story). Convicted killer: Jerry Arnold Westrom.",
+    "age_at_time_of_events": "Jeanie Childs: 35 in June 1993 [1][13][14]. Jerry Westrom: 52 at his arrest in February 2019 [2][3]; reported as 55 or 56 at the August 2022 verdict (sources differ) [14][7]; by arithmetic he was in his mid-to-late twenties (about 26-27) in June 1993 (derived, not directly reported).",
+    "occupation_or_status": "Childs: had been involved in sex work; described by family as kind-hearted and loving [27][29]. Westrom: businessman from Isanti, Minnesota, 'hockey dad', father of three, described as well respected in his small rural community [2][27][32][48hours-X post in notes].",
+    "location": "Childs: upper-floor apartment in the Horn Towers (Charles Horn Towers) high-rise on Pillsbury Avenue South, south Minneapolis [1][13][30]. Westrom (2019): Isanti, Minnesota; arrested in Waite Park, Minnesota [2][3].",
+    "physical_description": "Not documented in sources reviewed; do not describe.",
+    "background_brief": "Childs began running away from home at around 13, according to her sister Cindy Blumer, and later became involved in sex work [27][29]. Retired Minneapolis police sergeant Robert Krebs testified he had encountered her years earlier, including a 1979 incident at a Lake Street 'health club' known for prostitution where she was cited rather than arrested [13]. Her mother is Betty Eakman; her sister Cindy Blumer; her niece Melissa Beaulieu [17][19][27].",
+    "psychological_profile": "Not documented beyond family descriptions (kind-hearted, loving, life 'complicated'). Do not speculate.",
+    "mundane_humanizing_detail": "Her mother remembered her as the daughter who was 'supposed to be there for me when I get old' [19]. Sergeant Krebs identified her through an ID in her fanny pack [13].",
+    "nickname_or_alias_if_any": "Jeanie (also spelled Jeanne / Jeannie in some reports)."
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {
+        "name": "Jeanne Ann 'Jeanie' Childs",
+        "role_or_profession": "Victim, 35; had been involved in sex work",
+        "connection_to_protagonist": "Westrom denied knowing her; DNA and bloody footprints placed him in her apartment [3][12][14]",
+        "specific_impact_suffered": "Stabbed to death (about 65 stab wounds) in her apartment; found June 13, 1993 [13][14][27]",
+        "humanizing_detail": "Family describes her as kind-hearted and loving; ran away from home around 13 [27][29]",
+        "any_quotes_from_them": "None documented."
+      },
+      {
+        "name": "Betty Eakman",
+        "role_or_profession": "Jeanie's mother; worked in hospice care in 1993",
+        "connection_to_protagonist": "Mother of the victim",
+        "specific_impact_suffered": "Learned of the killing from a TV news report while caring for a hospice patient; waited 29 years for a verdict [29][19]",
+        "humanizing_detail": "Gave a victim impact statement at sentencing on September 9, 2022 [17][19]",
+        "any_quotes_from_them": "'I was doing hospice at the time and the lady decided she wanted a television on, and they said there had been a body taken out of the building that was murdered.' [29]; 'I miss her, she's supposed to be there for me when I get old and she won't be.' [19]; 'honey, justice has been served and I'm happy about that.' [19]; 'I've waited so many years to have this end and it's put my life through so much hell and I just really feel I'll never forget and love her the way I always did.' [17][21]; 'I know that my daughter was crying for me — I know she was.' [30]"
+      },
+      {
+        "name": "Cindy Blumer",
+        "role_or_profession": "Jeanie's sister (also reported as Cindy Kosnitch in one report)",
+        "connection_to_protagonist": "Sister of the victim",
+        "specific_impact_suffered": "Lifelong grief; publicly insisted her sister's life was complicated but she did not deserve to be killed [27][29]",
+        "humanizing_detail": "At sentencing said her heart was broken for Westrom's wife and children; 'a tragedy for everyone involved', 'no winners' (paraphrased in reports) [18][20]",
+        "any_quotes_from_them": "'You don't really recover from that.' [29]"
+      },
+      {
+        "name": "Melissa Beaulieu",
+        "role_or_profession": "Jeanie's niece",
+        "connection_to_protagonist": "Gave victim impact statement",
+        "specific_impact_suffered": "Family grief across a generation",
+        "humanizing_detail": "Spoke at sentencing [17][18]",
+        "any_quotes_from_them": "'The effect something like this creates can be vicious. They affect you for an entire lifetime. To lose someone you love is a profound experience.' [17][21]"
+      },
+      {
+        "name": "Westrom's wife and three children (unnamed)",
+        "role_or_profession": "Family of the convicted man",
+        "connection_to_protagonist": "Collateral victims acknowledged by Jeanie's sister at sentencing",
+        "specific_impact_suffered": "Not documented in detail; do not speculate",
+        "humanizing_detail": "Blumer said her heart was broken for them [18][20]",
+        "any_quotes_from_them": "None used."
+      }
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "Women in sex work whose deaths drew little public attention",
+      "total_number_affected": "Not quantified in sources",
+      "range_of_impacts": "CBS reported the case 'garnered little, if any, press coverage at the time' [1]."
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {
+        "name": "Chris Boeckers",
+        "role_in_story": "FBI special agent (later retired) who worked the reopened case with a Minneapolis homicide detective [27][29]",
+        "key_actions_they_took": "Helped review the case from 2015; said the genealogy approach was inspired by the Golden State Killer case; said the search pointed to two brothers in Minnesota [27][29]",
+        "notable_quotes": "Said investigators had 'no way to track down who that may or may not have been' about an unidentified man a witness described (as reported) [27]"
+      },
+      {
+        "name": "Robert Krebs",
+        "role_in_story": "Minneapolis police sergeant at the 1993 scene; retired; testified at trial [13]",
+        "key_actions_they_took": "Recognized the victim after finding an ID in a fanny pack; had encountered her in 1979 [13]",
+        "notable_quotes": "None verbatim verified."
+      },
+      {
+        "name": "Security guard (named Corey Busker in one trial-coverage summary; single-sourced)",
+        "role_in_story": "Entered the unit after water was reported; testified the shower was running and the bedroom window was wide open with the screen missing; said he did not leave the unit unattended [12][36]",
+        "key_actions_they_took": "Secured the scene",
+        "notable_quotes": "None verbatim verified."
+      },
+      {
+        "name": "Mark Ulrick",
+        "role_in_story": "Minneapolis police supervisor of forensic science; footprint examiner [27][28]",
+        "key_actions_they_took": "Took Westrom's footprints and concluded friction ridge detail in the bloody prints matched Westrom's feet; four of seven prints suitable for comparison [12][27]",
+        "notable_quotes": "Said he is confident Westrom's footprint matches the bloody footprints (paraphrase) [27]"
+      },
+      {
+        "name": "Bart Epstein",
+        "role_in_story": "Retired forensic scientist interviewed by 48 Hours [28]",
+        "key_actions_they_took": "Explained that bloody bare footprints are evidence investigators rarely encounter; prints were dusted with black powder and photographed [28]",
+        "notable_quotes": "None verbatim verified."
+      },
+      {
+        "name": "McCarthy (defense-hired footprint expert; first name not verified)",
+        "role_in_story": "Hired by the defense; concluded print 'E2' belonged to Westrom, was released by the defense and later testified for the prosecution (as reported) [12][14]",
+        "key_actions_they_took": "Independent comparison",
+        "notable_quotes": "None."
+      },
+      {
+        "name": "Mike Freeman",
+        "role_in_story": "Hennepin County Attorney (2019-2022) [8][7]",
+        "key_actions_they_took": "Charged Westrom; defended the napkin collection; compared the method to the Golden State Killer case [8]",
+        "notable_quotes": "'When you discard things in the trash, the Supreme Court often says it's free game.' [8]; 'Today's guilty verdicts show that we will pursue convictions for serious crimes, even if it takes years to gather the evidence.' [7]"
+      },
+      {
+        "name": "Steve Meshbesher",
+        "role_in_story": "Westrom's defense attorney [17][18]",
+        "key_actions_they_took": "Argued Arthur Gray was the killer; questioned untested knife and absence of a weapon; said they would appeal [12][35]",
+        "notable_quotes": "'They just have the wrong person.' [11]; 'As we said in the beginning, and we are saying now you got the wrong guy.' [15]"
+      },
+      {
+        "name": "Judge Juan Hoyos",
+        "role_in_story": "Hennepin County District Judge at sentencing [17][19]",
+        "key_actions_they_took": "Sentenced Westrom on September 9, 2022 to life with parole eligibility after 30 years under 1993 law [17][18][20]",
+        "notable_quotes": "'It seems like you have led a very positive life for the last 29 years.' [19]"
+      },
+      {
+        "name": "Judge Martha Holton Dimick",
+        "role_in_story": "Hennepin County judge at first appearance, February 2019 [4]",
+        "key_actions_they_took": "Set bail at $500,000 with conditions (prosecutors had sought / he had been held on $1 million) [4]",
+        "notable_quotes": "None."
+      },
+      {
+        "name": "Derek Fradenburg",
+        "role_in_story": "Jury foreperson [30]",
+        "key_actions_they_took": "Told WCCO the verdict came down to Westrom's police interview, the DNA and the bloody footprint [30]",
+        "notable_quotes": "Paraphrase only: DNA could be explained by prior contact, but the bloody bare footprints established presence during the murder [27][30]"
+      },
+      {
+        "name": "Arthur Gray",
+        "role_in_story": "Childs' boyfriend, whom she reportedly said she worked for; early person of interest; history of violence between them reported [27][28]",
+        "key_actions_they_took": "Told authorities he was in Milwaukee; his footprints were ruled out; BCA testified his DNA was excluded from the unknown samples [12][28]",
+        "notable_quotes": "None. Never charged. Defense named him as alternative perpetrator; Minnesota Supreme Court held exclusion of that evidence harmless [24]."
+      },
+      {
+        "name": "Unnamed man whose blood matched a stairwell sample",
+        "role_in_story": "Interviewed in 2015; his footprints were compared to the bedroom prints (named in CBS coverage; never charged) [27]",
+        "key_actions_they_took": "None",
+        "notable_quotes": "Do not name in script."
+      },
+      {
+        "name": "Jennifer Mayerle",
+        "role_in_story": "WCCO investigative reporter; produced 'Footprint to Murder' documentary (released late April 2025) [30][31]",
+        "key_actions_they_took": "Documented the case, interviews, interrogation footage",
+        "notable_quotes": "None."
+      },
+      {
+        "name": "Erin Moriarty",
+        "role_in_story": "CBS 48 Hours correspondent, 'The Footprint' (first aired May 17, 2025) [32]",
+        "key_actions_they_took": "National coverage",
+        "notable_quotes": "None."
+      }
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {
+        "date": "c. early 1970s (Jeanie about 13)",
+        "location": "Minnesota (exact town not verified)",
+        "what_happened": "Jeanie Childs begins running away from home, according to her sister",
+        "significance": "Start of a hard life; family insists it never diminished her worth",
+        "source": "[27] CBS 48 Hours; [29] WCCO/CBS Minnesota"
+      },
+      {
+        "date": "1979",
+        "location": "Lake Street, Minneapolis",
+        "what_happened": "Minneapolis officer Robert Krebs encounters Childs at a Lake Street 'health club' known for prostitution; she is cited rather than arrested",
+        "significance": "Why the sergeant later recognized her",
+        "source": "[13] Star Tribune trial coverage"
+      },
+      {
+        "date": "June 1993 (exact date and time of death not established in sources reviewed)",
+        "location": "Horn Towers, Pillsbury Avenue South, south Minneapolis",
+        "what_happened": "Childs, 35, is stabbed to death in her upper-floor apartment",
+        "significance": "The crime",
+        "source": "[1] CBS Minnesota; [13] Star Tribune; [27] CBS News"
+      },
+      {
+        "date": "June 13, 1993 (a Sunday)",
+        "location": "Horn Towers",
+        "what_happened": "A tenant sees water flowing from Childs' unit; a security guard enters; the shower is running, the bedroom window wide open with the screen missing; Childs is found on the bedroom floor, naked except for socks, stabbed about 65 times. Bloody bare footprints are found under the bedroom window",
+        "significance": "Discovery; the barefoot prints must belong to the killer because she wore socks",
+        "source": "[12] Star Tribune; [13] Star Tribune; [27][28] CBS News; [24] Minn. Sup. Ct. (bedroom floor). Early reports said 'in the shower' [34] - discrepancy"
+      },
+      {
+        "date": "1993",
+        "location": "Crime scene / MPD",
+        "what_happened": "Evidence collected: footprints dusted with black powder and photographed; comforter; bathroom towel; washcloth; T-shirt; sink stains; a blood sample in the stairwell; a knife in the kitchen sink was photographed but never forensically tested; no murder weapon found",
+        "significance": "The evidence that would matter decades later",
+        "source": "[28] CBS; [14] Law&Crime; [29] CBS Minnesota; [35] FOX 9"
+      },
+      {
+        "date": "1993",
+        "location": "Minneapolis",
+        "what_happened": "Investigators look at boyfriend Arthur Gray (says he was in Milwaukee; footprints ruled out) and an unidentified man described by a witness; police call the case 'horribly difficult'; little press coverage",
+        "significance": "Leads die; case goes cold",
+        "source": "[1] CBS Minnesota; [27][28] CBS News"
+      },
+      {
+        "date": "1993",
+        "location": "Minnesota",
+        "what_happened": "Betty Eakman learns of the murder from a TV report while working in hospice",
+        "significance": "The family's wait begins",
+        "source": "[29] CBS Minnesota"
+      },
+      {
+        "date": "2015",
+        "location": "Minneapolis",
+        "what_happened": "Minneapolis Police Department reviews unsolved cases with the FBI and the Minnesota BCA (Cold Case Task Force); Childs' case is among them; Minneapolis homicide detective and FBI special agent Chris Boeckers take a new look because of DNA advances; man whose blood matched the stairwell sample is interviewed and his footprints compared",
+        "significance": "Case reopened after 22 years",
+        "source": "[1] CBS Minnesota; [27][29] CBS"
+      },
+      {
+        "date": "April 2018",
+        "location": "Sacramento County, California",
+        "what_happened": "Investigators announce an arrest in the Golden State Killer case after using genetic genealogy (general, widely reported public fact; full research reserved for the next video). Childs investigators and Hennepin County Attorney Mike Freeman explicitly cited this case as the model for their approach",
+        "significance": "The landmark case that proved the method",
+        "source": "General public record (to be fully sourced in next video's brief); connection to the Childs case per [27] CBS 48 Hours and [8] WFTV"
+      },
+      {
+        "date": "2018",
+        "location": "Minneapolis / DNA Solutions, Inc.",
+        "what_happened": "Police work with the FBI; a crime-scene DNA sample is sent to DNA Solutions, Inc. to build a SNP profile for comparison with commercial genealogy databases; genealogical research narrows to two possible suspects, brothers in Minnesota, one of them Jerry Westrom",
+        "significance": "Forensic genetic genealogy breakthrough",
+        "source": "[3] Star Tribune (complaint); [27][29] CBS; [5] Hometown Source"
+      },
+      {
+        "date": "January 2019 (one report gives Jan. 26, a Saturday - single-sourced)",
+        "location": "Hockey arena, reported to be in Wisconsin",
+        "what_happened": "Officers surveil Westrom; he orders food (a hot dog) at the concession, wipes his mouth with a napkin, puts it in a cardboard food container and throws both away; officers recover it",
+        "significance": "The discarded object",
+        "source": "[3] Star Tribune; [6] Newsweek; [16] Oxygen; [27] CBS"
+      },
+      {
+        "date": "Late January / early February 2019",
+        "location": "Minnesota BCA",
+        "what_happened": "BCA finds a DNA mixture on the napkin; the major male profile is consistent with crime-scene DNA",
+        "significance": "Probable cause",
+        "source": "[1] CBS Minnesota; [3] Star Tribune"
+      },
+      {
+        "date": "February 11, 2019 (Monday)",
+        "location": "Waite Park, Minnesota",
+        "what_happened": "Minneapolis police arrest Westrom, 52; in interview he denies knowing Childs, visiting the apartment or having sex with any women in Minneapolis in 1993, and says he does not know why his DNA would be there",
+        "significance": "Arrest after 25 years",
+        "source": "[1] CBS Minnesota; [3] Star Tribune; [4] Star Tribune"
+      },
+      {
+        "date": "February 14, 2019 (Thursday)",
+        "location": "Hennepin County",
+        "what_happened": "Hennepin County Attorney's Office charges Westrom with second-degree murder; a post-arrest DNA sample matches semen on the comforter and DNA on the bathroom towel",
+        "significance": "Formal charge",
+        "source": "[2] CBS Minnesota; [3] Star Tribune; [5] Hometown Source"
+      },
+      {
+        "date": "February 2019 (first appearance)",
+        "location": "Hennepin County District Court",
+        "what_happened": "Held on $1 million bail; Judge Martha Holton Dimick sets bail at $500,000 with conditions; Westrom released on bail",
+        "significance": "He awaits trial at home",
+        "source": "[4] Star Tribune"
+      },
+      {
+        "date": "2020 (Isanti-Chisago County Star article)",
+        "location": "Hennepin County",
+        "what_happened": "A grand jury indicts Westrom for first-degree premeditated murder",
+        "significance": "Top charge; NOTE: the 2020 event is the indictment, not a conviction",
+        "source": "[9] Isanti-Chisago County Star; [10] Bring Me The News"
+      },
+      {
+        "date": "2021-2022",
+        "location": "Hennepin County",
+        "what_happened": "Trial dates set for March and then April before trial finally begins in August 2022",
+        "significance": "Delays",
+        "source": "[39] Hometown Source; [40] CBS Minnesota"
+      },
+      {
+        "date": "Mid-August 2022 (coverage dated Aug. 17, 2022)",
+        "location": "Hennepin County Government Center, Minneapolis",
+        "what_happened": "Trial begins; testimony from the security guard, Sgt. Krebs, footprint examiners, BCA scientists (Gray excluded); defense blames Gray, cites untested knife; Westrom does not testify",
+        "significance": "Trial",
+        "source": "[11] CBS Minnesota; [12][13] Star Tribune; [36] Audacy/WCCO Radio"
+      },
+      {
+        "date": "August 25, 2022 (Thursday)",
+        "location": "Hennepin County",
+        "what_happened": "After about two hours of deliberation, jury convicts Westrom of first-degree premeditated murder and second-degree intentional murder; he is taken into custody",
+        "significance": "Verdict 29 years after the murder",
+        "source": "[7] Fox News; [14] Law&Crime; [15] KSTP; [16] Oxygen. (Forum News Service gives Aug. 22 - discrepancy)"
+      },
+      {
+        "date": "September 9, 2022 (Friday)",
+        "location": "Hennepin County",
+        "what_happened": "Judge Juan Hoyos sentences Westrom to life in prison with eligibility for parole after 30 years, under 1993 law; Westrom declines to speak; mother, sister and niece give statements",
+        "significance": "Sentence",
+        "source": "[17] FOX 9; [18] KARE 11; [19] Law&Crime; [20] Hometown Source; [21] Star Tribune"
+      },
+      {
+        "date": "2023",
+        "location": "Minnesota Supreme Court, St. Paul",
+        "what_happened": "Oral argument in State v. Westrom (A22-1679)",
+        "significance": "Direct appeal",
+        "source": "[23] KSTP; [24] opinion"
+      },
+      {
+        "date": "May 8, 2024 (Wednesday)",
+        "location": "Minnesota Supreme Court",
+        "what_happened": "Court holds genetic analysis of the discarded napkin was not a search under the U.S. or Minnesota constitutions; exclusion of alternative-perpetrator evidence harmless; affirms first-degree premeditated murder conviction; reverses the second-degree conviction and remands to vacate it",
+        "significance": "Conviction upheld; precedent on abandoned DNA",
+        "source": "[24] State v. Westrom, 6 N.W.3d 145 (Minn. 2024)"
+      },
+      {
+        "date": "September 6, 2024",
+        "location": "U.S. Supreme Court",
+        "what_happened": "Petition for certiorari filed (No. 24-271) raising Fourth Amendment shed-DNA and Confrontation Clause questions; Minnesota waives response Sept. 30, 2024",
+        "significance": "Last direct appeal",
+        "source": "[25] Supreme Court docket/petition"
+      },
+      {
+        "date": "October 21, 2024 (Monday)",
+        "location": "U.S. Supreme Court",
+        "what_happened": "Certiorari denied",
+        "significance": "Direct appeals exhausted",
+        "source": "[25] docket; [26] CBS Minnesota"
+      },
+      {
+        "date": "Late April 2025",
+        "location": "WCCO",
+        "what_happened": "WCCO releases documentary 'Footprint to Murder' (Jennifer Mayerle) with interrogation footage; foreperson Derek Fradenburg interviewed; Westrom has asked the Great North Innocence Project to review his conviction and says he will talk after his conviction is overturned",
+        "significance": "Westrom still maintains innocence",
+        "source": "[29][30][31]"
+      },
+      {
+        "date": "May 17, 2025",
+        "location": "CBS",
+        "what_happened": "48 Hours airs 'The Footprint' with Erin Moriarty; rebroadcasts listed in 2026 by a fan site (unverified)",
+        "significance": "National attention",
+        "source": "[27][28][32]"
+      },
+      {
+        "date": "As of October 2026",
+        "location": "Minnesota prison system (facility not verified)",
+        "what_happened": "Westrom serving life sentence; first-degree premeditated murder conviction affirmed and certiorari denied; no reported exoneration or new trial found in sources reviewed; earliest parole eligibility reported as 2052 (single-sourced)",
+        "significance": "Current status",
+        "source": "[24][25][26][29]"
+      }
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {
+      "exact_date": "June 13, 1993",
+      "exact_location": "Upper-floor apartment, Horn Towers, Pillsbury Avenue South, south Minneapolis",
+      "what_is_happening": "Water flowing out of Jeanie Childs' apartment is noticed by a tenant; inside, the shower is running and the window is open",
+      "what_makes_it_shocking": "Under the bedroom window, bare footprints in blood; she was wearing socks, so the prints were the killer's",
+      "ironic_twist": "The killer's identity was preserved in 1993 evidence, but it took a hot dog napkin tossed in a trash can at a hockey game 25 years later to put a name to it; the man had spent those years as a respected businessman and hockey dad"
+    },
+    "central_mystery_question": "Who walked barefoot through Jeanie Childs' apartment in June 1993, and how could a napkin thrown away a quarter of a century later answer that?"
+  },
+  "the_method": {
+    "_instructions": "How was the case solved? Technical details explained for a general audience.",
+    "technique_name": "Forensic investigative genetic genealogy (FIGG) plus abandoned-DNA confirmation and barefoot friction-ridge comparison",
+    "step_by_step_explanation": [
+      "1993: crime-scene biological evidence (comforter, towel and other items) is preserved [3][14]",
+      "2015: MPD, FBI and BCA cold case review; DNA advances make re-examination worthwhile [1][27]",
+      "2018: a crime-scene sample is sent to DNA Solutions, Inc. to create a SNP (single nucleotide polymorphism) profile [3]",
+      "The SNP profile is compared with profiles in commercial genealogy databases to find relatives of the unknown man [3][27]",
+      "A genealogist builds family trees from the matches; the research points to two brothers in Minnesota, one of them Jerry Westrom [27][29]",
+      "According to the complaint as reported, either Westrom or a close relative had submitted DNA to a genealogy service [8]",
+      "January 2019: officers collect a napkin Westrom discards at a hockey game; the BCA finds a major male profile consistent with the crime-scene DNA [3][1]",
+      "After the arrest, a direct DNA sample matches semen on the comforter and DNA on the bathroom towel [5][27]",
+      "Westrom's footprints are taken; examiner Mark Ulrick finds friction ridge detail in the bloody bare prints matches his feet; a defense-hired expert reaches a matching conclusion on one print [12][27]"
+    ],
+    "why_it_worked": "Preserved evidence + a relative's DNA in a genealogy database + public records family-tree work + a legally collected abandoned sample + an independent physical clue (the footprints) that DNA alone could not explain away",
+    "technical_terms_to_explain": [
+      {
+        "term": "SNP profile",
+        "simple_explanation": "Instead of the 20-odd markers police labs compare, a SNP test reads hundreds of thousands of tiny letters in the genetic code, enough to find distant cousins, like comparing an entire family photo album instead of a single photo"
+      },
+      {
+        "term": "Genetic genealogy",
+        "simple_explanation": "Using DNA matches with cousins plus birth, marriage and obituary records to rebuild a family tree until only a few people fit"
+      },
+      {
+        "term": "Abandoned DNA",
+        "simple_explanation": "DNA on something a person throws away in public; Minnesota's Supreme Court ruled that analyzing such a napkin to compare it to crime-scene DNA was not a search [24]"
+      },
+      {
+        "term": "Friction ridge detail",
+        "simple_explanation": "The soles of the feet carry ridges like fingertips; a clear bloody barefoot print can be compared like a fingerprint"
+      },
+      {
+        "term": "Major male profile in a mixture",
+        "simple_explanation": "The napkin held DNA from more than one person, but one man's DNA dominated, and that dominant profile was consistent with the crime-scene DNA"
+      }
+    ],
+    "scale_of_operation": "Not quantified in sources (hours of genealogy work not reported)."
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed?",
+    "institution_that_failed": "Not a single institution; the limits of 1993 forensic science and the low public attention given to the killing of a woman in sex work",
+    "how_they_were_supposed_to_protect": "Identify and charge the killer",
+    "why_they_failed": "No suspect DNA match was possible with 1993 tools; leads (boyfriend, unidentified man) went nowhere; little press coverage kept pressure low [1][27]",
+    "specific_incompetence_examples": [
+      "A knife photographed in the kitchen sink was never forensically tested (defense argument, reported at trial) [35]",
+      "No murder weapon was ever found [35]",
+      "Case garnered 'little, if any, press coverage at the time' [1]",
+      "22 years passed before a structured review in 2015 [1][27]"
+    ],
+    "ironic_details_about_the_failure": "The evidence that solved it had sat in storage since 1993; the answer arrived from a man's own family tree and a napkin at a hockey game."
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Minneapolis Police Department with the FBI and the Minnesota Bureau of Criminal Apprehension (BCA); prosecution by the Hennepin County Attorney's Office",
+    "operation_code_name_if_any": "None reported",
+    "when_investigation_began": "June 13, 1993; reopened 2015; genealogy 2018",
+    "initial_wrong_assumptions": "Focus on the boyfriend Arthur Gray, later excluded by footprints and DNA [12][28]",
+    "key_breakthrough": "SNP genealogy pointing to two Minnesota brothers, then the napkin [3][27]",
+    "the_fatal_mistake": "Leaving DNA and bloody bare footprints at the scene in 1993; throwing a used napkin in a public trash can in 2019",
+    "how_long_until_caught": "About 25 years and 8 months (June 1993 to February 11, 2019)"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest.",
+    "date_and_time": "February 11, 2019 (time not reported)",
+    "location": "Waite Park, Minnesota",
+    "scene_description": "Minneapolis police arrested Westrom; details of the scene not reported",
+    "protagonist_reaction": "Denied involvement; said he did not know Childs, had not been to her apartment, had not had sex with any women in Minneapolis in 1993 and did not know why his DNA would be there [1][3]",
+    "ironic_or_absurd_details": "A respected businessman and hockey dad in a small community; out on $500,000 bail until the verdict [4][27]"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": [
+      "Second-degree murder (complaint, Feb. 14, 2019) [2][5]",
+      "First-degree premeditated murder (grand jury indictment, 2020) [9][10]"
+    ],
+    "trial_date_if_applicable": "Began mid-August 2022; verdict August 25, 2022 [11][7][14]",
+    "notable_court_testimony": "Security guard: shower running, window open, screen missing [12]; Sgt. Robert Krebs recognized her via ID in a fanny pack [13]; Mark Ulrick: four of seven prints suitable, matched Westrom [12][27]; defense-hired expert also matched one print and testified for the state [12]; BCA: Arthur Gray excluded as DNA contributor [12]; prosecutor: 'You step in liquid blood and you put your foot down. His footprints were in her blood because he killed her.' [12]",
+    "victim_impact_statements": [
+      {
+        "from_whom": "Betty Eakman (mother)",
+        "key_quote": "I miss her, she's supposed to be there for me when I get old and she won't be.",
+        "emotional_impact": "A mother's lost future [19]"
+      },
+      {
+        "from_whom": "Betty Eakman (mother)",
+        "key_quote": "honey, justice has been served and I'm happy about that.",
+        "emotional_impact": "Release after 29 years [19]"
+      },
+      {
+        "from_whom": "Melissa Beaulieu (niece)",
+        "key_quote": "The effect something like this creates can be vicious. They affect you for an entire lifetime. To lose someone you love is a profound experience.",
+        "emotional_impact": "Generational grief [17][21]"
+      },
+      {
+        "from_whom": "Cindy Blumer (sister)",
+        "key_quote": "(paraphrase) Her heart is broken for Westrom's wife and children; a tragedy for everyone involved; there are no winners",
+        "emotional_impact": "Grace [18][20]"
+      }
+    ],
+    "sentence_received": "Life in prison with parole eligibility after 30 years, under the law in effect in 1993 (current law would require life without parole) [17][18][20]. One Forum News Service article says 'without the possibility of parole' - contradicted by FOX 9, KARE 11 and Hometown Source.",
+    "protagonist_statement_in_court": "Westrom declined to address the court [17][19]",
+    "current_status": "As of October 2026: serving a life sentence for first-degree premeditated murder; Minnesota Supreme Court affirmed that conviction on May 8, 2024 (second-degree conviction vacated as legally duplicative); U.S. Supreme Court denied certiorari October 21, 2024; Westrom maintains innocence and asked the Great North Innocence Project to review his case (no exoneration or new-trial order found in sources reviewed); earliest parole eligibility reported as 2052 (single source)."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {
+        "speaker": "Betty Eakman",
+        "exact_quote": "I was doing hospice at the time and the lady decided she wanted a television on, and they said there had been a body taken out of the building that was murdered.",
+        "context": "How she learned of the murder; 2025 WCCO/CBS coverage",
+        "source": "[29] CBS Minnesota / WCCO 2025"
+      },
+      {
+        "speaker": "Betty Eakman",
+        "exact_quote": "I miss her, she's supposed to be there for me when I get old and she won't be.",
+        "context": "Sentencing, Sept. 9, 2022",
+        "source": "[19] Law&Crime"
+      },
+      {
+        "speaker": "Betty Eakman",
+        "exact_quote": "honey, justice has been served and I'm happy about that.",
+        "context": "Sentencing, Sept. 9, 2022",
+        "source": "[19] Law&Crime"
+      },
+      {
+        "speaker": "Betty Eakman",
+        "exact_quote": "I've waited so many years to have this end and it's put my life through so much hell and I just really feel I'll never forget and love her the way I always did.",
+        "context": "Sentencing, Sept. 9, 2022",
+        "source": "[17] FOX 9; [21] Star Tribune (as reported in search summaries)"
+      },
+      {
+        "speaker": "Betty Eakman",
+        "exact_quote": "I know that my daughter was crying for me — I know she was.",
+        "context": "WCCO documentary 'Footprint to Murder', 2025",
+        "source": "[30] Forum News Service"
+      },
+      {
+        "speaker": "Melissa Beaulieu",
+        "exact_quote": "The effect something like this creates can be vicious. They affect you for an entire lifetime. To lose someone you love is a profound experience.",
+        "context": "Sentencing, Sept. 9, 2022",
+        "source": "[17] FOX 9; [21] Star Tribune"
+      },
+      {
+        "speaker": "Cindy Blumer",
+        "exact_quote": "You don't really recover from that.",
+        "context": "2025 interview",
+        "source": "[29] CBS Minnesota"
+      },
+      {
+        "speaker": "Judge Juan Hoyos",
+        "exact_quote": "It seems like you have led a very positive life for the last 29 years.",
+        "context": "Sentencing, before pronouncing life sentence",
+        "source": "[19] Law&Crime; [18] KARE 11"
+      },
+      {
+        "speaker": "Mike Freeman, Hennepin County Attorney",
+        "exact_quote": "When you discard things in the trash, the Supreme Court often says it's free game.",
+        "context": "February 2019, on the napkin",
+        "source": "[8] WFTV/Cox Media (AP-style wire)"
+      },
+      {
+        "speaker": "Mike Freeman, Hennepin County Attorney",
+        "exact_quote": "Today's guilty verdicts show that we will pursue convictions for serious crimes, even if it takes years to gather the evidence.",
+        "context": "Statement after verdict, Aug. 25, 2022",
+        "source": "[7] Fox News"
+      },
+      {
+        "speaker": "Prosecutor at trial (name not verified)",
+        "exact_quote": "You step in liquid blood and you put your foot down. His footprints were in her blood because he killed her.",
+        "context": "Trial argument, August 2022",
+        "source": "[12] Star Tribune"
+      },
+      {
+        "speaker": "Steve Meshbesher, defense attorney",
+        "exact_quote": "They just have the wrong person.",
+        "context": "Trial, August 2022",
+        "source": "[11] CBS Minnesota"
+      },
+      {
+        "speaker": "Steve Meshbesher, defense attorney",
+        "exact_quote": "As we said in the beginning, and we are saying now you got the wrong guy.",
+        "context": "After the verdict",
+        "source": "[15] KSTP"
+      },
+      {
+        "speaker": "Minneapolis police (as reported)",
+        "exact_quote": "horribly difficult",
+        "context": "Description of the case",
+        "source": "[1] CBS Minnesota"
+      }
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {
+        "number": "35",
+        "what_it_represents": "Jeanie Childs' age",
+        "source": "[1][14]"
+      },
+      {
+        "number": "About 65",
+        "what_it_represents": "Stab wounds (use only once, plainly)",
+        "source": "[13][14][27]"
+      },
+      {
+        "number": "7 / 4",
+        "what_it_represents": "Bloody bare footprints examined / suitable for comparison",
+        "source": "[12]"
+      },
+      {
+        "number": "13",
+        "what_it_represents": "Age when Jeanie began running away from home",
+        "source": "[27][29]"
+      },
+      {
+        "number": "1979",
+        "what_it_represents": "Year Sgt. Krebs first encountered her",
+        "source": "[13]"
+      },
+      {
+        "number": "2015",
+        "what_it_represents": "Case reopened (22 years later)",
+        "source": "[1][27]"
+      },
+      {
+        "number": "2018",
+        "what_it_represents": "SNP profile / genealogy",
+        "source": "[3]"
+      },
+      {
+        "number": "2",
+        "what_it_represents": "Brothers identified by genealogy as possible sources",
+        "source": "[27][29]"
+      },
+      {
+        "number": "52",
+        "what_it_represents": "Westrom's age at arrest",
+        "source": "[2][3]"
+      },
+      {
+        "number": "25",
+        "what_it_represents": "Years from murder to arrest",
+        "source": "[3]"
+      },
+      {
+        "number": "$1,000,000 / $500,000",
+        "what_it_represents": "Initial bail / bail set by Judge Holton Dimick",
+        "source": "[4]"
+      },
+      {
+        "number": "About 2 hours",
+        "what_it_represents": "Jury deliberation",
+        "source": "[14][15]"
+      },
+      {
+        "number": "29",
+        "what_it_represents": "Years from murder to verdict and sentence",
+        "source": "[19]"
+      },
+      {
+        "number": "30",
+        "what_it_represents": "Years before parole eligibility",
+        "source": "[17][18][20]"
+      },
+      {
+        "number": "3",
+        "what_it_represents": "Westrom's children",
+        "source": "[32]"
+      },
+      {
+        "number": "6 N.W.3d 145",
+        "what_it_represents": "Citation of Minnesota Supreme Court decision, May 8, 2024",
+        "source": "[24]"
+      },
+      {
+        "number": "24-271",
+        "what_it_represents": "U.S. Supreme Court docket, denied Oct. 21, 2024",
+        "source": "[25][26]"
+      }
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "The killer took off his shoes, and the bare footprints he left became the evidence the jury foreperson called decisive [27][30]",
+      "A hot dog napkin at a hockey game connected a 1993 murder in a Minneapolis high-rise [16][27]",
+      "The judge told the man he had led 'a very positive life for the last 29 years' before sentencing him to life [19]",
+      "The defense's own footprint expert reached a match and ended up testifying for the prosecution [12]",
+      "The sister of the victim said her heart broke for the killer's wife and children [18][20]",
+      "Because the crime happened in 1993, the 1993 sentencing law applied, allowing parole eligibility after 30 years [17]"
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {
+        "location_name": "Horn Towers (Charles Horn Towers), Pillsbury Avenue South, south Minneapolis",
+        "physical_description": "High-rise apartment building; Childs lived on an upper floor [1][28]",
+        "atmosphere": "Documented only: water flowing from her unit; shower running; bedroom window wide open, screen missing [12]",
+        "relevant_details": "Stairwell blood sample later matched to a man interviewed in 2015 (never charged) [27]"
+      },
+      {
+        "location_name": "Lake Street, Minneapolis",
+        "physical_description": "Commercial corridor; site of the 'health club' where Krebs met Childs in 1979 [13]",
+        "atmosphere": "General context only",
+        "relevant_details": "—"
+      },
+      {
+        "location_name": "Isanti, Minnesota",
+        "physical_description": "Small community north of the Twin Cities where Westrom lived and ran businesses [2][27]",
+        "atmosphere": "'small rural community' (48 Hours)",
+        "relevant_details": "Westrom described as well respected there"
+      },
+      {
+        "location_name": "Hockey arena (reported in Wisconsin)",
+        "physical_description": "Concession area, trash can [3][6]",
+        "atmosphere": "Not documented",
+        "relevant_details": "Napkin in a cardboard food container"
+      },
+      {
+        "location_name": "Waite Park, Minnesota",
+        "physical_description": "City in central Minnesota near St. Cloud",
+        "atmosphere": "—",
+        "relevant_details": "Arrest location, Feb. 11, 2019 [2]"
+      }
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "A woman many treated as a headline category was a daughter, sister and aunt; her case shows that who the victim was should never decide how hard we look",
+    "how_this_could_happen_to_them": "Any DNA you or a relative upload to a genealogy site can help identify a relative; anything you throw away in public may be tested (Minnesota Supreme Court, 2024)",
+    "lesson_or_warning": "Preserve evidence; never let the victim's circumstances shrink the investigation",
+    "current_relevance": "State v. Westrom (2024) is a leading state ruling on abandoned DNA; the U.S. Supreme Court declined to review it in October 2024; Westrom continues to claim innocence"
+  },
+  "sources": {
+    "_instructions": "List ALL sources. Numbering matches investigacion.md. NOTE: in this session WebFetch could not resolve any domain and the shared web-search budget ran out after 22 queries; facts were gathered from search-engine extracts of the pages below and cross-checked across outlets.",
+    "primary_sources": [
+      {
+        "type": "Court opinion",
+        "title": "[24] State of Minnesota v. Jerry Arnold Westrom, A22-1679, 6 N.W.3d 145 (Minn. May 8, 2024)",
+        "url_or_reference": "https://law.justia.com/cases/minnesota/supreme-court/2024/a22-1679.html",
+        "key_information_obtained": "Holdings: napkin analysis not a search; harmless exclusion; first-degree affirmed; second-degree vacated; facts of scene"
+      },
+      {
+        "type": "Court docket / petition",
+        "title": "[25] Westrom v. Minnesota, No. 24-271 (U.S.)",
+        "url_or_reference": "https://www.supremecourt.gov/DocketPDF/24/24-271/325353/20240906142337954_SCOTUS%20PFC%20Westrom%20FINAL.pdf",
+        "key_information_obtained": "Filed Sept. 6, 2024; questions presented; denied Oct. 21, 2024"
+      },
+      {
+        "type": "Court calendar",
+        "title": "[23b] Minnesota Judicial Branch oral argument webcast, State of Minnesota vs. Jerry Arnold Westrom (2023)",
+        "url_or_reference": "https://mncourts.gov/supremecourt/oralargumentwebcasts/2023/state-of-minnesota-vs.-jerry-arnold-westrom",
+        "key_information_obtained": "Argument held 2023"
+      },
+      {
+        "type": "Criminal complaint as reported",
+        "title": "[3] Star Tribune: Charge: Hockey dad's discarded napkin at rink ties him to 1993 killing in Twin Cities 25 years later (Feb. 2019)",
+        "url_or_reference": "https://www.startribune.com/charge-hockey-dad-s-discarded-napkin-at-rink-ties-him-to-1993-killing-in-twin-cities-25-years-later/505838292",
+        "key_information_obtained": "Complaint details: DNA Solutions SNP, two suspects, napkin, denials"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "type": "TV",
+        "title": "[1] CBS Minnesota: Jerry Westrom Arrested In 1993 Cold Case Murder Of Jeanne Ann Childs (Feb. 2019)",
+        "url_or_reference": "https://www.cbsnews.com/minnesota/news/man-arrested-1993-cold-case/",
+        "key_information_obtained": "Discovery date, Horn Towers, 2015 review, napkin, denial, 'horribly difficult'"
+      },
+      {
+        "type": "TV",
+        "title": "[2] CBS Minnesota: Metro Hockey Dad Charged With 1993 Murder Of Jeanne Ann Childs (Feb. 14, 2019)",
+        "url_or_reference": "https://www.cbsnews.com/minnesota/news/metro-hockey-dad-charged-with-1993-murder-of-jeanne-ann-childs/",
+        "key_information_obtained": "Charge, age 52, Waite Park arrest"
+      },
+      {
+        "type": "Newspaper",
+        "title": "[4] Star Tribune: Isanti businessman charged in 1993 stabbing released on $500K bail",
+        "url_or_reference": "https://startribune.com/bail-set-at-500-000-for-isanti-hockey-dad-charged-in-1993-stabbing/505910442",
+        "key_information_obtained": "Bail, Judge Holton Dimick, denials"
+      },
+      {
+        "type": "Newspaper",
+        "title": "[5] Isanti County News (Hometown Source): Former Isanti County businessman charged with second-degree murder from 1993 case",
+        "url_or_reference": "https://www.hometownsource.com/isanti_county_news/free/former-isanti-county-businessman-charged-with-second-degree-murder-from-1993-case/article_649fd3e8-2f11-11e9-8099-b35ad6f9afa3.html",
+        "key_information_obtained": "Body face-up in bedroom; comforter and towel match"
+      },
+      {
+        "type": "Magazine",
+        "title": "[6] Newsweek: How a Discarded Napkin at a Hockey Game Led Police to... (2019)",
+        "url_or_reference": "https://www.newsweek.com/jerry-westrom-jeanne-anne-childs-dna-napkin-cold-case-murder-wisconsin-1335046",
+        "key_information_obtained": "Hockey game in Wisconsin"
+      },
+      {
+        "type": "TV/web",
+        "title": "[7] Fox News: Minnesota man linked to cold case killing through discarded napkin convicted of murder (Aug. 2022)",
+        "url_or_reference": "https://www.foxnews.com/us/minnesota-man-linked-cold-case-killing-through-discarded-napkin-convicted-murder",
+        "key_information_obtained": "Verdict Aug. 25; Freeman verdict quote"
+      },
+      {
+        "type": "TV/wire",
+        "title": "[8] WFTV: Tossed napkin, genealogy site lead to hockey dad's arrest in 1993 killing (Feb. 2019)",
+        "url_or_reference": "https://www.wftv.com/news/trending-now/tossed-napkin-genealogy-site-lead-to-hockey-dads-arrest-in-1993-killing-of-prostitute/922345602",
+        "key_information_obtained": "Freeman 'free game' quote; Westrom or close relative submitted DNA"
+      },
+      {
+        "type": "Newspaper",
+        "title": "[9] Isanti-Chisago County Star: Westrom now charged with first degree murder (2020)",
+        "url_or_reference": "https://www.isanti-chisagocountystar.com/news/westrom-now-charged-with-first-degree-murder/article_7312e304-bb0e-11ea-a8f0-7b3bd064c034.html",
+        "key_information_obtained": "First-degree indictment"
+      },
+      {
+        "type": "Web news",
+        "title": "[10] Bring Me The News: Isanti businessman indicted for 1st-degree murder in 1993 cold case",
+        "url_or_reference": "https://bringmethenews.com/minnesota-news/isanti-businessman-indicted-for-1st-degree-murder-in-1993-cold-case",
+        "key_information_obtained": "Indictment"
+      },
+      {
+        "type": "TV",
+        "title": "[11] CBS Minnesota: Trial starts for Jerry Westrom, accused of Jeanie Ann Childs' 1993 murder (Aug. 2022)",
+        "url_or_reference": "https://www.cbsnews.com/minnesota/news/jerry-westrom-trial-begins-jeanie-ann-childs-murder-1993/",
+        "key_information_obtained": "Trial start; Meshbesher 'wrong person'"
+      },
+      {
+        "type": "Newspaper",
+        "title": "[12] Star Tribune: Prosecutors say DNA, other evidence points to guilt in Minneapolis cold case murder trial (Aug. 2022)",
+        "url_or_reference": "https://www.startribune.com/prosecutors-say-dna-other-evidence-points-to-guilt-in-minneapolis-cold-case-murder-trial/600198873",
+        "key_information_obtained": "Guard testimony, footprints 4 of 7, defense expert, Gray excluded, prosecutor quote"
+      },
+      {
+        "type": "Newspaper",
+        "title": "[13] Star Tribune: In cold case murder trial, retired Minneapolis police sergeant recalls a harrowing crime scene (Aug. 2022)",
+        "url_or_reference": "https://www.startribune.com/in-cold-case-murder-trial-retired-minneapolis-police-sergeant-recalls-a-harrowing-crime-scene/600199475",
+        "key_information_obtained": "Sgt. Robert Krebs; fanny pack ID; 1979 Lake Street; 65 wounds"
+      },
+      {
+        "type": "Web news",
+        "title": "[14] Law&Crime: Minnesota man convicted in 1993 cold case murder of woman stabbed 65 times... (Aug. 2022)",
+        "url_or_reference": "https://lawandcrime.com/crime/minnesota-man-convicted-in-1993-cold-case-murder-of-woman-stabbed-65-times-after-investigators-obtained-his-dna-from-used-hotdog-napkin-at-hockey-game/",
+        "key_information_obtained": "Verdict counts, 2 hours, age 56, towel/washcloth/T-shirt/sink DNA"
+      },
+      {
+        "type": "TV",
+        "title": "[15] KSTP: Jury finds Isanti man guilty of murder in 1993 cold case (Aug. 2022)",
+        "url_or_reference": "https://kstp.com/kstp-news/top-news/jerry-westrom-convicted-of-murder-in-1993-cold-case/",
+        "key_information_obtained": "Verdict; Meshbesher 'wrong guy'"
+      },
+      {
+        "type": "TV/web",
+        "title": "[16] Oxygen: Minnesota Man Convicted Of 1993 Cold Case Murder Based On DNA From A Hot Dog Napkin",
+        "url_or_reference": "https://www.oxygen.com/crime-news/jerry-westrom-guilty-jeanne-childs-1993-cold-case-murder",
+        "key_information_obtained": "Hot dog napkin; verdict"
+      },
+      {
+        "type": "TV",
+        "title": "[17] FOX 9: Jerry Westrom sentenced to life in prison for 1993 murder (Sept. 9, 2022)",
+        "url_or_reference": "https://www.fox9.com/news/jerry-westrom-sentenced-to-life-in-prison-for-1993-murder",
+        "key_information_obtained": "Sentence under 1993 guidelines; statements"
+      },
+      {
+        "type": "TV",
+        "title": "[18] KARE 11: Jerry Westrom sentenced to life in murder of Jeanie Childs (Sept. 9, 2022)",
+        "url_or_reference": "https://www.kare11.com/article/news/crime/jerry-westrom-sentenced-to-life-in-1993-cold-case-murder/89-23e37920-d364-4fa7-843b-6b49f54b76d0",
+        "key_information_obtained": "30 years before parole; sister statement"
+      },
+      {
+        "type": "Web news",
+        "title": "[19] Law&Crime: 'Honey, justice has been served': hockey dad... sentenced (Sept. 2022)",
+        "url_or_reference": "https://lawandcrime.com/crime/honey-justice-has-been-served-hockey-dad-convicted-of-stabbing-woman-65-times-in-horrific-cold-case-murder-is-sentenced-to-prison/",
+        "key_information_obtained": "Judge Hoyos quote; Eakman quotes; Westrom silent"
+      },
+      {
+        "type": "Newspaper",
+        "title": "[20] County News Review (Hometown Source): Westrom receives life sentence for Childs murder (Sept. 2022)",
+        "url_or_reference": "https://www.hometownsource.com/county_news_review/news/local/westrom-receives-life-sentence-for-childs-murder/article_10683c20-306b-11ed-81db-afb3de281dc6.html",
+        "key_information_obtained": "At least 30 years; sister's 'no winners'"
+      },
+      {
+        "type": "Newspaper",
+        "title": "[21] Star Tribune: Life sentence for Isanti man in Minneapolis woman's brutal 1993 killing (Sept. 2022)",
+        "url_or_reference": "https://www.startribune.com/life-sentence-for-isanti-man-in-brutal-1993-cold-case-killing/600205310",
+        "key_information_obtained": "Victim impact statements"
+      },
+      {
+        "type": "TV",
+        "title": "[22] CBS Minnesota: Evidence that led to Jerry Westrom's cold-case murder conviction released (Sept. 2022)",
+        "url_or_reference": "https://www.cbsnews.com/minnesota/news/evidence-that-led-to-jerry-westroms-cold-case-murder-conviction-released/",
+        "key_information_obtained": "Post-trial release of evidence; Westrom did not testify; left footprint heel and area below big toe"
+      },
+      {
+        "type": "TV",
+        "title": "[23] KSTP: Minnesota Supreme Court justices weigh appeal of man convicted in 1993 cold case (2023)",
+        "url_or_reference": "https://kstp.com/kstp-news/local-news/minnesota-supreme-court-justices-weigh-appeal-of-man-convicted-in-1993-cold-case/",
+        "key_information_obtained": "Appeal issues incl. ineffective assistance claim"
+      },
+      {
+        "type": "TV",
+        "title": "[26] CBS Minnesota: U.S. Supreme Court declines to review case of Jerry Westrom (Oct. 2024)",
+        "url_or_reference": "https://www.cbsnews.com/minnesota/news/us-supreme-court-jerry-westrom-denies-petition/",
+        "key_information_obtained": "Cert denied Monday Oct. 21, 2024"
+      },
+      {
+        "type": "TV/web",
+        "title": "[27] CBS News 48 Hours: Bloody, bare footprints at Minneapolis murder scene lead to decadeslong search for answers (May 2025)",
+        "url_or_reference": "https://www.cbsnews.com/news/jeanie-childs-jerry-westrom-minneapolis-cold-case-murder/",
+        "key_information_obtained": "Family background, Boeckers, Gray, stairwell blood, two brothers, Ulrick, father of three"
+      },
+      {
+        "type": "TV/web",
+        "title": "[28] CBS News: Rare clue at Minneapolis crime scene points to a barefoot killer (May 2025)",
+        "url_or_reference": "https://www.cbsnews.com/news/jeanie-childs-murder-minneapolis-crime-scene-clue-barefoot-killer-48-hours/",
+        "key_information_obtained": "Socks; prints under window; black powder; Epstein; Gray Milwaukee"
+      },
+      {
+        "type": "TV",
+        "title": "[29] CBS Minnesota/WCCO: How DNA technology broke open the cold case in Minneapolis woman's 1993 murder (April-May 2025)",
+        "url_or_reference": "https://www.cbsnews.com/minnesota/news/jeanie-childs-minneapolis-cold-case-solved-footprint-to-murder/",
+        "key_information_obtained": "Eakman hospice quote; Blumer quotes; GNIP request; parole 2052"
+      },
+      {
+        "type": "Newspaper",
+        "title": "[30] Forum News Service: In just-released 'Footprint to Murder' documentary, WCCO reveals Jeanie Childs case (April 2025)",
+        "url_or_reference": "https://www.inforum.com/news/the-vault/in-just-released-footprint-to-murder-documentary-wcco-reveals-jeanie-childs-case",
+        "key_information_obtained": "Documentary details; foreperson Fradenburg; Eakman 'crying for me'"
+      },
+      {
+        "type": "TV documentary",
+        "title": "[31] WCCO: A WCCO Original: Footprint to Murder (2025)",
+        "url_or_reference": "https://www.cbsnews.com/minnesota/footprinttomurder/",
+        "key_information_obtained": "Documentary hub"
+      },
+      {
+        "type": "TV listing",
+        "title": "[32] IMDb: 48 Hours, 'The Footprint' (S38E30, May 17, 2025)",
+        "url_or_reference": "https://www.imdb.com/title/tt36981022/",
+        "key_information_obtained": "Air date; correspondent; interviewees"
+      },
+      {
+        "type": "TV",
+        "title": "[33] CBS Minnesota: Criminal justice forensics professor teaches Jeanie Childs murder case (2025)",
+        "url_or_reference": "https://www.cbsnews.com/minnesota/news/jeanie-childs-jerry-westrom-minneapolis-cold-case-murder-forensics-education/",
+        "key_information_obtained": "Case now taught in forensics classes"
+      },
+      {
+        "type": "TV",
+        "title": "[34] Inside Edition: Minnesota Hockey Dad Arrested in Cold Case Killing of Woman Found Stabbed to Death (2019)",
+        "url_or_reference": "https://www.insideedition.com/hockey-dad-arrested-cold-case-killing-woman-found-stabbed-death-minneapolis-shower-50796",
+        "key_information_obtained": "Early 'shower' version (discrepancy)"
+      },
+      {
+        "type": "TV",
+        "title": "[35] FOX 9: Defense attorney questions DNA evidence in 1993 murder case (2022)",
+        "url_or_reference": "https://www.fox9.com/news/defense-attorney-questions-dna-evidence-in-1993-murder-case",
+        "key_information_obtained": "Untested knife; no weapon"
+      },
+      {
+        "type": "Radio",
+        "title": "[36] WCCO Radio (Audacy): Testimony begins in 1993 cold case killing of Jeanie Childs (Aug. 2022)",
+        "url_or_reference": "https://www.audacy.com/wccoradio/news/local/testimony-begins-in-1993-cold-case-killing-of-jeanie-childs",
+        "key_information_obtained": "Security guard testimony"
+      },
+      {
+        "type": "TV video",
+        "title": "[37] KARE 11: Victim's family shares impact statements before Jerry Westrom sentencing",
+        "url_or_reference": "https://www.kare11.com/video/news/crime/victims-family-shares-impact-statements-before-jerry-westrom-sentencing/89-c812ac4f-14e5-499c-b68d-db9e9d28b752",
+        "key_information_obtained": "Footage of statements"
+      },
+      {
+        "type": "TV/web",
+        "title": "[38] NewsNation: Hot dog napkin reveals 29-year-old cold case killer (2022)",
+        "url_or_reference": "https://www.newsnationnow.com/us-news/midwest/hot-dog-napkin-cold-case-killer/",
+        "key_information_obtained": "Napkin detail corroboration"
+      },
+      {
+        "type": "Newspaper",
+        "title": "[39] County News Review: Jury trial set for March in Westrom alleged murder case (Nov. 2021)",
+        "url_or_reference": "https://www.hometownsource.com/county_news_review/free/jury-trial-set-for-march-in-westrom-alleged-murder-case/article_76d0f414-3da2-11ec-b555-ff12d5f210f9.html",
+        "key_information_obtained": "Trial scheduling"
+      },
+      {
+        "type": "TV",
+        "title": "[40] CBS Minnesota: Jerry Westrom's Murder Trial Date Set For April",
+        "url_or_reference": "https://www.cbsnews.com/minnesota/news/jerry-westroms-murder-trial-date-set-for-april-accused-of-killing-jeanie-ann-childs-in-1993/",
+        "key_information_obtained": "Trial scheduling"
+      }
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "CALIFORNIA 1974–1986 — The Golden State Killer (Joseph James DeAngelo)",
+    "connection_to_current_video": "Investigators in the Childs case said their genealogy approach was inspired by the Golden State Killer case; Hennepin County Attorney Mike Freeman also compared the two. The April 2018 arrest of Joseph James DeAngelo, also confirmed with discarded DNA, opened the door for Jeanie's case.",
+    "teaser_line": "The method that named Jeanie Childs' killer was borrowed from one case in California: a man who terrorized the state for more than a decade and then vanished into an ordinary life for 30 years. Next time, the Golden State Killer."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Exact date of the hockey game (Jan. 26, 2019 appears in one summary) and whose game it was (Newsweek: his daughter's game; another summary: a college game) - script says only 'a hockey game in January 2019', reported to be in Wisconsin",
+      "Name of the genealogy database (GEDmatch is named in some wire copy but may refer to the Golden State Killer comparison) - script does not name it",
+      "Security guard's name (Corey Busker) - single-sourced",
+      "Earliest parole date 2052 - single-sourced",
+      "Verdict date Aug. 25 vs Aug. 22, 2022 - Aug. 25 (Thursday) supported by Fox News and 'Thursday' in several reports",
+      "Sentence: one outlet says without parole; FOX 9, KARE 11, Hometown Source say parole eligible after 30 years",
+      "2026 rebroadcast dates of 48 Hours - fan-site only",
+      "Westrom's exact age in 1993 (derived 26-27)"
+    ],
+    "information_gaps": [
+      "Time of death and Jeanie's last known movements are not public in sources reviewed",
+      "Jeanie's birthplace, schooling, children (if any) not found",
+      "Westrom's prison facility not found",
+      "Name of the Minneapolis homicide detective and the genealogist not found",
+      "Whether the 1993 profile was ever uploaded to CODIS not found",
+      "Outcome of any Great North Innocence Project review not found (no exoneration reported)"
+    ],
+    "questions_to_answer": [
+      "Has any postconviction petition been filed in Hennepin County since 2024?",
+      "Full text of the Minnesota Supreme Court opinion for exact factual recitals"
+    ]
+  }
+}

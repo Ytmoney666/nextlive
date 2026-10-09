@@ -1,0 +1,304 @@
+{
+  "video_metadata": {
+    "working_title": "CALIFORNIA 1996 Cold Case Solved After 26 Years — Justice for Kristin Smart",
+    "topic_one_sentence": "A 19-year-old Cal Poly freshman from Stockton vanished after an off-campus party on Memorial Day weekend 1996; the classmate who walked her home stayed the prime suspect for a quarter century until a sheriff's cold-case push, cadaver dogs, ground-penetrating radar, soil testing and a local podcast that found silent witnesses led to his arrest in 2021 and his first-degree murder conviction in 2022, while her body has never been found.",
+    "primary_emotion_to_evoke": "grief that turns into stubborn hope: a family waiting 26 years of Sundays for a phone call that never came",
+    "target_length_minutes": "70"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Kristin Denise Smart (victim, the heart of the story). Note: middle name not re-verified in this session; use 'Kristin Smart' only.",
+    "age_at_time_of_events": "19 [1][64]",
+    "occupation_or_status": "Freshman (first-year student) at California Polytechnic State University (Cal Poly), San Luis Obispo; lived in Muir Hall [25][64]",
+    "location": "From Stockton, California; at Cal Poly, San Luis Obispo, California's Central Coast [36][64]",
+    "physical_description": "Not used. Height and other physical details were not re-verified in this session; use real photos only.",
+    "background_brief": "Grew up in Stockton with her parents Stan and Denise Smart and siblings Matt and Lindsey [67]. Loved swimming and skiing [67]. The summer before Cal Poly she spent about two months in Hawaii as a counselor and lifeguard at a Christian camp, according to her mother's testimony [37][63]. She called her parents every Sunday to update them on her life [24].",
+    "psychological_profile": "Described by her mother as someone who 'always approached life through the lens of what was possible' [35][36].",
+    "mundane_humanizing_detail": "The weekly Sunday phone call home; she did not call on Sunday, May 26, 1996 [24].",
+    "nickname_or_alias_if_any": "None verified"
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {"name": "Kristin Smart", "role_or_profession": "Cal Poly freshman, 19", "connection_to_protagonist": "Victim", "specific_impact_suffered": "Disappeared in the early hours of May 25, 1996; declared legally dead in 2002; Paul Flores convicted of her first-degree murder in 2022; body never found [1][29][33]", "humanizing_detail": "Sunday calls home; summer as a camp counselor and lifeguard in Hawaii [24][37]", "any_quotes_from_them": "None documented"},
+      {"name": "Denise Smart", "role_or_profession": "Kristin's mother", "connection_to_protagonist": "Mother", "specific_impact_suffered": "Learned on May 28, 1996 that Kristin was missing; waited 26 years for a verdict; first witness at the 2022 trial [1][37]", "humanizing_detail": "Testified about Kristin's Hawaii summer; spoke last at sentencing [35][37]", "any_quotes_from_them": "'She always approached life through the lens of what was possible... To her, every dream was within reach.' (sentencing, March 10, 2023) [35][36]; 'Today is not really a day of joy, it's a day of relief that Kristin's voice was heard.' (to reporters, March 10, 2023) [35]"},
+      {"name": "Stan Smart", "role_or_profession": "Kristin's father", "connection_to_protagonist": "Father", "specific_impact_suffered": "26 years without his daughter; read the family's statement after the split verdicts [30][31]", "humanizing_detail": "Read a letter to the court first at sentencing [35]", "any_quotes_from_them": "'After 26 years, with today's split verdicts, we learned that our quest for justice for Kristin will continue.' (Oct. 18, 2022) [30]; 'Without Kristin, there is no joy or victory with this verdict.' (KSBY/Oxygen version; AP version reads 'there's no joy or happiness in this verdict') [30][31][58]"},
+      {"name": "Matt (Matthew) Smart", "role_or_profession": "Kristin's brother", "connection_to_protagonist": "Brother", "specific_impact_suffered": "Spoke at sentencing; asked that Flores spend life in prison [32][33]", "humanizing_detail": "Named in reports about a family scholarship fund (title-level only, unverified detail) [68]", "any_quotes_from_them": "None verbatim verified"},
+      {"name": "Lindsey Smart", "role_or_profession": "Kristin's sister", "connection_to_protagonist": "Sister", "specific_impact_suffered": "Grew up without her sister [67]", "humanizing_detail": "Siblings spoke at sentencing [35]", "any_quotes_from_them": "None verified"}
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "Two women who testified at the 2022 trial that Paul Flores drugged and raped them in later years (allegations admitted as evidence; not charges in this trial) [21]; the Cal Poly and San Luis Obispo community.",
+      "total_number_affected": "Two additional women testified [21]",
+      "range_of_impacts": "Sexual assault allegations stated only as legal facts; no detail."
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Paul Flores", "role_in_story": "Fellow Cal Poly freshman who lived in Room 128 of Santa Lucia Hall; last person seen with Kristin; convicted of first-degree murder Oct. 18, 2022; sentenced to 25 years to life March 10, 2023 [5][28][32]", "key_actions_they_took": "Told police Kristin walked to her dorm under her own power [22]; had a black eye three days later, said basketball, later said working on his car [22]; refused to answer questions at a November 1997 deposition [1][2]; arrested in San Pedro April 13, 2021 [10][11]; has maintained his innocence [49]", "notable_quotes": "Alleged statement reported from Jennifer Hudson's testimony (secondhand, disputed by the defense); not used verbatim in the script [19][20]"},
+      {"name": "Ruben Flores", "role_in_story": "Paul's father; arrested April 2021 in Arroyo Grande and charged as an accessory after the fact; ACQUITTED by a separate jury Oct. 18, 2022 at age 81 [10][28]", "key_actions_they_took": "His Arroyo Grande home was searched in 2020 and March 2021 [12][41]. A civil suit filed by the Smart family in April 2021 alleges he moved Kristin's remains; these are civil allegations, not findings [41][42]", "notable_quotes": "Through his lawyer, said he is innocent [11]"},
+      {"name": "Susan Flores", "role_in_story": "Paul's mother; her home has been searched multiple times, including a May 6, 2026 search of her Arroyo Grande home on East Branch Street [52][53][54]", "key_actions_they_took": "Declined to testify at the 2021 preliminary hearing [59]", "notable_quotes": "None; she has never faced criminal charges in the case [52]"},
+      {"name": "Chris Lambert", "role_in_story": "Singer-songwriter and recording engineer from Orcutt who created the podcast 'Your Own Backyard' [8][9]", "key_actions_they_took": "Was 8 when Kristin vanished; a roadside billboard in Arroyo Grande with Kristin's photo and a $75,000 reward pulled him into the case; found witnesses who had never talked to police and encouraged them to contact investigators; podcast reached 7.5 million downloads and No. 2 on iTunes by April 2021; took no advertising [8][9]. First reported the May 2026 search [55]", "notable_quotes": "None verbatim verified"},
+      {"name": "Sheriff Ian Parkinson", "role_in_story": "San Luis Obispo County Sheriff, elected 2010, took office 2011, reviewed the case [1][11]", "key_actions_they_took": "Led the 2016 joint dig with the FBI, the 2020-2021 searches, announced the arrests on April 13, 2021, acknowledged early 'mistakes', credited the podcast [8][11][43]", "notable_quotes": "'It's taken many years to get to this point, but as I've always said, it's not what you believe, it's what you can prove.' (April 13, 2021) [11]; 'We have not recovered Kristin... We'll continue to focus on finding her remains regardless of any court action.' (2021) [10]; 'We can't call it Kristin, but there's evidence to support human remains.' (May 8, 2026) [52]"},
+      {"name": "Christopher (Chris) Peuvrelle", "role_in_story": "San Luis Obispo County Deputy District Attorney who prosecuted the case [24][46]", "key_actions_they_took": "Opened on July 18, 2022 by noting 1,359 Sundays since Kristin's last call; closed calling Flores 'guilty as sin' [24][26][27]", "notable_quotes": "'It's been 1,370 Sundays since Stan and Denise Smart have waited for a call from Kristin Smart.' (closing, Oct. 2022) [26]"},
+      {"name": "Judge Jennifer O'Keefe", "role_in_story": "Monterey County Superior Court judge who presided over the trial and sentenced Paul Flores [32][33]", "key_actions_they_took": "Denied defense motions for new trial and acquittal; imposed 25 years to life and lifetime sex-offender registration [32][62]", "notable_quotes": "Called Flores 'a cancer to society' (as reported) [62]"},
+      {"name": "Judge Craig van Rooyen", "role_in_story": "San Luis Obispo County Superior Court judge at the 2021 preliminary hearing; granted change of venue to Monterey County [22][23]", "key_actions_they_took": "Ordered both men to stand trial (Sept. 2021); found Flores' black-eye explanations showed 'consciousness of guilt' [22]", "notable_quotes": "'consciousness of guilt' [22]"},
+      {"name": "Jennifer Hudson", "role_in_story": "Witness; 17 in summer 1996; testified Paul Flores admitted killing Kristin at a backyard skate ramp after a radio announcement about the case [19][20]", "key_actions_they_took": "Testified at 2021 preliminary hearing and 2022 trial; cross-examined by defense attorney Robert Sanger on her timeline, drug use and her connection to the podcast [19]", "notable_quotes": "Secondhand alleged statements; not used verbatim in script"},
+      {"name": "Adela Morris", "role_in_story": "Volunteer cadaver-dog handler; her border collies Cholla and Cirque searched Santa Lucia Hall on June 29, 1996 [5][7]", "key_actions_they_took": "Blind search; both dogs reacted only to Room 128, alerting near the mattress and a trash can [5]", "notable_quotes": "Said she did not know the room had been cleaned; false-positive rate was not tracked at the time [7]"},
+      {"name": "Gail LaRoque", "role_in_story": "Handler of the boxer Torrey, who independently alerted on Room 128 the same afternoon [6]", "key_actions_they_took": "Torrey slid past a room, made a U-turn and alerted on Room 128 [6]", "notable_quotes": ""},
+      {"name": "Cheryl Anderson", "role_in_story": "Fellow student who walked part of the way with Kristin and Paul, separating at Perimeter Road and Grand Avenue [1][3]", "key_actions_they_took": "Testified about the walk home [4]", "notable_quotes": ""},
+      {"name": "Tim Davis", "role_in_story": "Student at the 135 Crandall Way party; testified he saw Kristin and Paul by the bar several times and heard a loud thud after which both were on the ground [4]", "key_actions_they_took": "Helped clear the party; lent his car so a friend could drive people back to the dorms [4]", "notable_quotes": ""},
+      {"name": "Margarita Campos", "role_in_story": "Kristin's friend; prosecutor said she saw Paul being 'unnaturally interested in Kristin' [66]", "key_actions_they_took": "Trial witness", "notable_quotes": "(prosecutor's paraphrase) [66]"},
+      {"name": "Jennifer Phipps", "role_in_story": "Student who reported Kristin missing to Cal Poly police on May 27, 1996 and to San Luis Obispo police on May 28 [1][3]", "key_actions_they_took": "Campus police did not start a report on May 27 [1][3]", "notable_quotes": ""},
+      {"name": "Shelby Liddell", "role_in_story": "Sheriff's forensic specialist who supervised the under-deck excavation in March/April 2021 [13]", "key_actions_they_took": "Testified about presumptive blood indications in soil and in a trailer [13]", "notable_quotes": ""},
+      {"name": "Angela Butler", "role_in_story": "Forensic DNA analyst; testified HemDirect tests found human blood in several soil samples from under Ruben Flores' deck; mattress-stain DNA was uninformative [15][16]", "key_actions_they_took": "", "notable_quotes": ""},
+      {"name": "Cindy (also reported as Christine) Arrington", "role_in_story": "Archaeologist hired by the sheriff's office; described a dark stain in the soil under the deck consistent with decomposition; on cross said anomalies could be roots [14][17]", "key_actions_they_took": "Worked with GPR expert Phillip Hanes [14]", "notable_quotes": ""},
+      {"name": "Dr. Elizabeth Johnson / Dr. David Carter", "role_in_story": "Defense experts who challenged the soil-blood results as likely false positives [16][18]", "key_actions_they_took": "Johnson: test not designed for soil, blood degrades in about four weeks, pH not tested [16][18]", "notable_quotes": ""},
+      {"name": "Robert Sanger", "role_in_story": "Paul Flores' trial attorney [19]", "key_actions_they_took": "Cross-examined Jennifer Hudson [19]", "notable_quotes": ""},
+      {"name": "Harold Mesick", "role_in_story": "Ruben Flores' attorney [60]", "key_actions_they_took": "", "notable_quotes": ""},
+      {"name": "James Murphy", "role_in_story": "Smart family civil attorney [41][60]", "key_actions_they_took": "Filed April 2021 civil suit against Ruben Flores; said he expected Ruben would be 'held civilly accountable' [60]", "notable_quotes": "'I have a very strong feeling that Ruben is going to be held civilly accountable.' [60]"},
+      {"name": "Dan Dow", "role_in_story": "San Luis Obispo County District Attorney [48]", "key_actions_they_took": "Statement on the January 2026 denial of review [48][49]", "notable_quotes": "'While we are very pleased that this decision brings a stronger sense of finality for all involved, we will always remember Kristin Smart' [48]"},
+      {"name": "Jeffrey Armstrong", "role_in_story": "Cal Poly president who publicly apologized to the Smart family in May 2023 [38][64]", "key_actions_they_took": "Apology", "notable_quotes": "Not verbatim verified"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "Summer 1995", "location": "Hawaii", "what_happened": "Kristin spends about two months as a counselor and lifeguard at a Christian camp before starting at Cal Poly", "significance": "Victim portrait", "source": "[37][63] (mother's testimony as summarized; outlet-level detail flagged)"},
+      {"date": "1995-1996 school year", "location": "Cal Poly, San Luis Obispo", "what_happened": "Kristin is a freshman living in Muir Hall; Paul Flores is a freshman living in Room 128 of Santa Lucia Hall", "significance": "Setting", "source": "[5][25]"},
+      {"date": "Friday, May 24, 1996 (evening)", "location": "135 Crandall Way, San Luis Obispo", "what_happened": "Kristin attends an off-campus birthday party on Memorial Day weekend; Paul Flores is there; witnesses describe him as fixated on her", "significance": "Last night", "source": "[1][4][25][65]"},
+      {"date": "About 2 a.m., Saturday, May 25, 1996", "location": "Walk from Crandall Way toward campus", "what_happened": "Kristin, very intoxicated, walks back with Paul Flores and Cheryl Anderson; Anderson splits off at Perimeter Road and Grand Avenue", "significance": "Last sighting", "source": "[1][3][22]"},
+      {"date": "May 25, 1996", "location": "Cal Poly", "what_happened": "Flores later says he and Kristin parted near Santa Lucia Hall and she walked on to her dorm under her own power", "significance": "His account", "source": "[1][22][25]"},
+      {"date": "Sunday, May 26, 1996", "location": "Stockton", "what_happened": "Kristin does not make her weekly Sunday call home", "significance": "The motif", "source": "[24]"},
+      {"date": "May 27, 1996", "location": "Cal Poly", "what_happened": "Student Jennifer Phipps reports Kristin missing to Cal Poly police; no report is started", "significance": "First failure", "source": "[1][3]"},
+      {"date": "May 28, 1996", "location": "San Luis Obispo", "what_happened": "Phipps calls San Luis Obispo police, is referred back to Cal Poly police; a report is started; Stan and Denise Smart learn something is wrong; Paul Flores is interviewed for the first time around this time", "significance": "Investigation begins", "source": "[1][3]"},
+      {"date": "About May 28, 1996", "location": "Cal Poly", "what_happened": "Flores has a black eye three days after the disappearance; tells police basketball, later says working on his car", "significance": "Consciousness of guilt per judge in 2021", "source": "[22]"},
+      {"date": "May 29, 1996 (approx.)", "location": "Cal Poly", "what_happened": "Campus police begin interviews four days after the disappearance, outside the first 72 hours", "significance": "Lost time", "source": "[64][38]"},
+      {"date": "About June 10, 1996", "location": "Santa Lucia Hall", "what_happened": "Per the family's 2024 lawsuit, Cal Poly police do not search Flores' dorm room until 16 days after the disappearance", "significance": "Lost evidence", "source": "[38][39] (allegation in lawsuit)"},
+      {"date": "June 1996", "location": "Santa Lucia Hall", "what_happened": "Flores moves out at the end of the school year; the room is cleaned", "significance": "Evidence gap", "source": "[7][43]"},
+      {"date": "June 29, 1996", "location": "Santa Lucia Hall, Room 128", "what_happened": "Blind cadaver-dog search: border collies Cholla and Cirque (handler Adela Morris) react only to Room 128; strong alerts near the mattress area and a trash can; boxer Torrey (handler Gail LaRoque) independently alerts on Room 128; an earlier dog alerted at the doorway", "significance": "First scientific clue", "source": "[5][6][7]"},
+      {"date": "July 1996", "location": "San Luis Obispo County", "what_happened": "Flores is named a key witness, then a person of interest; his family's home is searched", "significance": "Suspicion fixed", "source": "[1][2]"},
+      {"date": "Summer 1996", "location": "Backyard skate ramp (San Luis Obispo County)", "what_happened": "Jennifer Hudson, then 17, later testifies that Flores admitted killing Kristin after a radio announcement about the case; the defense attacked her credibility", "significance": "Witness who stayed silent for decades", "source": "[19][20]"},
+      {"date": "November 1996", "location": "Civil court", "what_happened": "Kristin's parents file a civil wrongful-death action against Paul Flores (date disputed: some reports refer to a 2002 wrongful death case)", "significance": "Family fights", "source": "[1][2][60] (date flagged)"},
+      {"date": "November 1997", "location": "Civil deposition", "what_happened": "Paul Flores is called for a deposition and refuses to answer questions", "significance": "Silence", "source": "[1][2]"},
+      {"date": "May 25, 2002", "location": "California", "what_happened": "Kristin Smart is declared legally dead, six years after she disappeared", "significance": "Grief", "source": "[1][2][64]"},
+      {"date": "2010-2011", "location": "San Luis Obispo County", "what_happened": "Ian Parkinson is elected sheriff (2010), takes office (2011) and pledges to review the case", "significance": "New energy", "source": "[1][11]"},
+      {"date": "January 2016", "location": "Cal Poly hillside near the 'P' landmark", "what_happened": "Dogs trained to detect old human remains alert at several spots", "significance": "Leads to dig", "source": "[43][44]"},
+      {"date": "September 6-9, 2016", "location": "Cal Poly hillside", "what_happened": "FBI and sheriff's office excavate three sites; 25 FBI agents and 15 sheriff's personnel; about 20,000 cubic feet of dirt planned; 'items of interest' announced Sept. 8; no remains recovered", "significance": "Hope and disappointment", "source": "[43][44][45]"},
+      {"date": "Late 2016", "location": "Sheriff's office", "what_happened": "Parkinson later says investigators found evidence in late 2016 confirming Paul Flores as the suspect (single report)", "significance": "Quiet turning point", "source": "[11] (single-sourced)"},
+      {"date": "September 2019", "location": "Online", "what_happened": "Chris Lambert's podcast 'Your Own Backyard' launches and renews interest locally and nationally", "significance": "The human hero", "source": "[1][2] (launch month from timelines; AP said Lambert's detour began 'three years ago' in April 2021) [8][9]"},
+      {"date": "2020", "location": "Flores family properties", "what_happened": "Investigators serve search warrants at properties tied to the Flores family; Paul is described as the prime suspect", "significance": "Pressure builds", "source": "[41][57]"},
+      {"date": "March 15-16, 2021", "location": "Ruben Flores' home, Arroyo Grande", "what_happened": "Search with ground-penetrating radar and cadaver dogs; GPR passed across the backyard and ground under the porch; sheriff says additional evidence related to the murder was discovered", "significance": "Science on the ground", "source": "[12][11]"},
+      {"date": "March-April 2021", "location": "Under Ruben Flores' deck", "what_happened": "Excavation supervised by Shelby Liddell and an archaeologist; dark stain in soil; soil samples later tested; dogs did not alert under the deck though handlers noted behavior changes", "significance": "Evidence later contested", "source": "[13][14]"},
+      {"date": "April 13, 2021", "location": "San Pedro and Arroyo Grande", "what_happened": "Paul Flores arrested in San Pedro and booked into San Luis Obispo County Jail; Ruben Flores arrested in Arroyo Grande as accessory after the fact, bail $250,000; Parkinson credits the podcast", "significance": "Arrests after nearly 25 years", "source": "[10][11][8]"},
+      {"date": "April 2021", "location": "Civil court", "what_happened": "Smart family attorney James Murphy files a civil suit against Ruben Flores alleging he moved Kristin's remains (allegation)", "significance": "Civil track", "source": "[41][42]"},
+      {"date": "August 2, 2021", "location": "San Luis Obispo", "what_happened": "Preliminary hearing begins; Susan Flores declines to testify", "significance": "Court", "source": "[59]"},
+      {"date": "September 2021", "location": "San Luis Obispo", "what_happened": "Judge Craig van Rooyen orders both men to stand trial; cites 'consciousness of guilt' in the black-eye explanations", "significance": "Trial ordered", "source": "[22]"},
+      {"date": "Spring 2022 (ruling reported late March/April)", "location": "San Luis Obispo", "what_happened": "Change of venue granted; trial moved to Monterey County because of publicity", "significance": "Fair trial", "source": "[23]"},
+      {"date": "July 18, 2022", "location": "Monterey County Superior Court, Salinas", "what_happened": "Opening statements before two separate juries; Peuvrelle notes 1,359 Sundays since Kristin's last call; prosecution says she was killed during an attempted rape in Flores' dorm room", "significance": "Trial", "source": "[24][25]"},
+      {"date": "September 2022", "location": "Salinas", "what_happened": "Testimony on soil blood tests, stain under the deck (jurors cried at photos), Jennifer Hudson's account, and two women who testified that Flores drugged and raped them", "significance": "Evidence", "source": "[15][17][19][21]"},
+      {"date": "Early October 2022", "location": "Salinas", "what_happened": "Closing arguments; Peuvrelle: '1,370 Sundays'; Flores 'guilty as sin'", "significance": "Closing", "source": "[26][27]"},
+      {"date": "October 18, 2022", "location": "Salinas", "what_happened": "Paul Flores found guilty of first-degree murder; Ruben Flores, 81, found not guilty of accessory after the fact; verdicts read moments apart", "significance": "Split verdict", "source": "[28][29][30]"},
+      {"date": "March 10, 2023", "location": "Salinas", "what_happened": "Judge O'Keefe denies new-trial and acquittal motions and sentences Paul Flores to 25 years to life plus lifetime sex-offender registration; family statements", "significance": "Sentence", "source": "[32][33][34][35][62]"},
+      {"date": "May 2023", "location": "Cal Poly", "what_happened": "Cal Poly President Jeffrey Armstrong publicly apologizes to the Smart family; Flores appeals with a new attorney", "significance": "Accountability", "source": "[38][47][64]"},
+      {"date": "January 2024", "location": "San Luis Obispo County", "what_happened": "Smart family sues Cal Poly for negligence, emotional distress and wrongful death; litigation ongoing as of July 2025", "significance": "Accountability", "source": "[38][39][40]"},
+      {"date": "2024", "location": "Court", "what_happened": "Judge rules Paul Flores must pay just over $350,000 to the Smart family for costs incurred", "significance": "Restitution", "source": "[52]"},
+      {"date": "July 2025", "location": "California Court of Appeal", "what_happened": "Flores' appeal briefs argue issues involving Juror 273, the two women's testimony, and alleged prosecutorial misconduct in closing", "significance": "Appeal", "source": "[46]"},
+      {"date": "October 24, 2025 / November 21, 2025", "location": "California Court of Appeal, Second District", "what_happened": "Conviction affirmed; rehearing denied", "significance": "Appeal fails", "source": "[48][49] (district name differs in some reports)"},
+      {"date": "January 2026 (newsroom item dated January 14, 2026)", "location": "California Supreme Court", "what_happened": "Petition for review denied; direct appeals exhausted; DA Dan Dow statement", "significance": "Conviction final", "source": "[48][49][50][51]"},
+      {"date": "May 6, 2026", "location": "Susan Flores' home, East Branch Street, Arroyo Grande", "what_happened": "Sheriff serves search warrant; GPR; soil and soil-vapor sampling for decomposition compounds", "significance": "Search continues at 30 years", "source": "[52][53][54]"},
+      {"date": "May 8, 2026", "location": "San Luis Obispo", "what_happened": "Parkinson: evidence suggests human remains were present; cannot say they are Kristin's", "significance": "Open loop", "source": "[52][56]"},
+      {"date": "May 9-10, 2026", "location": "Arroyo Grande", "what_happened": "Search concludes; Kristin's remains not recovered; items sent for forensic analysis", "significance": "Body still not found", "source": "[54][55][61]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {
+      "exact_date": "About 2 a.m., Saturday, May 25, 1996 (Memorial Day weekend)",
+      "exact_location": "Walking from a party at 135 Crandall Way back toward the Cal Poly dorms, San Luis Obispo",
+      "what_is_happening": "A 19-year-old freshman who could barely stand is walked home by a classmate who had been watching her all night",
+      "what_makes_it_shocking": "She never reached her dorm; no one reported her missing to a police officer who wrote it down for days; her body has never been found",
+      "ironic_twist": "The case broke open not because of a new database but because a local musician with a podcast found people who had never been asked"
+    },
+    "central_mystery_question": "How could the last man seen with her stay free for almost 25 years, and where is Kristin?"
+  },
+  "the_method": {
+    "_instructions": "How was the case solved: methods actually used (not genetic genealogy).",
+    "technique_name": "Cadaver dogs, ground-penetrating radar, forensic archaeology and soil testing, plus witness development through a podcast",
+    "step_by_step_explanation": [
+      "June 29, 1996: blind cadaver-dog search of Santa Lucia Hall; four dogs separately focus on Room 128 [5][6][43]",
+      "January 2016: dogs trained on old remains alert on the Cal Poly hillside; September 2016 dig by FBI and sheriff [43][44]",
+      "2019-2021: 'Your Own Backyard' finds witnesses who never talked to police and encourages them to contact investigators [8][9]",
+      "2020: search warrants at Flores family properties [41][57]",
+      "March 2021: ground-penetrating radar and cadaver dogs at Ruben Flores' Arroyo Grande home; excavation under the deck; dark stain; soil samples [12][13][14]",
+      "Lab: HemDirect test detects hemoglobin of human, primate and ferret blood; some soil samples positive, more negative; defense says false positives [15][16]",
+      "2022 trial: circumstantial case (last seen with her, dog alerts, black eye, witness accounts, soil evidence, testimony of two other women) yields a first-degree murder conviction without a body [28][29]",
+      "May 2026: soil-vapor sampling for volatile organic compounds associated with human decomposition at Susan Flores' home, described as an evolving science [52][53]"
+    ],
+    "why_it_worked": "Persistence and accumulation: no single test named the killer; the jury weighed many pieces together [28][29]",
+    "technical_terms_to_explain": [
+      {"term": "Cadaver dog alert", "simple_explanation": "A trained dog signals the odor of human decomposition; a 'blind' search means the handler is not told where investigators suspect [5]"},
+      {"term": "Ground-penetrating radar (GPR)", "simple_explanation": "A device rolled over the ground sends radio pulses down and reads the echoes; disturbed soil or buried objects show up as anomalies (general explanation) [12][14]"},
+      {"term": "HemDirect", "simple_explanation": "A test that reacts to hemoglobin found in human, primate and ferret blood [15]"},
+      {"term": "Soil-vapor sampling", "simple_explanation": "Collecting underground gas to detect volatile organic compounds linked to human decomposition; still an evolving science [52][53]"},
+      {"term": "Accessory after the fact", "simple_explanation": "The charge of helping someone avoid arrest after a crime; Ruben Flores was acquitted of it [28]"}
+    ],
+    "scale_of_operation": "1996 campus search; 2016 FBI dig with 25 agents, 15 sheriff's staff, about 20,000 cubic feet of soil; multiple warrants 2020-2021 and 2026 [43][44][52]"
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "Cal Poly University Police Department (1996)",
+    "how_they_were_supposed_to_protect": "Take a missing-person report and move fast in the first 72 hours",
+    "why_they_failed": "Assumed she had gone away for the holiday weekend (general characterization; lawsuit says reports were not taken seriously at first) [38][39]",
+    "specific_incompetence_examples": [
+      "No report started on May 27, 1996 [1][3]",
+      "Interviews began four days later, outside the first 72 hours [64]",
+      "Dorm room not searched until 16 days later, per lawsuit [38][39]",
+      "Room cleaned before the dog search [7]",
+      "Sheriff Parkinson acknowledged 'mistakes' early in the investigation [11]",
+      "Cal Poly president apologized in May 2023 [38][64]"
+    ],
+    "ironic_details_about_the_failure": "The last person seen with her lived a short walk from the dorms where the dogs alerted, and he stayed free for almost 25 years."
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Cal Poly University Police (1996), San Luis Obispo County Sheriff's Office, FBI (2016 dig), San Luis Obispo County District Attorney",
+    "operation_code_name_if_any": "None",
+    "when_investigation_began": "May 28, 1996 [1][3]",
+    "initial_wrong_assumptions": "That she had left on her own for the holiday weekend (general; flagged)",
+    "key_breakthrough": "2020-2021 searches plus witnesses brought forward after the podcast [8][11][12]",
+    "the_fatal_mistake": "Not presented as a single mistake; the case was circumstantial [28]",
+    "how_long_until_caught": "Arrest April 13, 2021, about 24 years and 11 months after the disappearance; conviction October 18, 2022, about 26 years and 5 months after [10][28]"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest.",
+    "date_and_time": "Morning of April 13, 2021",
+    "location": "San Pedro (Los Angeles area); booked into San Luis Obispo County Jail that afternoon",
+    "scene_description": "Arrest announced at a sheriff's press briefing; Ruben arrested in Arroyo Grande [10][11]",
+    "protagonist_reaction": "Paul's lawyer declined to comment; Ruben's lawyer said his client is innocent [11]",
+    "ironic_or_absurd_details": "Ruben's arrest date is reported as April 12 in one AP caption [11] (flag)"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["Paul Flores: murder (convicted of first-degree murder)", "Ruben Flores: accessory after the fact (acquitted)"],
+    "trial_date_if_applicable": "Opening statements July 18, 2022; verdicts October 18, 2022; Monterey County Superior Court, Salinas [24][28]",
+    "notable_court_testimony": "Cadaver-dog handlers; forensic soil testimony; Jennifer Hudson; two women who testified Flores drugged and raped them [5][15][19][21]",
+    "victim_impact_statements": [
+      {"from_whom": "Denise Smart", "key_quote": "'Watching Paul Flores sit stone-faced and remorseless behind his mask was emblematic of the hiding he has done for the last 26-plus years.' [35]", "emotional_impact": "Anger at silence"},
+      {"from_whom": "Denise Smart", "key_quote": "'Torturing a family by continuing to withhold the location of their sister and daughter is a cruel and visceral pain that no one should ever have to bear.' [35]", "emotional_impact": "The missing body"},
+      {"from_whom": "Denise Smart", "key_quote": "'Where is the humanity in this human being?' [35]", "emotional_impact": "Disbelief"},
+      {"from_whom": "Matt Smart", "key_quote": "Asked that Flores spend life in prison (paraphrase) [32]", "emotional_impact": ""}
+    ],
+    "sentence_received": "25 years to life in state prison; lifetime sex-offender registration; March 10, 2023 [32][33][62]",
+    "protagonist_statement_in_court": "None reported; he has maintained his innocence [49]",
+    "current_status": "As of October 2026: conviction final after the California Supreme Court denied review in January 2026; Paul Flores is serving 25 years to life; Ruben Flores was acquitted and has not been convicted of any crime in the case; Susan Flores has never been charged; Kristin's remains have not been found; a May 2026 search of Susan Flores' Arroyo Grande home found evidence the sheriff said suggests human remains had been present but recovered no remains of Kristin; family lawsuit against Cal Poly was still being litigated as of July 2025 (no later status found) [48][52][55][40]"
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Sheriff Ian Parkinson", "exact_quote": "It's taken many years to get to this point, but as I've always said, it's not what you believe, it's what you can prove.", "context": "April 13, 2021 arrest briefing", "source": "[11]"},
+      {"speaker": "Sheriff Ian Parkinson", "exact_quote": "We have not recovered Kristin.", "context": "2021, after arrests", "source": "[10]"},
+      {"speaker": "Sheriff Ian Parkinson", "exact_quote": "We can't call it Kristin, but there's evidence to support human remains.", "context": "May 8, 2026 news conference after search of Susan Flores' home", "source": "[52]"},
+      {"speaker": "Deputy DA Chris Peuvrelle", "exact_quote": "It's been 1,370 Sundays since Stan and Denise Smart have waited for a call from Kristin Smart.", "context": "Closing argument, October 2022", "source": "[26]"},
+      {"speaker": "Stan Smart", "exact_quote": "After 26 years, with today's split verdicts, we learned that our quest for justice for Kristin will continue.", "context": "Family statement, October 18, 2022", "source": "[30][58]"},
+      {"speaker": "Stan Smart", "exact_quote": "Without Kristin, there is no joy or victory with this verdict.", "context": "Same statement (KSBY/Oxygen version; AP: 'there's no joy or happiness in this verdict')", "source": "[30][31][58]"},
+      {"speaker": "Denise Smart", "exact_quote": "She always approached life through the lens of what was possible. To her, every dream was within reach.", "context": "Victim impact statement, March 10, 2023 (reported as two consecutive sentences)", "source": "[35][36]"},
+      {"speaker": "Denise Smart", "exact_quote": "Watching Paul Flores sit stone-faced and remorseless behind his mask was emblematic of the hiding he has done for the last 26-plus years.", "context": "Victim impact statement", "source": "[35]"},
+      {"speaker": "Denise Smart", "exact_quote": "Torturing a family by continuing to withhold the location of their sister and daughter is a cruel and visceral pain that no one should ever have to bear.", "context": "Victim impact statement", "source": "[35]"},
+      {"speaker": "Denise Smart", "exact_quote": "Today is not really a day of joy, it's a day of relief that Kristin's voice was heard.", "context": "To reporters after sentencing", "source": "[35]"},
+      {"speaker": "Denise Smart", "exact_quote": "I did whatever I could.", "context": "Headline quote from her trial testimony, July 2022", "source": "[37]"},
+      {"speaker": "DA Dan Dow", "exact_quote": "While we are very pleased that this decision brings a stronger sense of finality for all involved, we will always remember Kristin Smart", "context": "After Supreme Court denial, January 2026 (truncated in reports)", "source": "[48]"},
+      {"speaker": "Judge Craig van Rooyen", "exact_quote": "consciousness of guilt", "context": "On Flores' black-eye explanations, 2021", "source": "[22]"},
+      {"speaker": "Judge Jennifer O'Keefe", "exact_quote": "a cancer to society", "context": "Sentencing, March 10, 2023 (as reported)", "source": "[62]"},
+      {"speaker": "James Murphy", "exact_quote": "I have a very strong feeling that Ruben is going to be held civilly accountable.", "context": "After the verdicts", "source": "[60]"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "19", "what_it_represents": "Kristin's age when she disappeared", "source": "[1][64]"},
+      {"number": "About 2 a.m.", "what_it_represents": "Time of the last sighting", "source": "[1][3]"},
+      {"number": "4 days", "what_it_represents": "Before campus police began interviews", "source": "[64]"},
+      {"number": "16 days", "what_it_represents": "Before Flores' dorm room was searched, per lawsuit", "source": "[38][39]"},
+      {"number": "128", "what_it_represents": "Paul Flores' room number in Santa Lucia Hall", "source": "[5]"},
+      {"number": "4", "what_it_represents": "Cadaver dogs that reacted separately to the room (Tribune via Fox)", "source": "[45]"},
+      {"number": "$75,000", "what_it_represents": "Reward on the Arroyo Grande billboard for more than two decades", "source": "[9]"},
+      {"number": "25 FBI agents, 15 sheriff's staff, about 20,000 cubic feet", "what_it_represents": "September 2016 dig", "source": "[43][44]"},
+      {"number": "7.5 million", "what_it_represents": "Podcast downloads by April 2021; No. 2 on iTunes", "source": "[8]"},
+      {"number": "8", "what_it_represents": "Chris Lambert's age when Kristin vanished (33 in April 2021)", "source": "[9]"},
+      {"number": "$250,000", "what_it_represents": "Ruben Flores' bail", "source": "[11]"},
+      {"number": "1,359", "what_it_represents": "Sundays cited in opening statement, July 18, 2022", "source": "[24]"},
+      {"number": "1,370", "what_it_represents": "Sundays cited in closing argument, October 2022", "source": "[26]"},
+      {"number": "81", "what_it_represents": "Ruben Flores' age at verdict", "source": "[28]"},
+      {"number": "About 3 months", "what_it_represents": "Length of trial", "source": "[48]"},
+      {"number": "25 years to life", "what_it_represents": "Sentence", "source": "[32][33]"},
+      {"number": "Just over $350,000", "what_it_represents": "Amount a judge ruled in 2024 that Paul Flores must pay the Smart family", "source": "[52]"},
+      {"number": "46 / 49", "what_it_represents": "Paul Flores' age at sentencing (NBC/NPR; others say 45) and in January 2026", "source": "[32][33][48]"},
+      {"number": "More than 150 miles", "what_it_represents": "Distance of Arroyo Grande northwest of Los Angeles", "source": "[52]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "A billboard with Kristin's smiling photo stood for more than two decades in Arroyo Grande, the town where Paul Flores' father lived [9][12]",
+      "The man who helped crack it was 8 years old when she vanished and was a musician, not a detective [9]",
+      "Two juries in the same courtroom reached opposite outcomes for father and son, read moments apart [28]",
+      "Kristin was declared legally dead in 2002, yet no one was charged until 2021 [1][10]",
+      "Thirty years on, investigators were still digging in 2026 [52]"
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "Cal Poly, San Luis Obispo", "physical_description": "State university campus on California's Central Coast; hillside with a 'P' landmark above the dorms [43]", "atmosphere": "Memorial Day weekend, end of the spring term (documented)", "relevant_details": "Muir Hall (Kristin), Santa Lucia Hall Room 128 (Paul) [5][25]"},
+      {"location_name": "135 Crandall Way", "physical_description": "Off-campus house where the birthday party took place [4]", "atmosphere": "Party broke up in the early hours [4]", "relevant_details": "Tim Davis lent his car to drive people back to the dorms [4]"},
+      {"location_name": "Perimeter Road and Grand Avenue", "physical_description": "Campus intersection where Cheryl Anderson split from the pair [1][3]", "atmosphere": "", "relevant_details": ""},
+      {"location_name": "Arroyo Grande", "physical_description": "Central Coast town more than 150 miles northwest of Los Angeles; Ruben Flores' home; billboard [9][52]", "atmosphere": "", "relevant_details": "Searches 2020, March 2021; Susan Flores' East Branch Street home searched May 2026 [12][52]"},
+      {"location_name": "Monterey County Superior Court, Salinas", "physical_description": "Trial venue after change of venue [23][24]", "atmosphere": "", "relevant_details": ""},
+      {"location_name": "Stockton", "physical_description": "Kristin's hometown in California's Central Valley (general geography)", "atmosphere": "", "relevant_details": "Family home [36]"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "Every student who has walked home from a party trusting the person beside them.",
+    "how_this_could_happen_to_them": "A missing-person report not written down for a day can cost the case everything.",
+    "lesson_or_warning": "Report early, write it down, and never stop asking; ordinary people with patience can move a cold case.",
+    "current_relevance": "Final appeal denied January 2026; new search May 2026; body still missing [48][52]"
+  },
+  "sources": {
+    "_instructions": "List ALL sources. Numbering matches investigacion.md section 13. NOTE: direct page fetching was blocked by the session's network policy; facts were verified through search-engine extracts of these pages and cross-checked between outlets where possible.",
+    "primary_sources": [
+      {"type": "Court system news", "title": "Paul Flores loses final appeal, cementing his conviction for killing Kristin Smart (California Courts Newsroom, Jan. 14, 2026) [48]", "url_or_reference": "https://newsroom.courts.ca.gov/news/paul-flores-loses-final-appeal-cementing-his-conviction-killing-kristin-smart", "key_information_obtained": "Supreme Court denial; Court of Appeal affirmed Oct. 2025; Dow quote"},
+      {"type": "Sheriff statements via news", "title": "SLO County sheriff details the Kristin Smart murder investigation (CalCoastNews, April 2021) [11]", "url_or_reference": "https://calcoastnews.com/2021/04/slo-county-sheriff-details-the-kristin-smart-murder-investigation", "key_information_obtained": "Arrest details, Parkinson quotes"},
+      {"type": "Courtroom testimony reporting", "title": "K-9 handler recounts strongest alert ever (Santa Maria Times) [5]", "url_or_reference": "https://santamariatimes.com/news/local/crime-and-courts/k9-handler-recounts-strongest-alert-ever-during-1996-cadaver-dog-search-of-dorm-room/article_532264fe-eb5d-5740-a4a3-e565085bd34a.html", "key_information_obtained": "June 29, 1996 dog search"}
+    ],
+    "secondary_sources": [
+      {"type": "Full list", "title": "See investigacion.md section 13, sources [1] to [68]", "url_or_reference": "/home/user/nextlive/coldcase_guiones/08_california_1996_kristin_smart/investigacion.md", "key_information_obtained": "All facts"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "PENNSYLVANIA 1957 — The Boy in the Box (identified after 65 years as Joseph Augustus Zarelli)",
+    "connection_to_current_video": "Kristin had a name but no grave; the boy in the box had a grave but no name for 65 years.",
+    "teaser_line": "Next: a little boy found in a cardboard box in Philadelphia in 1957, buried as 'America's Unknown Child', until science gave him back his name 65 years later."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Kristin's birth date, height and middle name (not re-verified; not used)",
+      "Kristin Smart Campus Security Act of 1998 (known background, not re-verified in this session; not used in script)",
+      "Exact launch date of 'Your Own Backyard' (September 2019 per timelines; AP says Lambert's detour began about 2018)",
+      "Date of the first civil wrongful-death suit (November 1996 vs. 2002 reference)",
+      "Ruben Flores' arrest date (April 13 vs. April 12, 2021)",
+      "Appeals court district (Second District reported by court newsroom; one outlet says Sixth)",
+      "Paul Flores' age at sentencing (45 vs. 46)",
+      "Sunday count: prosecutor said 1,359 at opening; a calendar count from May 26, 1996 to July 17, 2022 gives about 1,365. Quote as the prosecutor's figure only"
+    ],
+    "information_gaps": [
+      "Results of forensic analysis from the May 2026 search (none published as of research)",
+      "Status of the family lawsuit against Cal Poly after July 2025",
+      "Status of civil suits against Ruben and Susan Flores"
+    ],
+    "questions_to_answer": ["Where is Kristin?"]
+  }
+}

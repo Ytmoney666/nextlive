@@ -1,0 +1,1079 @@
+{
+ "video_metadata": {
+  "working_title": "IOWA 1979 Cold Case Solved After 39 Years — Justice for Michelle Martinko",
+  "topic_one_sentence": "An 18-year-old Cedar Rapids senior was stabbed to death in her family's car at a brand-new mall on 19 December 1979; the killer's own blood, saved for 39 years, was traced through a stranger's genealogy upload to a man nobody had ever suspected, Jerry Lynn Burns, arrested on the 39th anniversary and convicted in 2020.",
+  "primary_emotion_to_evoke": "Grief turning into awe: the victim fought so hard that she left the clue that solved her own murder.",
+  "target_length_minutes": "70"
+ },
+ "protagonist": {
+  "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+  "full_name": "Michelle Marie Martinko (victim and narrative heart); antagonist: Jerry Lynn Burns (convicted)",
+  "age_at_time_of_events": "Michelle: 18 (born 1961). Burns: 64 at arrest in December 2018 (some reports say 65 later), which makes him about 25 in December 1979 (derived arithmetically).",
+  "occupation_or_status": "Michelle: senior at Kennedy High School, Cedar Rapids. Burns (in 2018): owner of Advanced Coating Concepts, a powder coating shop on the south side of Manchester, Iowa.",
+  "location": "Cedar Rapids, Linn County, Iowa; Burns lived and worked in Manchester, about 45 miles north.",
+  "physical_description": "Michelle: blonde hair worn in the Farrah Fawcett style of the era, described by friends as stylish (Find a Grave, single source).",
+  "background_brief": "Younger of two daughters of Albert F. Martinko and Janet Martinko (née Zillig); older sister Janelle. Above-average student well regarded by school officials; made the twirling squad as a sophomore, which was nearly unheard of; twirled baton at football halftime shows; sang in the Kennedy women's choir and the Concert Choir; performed in theater productions; planned to study interior design at Iowa State University.",
+  "psychological_profile": "Described as polite and reserved as a child, responsible and diligent at school; friends called her stylish and kind. No speculation beyond this.",
+  "mundane_humanizing_detail": "On her last evening she went to pick up a winter coat that had been put on layaway (one source says her mother had placed it there), carrying $180, after her choir's banquet.",
+  "nickname_or_alias_if_any": "None documented."
+ },
+ "victims_or_targets": {
+  "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+  "individuals": [
+   {
+    "name": "Michelle Martinko",
+    "role_or_profession": "High school senior, 18",
+    "connection_to_protagonist": "No documented connection to Burns; investigators described the killing in 1979 as 'personal in nature'; family says the why is unknown.",
+    "specific_impact_suffered": "Stabbed to death in her family's Buick on 19 December 1979.",
+    "humanizing_detail": "Baton twirler, choir singer, theater performer, future interior design student.",
+    "any_quotes_from_them": "None documented."
+   },
+   {
+    "name": "Albert F. Martinko",
+    "role_or_profession": "Michelle's father",
+    "connection_to_protagonist": "Parent",
+    "specific_impact_suffered": "Died without knowing who killed his daughter (John Stonebraker's statement).",
+    "humanizing_detail": "Reported his daughter missing with his wife around 2 a.m.",
+    "any_quotes_from_them": "None found."
+   },
+   {
+    "name": "Janet Martinko (née Zillig)",
+    "role_or_profession": "Michelle's mother",
+    "connection_to_protagonist": "Parent",
+    "specific_impact_suffered": "Died without knowing who killed her daughter (Stonebraker statement).",
+    "humanizing_detail": "One source says she had placed the winter coat on layaway.",
+    "any_quotes_from_them": "None found."
+   },
+   {
+    "name": "Janelle Stonebraker (née Martinko)",
+    "role_or_profession": "Michelle's older sister",
+    "connection_to_protagonist": "Sibling",
+    "specific_impact_suffered": "Waited about 40 years for an answer; became the family's public voice.",
+    "humanizing_detail": "Wished her parents could have seen the verdict.",
+    "any_quotes_from_them": "\"We don't know exactly the why's and some of the details, but we definitely know who did it\" (24 Feb 2020)."
+   },
+   {
+    "name": "John Stonebraker",
+    "role_or_profession": "Michelle's brother-in-law, husband of Janelle",
+    "connection_to_protagonist": "Family",
+    "specific_impact_suffered": "Read the family's victim impact statement by video on 7 Aug 2020.",
+    "humanizing_detail": "Called Michelle 'her own best witness'.",
+    "any_quotes_from_them": "Burns would \"forfeit his freedom forever and die alone.\""
+   }
+  ],
+  "collective_victims_if_applicable": {
+   "group_description": "The Cedar Rapids community, and in particular dozens of people who lived under suspicion or rumor for decades; DNA cleared numerous potential suspects and even people who confessed.",
+   "total_number_affected": "More than 125 DNA samples were collected over the life of the case (single source [44]).",
+   "range_of_impacts": "Fear, rumor, suspicion of innocent people, a case the local paper and TV called one that 'haunted' the city."
+  }
+ },
+ "supporting_characters": {
+  "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+  "characters": [
+   {
+    "name": "Matthew (Matt) Denlinger",
+    "role_in_story": "Cedar Rapids Police Department investigator who drove the genealogy phase",
+    "key_actions_they_took": "Followed three branches of the family tree; watched Jerry Burns drink sodas at the Pizza Ranch in Manchester on 29 Oct 2018 and collected his straw; interviewed Burns on 19 Dec 2018 with a camera hidden in a coffee mug; testified at trial on 17 Feb 2020.",
+    "notable_quotes": "No verbatim quote verified this session."
+   },
+   {
+    "name": "J.D. Smith",
+    "role_in_story": "Detective who accompanied Denlinger on 19 Dec 2018",
+    "key_actions_they_took": "Went with Denlinger, in plain clothes, to Burns' business.",
+    "notable_quotes": "None."
+   },
+   {
+    "name": "Wayne Jerman",
+    "role_in_story": "Cedar Rapids Police Chief in 2018",
+    "key_actions_they_took": "Announced the arrest at a news conference on 19 Dec 2018.",
+    "notable_quotes": "\"Michelle's killer has been identified and arrested.\""
+   },
+   {
+    "name": "Parabon NanoLabs (Reston, Virginia); CeCe Moore, chief genetic genealogist",
+    "role_in_story": "DNA technology company",
+    "key_actions_they_took": "Produced 2017 Snapshot composites; told police about GEDmatch; built the family tree that narrowed the search to three brothers.",
+    "notable_quotes": "None verified verbatim."
+   },
+   {
+    "name": "Brandy Jennings",
+    "role_in_story": "Distant cousin of Burns in Vancouver, Washington",
+    "key_actions_they_took": "Uploaded her DNA to GEDmatch to learn about her father's side of the family and forgot about it; her profile became the key match.",
+    "notable_quotes": "Paraphrase only: she never expected her DNA to help catch a killer."
+   },
+   {
+    "name": "Ken and Don Burns",
+    "role_in_story": "Jerry Burns' brothers",
+    "key_actions_they_took": "Covertly sampled (a straw from a golf course clubhouse; a toothbrush from curbside trash) and excluded. Neither is accused of anything.",
+    "notable_quotes": "None."
+   },
+   {
+    "name": "Fae Hoover-Grinde",
+    "role_in_story": "Linn County district judge",
+    "key_actions_they_took": "Denied suppression and new-trial motions; sentenced Burns on 7 Aug 2020.",
+    "notable_quotes": "None verified."
+   },
+   {
+    "name": "Leon Spies",
+    "role_in_story": "Burns' trial defense attorney",
+    "key_actions_they_took": "Moved to suppress the straw DNA; moved for a new trial.",
+    "notable_quotes": "None verified."
+   },
+   {
+    "name": "Kathleen Zellner",
+    "role_in_story": "Appellate attorney (known from 'Making a Murderer')",
+    "key_actions_they_took": "Retained in January 2021 for Burns' appeal.",
+    "notable_quotes": "None."
+   },
+   {
+    "name": "Justice David May (majority); Justices McDermott and Oxley (dissent)",
+    "role_in_story": "Iowa Supreme Court",
+    "key_actions_they_took": "5-2 ruling on 31 Mar 2023 upholding the straw DNA; May wrote the majority; McDermott and Oxley dissented.",
+    "notable_quotes": "Only paraphrases verified."
+   },
+   {
+    "name": "Nick Maybanks",
+    "role_in_story": "Linn County Attorney (2026)",
+    "key_actions_they_took": "Opposes Burns' 2026 postconviction petition.",
+    "notable_quotes": "Paraphrase: a postconviction case is not really an appeal; it does not revisit trial issues directly."
+   }
+  ]
+ },
+ "chronological_timeline": {
+  "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+  "events": [
+   {
+    "date": "1961",
+    "location": "Cedar Rapids, Iowa",
+    "what_happened": "Michelle Marie Martinko is born (exact date not verified).",
+    "significance": "Age 18 at death.",
+    "source": "[5] https://www.findagrave.com/memorial/104050435/michelle-marie-martinko"
+   },
+   {
+    "date": "early December 1979 (less than two weeks before 19 Dec)",
+    "location": "Southwest Cedar Rapids",
+    "what_happened": "Westdale Mall opens.",
+    "significance": "Brand-new mall becomes the crime scene.",
+    "source": "[4] https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/"
+   },
+   {
+    "date": "Wednesday 19 Dec 1979, evening",
+    "location": "Sheraton Inn, downtown Cedar Rapids",
+    "what_happened": "Michelle attends the Kennedy Concert Choir banquet.",
+    "significance": "Last documented group event.",
+    "source": "[4] https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/; [1] https://en.wikipedia.org/wiki/Murder_of_Michelle_Martinko"
+   },
+   {
+    "date": "19 Dec 1979, after the banquet",
+    "location": "Westdale Mall",
+    "what_happened": "She drives the family's tan 1972 Buick Electra alone to the mall to finalize the purchase of a winter coat on layaway, carrying $180; the car is parked near JCPenney.",
+    "significance": "Ordinary errand.",
+    "source": "[4] https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/; [1] https://en.wikipedia.org/wiki/Murder_of_Michelle_Martinko"
+   },
+   {
+    "date": "19 Dec 1979, about 8 p.m.",
+    "location": "Westdale Mall",
+    "what_happened": "Last time anyone remembers seeing her, reportedly outside a jewelry store.",
+    "significance": "Last sighting (jewelry-store detail single-sourced).",
+    "source": "[4] https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/"
+   },
+   {
+    "date": "20 Dec 1979, about 2 a.m.",
+    "location": "Martinko home, Cedar Rapids",
+    "what_happened": "Her parents report her missing.",
+    "significance": "Search begins.",
+    "source": "[4] https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/"
+   },
+   {
+    "date": "20 Dec 1979, about 4 a.m.",
+    "location": "Westdale Mall parking lot",
+    "what_happened": "Police find Michelle dead inside the family Buick. She had been stabbed many times (CBS: 29 stab and cut wounds) and had defensive wounds on her hands. She was fully clothed, not sexually assaulted and not robbed. No weapon or fingerprints were found. Investigators call the killing 'personal in nature'.",
+    "significance": "Discovery; blood evidence on the gearshift and her dress is preserved.",
+    "source": "[4] https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/; [7] https://www.paramountpressexpress.com/cbs-news-and-stations/releases/?view=56285; [1] https://en.wikipedia.org/wiki/Murder_of_Michelle_Martinko"
+   },
+   {
+    "date": "1980s-2000s",
+    "location": "Cedar Rapids",
+    "what_happened": "Numerous potential suspects, and even people who confessed, are investigated; DNA later clears them. More than 125 DNA samples are collected over the years.",
+    "significance": "Tunnel of false leads.",
+    "source": "[22] https://cbs2iowa.com/news/local/dna-cleared-numerous-potential-suspects-even-confessions-in-martinko-murder; [44] https://www.genealogyexplained.com/igg-cases/jerry-burns/"
+   },
+   {
+    "date": "2006",
+    "location": "Iowa DCI lab",
+    "what_happened": "A male DNA profile is developed from the killer's blood on evidence from the car/dress and uploaded to CODIS. No match.",
+    "significance": "The killer's genetic fingerprint exists but has no name.",
+    "source": "[11] https://www.kwqc.com/content/news/How-cutting-edge-DNA-technology-helped-break-open-39-year-old-cold-case-503283201.html; [12] https://www.abc15.com/dna-leads-to-arrest-exactly-39-years-after-teen-girl-stabbed-to-death-police-say; [43] https://www.thegazette.com/news/crime-and-courts/cedar-rapids-police-make-murder-arrest-in-michelle-martinko-cold-case/article_9af8fb47-7543-50b8-a8bc-044272fffb2d.html"
+   },
+   {
+    "date": "1984",
+    "location": "Leicester, England",
+    "what_happened": "DNA fingerprinting is discovered (background); five years after the murder.",
+    "significance": "In 1979 the bloodstains could not identify anyone.",
+    "source": "[52] https://en.wikipedia.org/wiki/DNA_profiling"
+   },
+   {
+    "date": "Trial testimony, 2020 (status as of the search)",
+    "location": "CODIS",
+    "what_happened": "None of about 14 million profiles in CODIS matched the crime-scene blood.",
+    "significance": "Ledger of failure.",
+    "source": "[23] https://cbs2iowa.com/news/local/expert-details-strong-link-between-dna-at-martinko-murder-scene-and-jerry-burns"
+   },
+   {
+    "date": "2017",
+    "location": "Cedar Rapids / Reston, Virginia",
+    "what_happened": "Cedar Rapids police hire Parabon NanoLabs to predict ancestry, eye, hair and skin color, freckling and face shape from the DNA.",
+    "significance": "First use of the new science.",
+    "source": "[10] https://thegazette.com/subject/news/public-safety/cedar-rapids-police-use-dna-technology-to-create-suspect-composite-in-michelle-martinko-killing-20170516; [11] https://www.kwqc.com/content/news/How-cutting-edge-DNA-technology-helped-break-open-39-year-old-cold-case-503283201.html"
+   },
+   {
+    "date": "May 2017",
+    "location": "Cedar Rapids",
+    "what_happened": "Police release Parabon Snapshot composite images to the public.",
+    "significance": "A face without a name.",
+    "source": "[10] https://thegazette.com/subject/news/public-safety/cedar-rapids-police-use-dna-technology-to-create-suspect-composite-in-michelle-martinko-killing-20170516"
+   },
+   {
+    "date": "24 Apr 2018",
+    "location": "Sacramento, California",
+    "what_happened": "Golden State Killer suspect arrested through GEDmatch genealogy (background).",
+    "significance": "Proves the method publicly.",
+    "source": "[49] https://en.wikipedia.org/wiki/Joseph_James_DeAngelo"
+   },
+   {
+    "date": "May 2018",
+    "location": "Cedar Rapids",
+    "what_happened": "Investigators learn they can use genetic genealogy; Parabon tells them about GEDmatch.",
+    "significance": "Turning point.",
+    "source": "[13] https://thegazette.com/subject/news/public-safety/michelle-martinko-dna-search-warrant-straw-jerry-lynn-burns-family-tree-cold-case-murder-20190312; [43] https://www.thegazette.com/news/crime-and-courts/cedar-rapids-police-make-murder-arrest-in-michelle-martinko-cold-case/article_9af8fb47-7543-50b8-a8bc-044272fffb2d.html"
+   },
+   {
+    "date": "2018 (before late October)",
+    "location": "Iowa",
+    "what_happened": "A GEDmatch match leads to Brandy Jennings' family line; two branches of the tree are excluded with covert samples; the third branch yields a cousin sharing DNA; Parabon concludes the source is likely one of three brothers: Ken, Don and Jerry Burns. A brother's straw from a golf course clubhouse and another's toothbrush from curbside trash are excluded.",
+    "significance": "Narrowing to one man.",
+    "source": "[13] https://thegazette.com/subject/news/public-safety/michelle-martinko-dna-search-warrant-straw-jerry-lynn-burns-family-tree-cold-case-murder-20190312; [14] https://www.thegazette.com/crime-courts/distant-relative-learns-her-dna-led-to-arrest-in-michelle-martinko-slaying/; [44] https://www.genealogyexplained.com/igg-cases/jerry-burns/"
+   },
+   {
+    "date": "Monday 29 Oct 2018",
+    "location": "Pizza Ranch, Manchester, Iowa",
+    "what_happened": "Denlinger watches Jerry Burns drink several sodas through a clear plastic straw; Burns leaves the straw; police collect it without a warrant.",
+    "significance": "The discarded object.",
+    "source": "[20] https://www.timesrepublican.com/news/todays-news/2020/03/cedar-rapids-investigator-dedicated-to-solving-martinko-case/; [13] https://thegazette.com/subject/news/public-safety/michelle-martinko-dna-search-warrant-straw-jerry-lynn-burns-family-tree-cold-case-murder-20190312; [34] https://law.justia.com/cases/iowa/supreme-court/2023/20-1150.html"
+   },
+   {
+    "date": "late 2018",
+    "location": "Iowa DCI lab",
+    "what_happened": "Lab reports the straw's 'DNA donor could NOT be eliminated as the major contributor' to the crime-scene profile.",
+    "significance": "The match.",
+    "source": "[13] https://thegazette.com/subject/news/public-safety/michelle-martinko-dna-search-warrant-straw-jerry-lynn-burns-family-tree-cold-case-murder-20190312"
+   },
+   {
+    "date": "Wednesday 19 Dec 2018, morning",
+    "location": "Advanced Coating Concepts, Manchester",
+    "what_happened": "On the 39th anniversary, Denlinger and Detective J.D. Smith, in plain clothes, interview Burns at his business for over an hour with a camera hidden in a coffee mug. Burns denies involvement, keeps taking work calls, and without being asked mentions missing anchor Jodi Huisentruit. A warrant swab of his mouth is taken.",
+    "significance": "Confrontation.",
+    "source": "[17] https://khak.com/cedar-rapids-police-make-arrest-in-1979-murder-of-michelle-martinko/; [21] https://cbs2iowa.com/news/local/state-rests-case-after-showing-burns-video-block-things-out-of-your-memories; [9] https://www.cbsnews.com/news/michelle-martinko-killer-missing-news-anchor-jodi-huisentruit/; [13] https://thegazette.com/subject/news/public-safety/michelle-martinko-dna-search-warrant-straw-jerry-lynn-burns-family-tree-cold-case-murder-20190312"
+   },
+   {
+    "date": "19 Dec 2018",
+    "location": "Police car to Cedar Rapids",
+    "what_happened": "On a recorded ride, Burns says it is possible to block things out of your memories.",
+    "significance": "Key trial video.",
+    "source": "[21] https://cbs2iowa.com/news/local/state-rests-case-after-showing-burns-video-block-things-out-of-your-memories"
+   },
+   {
+    "date": "19 Dec 2018",
+    "location": "Cedar Rapids",
+    "what_happened": "Burns, 64, is arrested and charged with first-degree murder; held in the Linn County Jail on a $5 million cash-only bond; Chief Wayne Jerman announces the arrest.",
+    "significance": "Arrest exactly 39 years after the night of the killing.",
+    "source": "[16] https://www.radioiowa.com/2018/12/19/man-arrested-for-1979-murder-of-teenage-girl-in-cedar-rapids/; [43] https://www.thegazette.com/news/crime-and-courts/cedar-rapids-police-make-murder-arrest-in-michelle-martinko-cold-case/article_9af8fb47-7543-50b8-a8bc-044272fffb2d.html; [19] https://www.weareiowa.com/article/news/local/michelle-martinko-murder-suspect-held-on-5-million-cash-bond/524-0773fb26-b8a4-4e51-b452-f8e7641763a9"
+   },
+   {
+    "date": "after Dec 2018",
+    "location": "Linn County",
+    "what_happened": "Lab confirms Burns' swab matches the dress DNA; probability of a random unrelated match 'less than 1 out of 100 billion'. Burns pleads not guilty.",
+    "significance": "Confirmation.",
+    "source": "[13] https://thegazette.com/subject/news/public-safety/michelle-martinko-dna-search-warrant-straw-jerry-lynn-burns-family-tree-cold-case-murder-20190312; [46] https://www.cbsnews.com/minnesota/news/iowa-man-will-plead-not-guilty-to-teens-1979-slaying"
+   },
+   {
+    "date": "Jan 2020",
+    "location": "Linn County District Court",
+    "what_happened": "Suppression hearing; the court refuses to throw out the straw DNA.",
+    "significance": "Sets up the appeal.",
+    "source": "[20] https://www.timesrepublican.com/news/todays-news/2020/03/cedar-rapids-investigator-dedicated-to-solving-martinko-case/; [34] https://law.justia.com/cases/iowa/supreme-court/2023/20-1150.html"
+   },
+   {
+    "date": "week of 10 Feb 2020",
+    "location": "Iowa district court",
+    "what_happened": "Jury selection and trial begin.",
+    "significance": "Trial.",
+    "source": "[48] https://www.kwqc.com/content/news/Trial-for-man-accused-of-killing-Michelle-Martinko-enters-second-week-567956481.html"
+   },
+   {
+    "date": "Monday 17 Feb 2020",
+    "location": "Courtroom",
+    "what_happened": "Denlinger testifies; former 1979 investigators describe the scene; DNA expert ties the blood to Burns.",
+    "significance": "Evidence presented.",
+    "source": "[20] https://www.timesrepublican.com/news/todays-news/2020/03/cedar-rapids-investigator-dedicated-to-solving-martinko-case/; [45] https://www.kcrg.com/content/news/Former-investigators-take-the-stand-in-murder-trial-for-Jerry-Burns-567859251.html; [23] https://cbs2iowa.com/news/local/expert-details-strong-link-between-dna-at-martinko-murder-scene-and-jerry-burns"
+   },
+   {
+    "date": "Wednesday 19 Feb 2020",
+    "location": "Courtroom",
+    "what_happened": "State rests after playing Burns' interview video.",
+    "significance": "",
+    "source": "[21] https://cbs2iowa.com/news/local/state-rests-case-after-showing-burns-video-block-things-out-of-your-memories"
+   },
+   {
+    "date": "Monday 24 Feb 2020",
+    "location": "Courtroom",
+    "what_happened": "After closing arguments and about three hours of deliberation, the jury finds Burns guilty of first-degree murder.",
+    "significance": "Verdict, 40 years after the crime.",
+    "source": "[25] https://www.kcrg.com/content/news/Jerry-Burns-found-guilty-of-first-degree-murder-after-closing-arguments-only-three-hours-of-deliberation-568158631.html; [2] https://iowacoldcases.org/case-summaries/michelle-martinko/"
+   },
+   {
+    "date": "25 Mar 2020",
+    "location": "",
+    "what_happened": "Sentencing reset (to June); ultimately held in August.",
+    "significance": "",
+    "source": "[27] https://thegazette.com/subject/news/jerry-burns-sentencing-reset-michelle-martinko-murder-cedar-rapids-20200325"
+   },
+   {
+    "date": "Friday 7 Aug 2020",
+    "location": "Linn County",
+    "what_happened": "Judge Fae Hoover-Grinde denies a new-trial motion and sentences Burns to the mandatory life in prison without parole; $150,000 to Michelle's estate; Burns says somebody else did it; John Stonebraker's video statement.",
+    "significance": "Sentence.",
+    "source": "[28] https://www.iowapublicradio.org/ipr-news/2020-08-07/burns-sentenced-to-life-in-prison-for-martinko-murder-plans-to-appeal; [29] https://www.kcrg.com/2020/08/07/jerry-burns-sentenced-to-life-in-prison-without-parole-for-the-murder-of-michelle-martinko/; [30] https://littlevillagemag.com/jerry-burns-sentenced-to-life-in-prison-without-parole-for-the-murder-of-michelle-martinko-in-1979/; [31] https://cbs2iowa.com/news/local/martinko-brother-in-law-reads-emotional-statement-as-burns-gets-life-in-prison"
+   },
+   {
+    "date": "21 Jan 2021",
+    "location": "",
+    "what_happened": "Burns hires appellate attorney Kathleen Zellner.",
+    "significance": "",
+    "source": "[32] https://www.kcrg.com/2021/01/21/jerry-burns-hires-making-a-murderer-lawyer-to-appeal-michelle-martinko-conviction/"
+   },
+   {
+    "date": "Apr 2021",
+    "location": "Iowa Supreme Court",
+    "what_happened": "EFF files an amicus brief challenging the surreptitious DNA collection.",
+    "significance": "National privacy debate.",
+    "source": "[33] https://www.eff.org/deeplinks/2021/04/eff-challenges-surreptitious-collection-dna-iowa-supreme-court"
+   },
+   {
+    "date": "Friday 31 Mar 2023",
+    "location": "Iowa Supreme Court",
+    "what_happened": "5-2 decision (Justice David May) affirms: the straw left on the Pizza Ranch table was abandoned; analyzing DNA from it was not an unconstitutional search. Justices McDermott and Oxley dissent.",
+    "significance": "Precedent on abandoned DNA.",
+    "source": "[34] https://law.justia.com/cases/iowa/supreme-court/2023/20-1150.html; [35] https://www.radioiowa.com/2023/03/31/supreme-court-denies-appeal-in-martinko-cold-case-murder/; [36] https://iowaappeals.com/uncategorized/analyzing-dna-voluntarily-abandoned-in-public-is-not-a-search-under-the-united-states-or-iowa-constitution-according-to-the-iowa-supreme-court/"
+   },
+   {
+    "date": "Tuesday 10 Oct 2023",
+    "location": "U.S. Supreme Court",
+    "what_happened": "Petition for certiorari (No. 23-206) denied.",
+    "significance": "Direct appeals exhausted.",
+    "source": "[37] https://www.supremecourt.gov/docket/docketfiles/html/public/23-206.html"
+   },
+   {
+    "date": "late Apr 2026",
+    "location": "Linn County District Court",
+    "what_happened": "Burns files a petition for postconviction relief alleging ineffective counsel, that a cellmate testified falsely to get a lighter sentence, that counsel opened the door to improper expert testimony on male DNA, and that counsel failed to present evidence pointing to Michelle's former boyfriend.",
+    "significance": "Current litigation.",
+    "source": "[38] https://www.kcrg.com/2026/05/04/jerry-burns-files-new-appeal-his-murder-conviction/; [39] https://kmch.com/2026/05/05/burns-files-petition-for-postconviction-relief-for-2020-murder-conviction/"
+   },
+   {
+    "date": "29 May 2026",
+    "location": "Linn County",
+    "what_happened": "The State asks the court to dismiss, saying the claims were not raised on direct appeal.",
+    "significance": "",
+    "source": "[40] https://www.kcrg.com/2026/05/29/state-asks-court-reject-jerry-burns-murder-conviction-appeal/"
+   },
+   {
+    "date": "20 Apr 2027 (scheduled; exact date reported by two secondary sources)",
+    "location": "Linn County Courthouse",
+    "what_happened": "Postconviction relief trial scheduled.",
+    "significance": "Status as of Oct 2026: pending, no ruling found.",
+    "source": "[41] https://www.kctn.com/post/postconviction-relief-for-manchester-man-convicted-for-murder-scheduled-for-april; [42] https://defrostingcoldcases.com/michelle-martinko-case-update/"
+   }
+  ]
+ },
+ "cold_open_material": {
+  "_instructions": "The most dramatic moment of your story - this will be your hook.",
+  "the_moment": {
+   "exact_date": "Wednesday 19 December 1979, evening; discovery about 4 a.m. Thursday 20 December",
+   "exact_location": "Westdale Mall parking lot, southwest Cedar Rapids, Iowa",
+   "what_is_happening": "An 18-year-old leaves her choir banquet to pick up a winter coat at a mall that opened less than two weeks earlier.",
+   "what_makes_it_shocking": "She is found stabbed to death in her family's Buick; no weapon, no fingerprints, no witness.",
+   "ironic_twist": "She fought so hard that the killer cut himself; his blood stayed on her dress and the gearshift for 39 years, and he was arrested 39 years to the day after the night she died."
+  },
+  "central_mystery_question": "Who killed Michelle Martinko in a crowded Christmas-season mall lot, and how could his own blood stay nameless for 39 years?"
+ },
+ "the_method": {
+  "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+  "technique_name": "Investigative genetic genealogy (forensic genetic genealogy) with covert reference sampling",
+  "step_by_step_explanation": [
+   "1979: blood from the attacker is preserved on Michelle's dress and the car's gearshift.",
+   "2006: a male DNA profile (STR profile) is developed and searched in CODIS: no match.",
+   "2017: Parabon NanoLabs predicts physical traits (Snapshot) and police release composites.",
+   "May 2018: police learn genealogy can be used; the DNA is converted into a SNP file and uploaded to GEDmatch, a public genealogy database.",
+   "The match list includes a distant cousin, Brandy Jennings, who uploaded to learn about her father's side.",
+   "Genealogists build family trees back to shared great-grandparents and forward to living men of the right age and place.",
+   "Covert samples exclude two branches; a third branch points to three brothers.",
+   "Discarded items exclude two brothers (golf clubhouse straw; toothbrush).",
+   "29 Oct 2018: Jerry Burns' Pizza Ranch straw is collected; the DCI lab cannot exclude him as the major contributor.",
+   "19 Dec 2018: a warrant swab confirms; random-match probability less than 1 in 100 billion."
+  ],
+  "why_it_worked": "The killer's blood had been preserved, and by 2018 enough ordinary people had placed their DNA in a public database for a distant cousin to appear.",
+  "technical_terms_to_explain": [
+   {
+    "term": "CODIS",
+    "simple_explanation": "The FBI-run national database of DNA profiles from convicted offenders, arrestees and crime scenes; it only helps if the killer is already in it."
+   },
+   {
+    "term": "GEDmatch",
+    "simple_explanation": "A public genealogy website where people upload their own DNA results to find relatives."
+   },
+   {
+    "term": "Second cousin (once/twice removed)",
+    "simple_explanation": "Relatives who share great-grandparents (or are a generation apart from that level); they share only a small slice of DNA."
+   },
+   {
+    "term": "Snapshot phenotyping",
+    "simple_explanation": "Prediction of appearance traits from DNA; produces a likeness, not an identity."
+   },
+   {
+    "term": "Abandoned property doctrine",
+    "simple_explanation": "The legal idea that once you voluntarily throw something away in public, you lose your privacy claim to it."
+   }
+  ],
+  "scale_of_operation": "More than 125 DNA samples over the case; 14 million CODIS profiles searched without a hit; three family branches; three brothers."
+ },
+ "systemic_failure": {
+  "_instructions": "What institution, system, or authority failed to prevent this?",
+  "institution_that_failed": "Not a single negligent agency; the limits of 1979 forensic science and of databases that only contain known offenders.",
+  "how_they_were_supposed_to_protect": "Identify the killer from evidence at the scene.",
+  "why_they_failed": "No DNA technology in 1979; no weapon, no fingerprints, no witness; the killer had no profile in CODIS; years of focus on suspects who DNA later cleared.",
+  "specific_incompetence_examples": [
+   "DNA cleared numerous potential suspects and even confessions [22] (no claim of misconduct verified)",
+   "2006 profile sat in CODIS with no hit for 12 years [11][12]",
+   "14 million CODIS profiles, no match [23]"
+  ],
+  "ironic_details_about_the_failure": "The man convicted lived about 45 miles away and ran his own business for decades; he was never a suspect until a stranger in Washington State uploaded her DNA."
+ },
+ "the_investigation": {
+  "_instructions": "How was the protagonist caught?",
+  "investigating_agency": "Cedar Rapids Police Department with the Iowa Division of Criminal Investigation (DCI) lab and Parabon NanoLabs",
+  "operation_code_name_if_any": "None",
+  "when_investigation_began": "20 December 1979",
+  "initial_wrong_assumptions": "Investigators believed the attack was 'personal in nature'; community rumor focused on people who knew her, including a former boyfriend who was never charged.",
+  "key_breakthrough": "GEDmatch match to Brandy Jennings in 2018.",
+  "the_fatal_mistake": "Leaving a straw on a Pizza Ranch table on 29 Oct 2018 (and, in 1979, bleeding at the scene).",
+  "how_long_until_caught": "39 years (19 Dec 1979 to 19 Dec 2018)."
+ },
+ "the_confrontation": {
+  "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+  "date_and_time": "Wednesday 19 December 2018, morning",
+  "location": "Advanced Coating Concepts, Manchester, Iowa; then a police car to Cedar Rapids",
+  "scene_description": "Two plain-clothes officers; a camera hidden in a coffee mug; an interview of more than an hour; a cheek swab.",
+  "protagonist_reaction": "Denied involvement; showed little emotion; took work calls; mentioned Jodi Huisentruit unprompted; on the ride said it was possible to block things out of your memories.",
+  "ironic_or_absurd_details": "The arrest fell on the 39th anniversary, a date Denlinger chose."
+ },
+ "legal_resolution": {
+  "_instructions": "Court proceedings, sentencing, and aftermath.",
+  "charges_filed": [
+   "First-degree murder (Iowa)"
+  ],
+  "trial_date_if_applicable": "February 2020 (began week of 10 Feb; verdict 24 Feb 2020)",
+  "notable_court_testimony": "Investigator Denlinger on the genealogy and straw; former 1979 investigators on the scene; DNA expert on the strength of the match; the hidden-camera and car-ride videos; a jailhouse witness (cellmate) whose testimony Burns now says was false (allegation, unproven).",
+  "victim_impact_statements": [
+   {
+    "from_whom": "John Stonebraker, brother-in-law (video)",
+    "key_quote": "Burns would \"forfeit his freedom forever and die alone.\" His mark on the world would be a short notice: \"Convicted Martinko murderer dies in prison.\"",
+    "emotional_impact": "Michelle's parents died without knowing; she was 'her own best witness'."
+   }
+  ],
+  "sentence_received": "Life in prison without the possibility of parole (mandatory in Iowa for first-degree murder); $150,000 to Michelle's estate.",
+  "protagonist_statement_in_court": "\"First of all, I'd like to say that somebody else stabbed Michelle to death in that car that night. I don't know who. I don't know why.\" ... \"And I would like to thank my family and friends for their support.\"",
+  "current_status": "As of October 2026: conviction affirmed by the Iowa Supreme Court (31 Mar 2023, 5-2); U.S. Supreme Court denied review (10 Oct 2023). Burns, who maintains his innocence, filed a postconviction relief petition in late April 2026; the State moved to dismiss (May 2026); a PCR trial is reported scheduled for 20 April 2027 in Linn County. No ruling found. Reported to be held at Anamosa State Penitentiary (single weak source; not used in script)."
+ },
+ "verified_quotes": {
+  "_instructions": "ONLY include quotes you can verify from reliable sources.",
+  "quotes": [
+   {
+    "speaker": "1979 investigators (as reported)",
+    "exact_quote": "personal in nature",
+    "context": "How investigators characterised the killing.",
+    "source": "[4] https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/"
+   },
+   {
+    "speaker": "Wayne Jerman, Cedar Rapids Police Chief",
+    "exact_quote": "Michelle's killer has been identified and arrested.",
+    "context": "News conference, 19 Dec 2018.",
+    "source": "[16] https://www.radioiowa.com/2018/12/19/man-arrested-for-1979-murder-of-teenage-girl-in-cedar-rapids/; [43] https://www.thegazette.com/news/crime-and-courts/cedar-rapids-police-make-murder-arrest-in-michelle-martinko-cold-case/article_9af8fb47-7543-50b8-a8bc-044272fffb2d.html"
+   },
+   {
+    "speaker": "Iowa DCI lab report (as quoted in search warrant)",
+    "exact_quote": "DNA donor could NOT be eliminated as the major contributor to the DNA profile previously developed",
+    "context": "Result on the Pizza Ranch straw, 2018.",
+    "source": "[13] https://thegazette.com/subject/news/public-safety/michelle-martinko-dna-search-warrant-straw-jerry-lynn-burns-family-tree-cold-case-murder-20190312"
+   },
+   {
+    "speaker": "Iowa DCI lab (as reported)",
+    "exact_quote": "less than 1 out of 100 billion",
+    "context": "Probability of finding the same profile among unrelated individuals.",
+    "source": "[13] https://thegazette.com/subject/news/public-safety/michelle-martinko-dna-search-warrant-straw-jerry-lynn-burns-family-tree-cold-case-murder-20190312"
+   },
+   {
+    "speaker": "Jerry Burns (paraphrased in headline)",
+    "exact_quote": "Block things out of your memories",
+    "context": "Recorded car ride, 19 Dec 2018; played at trial. Use as reported phrase, not as full sentence.",
+    "source": "[21] https://cbs2iowa.com/news/local/state-rests-case-after-showing-burns-video-block-things-out-of-your-memories"
+   },
+   {
+    "speaker": "Janelle Stonebraker",
+    "exact_quote": "We don't know exactly the why's and some of the details, but we definitely know who did it",
+    "context": "After the verdict, 24 Feb 2020.",
+    "source": "[26] https://cbs2iowa.com/news/local/michelle-martinko-family-friends-react-to-guilty-verdict"
+   },
+   {
+    "speaker": "Janelle Stonebraker",
+    "exact_quote": "She fought so hard that she caused the murderer to cut himself, he left his DNA ... and so Michelle helped solve her own murder",
+    "context": "48 Hours interview, 2020 (ellipsis in source).",
+    "source": "[8] https://www.yahoo.com/news/young-murder-victim-helps-solve-040900059.html; [7] https://www.paramountpressexpress.com/cbs-news-and-stations/releases/?view=56285"
+   },
+   {
+    "speaker": "Jerry Burns",
+    "exact_quote": "First of all, I'd like to say that somebody else stabbed Michelle to death in that car that night. I don't know who. I don't know why.",
+    "context": "Sentencing, 7 Aug 2020.",
+    "source": "[30] https://littlevillagemag.com/jerry-burns-sentenced-to-life-in-prison-without-parole-for-the-murder-of-michelle-martinko-in-1979/; [28] https://www.iowapublicradio.org/ipr-news/2020-08-07/burns-sentenced-to-life-in-prison-for-martinko-murder-plans-to-appeal"
+   },
+   {
+    "speaker": "Jerry Burns",
+    "exact_quote": "And I would like to thank my family and friends for their support.",
+    "context": "Sentencing, 7 Aug 2020.",
+    "source": "[30] https://littlevillagemag.com/jerry-burns-sentenced-to-life-in-prison-without-parole-for-the-murder-of-michelle-martinko-in-1979/"
+   },
+   {
+    "speaker": "John Stonebraker",
+    "exact_quote": "forfeit his freedom forever and die alone",
+    "context": "Victim impact statement by video, 7 Aug 2020.",
+    "source": "[28] https://www.iowapublicradio.org/ipr-news/2020-08-07/burns-sentenced-to-life-in-prison-for-martinko-murder-plans-to-appeal; [31] https://cbs2iowa.com/news/local/martinko-brother-in-law-reads-emotional-statement-as-burns-gets-life-in-prison"
+   },
+   {
+    "speaker": "John Stonebraker",
+    "exact_quote": "Convicted Martinko murderer dies in prison.",
+    "context": "Describing the short notice that would be Burns' mark on the world.",
+    "source": "[28] https://www.iowapublicradio.org/ipr-news/2020-08-07/burns-sentenced-to-life-in-prison-for-martinko-murder-plans-to-appeal; [30] https://littlevillagemag.com/jerry-burns-sentenced-to-life-in-prison-without-parole-for-the-murder-of-michelle-martinko-in-1979/"
+   },
+   {
+    "speaker": "John Stonebraker",
+    "exact_quote": "her own best witness",
+    "context": "Describing Michelle's role in solving her murder.",
+    "source": "[31] https://cbs2iowa.com/news/local/martinko-brother-in-law-reads-emotional-statement-as-burns-gets-life-in-prison"
+   }
+  ]
+ },
+ "statistics_and_numbers": {
+  "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+  "figures": [
+   {
+    "number": "18",
+    "what_it_represents": "Michelle's age",
+    "source": "[4] https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/"
+   },
+   {
+    "number": "$180",
+    "what_it_represents": "Cash she carried for the coat",
+    "source": "[4] https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/"
+   },
+   {
+    "number": "less than 2 weeks",
+    "what_it_represents": "How long Westdale Mall had been open",
+    "source": "[4] https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/"
+   },
+   {
+    "number": "1972",
+    "what_it_represents": "Model year of the family's Buick Electra",
+    "source": "[43] https://www.thegazette.com/news/crime-and-courts/cedar-rapids-police-make-murder-arrest-in-michelle-martinko-cold-case/article_9af8fb47-7543-50b8-a8bc-044272fffb2d.html; [1] https://en.wikipedia.org/wiki/Murder_of_Michelle_Martinko"
+   },
+   {
+    "number": "about 8 p.m. / 2 a.m. / 4 a.m.",
+    "what_it_represents": "Last sighting / reported missing / found",
+    "source": "[4] https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/"
+   },
+   {
+    "number": "29",
+    "what_it_represents": "Stab and cut wounds (CBS)",
+    "source": "[7] https://www.paramountpressexpress.com/cbs-news-and-stations/releases/?view=56285"
+   },
+   {
+    "number": "2006",
+    "what_it_represents": "Year DNA profile developed",
+    "source": "[11] https://www.kwqc.com/content/news/How-cutting-edge-DNA-technology-helped-break-open-39-year-old-cold-case-503283201.html; [12] https://www.abc15.com/dna-leads-to-arrest-exactly-39-years-after-teen-girl-stabbed-to-death-police-say"
+   },
+   {
+    "number": "14 million",
+    "what_it_represents": "CODIS profiles searched with no match",
+    "source": "[23] https://cbs2iowa.com/news/local/expert-details-strong-link-between-dna-at-martinko-murder-scene-and-jerry-burns"
+   },
+   {
+    "number": "125+",
+    "what_it_represents": "DNA samples collected over the case",
+    "source": "[44] https://www.genealogyexplained.com/igg-cases/jerry-burns/"
+   },
+   {
+    "number": "3",
+    "what_it_represents": "Brothers on the final branch",
+    "source": "[13] https://thegazette.com/subject/news/public-safety/michelle-martinko-dna-search-warrant-straw-jerry-lynn-burns-family-tree-cold-case-murder-20190312; [44] https://www.genealogyexplained.com/igg-cases/jerry-burns/"
+   },
+   {
+    "number": "about 45 miles",
+    "what_it_represents": "Manchester to Cedar Rapids",
+    "source": "[16] https://www.radioiowa.com/2018/12/19/man-arrested-for-1979-murder-of-teenage-girl-in-cedar-rapids/"
+   },
+   {
+    "number": "39 years",
+    "what_it_represents": "Night of the murder to arrest, to the day",
+    "source": "[16] https://www.radioiowa.com/2018/12/19/man-arrested-for-1979-murder-of-teenage-girl-in-cedar-rapids/; [43] https://www.thegazette.com/news/crime-and-courts/cedar-rapids-police-make-murder-arrest-in-michelle-martinko-cold-case/article_9af8fb47-7543-50b8-a8bc-044272fffb2d.html"
+   },
+   {
+    "number": "64",
+    "what_it_represents": "Burns' age at arrest",
+    "source": "[43] https://www.thegazette.com/news/crime-and-courts/cedar-rapids-police-make-murder-arrest-in-michelle-martinko-cold-case/article_9af8fb47-7543-50b8-a8bc-044272fffb2d.html"
+   },
+   {
+    "number": "$5 million",
+    "what_it_represents": "Cash-only bond",
+    "source": "[19] https://www.weareiowa.com/article/news/local/michelle-martinko-murder-suspect-held-on-5-million-cash-bond/524-0773fb26-b8a4-4e51-b452-f8e7641763a9"
+   },
+   {
+    "number": "1 in 100 billion",
+    "what_it_represents": "Random match probability bound",
+    "source": "[13] https://thegazette.com/subject/news/public-safety/michelle-martinko-dna-search-warrant-straw-jerry-lynn-burns-family-tree-cold-case-murder-20190312"
+   },
+   {
+    "number": "about 3 hours",
+    "what_it_represents": "Jury deliberation",
+    "source": "[25] https://www.kcrg.com/content/news/Jerry-Burns-found-guilty-of-first-degree-murder-after-closing-arguments-only-three-hours-of-deliberation-568158631.html"
+   },
+   {
+    "number": "$150,000",
+    "what_it_represents": "Payment to Michelle's estate",
+    "source": "[28] https://www.iowapublicradio.org/ipr-news/2020-08-07/burns-sentenced-to-life-in-prison-for-martinko-murder-plans-to-appeal"
+   },
+   {
+    "number": "5-2",
+    "what_it_represents": "Iowa Supreme Court vote",
+    "source": "[34] https://law.justia.com/cases/iowa/supreme-court/2023/20-1150.html"
+   },
+   {
+    "number": "40 years",
+    "what_it_represents": "Crime to verdict (Dec 1979 to Feb 2020)",
+    "source": "[25] https://www.kcrg.com/content/news/Jerry-Burns-found-guilty-of-first-degree-murder-after-closing-arguments-only-three-hours-of-deliberation-568158631.html; [2] https://iowacoldcases.org/case-summaries/michelle-martinko/"
+   }
+  ]
+ },
+ "ironic_and_absurd_details": {
+  "_instructions": "Small details that highlight contradictions.",
+  "details": [
+   "The mall was less than two weeks old; the case outlived the era of the mall itself.",
+   "She went to buy a winter coat; the evidence that solved the case was on the dress she wore.",
+   "The killer was caught through a woman in Vancouver, Washington, who uploaded her DNA to learn about her father's side of the family and forgot about it.",
+   "A plastic straw at a family pizza buffet became the subject of a 5-2 state supreme court ruling.",
+   "The arrest was made on the 39th anniversary of the murder.",
+   "During questioning about Michelle, Burns brought up a different unsolved case on his own."
+  ]
+ },
+ "sensory_and_environmental_details": {
+  "_instructions": "Details that help viewers visualize scenes.",
+  "key_locations": [
+   {
+    "location_name": "Westdale Mall, southwest Cedar Rapids",
+    "physical_description": "Enclosed shopping mall opened in December 1979; JCPenney store near where the Buick was parked.",
+    "atmosphere": "Christmas-season shopping (general context; no documented weather).",
+    "relevant_details": "Last sighting near a jewelry store around 8 p.m."
+   },
+   {
+    "location_name": "Sheraton Inn, downtown Cedar Rapids",
+    "physical_description": "Hotel where the Kennedy Concert Choir banquet was held.",
+    "atmosphere": "Choir banquet (no further detail documented).",
+    "relevant_details": "Michelle's last group event."
+   },
+   {
+    "location_name": "Kennedy High School, Cedar Rapids",
+    "physical_description": "Public high school.",
+    "atmosphere": "",
+    "relevant_details": "Twirling squad, choirs, theater."
+   },
+   {
+    "location_name": "Manchester, Iowa",
+    "physical_description": "Small town in Delaware County about 45 miles north of Cedar Rapids.",
+    "atmosphere": "",
+    "relevant_details": "Burns' powder coating shop; Pizza Ranch where the straw was collected."
+   }
+  ]
+ },
+ "universal_stakes": {
+  "_instructions": "Why should viewers care?",
+  "why_this_matters_to_viewer": "A teenager on an ordinary errand; a killer who was never on any list; a family who waited 40 years.",
+  "how_this_could_happen_to_them": "Every viewer has made a solo trip to a parking lot at night; every viewer has relatives whose DNA may be in a public database.",
+  "lesson_or_warning": "Preserve evidence: a stain kept in a lab in 1979 became the answer in 2018. And the privacy debate: what we leave behind in public can be tested.",
+  "current_relevance": "The 2023 Iowa Supreme Court ruling on abandoned DNA is cited in the national debate on covert DNA collection; postconviction litigation is pending in 2026-2027."
+ },
+ "sources": {
+  "_instructions": "List ALL sources.",
+  "primary_sources": [
+   {
+    "type": "Court opinion (primary)",
+    "title": "[34] State of Iowa v. Jerry Lynn Burns, No. 20-1150 — Iowa Supreme Court (also on Justia and CourtListener) (2023-03-31)",
+    "url_or_reference": "https://law.justia.com/cases/iowa/supreme-court/2023/20-1150.html",
+    "key_information_obtained": "5-2; Justice David May for the majority; straw left on Pizza Ranch table abandoned; no reasonable expectation of privacy; DNA compared to fingerprints; dissents by Justices McDermott and Oxley."
+   },
+   {
+    "type": "Court docket (primary)",
+    "title": "[37] Burns v. Iowa, No. 23-206 — Supreme Court of the United States (2023-10-10)",
+    "url_or_reference": "https://www.supremecourt.gov/docket/docketfiles/html/public/23-206.html",
+    "key_information_obtained": "Petition for certiorari denied 10 Oct 2023."
+   }
+  ],
+  "secondary_sources": [
+   {
+    "type": "Encyclopedia article",
+    "title": "[1] Murder of Michelle Martinko — Wikipedia (accessed 2026-10-09)",
+    "url_or_reference": "https://en.wikipedia.org/wiki/Murder_of_Michelle_Martinko",
+    "key_information_obtained": "Family (Albert F. and Janet Martinko, sister Janelle), activities, 1972 Buick Electra parked near JCPenney, coat on layaway, verdict and sentence dates."
+   },
+   {
+    "type": "Cold case database",
+    "title": "[2] Michelle Marie Martinko - case summary — Iowa Cold Cases (accessed 2026-10-09)",
+    "url_or_reference": "https://iowacoldcases.org/case-summaries/michelle-martinko/",
+    "key_information_obtained": "Verdict 24 Feb 2020; sentencing 7 Aug 2020; case summary."
+   },
+   {
+    "type": "Local TV",
+    "title": "[3] TIMELINE: The Michelle Martinko murder case — KCRG-TV9 (Dec 2018)",
+    "url_or_reference": "https://www.kcrg.com/content/news/TIMELINE-The-Michelle-Martinko-murder-case-503178991.html",
+    "key_information_obtained": "Case timeline."
+   },
+   {
+    "type": "Newspaper",
+    "title": "[4] What we know: key moments in the Michelle Martinko cold case murder investigation — The Gazette (Cedar Rapids) (2018-2020)",
+    "url_or_reference": "https://www.thegazette.com/crime-courts/what-we-know-key-moments-in-the-michelle-martinko-cold-case-murder-investigation/",
+    "key_information_obtained": "Choir banquet at downtown Sheraton; Westdale opened less than two weeks before; $180; coat; last seen around 8 p.m. outside a jewelry store; reported missing ~2 a.m.; found ~4 a.m. Dec 20; stab wounds face and chest; defensive wounds; not sexually assaulted; 'personal in nature'; no weapon or fingerprints."
+   },
+   {
+    "type": "Memorial",
+    "title": "[5] Michelle Marie Martinko (1961-1979) — Find a Grave (n.d.)",
+    "url_or_reference": "https://www.findagrave.com/memorial/104050435/michelle-marie-martinko",
+    "key_information_obtained": "Years of birth/death; friends described her as stylish and kind, blonde hair in Farrah Fawcett style; planned Iowa State interior design."
+   },
+   {
+    "type": "Magazine",
+    "title": "[6] Michelle Martinko's murder 'haunted' the Cedar Rapids community for 40 years. Now, her suspected killer is set to go on trial. — Little Village (Feb 2020)",
+    "url_or_reference": "https://littlevillagemag.com/michelle-martinko-murder-trial/",
+    "key_information_obtained": "Portrait: twirling squad as a sophomore, baton at halftime, Kennedy women's choir and Concert Choir, theater; classmates searched their memories for leads."
+   },
+   {
+    "type": "TV network",
+    "title": "[7] 48 Hours: Murder at the Mall - The Michelle Martinko Case (broadcast 7 Nov 2020, Jamie Yuccas) / press release 'How a young woman stabbed to death helped solve her own murder nearly 40 years later' — CBS News / Paramount Press Express (2020-11-07)",
+    "url_or_reference": "https://www.paramountpressexpress.com/cbs-news-and-stations/releases/?view=56285",
+    "key_information_obtained": "29 stab and cut wounds; killer's blood on gearshift; male DNA; GEDmatch; second cousin; Burns maintains innocence."
+   },
+   {
+    "type": "News syndication (CBS)",
+    "title": "[8] Young murder victim helps solve her own cold case — CBS News via Yahoo News (Nov 2020)",
+    "url_or_reference": "https://www.yahoo.com/news/young-murder-victim-helps-solve-040900059.html",
+    "key_information_obtained": "Janelle Stonebraker quote: Michelle fought so hard the murderer cut himself."
+   },
+   {
+    "type": "TV network",
+    "title": "[9] Is Michelle Martinko's killer linked to missing news anchor Jodi Huisentruit? — CBS News (2020)",
+    "url_or_reference": "https://www.cbsnews.com/news/michelle-martinko-killer-missing-news-anchor-jodi-huisentruit/",
+    "key_information_obtained": "Burns unsolicited mention of Jodi Huisentruit during questioning; no evidence linking him."
+   },
+   {
+    "type": "Newspaper",
+    "title": "[10] Cedar Rapids police use DNA technology to create suspect composite in Michelle Martinko killing — The Gazette (2017-05-16)",
+    "url_or_reference": "https://thegazette.com/subject/news/public-safety/cedar-rapids-police-use-dna-technology-to-create-suspect-composite-in-michelle-martinko-killing-20170516",
+    "key_information_obtained": "Parabon Snapshot composites released May 2017: ancestry, eye, hair, skin color, freckling, face shape."
+   },
+   {
+    "type": "Local TV",
+    "title": "[11] How cutting-edge DNA technology helped break open 39-year-old cold case — KWQC-TV6 (Dec 2018)",
+    "url_or_reference": "https://www.kwqc.com/content/news/How-cutting-edge-DNA-technology-helped-break-open-39-year-old-cold-case-503283201.html",
+    "key_information_obtained": "2006 DNA profile uploaded to CODIS with no match; Parabon composites 2017."
+   },
+   {
+    "type": "Local TV (Scripps)",
+    "title": "[12] DNA leads to arrest exactly 39 years after teen girl stabbed to death, police say — ABC15 / WSB-TV (2018-12-20)",
+    "url_or_reference": "https://www.abc15.com/dna-leads-to-arrest-exactly-39-years-after-teen-girl-stabbed-to-death-police-say",
+    "key_information_obtained": "2006 sample submitted; CODIS; no match; arrest on anniversary."
+   },
+   {
+    "type": "Newspaper (court records)",
+    "title": "[13] Search warrant shows how relative's DNA led police to Manchester man in Michelle Martinko's death — The Gazette (2019-03-12)",
+    "url_or_reference": "https://thegazette.com/subject/news/public-safety/michelle-martinko-dna-search-warrant-straw-jerry-lynn-burns-family-tree-cold-case-murder-20190312",
+    "key_information_obtained": "Parabon (Reston, Va.) told police about GEDmatch; two branches eliminated; three brothers; golf clubhouse straw; toothbrush; Pizza Ranch clear plastic straw; DCI wording; warrant swab; 'less than 1 out of 100 billion'; learned in May 2018 genealogy possible."
+   },
+   {
+    "type": "Newspaper",
+    "title": "[14] Distant relative learns her DNA led to arrest in Michelle Martinko slaying — The Gazette (2019-03)",
+    "url_or_reference": "https://www.thegazette.com/crime-courts/distant-relative-learns-her-dna-led-to-arrest-in-michelle-martinko-slaying/",
+    "key_information_obtained": "Brandy Jennings of Vancouver, Wash.; second cousin twice removed via paternal great-grandparents; uploaded to GEDmatch and forgot."
+   },
+   {
+    "type": "Newspaper",
+    "title": "[15] Vancouver woman's DNA leads to arrest in 1979 Iowa killing — The Columbian (Vancouver, Wash.) / AP (2019-03-26)",
+    "url_or_reference": "https://www.columbian.com/news/2019/mar/26/vancouver-womans-dna-leads-to-arrest-in-1979-iowa-killing/",
+    "key_information_obtained": "Jennings' upload; second cousin once removed (relationship wording differs between outlets)."
+   },
+   {
+    "type": "Radio",
+    "title": "[16] Man arrested for 1979 murder of teenage girl in Cedar Rapids — Radio Iowa (2018-12-19)",
+    "url_or_reference": "https://www.radioiowa.com/2018/12/19/man-arrested-for-1979-murder-of-teenage-girl-in-cedar-rapids/",
+    "key_information_obtained": "Officers travelled to Manchester, about 45 miles north of Cedar Rapids; Chief Jerman quote; covert DNA to DCI lab."
+   },
+   {
+    "type": "Radio",
+    "title": "[17] C.R. Police Make Arrest in 1979 Murder of Michelle Martinko — KHAK (2018-12-19)",
+    "url_or_reference": "https://khak.com/cedar-rapids-police-make-arrest-in-1979-murder-of-michelle-martinko/",
+    "key_information_obtained": "Burns questioned at his job in Manchester that morning and denied involvement."
+   },
+   {
+    "type": "Local TV",
+    "title": "[18] Friends of man arrested in Martinko murder shocked — KCRG-TV9 (2018-12-20)",
+    "url_or_reference": "https://www.kcrg.com/content/news/Friends-of-man-arrested-in-Martinko-murder-shocked-503192181.html",
+    "key_information_obtained": "Burns owned Advanced Coating Concepts, a powder coating shop on the south side of Manchester; friends shocked."
+   },
+   {
+    "type": "Local TV",
+    "title": "[19] Michelle Martinko murder suspect held on $5 million cash bond — WHO 13 / We Are Iowa (2018-12)",
+    "url_or_reference": "https://www.weareiowa.com/article/news/local/michelle-martinko-murder-suspect-held-on-5-million-cash-bond/524-0773fb26-b8a4-4e51-b452-f8e7641763a9",
+    "key_information_obtained": "Linn County Jail, $5 million cash-only bond."
+   },
+   {
+    "type": "Newspaper (AP/Gazette)",
+    "title": "[20] Cedar Rapids investigator dedicated to solving Martinko case — Times-Republican (Marshalltown) (2020-03)",
+    "url_or_reference": "https://www.timesrepublican.com/news/todays-news/2020/03/cedar-rapids-investigator-dedicated-to-solving-martinko-case/",
+    "key_information_obtained": "Investigator Matthew Denlinger; collected the straw after watching Burns drink several sodas on 29 Oct 2018 at the Pizza Ranch in Manchester; sat with prosecution since jury selection; testified Monday 17 Feb 2020."
+   },
+   {
+    "type": "Local TV",
+    "title": "[21] State rests case after showing Burns' video: 'Block things out of your memories' — CBS2 Iowa (KGAN) (2020-02-19)",
+    "url_or_reference": "https://cbs2iowa.com/news/local/state-rests-case-after-showing-burns-video-block-things-out-of-your-memories",
+    "key_information_obtained": "Hidden-camera interview; car ride; Burns said it was possible to block things out of your memories; state rested Wednesday."
+   },
+   {
+    "type": "Local TV",
+    "title": "[22] DNA cleared numerous potential suspects, even confessions, in Martinko murder — CBS2 Iowa (KGAN) (2020-02)",
+    "url_or_reference": "https://cbs2iowa.com/news/local/dna-cleared-numerous-potential-suspects-even-confessions-in-martinko-murder",
+    "key_information_obtained": "Numerous suspects and even confessions cleared by DNA over the decades."
+   },
+   {
+    "type": "Local TV",
+    "title": "[23] Expert details strong link between DNA at Martinko murder scene and Jerry Burns — CBS2 Iowa (KGAN) (2020-02)",
+    "url_or_reference": "https://cbs2iowa.com/news/local/expert-details-strong-link-between-dna-at-martinko-murder-scene-and-jerry-burns",
+    "key_information_obtained": "DNA expert testimony; 14 million CODIS profiles, none matched (Denlinger)."
+   },
+   {
+    "type": "National news",
+    "title": "[24] Trial in high school girl's murder 40 years ago in Iowa has blood evidence at forefront — NBC News (2020-02)",
+    "url_or_reference": "https://www.nbcnews.com/news/us-news/trial-high-school-girl-s-murder-40-years-ago-iowa-n1136251",
+    "key_information_obtained": "Blood evidence central at trial."
+   },
+   {
+    "type": "Local TV",
+    "title": "[25] Jerry Burns found guilty of first-degree murder after closing arguments, only three hours of deliberation — KCRG-TV9 (2020-02-24)",
+    "url_or_reference": "https://www.kcrg.com/content/news/Jerry-Burns-found-guilty-of-first-degree-murder-after-closing-arguments-only-three-hours-of-deliberation-568158631.html",
+    "key_information_obtained": "Verdict after about three hours of deliberation."
+   },
+   {
+    "type": "Local TV",
+    "title": "[26] Michelle Martinko's family and friends react to guilty verdict — CBS2 Iowa (KGAN) (2020-02-24)",
+    "url_or_reference": "https://cbs2iowa.com/news/local/michelle-martinko-family-friends-react-to-guilty-verdict",
+    "key_information_obtained": "Janelle Stonebraker quote after verdict; wished parents could have seen it."
+   },
+   {
+    "type": "Newspaper",
+    "title": "[27] Sentencing reset to June for Manchester man convicted of killing Michelle Martinko — The Gazette (2020-03-25)",
+    "url_or_reference": "https://thegazette.com/subject/news/jerry-burns-sentencing-reset-michelle-martinko-murder-cedar-rapids-20200325",
+    "key_information_obtained": "Sentencing postponed."
+   },
+   {
+    "type": "Public radio",
+    "title": "[28] Burns Sentenced To Life In Prison For Martinko Murder, Plans To Appeal — Iowa Public Radio (2020-08-07)",
+    "url_or_reference": "https://www.iowapublicradio.org/ipr-news/2020-08-07/burns-sentenced-to-life-in-prison-for-martinko-murder-plans-to-appeal",
+    "key_information_obtained": "Life without parole; Burns' statement; Stonebraker video statement; $150,000."
+   },
+   {
+    "type": "Local TV",
+    "title": "[29] Jerry Burns sentenced to life in prison without parole for the murder of Michelle Martinko — KCRG-TV9 (2020-08-07)",
+    "url_or_reference": "https://www.kcrg.com/2020/08/07/jerry-burns-sentenced-to-life-in-prison-without-parole-for-the-murder-of-michelle-martinko/",
+    "key_information_obtained": "Sentencing; new-trial motion denied."
+   },
+   {
+    "type": "Magazine",
+    "title": "[30] Jerry Burns sentenced to life in prison without parole for the murder of Michelle Martinko in 1979 — Little Village (2020-08-07)",
+    "url_or_reference": "https://littlevillagemag.com/jerry-burns-sentenced-to-life-in-prison-without-parole-for-the-murder-of-michelle-martinko-in-1979/",
+    "key_information_obtained": "Judge Fae Hoover-Grinde; defense attorney Leon Spies; Burns' exact words; 30 days to appeal."
+   },
+   {
+    "type": "Local TV",
+    "title": "[31] 'Excised [...] like an oozing wound,' Martinko brother-in-law says of Burns' life sentence — CBS2 Iowa (KGAN) (2020-08-07)",
+    "url_or_reference": "https://cbs2iowa.com/news/local/martinko-brother-in-law-reads-emotional-statement-as-burns-gets-life-in-prison",
+    "key_information_obtained": "John Stonebraker victim impact statement; parents died without knowing; 'her own best witness'."
+   },
+   {
+    "type": "Local TV",
+    "title": "[32] Jerry Burns hires 'Making a Murderer' lawyer to appeal Michelle Martinko conviction — KCRG-TV9 (2021-01-21)",
+    "url_or_reference": "https://www.kcrg.com/2021/01/21/jerry-burns-hires-making-a-murderer-lawyer-to-appeal-michelle-martinko-conviction/",
+    "key_information_obtained": "Kathleen Zellner retained for appeal."
+   },
+   {
+    "type": "Advocacy organisation",
+    "title": "[33] EFF Challenges Surreptitious Collection of DNA at Iowa Supreme Court — Electronic Frontier Foundation (2021-04)",
+    "url_or_reference": "https://www.eff.org/deeplinks/2021/04/eff-challenges-surreptitious-collection-dna-iowa-supreme-court",
+    "key_information_obtained": "Amicus argument that DNA cannot be 'abandoned' like trash."
+   },
+   {
+    "type": "Radio",
+    "title": "[35] Supreme Court denies appeal in Martinko cold case murder — Radio Iowa (2023-03-31)",
+    "url_or_reference": "https://www.radioiowa.com/2023/03/31/supreme-court-denies-appeal-in-martinko-cold-case-murder/",
+    "key_information_obtained": "Appeal denied."
+   },
+   {
+    "type": "Law firm appellate blog",
+    "title": "[36] Analyzing DNA voluntarily abandoned in public is not a search under the United States or Iowa Constitution, according to the Iowa Supreme Court — Nyemaster Goode - On Brief (2023-04)",
+    "url_or_reference": "https://iowaappeals.com/uncategorized/analyzing-dna-voluntarily-abandoned-in-public-is-not-a-search-under-the-united-states-or-iowa-constitution-according-to-the-iowa-supreme-court/",
+    "key_information_obtained": "Summary of the holding and the dissents."
+   },
+   {
+    "type": "Local TV",
+    "title": "[38] Jerry Burns files new appeal for his murder conviction — KCRG-TV9 (2026-05-04)",
+    "url_or_reference": "https://www.kcrg.com/2026/05/04/jerry-burns-files-new-appeal-his-murder-conviction/",
+    "key_information_obtained": "Postconviction relief petition filed late April 2026."
+   },
+   {
+    "type": "Local radio",
+    "title": "[39] Burns Files Petition for Postconviction Relief for 2020 Murder Conviction — KMCH (Manchester) (2026-05-05)",
+    "url_or_reference": "https://kmch.com/2026/05/05/burns-files-petition-for-postconviction-relief-for-2020-murder-conviction/",
+    "key_information_obtained": "Claims: ineffective counsel; cellmate allegedly testified falsely; counsel opened door to expert testimony on male DNA; failure to present evidence pointing to Martinko's former boyfriend. Linn County Attorney Nick Maybanks: PCR is not a direct appeal."
+   },
+   {
+    "type": "Local TV",
+    "title": "[40] State asks court to reject Jerry Burns' murder conviction appeal — KCRG-TV9 (2026-05-29)",
+    "url_or_reference": "https://www.kcrg.com/2026/05/29/state-asks-court-reject-jerry-burns-murder-conviction-appeal/",
+    "key_information_obtained": "State moves to dismiss; claims not raised on direct appeal."
+   },
+   {
+    "type": "Local radio",
+    "title": "[41] Postconviction Relief for Manchester Man Convicted for Murder Scheduled for April — KCTN (2026)",
+    "url_or_reference": "https://www.kctn.com/post/postconviction-relief-for-manchester-man-convicted-for-murder-scheduled-for-april",
+    "key_information_obtained": "PCR trial scheduled April 2027 at the Linn County Courthouse."
+   },
+   {
+    "type": "Blog",
+    "title": "[42] Michelle Martinko, case update — Defrosting Cold Cases (2026)",
+    "url_or_reference": "https://defrostingcoldcases.com/michelle-martinko-case-update/",
+    "key_information_obtained": "PCR hearing 20 April 2027 (not independently confirmed)."
+   },
+   {
+    "type": "Newspaper",
+    "title": "[43] Cedar Rapids police make murder arrest in Michelle Martinko cold case — The Gazette (2018-12-19)",
+    "url_or_reference": "https://www.thegazette.com/news/crime-and-courts/cedar-rapids-police-make-murder-arrest-in-michelle-martinko-cold-case/article_9af8fb47-7543-50b8-a8bc-044272fffb2d.html",
+    "key_information_obtained": "Chief Wayne Jerman; 2006 profile matched covert sample from Burns, 64, of Manchester; 1972 Buick Electra."
+   },
+   {
+    "type": "Genealogy case index",
+    "title": "[44] Jerry Burns - IGG cases — Genealogy Explained (n.d.)",
+    "url_or_reference": "https://www.genealogyexplained.com/igg-cases/jerry-burns/",
+    "key_information_obtained": "Brothers Ken, Don and Jerry Burns; straw was one of more than 125 DNA samples collected in the case; CeCe Moore of Parabon."
+   },
+   {
+    "type": "Local TV",
+    "title": "[45] Witnesses describe murder scene in trial of man accused of killing Michelle Martinko in 1979 — KCRG-TV9 (2020-02)",
+    "url_or_reference": "https://www.kcrg.com/content/news/Former-investigators-take-the-stand-in-murder-trial-for-Jerry-Burns-567859251.html",
+    "key_information_obtained": "Former investigators testified about the 1979 scene."
+   },
+   {
+    "type": "TV network",
+    "title": "[46] Iowa Man Will Plead Not Guilty To Teen's 1979 Slaying — CBS Minnesota (WCCO) / AP (2018-12)",
+    "url_or_reference": "https://www.cbsnews.com/minnesota/news/iowa-man-will-plead-not-guilty-to-teens-1979-slaying",
+    "key_information_obtained": "Not-guilty plea."
+   },
+   {
+    "type": "Newspaper",
+    "title": "[47] Meet the man who was on a mission to solve the Michelle Martinko murder — The Gazette (2020-03)",
+    "url_or_reference": "https://thegazette.com/crime-courts/meet-the-man-who-was-on-a-mission-to-solve-the-michelle-martinko-murder",
+    "key_information_obtained": "Profile of investigator Matt Denlinger (headline-level only)."
+   },
+   {
+    "type": "Local TV",
+    "title": "[48] Trial for man accused of killing Michelle Martinko enters second week — KWQC-TV6 (2020-02-17)",
+    "url_or_reference": "https://www.kwqc.com/content/news/Trial-for-man-accused-of-killing-Michelle-Martinko-enters-second-week-567956481.html",
+    "key_information_obtained": "Trial entered second week on 17 Feb 2020; trial began week of 10 Feb 2020."
+   },
+   {
+    "type": "Background (not re-verified this session)",
+    "title": "[49] Joseph James DeAngelo (Golden State Killer) arrest, April 2018, via GEDmatch genealogy — Wikipedia summary of Sacramento County DA / AP reporting (2018-04)",
+    "url_or_reference": "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo",
+    "key_information_obtained": "Landmark genetic-genealogy arrest, 24 April 2018 (general knowledge)."
+   },
+   {
+    "type": "Background (not re-verified this session)",
+    "title": "[50] Cedar Rapids, Iowa - 1980 census population about 110,000; second-largest city in Iowa — U.S. Census Bureau / Wikipedia (1980)",
+    "url_or_reference": "https://en.wikipedia.org/wiki/Cedar_Rapids,_Iowa",
+    "key_information_obtained": "General context only."
+   },
+   {
+    "type": "Blog",
+    "title": "[51] The murder of Michelle Martinko — Crime and Coffee Couple (2024-12-17)",
+    "url_or_reference": "https://crimeandcoffeecouple.com/2024/12/17/the-murder-of-michelle-martinko/",
+    "key_information_obtained": "Interview account: Burns kept taking work calls and texts, showed no emotion, said he had no recollection; interview lasted over an hour; Denlinger chose the anniversary date. Weak source; used only with hedging."
+   },
+   {
+    "type": "Background (not re-verified this session)",
+    "title": "[52] DNA fingerprinting discovered by Alec Jeffreys, University of Leicester, 1984; FBI CODIS national index operational 1998; GEDmatch launched 2010 — Wikipedia / FBI (n.d.)",
+    "url_or_reference": "https://en.wikipedia.org/wiki/DNA_profiling",
+    "key_information_obtained": "General science chronology for the era context."
+   },
+   {
+    "type": "Background (not re-verified this session)",
+    "title": "[53] Disappearance of Jodi Huisentruit, KIMT morning anchor, Mason City, Iowa, 27 June 1995 — Wikipedia / CBS News [9] (n.d.)",
+    "url_or_reference": "https://en.wikipedia.org/wiki/Disappearance_of_Jodi_Huisentruit",
+    "key_information_obtained": "Context for Burns' unsolicited mention; no evidence links Burns to that case."
+   }
+  ]
+ },
+ "next_video_hook": {
+  "_instructions": "Tease for your next video.",
+  "next_topic": "COLORADO 1982 — Annette Schnee & Bobbie Jo Oberholtzer (Breckenridge hitchhikers, Alan Lee Phillips)",
+  "connection_to_current_video": "Another winter, another pair of young lives on a cold road, and another killer named decades later through genetic genealogy.",
+  "teaser_line": "Two young women, two hitchhiking trips in the snow near Breckenridge, Colorado, in January 1982, and a killer who would wait more than 35 years for science to catch up with him. That is the next case."
+ },
+ "notes_and_gaps": {
+  "_instructions": "Things you still need to research or verify.",
+  "unverified_claims": [
+   "Exact location where Michelle was last seen (outside a jewelry store) is single-sourced.",
+   "Whether the coat was put on layaway by Michelle or by her mother (one source says mother).",
+   "Brandy Jennings' exact relationship: 'second cousin once removed' vs 'second cousin twice removed'.",
+   "Burns' age at arrest: 64 (police) vs 65 in some later reports.",
+   "Hearing date 20 April 2027 for postconviction relief reported by KCTN and a blog only.",
+   "Burns' place of incarceration (Anamosa) from a weak entertainment source.",
+   "Golden State Killer date and Cedar Rapids population are background knowledge, not re-verified this session.",
+   "The trial venue city was not confirmed in the sources reached (not stated in the script).",
+   "Interview demeanor details (work calls, no emotion, 'no recollection', anniversary chosen by Denlinger) rely on a blog summary [51]; hedged in script."
+  ],
+  "information_gaps": [
+   "Research limitation: WebFetch/curl were blocked (DNS failure / proxy 403) and the shared WebSearch budget ran out after 13 queries; facts come from search-engine summaries and snippets of the listed articles, not full-text reads. Re-verify before publishing.",
+   "No verbatim quote from Detective Denlinger, CeCe Moore or Brandy Jennings verified.",
+   "Names of 1979 lead investigators not gathered.",
+   "Exact date of Michelle's birth not verified.",
+   "Whether Burns and Michelle had any connection: none documented.",
+   "Content of the investigator's testimony about Burns' internet history (Gazette headline) not reviewed; omitted from script."
+  ],
+  "questions_to_answer": [
+   "Has the PCR court ruled on the State's motion to dismiss?",
+   "Exact trial venue and prosecutors' names.",
+   "Burns' current facility and health."
+  ]
+ }
+}

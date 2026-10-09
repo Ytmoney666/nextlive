@@ -1,0 +1,364 @@
+{
+  "video_metadata": {
+    "working_title": "PENNSYLVANIA 1992 Cold Case Solved After 25 Years — Justice for Christy Mirack",
+    "topic_one_sentence": "On Monday, December 21, 1992, 25-year-old sixth-grade teacher Christy Mirack was raped, beaten and strangled in her townhouse in East Lampeter Township, Lancaster County, Pennsylvania; after 25 years the case was cracked through Parabon NanoLabs genetic genealogy and a discarded water bottle and chewing gum, leading to the June 25, 2018 arrest of local DJ Raymond 'DJ Freez' Rowe, who pleaded guilty on January 8, 2019 and is serving life without parole while still litigating for more DNA testing.",
+    "primary_emotion_to_evoke": "Grief and unease turning into hope: the man the community trusted at its parties and school dances had been the killer all along, and a distant relative's DNA plus a piece of gum finally named him.",
+    "target_length_minutes": "70"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Christy Ann Mirack (victim, heart of the story); perpetrator: Raymond Charles Rowe, known as 'DJ Freez'",
+    "age_at_time_of_events": "Christy: 25 at her death on December 21, 1992 [S13][S1]. Rowe: 49 at his arrest on June 25, 2018 [S1] and 50 at his guilty plea on January 8, 2019 [S27]; derived from those two ages, he was 23 or 24 in December 1992 (derived, not stated in a source).",
+    "occupation_or_status": "Christy: sixth-grade teacher at Rohrerstown Elementary School, Hempfield School District [S13][S39]. Rowe: disc jockey who ran an entertainment business under the handle 'DJ Freez' [S1]; described as a popular wedding DJ and a regular at children's and school events [S28].",
+    "location": "Townhouse at 2071 William Penn Way, Greenfield Estates, East Lampeter Township, Lancaster County, Pennsylvania [S13].",
+    "physical_description": "Not used. Real photographs of Christy exist in news coverage; no AI recreation.",
+    "background_brief": "Christy was a Shamokin native (Northumberland County, Pennsylvania) [S35]; her family lived in Shamokin [S16]. She studied elementary education at Millersville University, graduated in 1989 and took her first job at Rohrerstown Elementary [S16]. Her parents were Vincent and Gerry Mirack [S18]; her siblings included brother Vince Mirack [S19][S24] and sister Alicia [S24].",
+    "psychological_profile": "Described by her principal Harry Goodman as 'genuine, unpretentious, very outgoing and friendly' [S16]. Former students remembered her as a fun, passionate educator with 'the biggest smile' [S48]. Her brother said becoming a schoolteacher was her one goal and dream [S47].",
+    "mundane_humanizing_detail": "As a child she practised being a teacher by giving play lessons to her two siblings [S44] (blog source, single-sourced). On the morning she died she was dressed in a coat and gloves, apparently ready to leave for school [S14][S15].",
+    "nickname_or_alias_if_any": "Rowe: 'DJ Freez' (sometimes misspelled 'DJ Freeze') [S1][S36]."
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {
+        "name": "Christy Ann Mirack",
+        "role_or_profession": "Sixth-grade teacher, Rohrerstown Elementary School",
+        "connection_to_protagonist": "No relationship established by investigators. Rowe claimed in 2021, after pleading guilty, that they had a secret affair after meeting at the Chameleon Club where he DJ'd; Judge Dennis Reinaker rejected his account as unbelievable in April 2022 [S31][S33].",
+        "specific_impact_suffered": "Beaten, sexually assaulted and strangled in her home on the morning of December 21, 1992 [S1][S2].",
+        "humanizing_detail": "Wanted to be a teacher since childhood [S44][S47]; Millersville University graduate, 1989 [S16].",
+        "any_quotes_from_them": "None documented."
+      },
+      {
+        "name": "Vincent Mirack (father)",
+        "role_or_profession": "Christy's father, Shamokin area",
+        "connection_to_protagonist": "Victim's father",
+        "specific_impact_suffered": "Lost his daughter; with his wife offered a $10,000 reward on April 2, 1993 [S18]. At the January 8, 2019 plea hearing, when offered the chance to speak, he collapsed weeping into his daughter Alicia's arms [S24].",
+        "humanizing_detail": "Rowe told him in court that he was sorry, according to DA spokesman Brett Hambright [S25].",
+        "any_quotes_from_them": "\"I can't talk. I can't talk.\" (January 8, 2019, Lancaster County Court) [S24]"
+      },
+      {
+        "name": "Gerry (Geraldine) Mirack (mother)",
+        "role_or_profession": "Christy's mother",
+        "connection_to_protagonist": "Victim's mother",
+        "specific_impact_suffered": "Died at her Shamokin home on November 4, 2002, aged 59, without seeing anyone charged; LancasterOnline's archive story is titled 'A mother's dying wish: Justice for Christy Mirack' [S43].",
+        "humanizing_detail": "She died one day after what would have been Christy's 35th birthday [S43] (implies Christy's birthday was November 3, 1967 — derived).",
+        "any_quotes_from_them": "None verified."
+      },
+      {
+        "name": "Vince Mirack (brother)",
+        "role_or_profession": "Christy's brother; family spokesman",
+        "connection_to_protagonist": "Victim's brother",
+        "specific_impact_suffered": "Created a Facebook page in Christy's name in June 2009 to seek tips [S19]; spoke for the family at the plea hearing; had wanted the death penalty [S24].",
+        "humanizing_detail": "After the 2017 DNA composites were released he said the family finally had a face [S21].",
+        "any_quotes_from_them": "\"We have a face now\" (headline quote, LancasterOnline, November 2017) [S21]; \"Her one goal and dream ... is that she always wanted to be a schoolteacher\" [S47]."
+      },
+      {
+        "name": "Alicia (sister)",
+        "role_or_profession": "Christy's sister",
+        "connection_to_protagonist": "Victim's sister",
+        "specific_impact_suffered": "Held her father as he collapsed at the 2019 plea hearing [S24].",
+        "humanizing_detail": "Surname after marriage not verified; refer to her only as Christy's sister Alicia.",
+        "any_quotes_from_them": "None verified."
+      }
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "Her sixth-grade students and colleagues at Rohrerstown Elementary; friends who, in the words of a LancasterOnline archive headline, 'married, had babies, but haven't forgotten Christy Mirack' [S50].",
+      "total_number_affected": "Not quantified.",
+      "range_of_impacts": "Grief, fear in Greenfield Estates, 25 years without answers; a principal who found her body."
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Harry Goodman", "role_in_story": "Principal of Rohrerstown Elementary in 1992", "key_actions_they_took": "When Christy did not arrive for class on December 21, 1992, he drove to her townhouse, found the front door ajar and found her body shortly after 9 a.m. [S13][S14]. Spoke again in 2019 about the relief of knowing [S49].", "notable_quotes": "Described her as \"genuine, unpretentious, very outgoing and friendly\" [S16]."},
+      {"name": "Christopher Erb", "role_in_story": "Lancaster County Detective, lead cold-case investigator", "key_actions_they_took": "Consulted Parabon NanoLabs in November 2016 [S19]; on March 7, 2017 sent DNA from the crime-scene carpet to Parabon for phenotyping [S7]; took the May 1, 2018 call pitching genetic genealogy [S20]; filed the homicide charge against Rowe [S1].", "notable_quotes": "None verified."},
+      {"name": "Craig Stedman", "role_in_story": "Lancaster County District Attorney (2018–2019)", "key_actions_they_took": "His office's detectives took over the case in 2016 [S1]; released DNA composites on October 31, 2017 [S21]; announced Rowe's arrest June 25, 2018 [S1]; announced intent to seek the death penalty in August 2018 [S30]; accepted plea after consulting family [S25].", "notable_quotes": "Parabon's genealogy service was their 'last shot' and the choice 'has turned out to be our best' [S20]; \"We can't arrest based on what we got from Parabon.\" [S28]; \"Considering the time that has past, some specific questions about motive might never be answered publicly\" [S25]."},
+      {"name": "CeCe Moore", "role_in_story": "Head of Parabon NanoLabs' genetic genealogy unit", "key_actions_they_took": "Analysed the crime-scene DNA's matches in a public genealogy database (GEDmatch), built family trees and determined Raymond C. Rowe was a strong candidate source [S7][S22].", "notable_quotes": "\"No arrests are made on our work alone.\" [S28] (single-sourced via search summary)."},
+      {"name": "Thom Shaw", "role_in_story": "Forensic artist at Parabon NanoLabs", "key_actions_they_took": "Called Detective Erb on May 1, 2018 to pitch Parabon's new genetic genealogy service [S20].", "notable_quotes": "None."},
+      {"name": "Brett Hambright", "role_in_story": "Spokesman, Lancaster County DA's office", "key_actions_they_took": "Said the plea was reached after discussions that included the Mirack family [S25].", "notable_quotes": "None verbatim beyond paraphrase."},
+      {"name": "Dennis Reinaker", "role_in_story": "President Judge, Lancaster County Court of Common Pleas", "key_actions_they_took": "Accepted the plea and imposed life without parole plus 60 to 120 years on January 8, 2019 [S24]; in April 2022 denied Rowe's post-conviction petition and DNA testing request in a 16-page ruling, calling Rowe's affair story unbelievable [S5][S33].", "notable_quotes": "None verbatim."},
+      {"name": "Patricia Spotts and David Blanck", "role_in_story": "Rowe's defence lawyers in 2018–2019", "key_actions_they_took": "Told the court Rowe had admitted guilt; testified in 2021 that he confessed at their first meeting [S25][S32].", "notable_quotes": "Spotts: \"He has told us that he did it.\" and \"The person standing beside me has admitted his guilt.\" (January 8, 2019) [S25][S31]."},
+      {"name": "Todd M. Mosser", "role_in_story": "Rowe's post-conviction attorney", "key_actions_they_took": "Represented Rowe at the 2021 hearings [S31].", "notable_quotes": "Asked: \"Are you averring your actual innocence?\" [S31]"},
+      {"name": "Dr. Wayne K. Ross", "role_in_story": "Lancaster County forensic pathologist", "key_actions_they_took": "Said in a 1993 interview that three men considered suspects were absolved because their DNA did not match semen DNA from the scene [S18].", "notable_quotes": "None verbatim."}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "1985", "location": "Shamokin area, Northumberland County, PA", "what_happened": "Christy graduates from Our Lady of Lourdes Regional High School.", "significance": "Background (low-quality single source; not used in script).", "source": "[S42]"},
+      {"date": "1989", "location": "Millersville University, Lancaster County", "what_happened": "Christy graduates in elementary education and takes her first job at Rohrerstown Elementary School.", "significance": "Victim portrait", "source": "[S16]"},
+      {"date": "December 21, 1992 (Monday), about 7:00 a.m.", "location": "2071 William Penn Way, Greenfield Estates, East Lampeter Township", "what_happened": "Christy's roommate leaves for work. Police placed the time of death between 7 a.m. and about 7:45 a.m., when Christy usually left for work.", "significance": "The window of the crime", "source": "[S17]"},
+      {"date": "December 21, 1992, shortly after 7:00 a.m.", "location": "Parking lot across from Christy's townhouse", "what_happened": "Neighbors reported seeing a car pull into a lot across from her home shortly after the roommate left, and a man get out and head toward her door (witness accounts reported at the time).", "significance": "Early clue that never produced a name", "source": "[S17]"},
+      {"date": "December 21, 1992, morning", "location": "Rohrerstown Elementary School, Hempfield School District", "what_happened": "As classes start, the office is notified that Christy has not shown up in her sixth-grade classroom. Principal Harry Goodman drives to her townhouse.", "significance": "Discovery", "source": "[S39][S13]"},
+      {"date": "December 21, 1992, shortly after 9:00 a.m.", "location": "Christy's townhouse", "what_happened": "Goodman finds the front door ajar and finds Christy dead on her bedroom floor; he runs out and shuts the door. She was wearing a coat and gloves. A wooden cutting board lay near her body. She had been beaten, sexually assaulted and strangled.", "significance": "The crime scene; DNA left in semen on the carpet under her body would solve the case 25 years later.", "source": "[S13][S14][S15][S1]"},
+      {"date": "1992–1993", "location": "Lancaster County", "what_happened": "Autopsy finds she was strangled with hands and clothing; she had a broken jaw and bruised elbows and knees consistent with a struggle.", "significance": "Cause of death (use one plain sentence only).", "source": "[S14]"},
+      {"date": "February 1, 1993", "location": "Lancaster County", "what_happened": "Blood and hair samples taken from a 31-year-old local man.", "significance": "Wrong lead", "source": "[S18][S19]"},
+      {"date": "March 31, 1993", "location": "Lancaster County", "what_happened": "Police say the results clear the man considered the prime suspect. By then more than 500 people had been interviewed.", "significance": "Lead dies", "source": "[S18][S19]"},
+      {"date": "April 2, 1993", "location": "Shamokin / Lancaster", "what_happened": "Vincent and Gerry Mirack offer a $10,000 reward.", "significance": "Family campaign", "source": "[S18]"},
+      {"date": "1993", "location": "Lancaster County", "what_happened": "Forensic pathologist Dr. Wayne K. Ross says three men considered suspects were absolved because their DNA did not match semen DNA from the scene.", "significance": "DNA already excluding people but could not name anyone", "source": "[S18]"},
+      {"date": "August 8, 1993", "location": "East Lampeter Township", "what_happened": "FBI investigators join East Lampeter Township police on the case.", "significance": "Escalation, no arrest", "source": "[S18][S19]"},
+      {"date": "November 4, 2002", "location": "Shamokin", "what_happened": "Christy's mother Gerry Mirack dies at home aged 59, one day after what would have been Christy's 35th birthday.", "significance": "A parent who died waiting", "source": "[S43]"},
+      {"date": "October 2008", "location": "FBI website", "what_happened": "The FBI posts the Mirack case in its 'seeking information' section.", "significance": "Cold years", "source": "[S19]"},
+      {"date": "June 2009", "location": "Facebook", "what_happened": "Vince Mirack creates a Facebook page under Christy's name seeking tips.", "significance": "Family never gave up", "source": "[S19]"},
+      {"date": "Before 2016 (exact year not verified)", "location": "National DNA database (CODIS)", "what_happened": "The crime-scene DNA profile was entered into the national database but produced no match.", "significance": "The killer had never been in the system", "source": "[S39]"},
+      {"date": "2016", "location": "Lancaster County", "what_happened": "After East Lampeter Township police, Pennsylvania State Police and the FBI had investigated, Lancaster County Detectives under DA Craig Stedman take over the case.", "significance": "Fresh eyes", "source": "[S1][S19]"},
+      {"date": "November 2016", "location": "Lancaster County", "what_happened": "Detective Christopher Erb consults Parabon NanoLabs about DNA phenotyping.", "significance": "First contact with Parabon", "source": "[S19]"},
+      {"date": "March 7, 2017", "location": "Lancaster County / Parabon NanoLabs, Virginia", "what_happened": "Erb provides Parabon a DNA sample collected from the crime-scene carpet in 1992 for analysis and phenotyping.", "significance": "The old carpet sample goes to a new lab", "source": "[S7]"},
+      {"date": "October 31, 2017", "location": "Lancaster", "what_happened": "DA Stedman releases three DNA-predicted composite images of the suspect at ages 25, 45 and 55; the office launches the tip website WhoKilledChristyMirack.com.", "significance": "A face, but no name", "source": "[S21][S4][S19]"},
+      {"date": "November 2017", "location": "Lancaster", "what_happened": "Vince Mirack says the family has 'a face now'.", "significance": "Hope", "source": "[S21]"},
+      {"date": "December 2017", "location": "Lancaster", "what_happened": "25th anniversary: police and family say they remain hopeful.", "significance": "Cold years ledger", "source": "[S45]"},
+      {"date": "April 2018 (background)", "location": "California", "what_happened": "Arrest in the Golden State Killer case using the public genealogy database GEDmatch makes investigative genetic genealogy national news.", "significance": "Landmark that proved the method (background; general reference, not retrieved this session).", "source": "[S52]"},
+      {"date": "May 1, 2018", "location": "Lancaster County", "what_happened": "Parabon forensic artist Thom Shaw calls Detective Erb to pitch Parabon's new genetic genealogy service; the DA's office authorises it as its 'last shot'.", "significance": "The turning call", "source": "[S20]"},
+      {"date": "May 2018", "location": "GEDmatch (public genealogy database)", "what_happened": "Parabon uploads the crime-scene genotype file; matches include distant relatives and a half-sister of Raymond Rowe who had uploaded her DNA. CeCe Moore builds trees and identifies Raymond C. Rowe as a strong candidate.", "significance": "The name", "source": "[S7][S22][S24][S27]"},
+      {"date": "May 31, 2018 (Thursday)", "location": "Smoketown Elementary School, Conestoga Valley School District", "what_happened": "Working undercover with the Pennsylvania State Police cold case unit, investigators watch Rowe DJ a party for Smoketown students moving on to Conestoga Valley Middle School; he discards a Kirkland-brand water bottle and chewing gum, which investigators collect.", "significance": "The discarded objects", "source": "[S7][S36][S37]"},
+      {"date": "June 2018", "location": "Pennsylvania State Police crime lab", "what_happened": "DNA from the gum and bottle matches DNA from multiple locations on Christy's body and from the carpet under her body.", "significance": "Confirmation", "source": "[S14][S7]"},
+      {"date": "June 25, 2018 (Monday)", "location": "Rowe's home, Lancaster County", "what_happened": "Rowe, 49, arrested without incident and charged with criminal homicide by Detective Erb; held without bail. Announced the same day by DA Stedman; first arrest in Pennsylvania based on genealogical database data.", "significance": "Arrest after 25 years and 6 months", "source": "[S1][S28]"},
+      {"date": "July 2018", "location": "Lancaster County", "what_happened": "Additional charges filed: three counts of rape by forcible compulsion, two counts of involuntary deviate sexual intercourse, one count of burglary.", "significance": "Charges", "source": "[S29]"},
+      {"date": "August 2018", "location": "Lancaster County", "what_happened": "DA announces he will seek the death penalty.", "significance": "Stakes", "source": "[S30]"},
+      {"date": "January 8, 2019 (Tuesday)", "location": "Lancaster County Court", "what_happened": "Rowe, 50, pleads guilty to first-degree murder, rape and related counts; President Judge Dennis Reinaker sentences him to life without parole plus a consecutive 60 to 120 years. Death penalty removed after discussions including the family. Rowe apologizes: \"I can't imagine what you are going through. I apologize.\"", "significance": "Justice", "source": "[S2][S24][S25][S26]"},
+      {"date": "January 9, 2019", "location": "CBS", "what_happened": "60 Minutes Overtime segment in which CeCe Moore explains to Steve Kroft how she found Rowe.", "significance": "National attention", "source": "[S22]"},
+      {"date": "2019", "location": "GEDmatch", "what_happened": "GEDmatch changes its policy so users must opt in to law-enforcement matching.", "significance": "What changed", "source": "[S34]"},
+      {"date": "November 2019", "location": "Television", "what_happened": "An 'On the Case with Paula Zahn' episode on the case airs; Rowe later says it is part of why he wants to withdraw his plea.", "significance": "Recantation begins", "source": "[S24]"},
+      {"date": "November 21, 2020", "location": "Lancaster County", "what_happened": "Rowe files a post-conviction petition seeking DNA testing.", "significance": "Legal fight", "source": "[S7]"},
+      {"date": "August 26, September 2 and September 8, 2021", "location": "Lancaster County Court", "what_happened": "Hearings: Rowe testifies he had a secret affair with Christy, had consensual sex with her that morning and left her alive; says he is innocent. His former lawyers testify he confessed at their first meeting. State DNA witness says samples had at most two contributors, Rowe and Christy.", "significance": "Recantation", "source": "[S7][S31][S32]"},
+      {"date": "April 2022", "location": "Lancaster County Court", "what_happened": "Judge Reinaker denies the petition and the DNA testing request in a 16-page ruling, finding Rowe's account unbelievable.", "significance": "Plea stands", "source": "[S5][S33]"},
+      {"date": "2023 (opinion 2023 PA Super 69)", "location": "Pennsylvania Superior Court", "what_happened": "Superior Court affirms denial of DNA testing of Christy's sweater (used to strangle her) and the wooden cutting board.", "significance": "Appeal fails", "source": "[S6][S7][S33]"},
+      {"date": "August 1, 2025", "location": "Pennsylvania Supreme Court", "what_happened": "Supreme Court grants review, vacates the Superior Court order and remands for reconsideration in light of Commonwealth v. Hardy.", "significance": "Still litigating", "source": "[S8][S10]"},
+      {"date": "2026 (2026 PA Super 13)", "location": "Pennsylvania Superior Court", "what_happened": "Superior Court issues its opinion on remand; reporting suggests Rowe again lost and sought Supreme Court review (disposition not fully verified this session).", "significance": "Current status", "source": "[S9][S12]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {
+      "exact_date": "Thursday, May 31, 2018 (crime: Monday, December 21, 1992)",
+      "exact_location": "Smoketown Elementary School, Lancaster County (crime: 2071 William Penn Way, Greenfield Estates, East Lampeter Township)",
+      "what_is_happening": "A popular local DJ plays a party for elementary students moving on to middle school; undercover investigators watch him; when he leaves he throws away a water bottle and chewing gum.",
+      "what_makes_it_shocking": "The man the community hired for weddings and school parties was the man whose DNA had sat on a carpet sample for 25 years.",
+      "ironic_twist": "A sixth-grade teacher was murdered in 1992; the man who killed her was caught at a party for elementary students moving on to middle school (their grade level not verified); and a half-sister he did not know helped name him."
+    },
+    "central_mystery_question": "Who walked into a young teacher's townhouse four days before Christmas 1992, and how did a piece of chewing gum answer that question 25 years later?"
+  },
+  "the_method": {
+    "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+    "technique_name": "Investigative genetic genealogy (Parabon NanoLabs) plus DNA phenotyping (Parabon Snapshot) and surreptitious 'abandoned DNA' collection",
+    "step_by_step_explanation": [
+      "1992: semen DNA is recovered from Christy's body and the carpet under her body [S7][S14].",
+      "1993 onward: standard DNA comparisons exclude suspects (three men in 1993) but cannot name anyone [S18].",
+      "The profile is entered into the national database (CODIS) with no match: the killer had no qualifying record [S39].",
+      "March 7, 2017: carpet sample sent to Parabon for phenotyping; October 31, 2017 composites at ages 25, 45, 55 released [S7][S21].",
+      "May 1, 2018: Parabon pitches genetic genealogy; DA authorises upload of the genotype file to a public genealogy database [S20][S7].",
+      "Matches to relatives, including a half-sister of Rowe who had uploaded her DNA to learn about her ancestry [S24][S27].",
+      "CeCe Moore builds family trees; analysis suggests mixed northern European and Puerto Rican ancestry; she narrows to a Lancaster family, finds an engagement announcement and an online interview in which the DJ spoke about his Puerto Rican heritage [S22][S23].",
+      "Genealogy is only a lead: Stedman said they could not arrest on Parabon's work alone [S28].",
+      "May 31, 2018: undercover collection of a discarded water bottle and gum at Smoketown Elementary [S7][S36].",
+      "State police crime lab confirms match to the 1992 evidence; arrest June 25, 2018 [S14][S1]."
+    ],
+    "why_it_worked": "The crime-scene DNA was well preserved; GEDmatch at that time allowed law-enforcement comparisons; a relative had uploaded DNA; and investigators confirmed with a direct sample before arresting.",
+    "technical_terms_to_explain": [
+      {"term": "CODIS", "simple_explanation": "The national DNA database of profiles from offenders and crime scenes; it only finds people already in it."},
+      {"term": "DNA phenotyping", "simple_explanation": "Predicting appearance traits and ancestry from DNA to make a composite image — a sketch drawn by genes instead of by an eyewitness."},
+      {"term": "Genetic genealogy", "simple_explanation": "Comparing crime-scene DNA with people who voluntarily uploaded DNA to genealogy sites, then building family trees until the branches meet at one person."},
+      {"term": "Abandoned DNA / discarded sample", "simple_explanation": "DNA left on an object a person throws away, which police can collect to confirm a lead."}
+    ],
+    "scale_of_operation": "Just over a month from the genealogy upload to the arrest [S20]; more than 500 people interviewed in the first months of 1993 [S18]."
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "Not a single failing agency; the limits of 1990s forensic science and databases.",
+    "how_they_were_supposed_to_protect": "Identify the killer from DNA left at the scene.",
+    "why_they_failed": "DNA could exclude suspects but CODIS only matches people already in the database; Rowe had no qualifying record (inferred from no match) [S39].",
+    "specific_incompetence_examples": [
+      "No documented incompetence; avoid blaming police. Four agencies over 24 years: East Lampeter Township police, Pennsylvania State Police, FBI, Lancaster County Detectives [S1].",
+      "Prime suspect in 1993 cleared after blood and hair tests [S18]; three men absolved by DNA [S18]."
+    ],
+    "ironic_details_about_the_failure": "For 25 years the killer kept working in the same county, at weddings and children's events, while the case was posted on the FBI website [S19][S28]."
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "East Lampeter Township Police (1992), Pennsylvania State Police, FBI (from August 1993), Lancaster County Detectives (from 2016), PSP Cold Case Unit (2018 undercover operation) [S1][S18][S36]",
+    "operation_code_name_if_any": "None known",
+    "when_investigation_began": "December 21, 1992",
+    "initial_wrong_assumptions": "A 1993 article reported that police believed she probably knew her killer [S17] (headline 'Police: Slain teacher probably knew killer'); no relationship between Christy and Rowe was ever established by investigators.",
+    "key_breakthrough": "Parabon genetic genealogy, May 2018, leading to Rowe through a half-sister's upload [S7][S24].",
+    "the_fatal_mistake": "Discarding a water bottle and chewing gum at a DJ job on May 31, 2018 [S7].",
+    "how_long_until_caught": "25 years, 6 months and 4 days (December 21, 1992 to June 25, 2018)."
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "Monday, June 25, 2018",
+    "location": "Rowe's home, Lancaster County",
+    "scene_description": "Arrested without incident; charged with criminal homicide; not eligible for bail; preliminary hearing scheduled for July 9 [S28].",
+    "protagonist_reaction": "No documented statement at arrest. At the plea his lawyers said he had confessed to them at their first meeting [S32].",
+    "ironic_or_absurd_details": "He had been DJing children's events, including the Smoketown party where the evidence was collected [S28][S36]. Rohrerstown, Christy's school, was NOT where he was caught; no evidence he ever DJ'd at Rohrerstown."
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["Criminal homicide (first-degree murder)", "Rape by forcible compulsion (3 counts)", "Involuntary deviate sexual intercourse by forcible compulsion (2 counts)", "Burglary (1 count)"],
+    "trial_date_if_applicable": "No trial; a trial had been anticipated for 2019 before the plea [S47].",
+    "notable_court_testimony": "2019: defence attorney Patricia Spotts: \"He has told us that he did it.\" [S25]. 2021: Rowe recants and claims a consensual affair; former lawyers say he confessed at their first meeting [S31][S32].",
+    "victim_impact_statements": [
+      {"from_whom": "Vincent Mirack (father)", "key_quote": "\"I can't talk. I can't talk.\"", "emotional_impact": "Collapsed weeping into daughter Alicia's arms [S24]."},
+      {"from_whom": "Vince Mirack (brother)", "key_quote": "Spoke on behalf of the family; exact wording of statement not verified.", "emotional_impact": "Had wanted the death penalty [S24]."}
+    ],
+    "sentence_received": "Life in prison without the possibility of parole, plus a consecutive 60 to 120 years [S2][S24].",
+    "protagonist_statement_in_court": "\"I can't imagine what you are going through. I apologize.\" [S24][S25]",
+    "current_status": "As of October 2026: Raymond Rowe is serving life without parole. His April 2022 bid to undo the plea and obtain DNA testing was denied; the Superior Court affirmed in 2023; the Pennsylvania Supreme Court vacated and remanded on August 1, 2025 for reconsideration under an amended DNA-testing law (Commonwealth v. Hardy); the Superior Court issued a new opinion in 2026 (2026 PA Super 13), and reporting indicates Rowe again sought Supreme Court review. The conviction has not been overturned. Final 2026 disposition not fully verified."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Harry Goodman, principal", "exact_quote": "genuine, unpretentious, very outgoing and friendly", "context": "Describing Christy, December 1992", "source": "[S16]"},
+      {"speaker": "Vince Mirack", "exact_quote": "We have a face now", "context": "After Parabon composites released, November 2017 (headline quote)", "source": "[S21]"},
+      {"speaker": "Vince Mirack", "exact_quote": "Her one goal and dream ... is that she always wanted to be a schoolteacher", "context": "Interview after the arrest, 2018", "source": "[S47]"},
+      {"speaker": "Craig Stedman, DA", "exact_quote": "We can't arrest based on what we got from Parabon.", "context": "June 25, 2018 news conference", "source": "[S28]"},
+      {"speaker": "Craig Stedman, DA", "exact_quote": "has turned out to be our best", "context": "On choosing Parabon, which had been their 'last shot', June 2018", "source": "[S20]"},
+      {"speaker": "CeCe Moore", "exact_quote": "No arrests are made on our work alone.", "context": "On the limits of genealogy (single-sourced)", "source": "[S28]"},
+      {"speaker": "Raymond Rowe", "exact_quote": "I can't imagine what you are going through. I apologize.", "context": "To the Mirack family at sentencing, January 8, 2019", "source": "[S24][S25]"},
+      {"speaker": "Vincent Mirack, father", "exact_quote": "I can't talk. I can't talk.", "context": "When offered the chance to address the court, January 8, 2019", "source": "[S24]"},
+      {"speaker": "Patricia Spotts, defence attorney", "exact_quote": "He has told us that he did it.", "context": "Plea hearing, January 8, 2019", "source": "[S25]"},
+      {"speaker": "Patricia Spotts, defence attorney", "exact_quote": "The person standing beside me has admitted his guilt.", "context": "Plea hearing, January 8, 2019", "source": "[S31]"},
+      {"speaker": "Craig Stedman, DA", "exact_quote": "Considering the time that has past, some specific questions about motive might never be answered publicly", "context": "After the plea, January 2019", "source": "[S25]"},
+      {"speaker": "Todd M. Mosser / Raymond Rowe", "exact_quote": "\"Are you averring your actual innocence?\" — \"Yes, I am.\"", "context": "Post-conviction hearing, August 26, 2021", "source": "[S31]"},
+      {"speaker": "Raymond Rowe", "exact_quote": "They were more like a prosecution team coming in every day and telling me to plead, plead, plead", "context": "2021 testimony about his former lawyers (who denied it)", "source": "[S31]"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "25", "what_it_represents": "Christy's age", "source": "[S1]"},
+      {"number": "2071", "what_it_represents": "House number, William Penn Way", "source": "[S13]"},
+      {"number": "7 a.m. to about 7:45 a.m.", "what_it_represents": "Window of the crime", "source": "[S17]"},
+      {"number": "shortly after 9 a.m.", "what_it_represents": "Body found by principal", "source": "[S13]"},
+      {"number": "500+", "what_it_represents": "People interviewed by early 1993", "source": "[S18]"},
+      {"number": "$10,000", "what_it_represents": "Family reward, April 2, 1993", "source": "[S18]"},
+      {"number": "3", "what_it_represents": "Men absolved by DNA in 1993", "source": "[S18]"},
+      {"number": "59", "what_it_represents": "Mother's age at death, November 4, 2002", "source": "[S43]"},
+      {"number": "25, 45, 55", "what_it_represents": "Ages shown in the 2017 composites", "source": "[S21]"},
+      {"number": "4", "what_it_represents": "Agencies over the years (East Lampeter Twp police, PSP, FBI, County Detectives)", "source": "[S1]"},
+      {"number": "just over a month", "what_it_represents": "Genealogy to identification/arrest", "source": "[S20]"},
+      {"number": "49 / 50", "what_it_represents": "Rowe's age at arrest / at plea", "source": "[S1][S27]"},
+      {"number": "7", "what_it_represents": "Counts in the plea (murder, 3 rape, 2 IDSI, burglary)", "source": "[S27][S29]"},
+      {"number": "life + 60 to 120 years", "what_it_represents": "Sentence", "source": "[S24]"},
+      {"number": "25 years, 6 months", "what_it_represents": "Crime to arrest", "source": "derived from [S1][S13]"},
+      {"number": "26 years and 18 days", "what_it_represents": "Crime to guilty plea", "source": "derived"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "The man who killed a sixth-grade teacher was caught DJing a party for kids leaving elementary school [S36].",
+      "He was identified through a half-sister he did not know [S24][S38].",
+      "The case sat on the FBI website while the killer played weddings in the same county [S19][S28].",
+      "Parabon was the DA's 'last shot' and turned out to be 'our best' [S20].",
+      "Christy's mother died the day after what would have been Christy's 35th birthday [S43]."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "Greenfield Estates, East Lampeter Township", "physical_description": "Townhouse development east of the city of Lancaster; Christy's townhouse at 2071 William Penn Way; a parking lot across from her door [S13][S17].", "atmosphere": "Weekday morning, four days before Christmas (no weather details verified).", "relevant_details": "She shared it with a roommate who left at 7 a.m. [S17]."},
+      {"location_name": "Rohrerstown Elementary School, Hempfield School District", "physical_description": "Christy's school, west of Lancaster city.", "atmosphere": "Classes starting, a teacher missing.", "relevant_details": "Her first and only teaching job, from 1989 [S16]."},
+      {"location_name": "Smoketown Elementary School, Conestoga Valley School District", "physical_description": "School in East Lampeter Township area where Rowe DJ'd on May 31, 2018.", "atmosphere": "End-of-year party for students moving to Conestoga Valley Middle School [S36].", "relevant_details": "Undercover officers present; water bottle and gum collected [S7]."},
+      {"location_name": "Shamokin, Northumberland County", "physical_description": "Christy's hometown in Pennsylvania's coal region [S35].", "atmosphere": "Family home.", "relevant_details": "Mother died there in 2002 [S43]."},
+      {"location_name": "Lancaster County (general context)", "physical_description": "South-central Pennsylvania county around the city of Lancaster, widely known for farmland and Amish communities (general knowledge context, no specific claim).", "atmosphere": "December 21, 1992 was a Monday, four days before Christmas (calendar fact).", "relevant_details": "Contemporary headlines: 'Young teacher found strangled' [S13]; 'Slaying of teacher stuns Rohrerstown Elementary' [S53]."},
+      {"location_name": "Lancaster County Courthouse", "physical_description": "Where the plea was entered January 8, 2019.", "atmosphere": "Family present.", "relevant_details": "Judge Dennis Reinaker [S24]."}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "The killer was a familiar, trusted face at community celebrations; DNA you upload to learn your ancestry can identify a relative.",
+    "how_this_could_happen_to_them": "An ordinary morning getting ready for work; a familiar community figure.",
+    "lesson_or_warning": "Evidence preserved carefully can speak decades later; families who keep a case public keep it alive.",
+    "current_relevance": "Genetic genealogy rules changed after 2019 (GEDmatch opt-in) [S34]; Rowe's ongoing DNA-testing litigation under Pennsylvania's broadened post-conviction DNA law [S8][S10]."
+  },
+  "sources": {
+    "_instructions": "List ALL sources.",
+    "primary_sources": [
+      {"type": "DA press release", "title": "[S1] Raymond Rowe, aka 'DJ Freez,' Charged with Killing Christy Mirack in 1992 (Lancaster County DA, June 25, 2018)", "url_or_reference": "https://www.lancastercountypa.gov/CivicAlerts.asp?AID=1185&ARC=1808", "key_information_obtained": "Arrest, age 49, Erb charge, agencies, 2016 takeover, DJ Freez"},
+      {"type": "DA press release", "title": "[S2] Well-Known Entertainer Admits Killing Christy Mirack, Will Serve Life in Prison (Lancaster County DA, January 8, 2019)", "url_or_reference": "https://lancastercountypa.gov/CivicAlerts.asp?AID=1338&ARC=1978", "key_information_obtained": "Plea and sentence"},
+      {"type": "DA press release", "title": "[S3] 'He Did It': Raymond Rowe, for Years a Well-Known DJ, Admits to Killing Christy Mirack in 1992 (Lancaster County DA on CRIMEWATCH, January 2019)", "url_or_reference": "https://crimewatch.net/us/pa/lancaster/da/11617/post/%E2%80%98he-did-it%E2%80%99-raymond-rowe-years-well-known-dj-admits-killing-christy-mirack-1992", "key_information_obtained": "Plea"},
+      {"type": "DA press release", "title": "[S4] DNA Provides Composite of Man Believed to Have Killed Christy Mirack 25 Years Ago (Lancaster County DA, October 2017)", "url_or_reference": "https://lancaster.crimewatchpa.com/da/11617/post/dna-provides-composite-man-believed-have-killed-christy-mirack-25-years-ago", "key_information_obtained": "Composites"},
+      {"type": "DA press release", "title": "[S5] Christy Mirack's Killer Has Post-Conviction Petition Denied (Lancaster County DA, April 2022)", "url_or_reference": "https://lancaster.crimewatchpa.com/da/11617/post/christy-miracks-killer-has-post-conviction-petition-denied", "key_information_obtained": "April 2022 denial"},
+      {"type": "DA press release", "title": "[S6] Superior Court Affirms Denial of Raymond Rowe's Motion for Post-Conviction DNA Testing (Lancaster County DA, 2023)", "url_or_reference": "https://crimewatch.net/us/pa/lancaster/da/11617/post/superior-court-affirms-denial-raymond-rowe%E2%80%99s-motion-post-conviction-dna-testing", "key_information_obtained": "2023 affirmance"},
+      {"type": "Court opinion", "title": "[S7] Commonwealth v. Rowe, J-S06036-23, 2023 PA Super 69, 293 A.3d 733 (Pa. Super. 2023), No. 649 MDA 2022", "url_or_reference": "https://www.pacourts.us/assets/opinions/Superior/out/J-S06036-23o%20-%20105502495221599083.pdf", "key_information_obtained": "March 7, 2017 Parabon sample; May 2018 genealogy; Moore; undercover water bottle and gum; sperm fraction match; PCRA dates"},
+      {"type": "Court order", "title": "[S8] Commonwealth v. Rowe, 273 MAL 2023 (Pa. Supreme Court, August 1, 2025)", "url_or_reference": "https://www.pacourts.us/assets/opinions/Supreme/out/273MAL2023%20-%20106458338321401452.pdf?cb=1", "key_information_obtained": "Grant, vacate, remand in light of Hardy"},
+      {"type": "Court opinion", "title": "[S9] Commonwealth v. Rowe, J-S06036-23, 2026 PA Super 13 (opinion on remand)", "url_or_reference": "https://www.pacourts.us/assets/opinions/Superior/out/J-S06036-23o%20-%20106653505344317580.pdf?cb=1", "key_information_obtained": "Remand opinion exists; disposition not retrieved"},
+      {"type": "Police / Crime Stoppers page", "title": "[S39] Crime Stoppers 17-11 Cold Case Homicide Christy Ann Mirack (Lancaster County Crime Stoppers)", "url_or_reference": "https://lancaster.crimewatchpa.com/crimestoppers/14006/cases/crime-stoppers-17-11-cold-case-homicide-christy-ann-mirack", "key_information_obtained": "Full name; Hempfield SD; school notified; CODIS no match"}
+    ],
+    "secondary_sources": [
+      {"type": "Public radio (WITF)", "title": "[S10] Appeals court ordered to reconsider bid for DNA testing in Christy Mirack murder (August 19, 2025)", "url_or_reference": "https://www.witf.org/2025/08/19/appeals-court-ordered-to-reconsider-bid-for-dna-testing-in-christie-mirack-murder/", "key_information_obtained": "2025 remand"},
+      {"type": "Newspaper (LancasterOnline/LNP)", "title": "[S11] Appeals court ordered to reconsider 'DJ Freez' bid for DNA testing in Christy Mirack murder (August 2025)", "url_or_reference": "https://lancasteronline.com/news/local/appeals-court-ordered-to-reconsider-dj-freez-bid-for-dna-testing-in-christy-mirack-murder/article_c1d3d30c-ef0e-4f20-9d9c-925d78e2245a.html", "key_information_obtained": "Remand"},
+      {"type": "Newspaper (LancasterOnline)", "title": "[S12] 'DJ Freez' Rowe appeals to Pa. Supreme Court over bid for DNA testing in Mirack murder", "url_or_reference": "https://lancasteronline.com/news/local/dj-freez-rowe-appeals-to-pa-supreme-court-over-bid-for-dna-testing-in-mirack/article_3f1ed7bc-527a-4a93-bf53-b0a5b3077123.html", "key_information_obtained": "Further appeal (date reported by search as March 18, 2026; unverified)"},
+      {"type": "Newspaper archive (Lancaster New Era/Intelligencer Journal via LancasterOnline)", "title": "[S13] Young teacher found strangled: Victim, 25, discovered in E. Lampeter home; taught the 6th grade (December 1992)", "url_or_reference": "https://lancasteronline.com/news/young-teacher-found-strangled-victim-discovered-in-e-lampeter-home/article_2e0672fc-7ee4-11e8-8507-eb243f5c2f35.html", "key_information_obtained": "Address, time found, Goodman"},
+      {"type": "Newspaper (Philadelphia Inquirer)", "title": "[S14] Undercover cops grabbed a Pa. DJ's chewing gum. It helped crack a teacher's 1992 murder, police say (June 26, 2018)", "url_or_reference": "https://www.inquirer.com/philly/news/crime/undercover-cops-grabbed-djs-chewing-gum-helped-crack-teachers-1992-murder-police-lancaster-20180626.html", "key_information_obtained": "Door ajar, cutting board, coat and gloves, strangled with hands and clothing, match details"},
+      {"type": "TV network article (A&E)", "title": "[S15] How Genetic Genealogy Helped Solve Christy Mirack's Murder", "url_or_reference": "https://www.aetv.com/real-crime/christy-mirack-murder", "key_information_obtained": "Overview, coat and gloves"},
+      {"type": "Newspaper archive (LancasterOnline)", "title": "[S16] Murder Mystery: Christy Mirack [From the Archives]", "url_or_reference": "https://lancasteronline.com/murder-mystery-christy-mirack-from-the-archives/article_5bb9d34a-7a1d-11e8-91c1-4793bbce57ae.html", "key_information_obtained": "Millersville 1989, Goodman quote, family in Shamokin"},
+      {"type": "Newspaper archive (LancasterOnline)", "title": "[S17] Police: Slain teacher probably knew killer [archive]", "url_or_reference": "https://lancasteronline.com/news/police-slain-teacher-probably-knew-killer/article_e4aef20e-7ee4-11e8-9b2b-437bd0aeb65c.html", "key_information_obtained": "Time window 7–7:45 a.m.; neighbors saw a car and a man (attribution among archive pieces approximate)"},
+      {"type": "Newspaper archive (LancasterOnline)", "title": "[S18] Family offers $10,000 reward in Mirack murder; results of blood, hair sample tests clear suspect, police say [From the Archives] (April 1993)", "url_or_reference": "https://lancasteronline.com/family-offers-10-000-reward-in-mirack-murder-results-of-blood-hair-sample-tests-clear/article_bc36f86c-7a1b-11e8-bb84-03e480b2a975.html", "key_information_obtained": "1993 suspect cleared, 500 interviews, reward, Dr. Ross, FBI"},
+      {"type": "Newspaper (LancasterOnline)", "title": "[S19] Revisiting key moments in the unsolved murder of elementary school teacher Christy Mirack [timeline] (November 2017)", "url_or_reference": "https://lancasteronline.com/news/local/revisiting-key-moments-in-the-unsolved-murder-of-elementary-school/article_ee4de8ea-bf15-11e7-af6c-fb0c180e6a76.html", "key_information_obtained": "Timeline 1993–2017"},
+      {"type": "Newspaper (LancasterOnline)", "title": "[S20] How they got Rowe: Pitch from DNA firm was 'last shot' to crack Mirack killing (June 2018)", "url_or_reference": "https://lancasteronline.com/news/local/how-they-got-rowe-pitch-from-dna-firm-was-last-shot-to-crack-mirack-killing/article_60e9b516-798b-11e8-8476-eb19e2a7d215.html", "key_information_obtained": "May 1 call, Thom Shaw, last shot"},
+      {"type": "Newspaper (LancasterOnline)", "title": "[S21] 'We have a face now': Christy Mirack's brother hopes new DNA evidence will point to a suspect in 25-year-old murder (November 2017)", "url_or_reference": "https://lancasteronline.com/news/local/we-have-a-face-now-christy-mirack-s-brother-hopes/article_7c17c502-ca3c-11e7-a6ee-d325da4fd42f.html", "key_information_obtained": "Composites Oct 31, ages 25/45/55"},
+      {"type": "TV (CBS 60 Minutes Overtime)", "title": "[S22] DJ Freez pleads guilty: Using genetic genealogy to convict Raymond Charles Rowe (January 9, 2019)", "url_or_reference": "https://www.cbsnews.com/news/dj-freez-pleads-guilty-using-genetic-genealogy-to-convict-raymond-charles-rowe-60-minutes/", "key_information_obtained": "Moore's method"},
+      {"type": "TV recap (ABC 20/20 via Starcasm)", "title": "[S23] 20/20: How the 1992 cold case murder of Christy Mirack was solved with new DNA sleuthing technology", "url_or_reference": "https://starcasm.net/20-20-how-the-1992-cold-case-murder-of-christy-mirack-was-solved-with-dna/", "key_information_obtained": "Engagement announcement, Puerto Rican heritage interview (secondary recap)"},
+      {"type": "News (CNN)", "title": "[S24] Killer nabbed by chewed gum and a water bottle apologizes for murdering a teacher as he heads to prison for life (January 9, 2019)", "url_or_reference": "https://www.cnn.com/2019/01/09/us/mirack-cold-case-murderer-sentenced-to-prison", "key_information_obtained": "Sentencing scene, father's words, half-sister, Paula Zahn episode"},
+      {"type": "News (ABC News)", "title": "[S25] DJ admits to cold case murder after being linked through novel DNA technique, apologizes to victim's family in court (January 2019)", "url_or_reference": "https://abcnews.com/US/dj-admits-cold-case-murder-linked-dna-technique/story?id=60234009", "key_information_obtained": "Spotts, Hambright, Stedman quotes"},
+      {"type": "TV (FOX43)", "title": "[S26] Raymond Rowe pleads guilty in Christy Mirack murder case, receives life in prison without parole (January 8, 2019)", "url_or_reference": "https://fox43.com/2019/01/08/raymond-rowe-pleads-guilty-in-christy-mirack-murder-case-receives-life-in-prison-without-parole/", "key_information_obtained": "Plea"},
+      {"type": "News (NBC News)", "title": "[S27] DJ is convicted of 1992 murder after DNA from water bottle and chewing gum led to arrest (January 2019)", "url_or_reference": "https://www.nbcnews.com/news/us-news/dj-convicted-1992-murder-after-dna-water-bottle-chewing-gum-n956686", "key_information_obtained": "Age 50, seven counts, half-sister"},
+      {"type": "Public radio (WITF/AP)", "title": "[S28] Midstate DJ charged in teacher's '92 killing a regular at kid events (June 27, 2018) and Break in Lancaster Co. cold case first of its kind in Pa. (June 29, 2018)", "url_or_reference": "https://witf.org/2018/06/27/midstate_dj_charged_in_teachers_92_killing_a_regular_at_kid_events ; https://witf.org/2018/06/29/break_in_lancaster_co_cold_case_first_of_its_kind_in_pa", "key_information_obtained": "Kid events, first PA arrest via genealogy, Stedman and Moore quotes, no bail, July 9 hearing"},
+      {"type": "TV (Local21/CBS21)", "title": "[S29] Local DJ facing new charges of rape and burglary in relation to murder of Christy Mirack (July 2018)", "url_or_reference": "https://local21news.com/news/local/local-dj-facing-rape-charges-in-connection-to-christy-mirack-murder", "key_information_obtained": "Added charges"},
+      {"type": "Newspaper (LancasterOnline)", "title": "[S30] DA to seek death penalty for Raymond Rowe, who's accused of killing Christy Mirack (August 2018)", "url_or_reference": "https://lancasteronline.com/news/local/da-to-seek-death-penalty-for-raymond-rowe-whos-accused-of-killing-christy-mirack/article_9261cc60-9749-11e8-9f1e-e7f037c9b261.html", "key_information_obtained": "Death penalty notice"},
+      {"type": "Newspaper / TV (LancasterOnline; Oxygen)", "title": "[S31] Raymond 'DJ Freez' Rowe claims he met Christy Mirack DJing, had affair (September 2021); Raymond Rowe Now Says He's Innocent In 1992 Slaying Of Teacher (Oxygen)", "url_or_reference": "https://lancasteronline.com/news/local/raymond-dj-freez-rowe-claims-he-met-christy-mirack-djing-had-affair-testimony-in-his/article_d37c7878-1002-11ec-8643-1b39480e8d18.html ; https://www.oxygen.com/crime-news/raymond-rowe-now-says-hes-innocent-in-1992-slaying-of-teacher", "key_information_obtained": "2021 recantation testimony"},
+      {"type": "Newspaper (LancasterOnline)", "title": "[S32] Raymond 'DJ Freez' Rowe's former lawyers say he confessed to killing Christy Mirack: testimony (September 2021)", "url_or_reference": "https://lancasteronline.com/news/local/raymond-dj-freez-rowe-s-former-lawyers-say-he-confessed-to-killing-christy-mirack-testimony/article_50cd05f0-0c3d-11ec-a5c8-6741d66cd6ea.html", "key_information_obtained": "Confession to lawyers"},
+      {"type": "TV (FOX43)", "title": "[S33] Superior Court denies bid for further DNA evidence testing by man serving life for 1992 murder of Christy Mirack (2023)", "url_or_reference": "https://www.fox43.com/article/news/local/lancaster-county/raymond-rowe-christy-mirack-murder-case-court-upholds-denial-dna-testing/521-7b76efdc-26eb-45e5-8297-3caa9de97519", "key_information_obtained": "Sweater and cutting board; April 2022 denial"},
+      {"type": "Newspaper (LancasterOnline)", "title": "[S34] DNA website used to find killer Raymond Rowe tightens policy, restricting access for police searches (2019)", "url_or_reference": "https://lancasteronline.com/news/local/dna-website-used-to-find-killer-raymond-rowe-tightens-policy/article_f57456d0-870b-11e9-bbe4-6bf6cf38c0be.html", "key_information_obtained": "GEDmatch opt-in"},
+      {"type": "TV (WNEP)", "title": "[S35] Arrest Made in 1992 Murder of Shamokin Native Christy Mirack (June 2018)", "url_or_reference": "https://www.wnep.com/article/news/local/bradford-county/arrest-made-in-1992-murder-of-shamokin-native-christy-mirack/523-80d4f7fa-4610-442a-b85e-17d0c7c74eea", "key_information_obtained": "Shamokin native"},
+      {"type": "Newspaper (LancasterOnline)", "title": "[S36] Raymond 'DJ Freez' Rowe arrested for 1992 killing of schoolteacher Christy Mirack (June 2018)", "url_or_reference": "https://lancasteronline.com/news/local/raymond-dj-freez-rowe-arrested-for-1992-killing-of-schoolteacher-christy-mirack/article_f05a2ee4-78b2-11e8-ad10-4382ef42f96d.html", "key_information_obtained": "Smoketown party for students graduating to Conestoga Valley Middle School"},
+      {"type": "News (PhillyVoice)", "title": "[S37] Christy Mirack 1992 rape-murder: Raymond Rowe, DJ Freez (June 2018)", "url_or_reference": "https://www.phillyvoice.com/christy-mirack-1992-rape-murder-raymond-rowe-dj-freez/", "key_information_obtained": "Kirkland water bottle per affidavit (attribution approximate)"},
+      {"type": "Law review", "title": "[S38] Goldstein, 12 Drexel L. Rev. 597 (2020)", "url_or_reference": "https://drexel.edu/~/media/Files/law/law%20review/v12-3/Goldstein%2012%20Drexel%20L%20Rev%20597.ashx", "key_information_obtained": "Rowe did not know his half-sister"},
+      {"type": "Low-quality profile", "title": "[S42] Christy Mirack biography (aggregator; not used in script)", "url_or_reference": "https://wealthypeeps.com/christy-mirack-wikipedia-bio-age-height/", "key_information_obtained": "1985 Our Lady of Lourdes graduation; parents' full names (unverified)"},
+      {"type": "Newspaper archive (LancasterOnline)", "title": "[S43] A mother's dying wish: Justice for Christy Mirack [From the Archives] (2002)", "url_or_reference": "https://lancasteronline.com/news/a-mothers-dying-wish-justice-for-christy-mirack-from-the-archives/article_1d877dc2-96eb-5acb-be6a-f4b4763ce345.html", "key_information_obtained": "Mother's death Nov 4, 2002, age 59"},
+      {"type": "Blog", "title": "[S44] The Murder of Christy Mirack — Talk Murder With Me (September 21, 2018)", "url_or_reference": "https://www.talkmurderwithme.com/blog/2018/9/21/christy-mirack", "key_information_obtained": "Play lessons to siblings (single-sourced)"},
+      {"type": "Newspaper (LancasterOnline)", "title": "[S45] 25 years since Christy Mirack's murder, police and family remain hopeful that her killer will be found (December 2017)", "url_or_reference": "https://lancasteronline.com/news/local/25-years-since-christy-miracks-murder-police-and-family-remain-hopeful-that-her-killer-will/article_3318cbaa-e5a1-11e7-88e6-e7c0f8bd108e.html", "key_information_obtained": "25th anniversary"},
+      {"type": "TV (NBC Dateline)", "title": "[S46] Dateline: Secrets Uncovered — Facing the Music (2022)", "url_or_reference": "https://www.nbcnews.com/dateline/video/full-episode-facing-the-music-85052997742", "key_information_obtained": "Documentary coverage"},
+      {"type": "TV/News (ABC News; abc27)", "title": "[S47] How DNA, genetic genealogy led to a wedding DJ facing criminal homicide charges in 1992 cold case (ABC News, June 2018); DJ pleads guilty to murdering school teacher in 1992 (abc27)", "url_or_reference": "https://abcnews.com/US/dna-genetic-genealogy-led-wedding-dj-facing-criminal/story?id=58253768 ; https://www.abc27.com/local-news/lancaster/dj-pleads-guilty-to-murdering-school-teacher-in-1992/", "key_information_obtained": "Vince quote on teaching dream; trial originally anticipated 2019"},
+      {"type": "Newspaper (LancasterOnline)", "title": "[S48] 'She had the biggest smile': Former students remember Christy Mirack as a fun, passionate educator (June 2018)", "url_or_reference": "https://lancasteronline.com/news/local/she-had-the-biggest-smile-former-students-remember-christy-mirack-as-a-fun-passionate-educator/article_740a30a2-7a4f-11e8-8699-6fa8ebc77cac.html", "key_information_obtained": "Students' memories"},
+      {"type": "Newspaper (LancasterOnline)", "title": "[S49] 'We needed this': Principal, students and others find relief in knowing Christy Mirack's killer; some ask 'Why?' (January 2019)", "url_or_reference": "https://lancasteronline.com/news/local/we-needed-this-principal-students-and-others-find-relief-in-knowing-christy-miracks-killer-some/article_45f6d386-145b-11e9-a7bc-bf8f524f5f64.html", "key_information_obtained": "Community reaction"},
+      {"type": "Newspaper archive (LancasterOnline)", "title": "[S50] Friends married, had babies, but haven't forgotten Christy Mirack, whose murder in '92 is unsolved [From the Archives]", "url_or_reference": "https://lancasteronline.com/friends-married-had-babies-but-haven-t-forgotten-christy-mirack-whose-murder-in-92-is/article_c7d50f7a-7a1f-11e8-8ca2-ef1672ca416c.html", "key_information_obtained": "Friends' memory over the years"},
+      {"type": "Editorial (LNP)", "title": "[S51] We still struggle to understand the inexplicable, but Christy Mirack finally gets justice [opinion] (January 2019)", "url_or_reference": "https://lancasteronline.com/opinion/editorials/we-still-struggle-to-understand-the-inexplicable-but-christy-mirack/article_9ca39778-15f0-11e9-adfa-d791df395ef2.html", "key_information_obtained": "Community reflection"},
+      {"type": "Newspaper archive (LancasterOnline)", "title": "[S53] Slaying of teacher stuns Rohrerstown Elementary [archive, December 1992]", "url_or_reference": "https://lancasteronline.com/news/slaying-of-teacher-stuns-rohrerstown-elementary/article_7a17f396-7ee4-11e8-87e0-9f5d318e063a.html", "key_information_obtained": "School reaction (headline only)"},
+      {"type": "Reference (background, not retrieved this session)", "title": "[S52] Golden State Killer arrest via GEDmatch, April 2018 (general reference, e.g. Wikipedia 'Joseph James DeAngelo')", "url_or_reference": "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo", "key_information_obtained": "Landmark April 2018 genealogy arrest (background)"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "IOWA 1979 — Michelle Martinko (Cedar Rapids mall parking lot; Jerry Lynn Burns)",
+    "connection_to_current_video": "Another young woman killed in December, another case frozen for decades, another killer living quietly in the same community until genetic genealogy and a discarded straw named him.",
+    "teaser_line": "In December 1979, eighteen-year-old Michelle Martinko walked out of a shopping mall in Cedar Rapids, Iowa, and never made it home. Her killer would live a quiet life for almost forty years, until a drinking straw told the truth. That is our next case."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Premise check: there is NO evidence Rowe DJ'd at Christy's school (Rohrerstown Elementary). The DNA was collected at Smoketown Elementary (Conestoga Valley SD) on May 31, 2018. Do not say he DJ'd at her school.",
+      "Rowe's 2021 claim of an affair met at the Chameleon Club is his own testimony, rejected by the judge as unbelievable; present only as his claim.",
+      "Early reports said a roommate checked on her; contemporaneous coverage says principal Harry Goodman found her. Use Goodman. Roommate's name spelled inconsistently (Lasko/Lesko); not named.",
+      "One account says Rowe confronted her outside; the affidavit as reported describes the confrontation inside the home while she was dressed to leave. Script says only that she was attacked in her home.",
+      "CeCe Moore quote 'No arrests are made on our work alone.' single-sourced via search summary.",
+      "Details of Moore's engagement-announcement and online-magazine steps come from TV recaps (60 Minutes/20/20), secondary.",
+      "Christy's birthday November 3, 1967 is derived from the 2002 report on her mother's death; not stated directly.",
+      "Rowe's age in 1992 (23 or 24) derived from his ages in 2018 and 2019.",
+      "Kirkland brand of the water bottle reported from the affidavit via news (attribution approximate).",
+      "Golden State Killer background fact from general reference, not retrieved this session."
+    ],
+    "information_gaps": [
+      "Final disposition of 2026 PA Super 13 and any 2026 Pennsylvania Supreme Court action could not be retrieved (web fetch blocked; search budget exhausted).",
+      "Prison where Rowe is held not verified.",
+      "Whether Vincent Mirack (father) is still living not verified.",
+      "Exact year the DNA profile was first uploaded to CODIS not verified.",
+      "Exact wording of Vince Mirack's 2019 victim impact statement not verified."
+    ],
+    "questions_to_answer": [
+      "Did the 2026 Superior Court opinion affirm again? Did the Supreme Court take the 2026 petition?",
+      "Any 2023–2026 family statements?"
+    ]
+  }
+}
