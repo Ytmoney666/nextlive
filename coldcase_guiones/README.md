@@ -66,6 +66,27 @@ Cada carpeta contiene:
 
 Los títulos finales y los textos de las miniaturas están al principio de cada `investigacion.md`.
 
+### Estado final
+
+Los 10 guiones están completos: 10 partes de 1.200 palabras o más cada una, 2 llamadas a la acción, sin corchetes ni encabezados, y el JSON del brief es válido.
+
+| # | Título | Palabras | Duración (170 ppm) |
+|---|---|---|---|
+| 1 | IOWA 1979 Cold Case Solved After 39 Years — Justice for Michelle Martinko | 12.570 | ~74 min |
+| 2 | COLORADO 1982 Cold Case Solved After 39 Years — Justice for Annette and Bobbie Jo | 12.288 | ~72 min |
+| 3 | IDAHO 1996 Cold Case Solved After 23 Years — Justice for Angie Dodge | 12.383 | ~73 min |
+| 4 | HAWAII 1991 Cold Case Solved After 32 Years — Justice for Dana Ireland | 12.569 | ~74 min |
+| 5 | TEXAS 1974 Cold Case Solved After 46 Years — Justice for Carla Walker | 12.660 | ~74 min |
+| 6 | MINNESOTA 1993 Cold Case Solved After 25 Years — Justice for Jeanie Childs | 12.469 | ~73 min |
+| 7 | CALIFORNIA 1975 Cold Case Solved After 43 Years — Justice for the Golden State Killer's Victims | 12.854 | ~76 min |
+| 8 | CALIFORNIA 1996 Cold Case Solved After 26 Years — Justice for Kristin Smart | 12.457 | ~73 min |
+| 9 | PENNSYLVANIA 1957 Cold Case Identified After 65 Years — The Boy in the Box Finally Has a Name | 12.659 | ~74 min |
+| 10 | PENNSYLVANIA 1992 Cold Case Solved After 25 Years — Justice for Christy Mirack | 12.383 | ~73 min |
+
+**Aviso importante sobre las fuentes:** la red del entorno bloqueó la descarga de páginas y las búsquedas web tenían un cupo. Por eso los datos se verificaron con los extractos del buscador (de 37 a 69 fuentes por caso) y no con los artículos completos. Antes de publicar cada vídeo, revisa la sección «pendiente de verificar» de su `investigacion.md`.
+
+**Caso 4 (Dana Ireland):** Albert Lauro Jr. nunca fue acusado ni condenado; murió en 2024. Sería más preciso titularlo «HAWAII 1991 Cold Case — DNA Identified the Killer After 32 Years» que «Solved».
+
 ## 4. Método aplicado (tu guía)
 
 1. **Estilo JSON**: `_base/estilo_ccr_70min.json`. Junta tu `estilo_cold_case_reopened.json` con tu `estilo_cold_case_viral_mix.json` y lo ajusta a 70 minutos: 10 partes de 1.200 palabras o más, con un plan de qué va en cada parte.
