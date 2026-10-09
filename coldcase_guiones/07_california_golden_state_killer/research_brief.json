@@ -21,16 +21,86 @@
   "victims_or_targets": {
     "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
     "individuals": [
-      {"name": "Claude Snelling", "role_or_profession": "Journalism professor, College of the Sequoias, Visalia; age 45", "connection_to_protagonist": "Murdered Sept 11, 1975 (early hours) while confronting a masked gunman who was taking his daughter from the home", "specific_impact_suffered": "Shot twice; died on the way to the hospital [11][12]", "humanizing_detail": "Daughter described him as a man of faith who loved his family more than anything and lived life to the fullest [12]; he had earlier caught a prowler peering through her window and chased him [12]", "any_quotes_from_them": "None documented"},
-      {"name": "Elizabeth Hupp (née Snelling)", "role_or_profession": "Claude Snelling's daughter; teenager in 1975 (age reported as 16 or 17 — disputed) [11][12]", "connection_to_protagonist": "Survivor of the attempted abduction; DeAngelo admitted the attempted kidnapping in 2020 [12]", "specific_impact_suffered": "Kicked in the head and face; years of guilt; fear as the only living witness [12]", "humanizing_detail": "Realised only after becoming a parent that nothing could have stopped her father from trying to save her [12]", "any_quotes_from_them": "'It wasn't until I became a parent myself that I realized there was nothing I could have said that would have kept my dad from trying to save me.' / 'He would have been a wonderful grandpa.' [12]"},
-      {"name": "Brian Maggiore", "role_or_profession": "U.S. Air Force sergeant, age 21; one account: administrative specialist at Mather Air Force Base [13][14][15]", "connection_to_protagonist": "Murdered Feb 2, 1978 in Rancho Cordova while walking the dog with his wife; these two murders were the counts on which DeAngelo was first arrested in 2018 [13][53]", "specific_impact_suffered": "Chased and shot [13][14]", "humanizing_detail": "Married about 18 months (per Katie's aunt) [16][18]", "any_quotes_from_them": "None documented"},
-      {"name": "Katie Maggiore", "role_or_profession": "Age 20 (CBS gives reverse ages; one source 20 and 22) [14][15][16]", "connection_to_protagonist": "Murdered with her husband Feb 2, 1978 [13]", "specific_impact_suffered": "Shot; police believe the couple were shot in a neighbour's backyard while fleeing (Sacramento Bee via Oxygen) [14]", "humanizing_detail": "Her brother Ken Smith said 'Katie and Brian were special, and we all loved them so much.' [16][17]", "any_quotes_from_them": "None documented"},
-      {"name": "Dr. Robert Offerman and Debra Alexandria Manning", "role_or_profession": "Orthopedic surgeon and psychologist [29][30]", "connection_to_protagonist": "Murdered Dec 30, 1979 in a condominium near Goleta, Santa Barbara County [29][30][68]", "specific_impact_suffered": "Shot to death [29][30]", "humanizing_detail": "Ages not confirmed in-session (not used)", "any_quotes_from_them": "None"},
-      {"name": "Lyman Smith and Charlene Smith", "role_or_profession": "Lyman, 43, former deputy district attorney; Charlene, 33 [19][21]", "connection_to_protagonist": "Murdered in their Ventura home on March 13, 1980 (some sources give March 16, likely the discovery date — disputed) [19][21]", "specific_impact_suffered": "Bludgeoned to death; bodies found by a 12-year-old boy, Jennifer Carole's younger brother [19][21][22]. The tissue DNA collected April 23, 2018 matched semen from Charlene Smith's case [48].", "humanizing_detail": "Lyman's daughter Jennifer Carole was 18 at the time and wrote that it was as if 'a bomb went off in our young lives' [19]", "any_quotes_from_them": "None"},
-      {"name": "Keith Harrington and Patrice (Patty) Harrington", "role_or_profession": "Keith, 24, fourth-year medical student; Patrice, nurse, age reported as 27 or 28 (disputed) [23][24][25]", "connection_to_protagonist": "Murdered Aug 19, 1980 at home in Niguel Shores, a gated community then in unincorporated Orange County, now Dana Point [25]", "specific_impact_suffered": "Bludgeoned to death; married only three months [25]", "humanizing_detail": "Keith's brother Bruce Harrington spent years and his own money backing California's DNA database law, Proposition 69 [23][24]", "any_quotes_from_them": "None"},
-      {"name": "Manuela Witthuhn", "role_or_profession": "Age 28; bank teller per City of Irvine (Oxygen says loan officer) [26][14]", "connection_to_protagonist": "Murdered at home in Irvine between 11 p.m. Feb 5 and 2 a.m. Feb 6, 1981 [26][27]", "specific_impact_suffered": "Died of skull fractures from a beating; found by her parents [27][14]", "humanizing_detail": "Her husband David was in hospital with a stomach virus; after visiting him she went home, and he phoned to make sure she had arrived safely — the last time he spoke to her [27][28]", "any_quotes_from_them": "None"},
-      {"name": "Cheri Domingo and Gregory Sanchez", "role_or_profession": "Cheri, 35; Greg, 27 [29][30]", "connection_to_protagonist": "Murdered July 27, 1981 in a house near Goleta where Cheri was house-sitting (one CBS report: July 26) [29][30]", "specific_impact_suffered": "Both beaten; Sanchez had also been shot [29][30]", "humanizing_detail": "Cheri's daughter Debbi Domingo McMullan was 15 at the time [MINOR then] [29]", "any_quotes_from_them": "None"},
-      {"name": "Janelle Lisa Cruz", "role_or_profession": "Age 18; Irvine [31][35]", "connection_to_protagonist": "Last known murder victim; killed in her Irvine home in early May 1986 (May 4 or 5 — disputed) while her family was on vacation in Mexico [35][22]", "specific_impact_suffered": "Raped and murdered (legal fact only) [31][32]", "humanizing_detail": "Her sister Michelle, one year younger, spent years raising awareness of the case [31][35]", "any_quotes_from_them": "None"}
+      {
+        "name": "Claude Snelling",
+        "role_or_profession": "Journalism professor, College of the Sequoias, Visalia; age 45",
+        "connection_to_protagonist": "Murdered Sept 11, 1975 (early hours) while confronting a masked gunman who was taking his daughter from the home",
+        "specific_impact_suffered": "Shot twice; died on the way to the hospital [11][12]",
+        "humanizing_detail": "Daughter described him as a man of faith who loved his family more than anything and lived life to the fullest [12]; he had earlier caught a prowler peering through her window and chased him [12]",
+        "any_quotes_from_them": "None documented"
+      },
+      {
+        "name": "Elizabeth Hupp (née Snelling)",
+        "role_or_profession": "Claude Snelling's daughter; teenager in 1975 (age reported as 16 or 17 — disputed) [11][12]",
+        "connection_to_protagonist": "Survivor of the attempted abduction; DeAngelo admitted the attempted kidnapping in 2020 [12]",
+        "specific_impact_suffered": "Kicked in the head and face; years of guilt; fear as the only living witness [12]",
+        "humanizing_detail": "Realised only after becoming a parent that nothing could have stopped her father from trying to save her [12]",
+        "any_quotes_from_them": "'It wasn't until I became a parent myself that I realized there was nothing I could have said that would have kept my dad from trying to save me.' / 'He would have been a wonderful grandpa.' [12]"
+      },
+      {
+        "name": "Brian Maggiore",
+        "role_or_profession": "U.S. Air Force sergeant, age 21; one account: administrative specialist at Mather Air Force Base [13][14][15]",
+        "connection_to_protagonist": "Murdered Feb 2, 1978 in Rancho Cordova while walking the dog with his wife; these two murders were the counts on which DeAngelo was first arrested in 2018 [13][53]",
+        "specific_impact_suffered": "Chased and shot [13][14]",
+        "humanizing_detail": "Married about 18 months (per Katie's aunt) [16][18]",
+        "any_quotes_from_them": "None documented"
+      },
+      {
+        "name": "Katie Maggiore",
+        "role_or_profession": "Age 20 (CBS gives reverse ages; one source 20 and 22) [14][15][16]",
+        "connection_to_protagonist": "Murdered with her husband Feb 2, 1978 [13]",
+        "specific_impact_suffered": "Shot; police believe the couple were shot in a neighbour's backyard while fleeing (Sacramento Bee via Oxygen) [14]",
+        "humanizing_detail": "Her brother Ken Smith said 'Katie and Brian were special, and we all loved them so much.' [16][17]",
+        "any_quotes_from_them": "None documented"
+      },
+      {
+        "name": "Dr. Robert Offerman and Debra Alexandria Manning",
+        "role_or_profession": "Orthopedic surgeon and psychologist [29][30]",
+        "connection_to_protagonist": "Murdered Dec 30, 1979 in a condominium near Goleta, Santa Barbara County [29][30][68]",
+        "specific_impact_suffered": "Shot to death [29][30]",
+        "humanizing_detail": "Ages not confirmed in-session (not used)",
+        "any_quotes_from_them": "None"
+      },
+      {
+        "name": "Lyman Smith and Charlene Smith",
+        "role_or_profession": "Lyman, 43, former deputy district attorney; Charlene, 33 [19][21]",
+        "connection_to_protagonist": "Murdered in their Ventura home on March 13, 1980 (some sources give March 16, likely the discovery date — disputed) [19][21]",
+        "specific_impact_suffered": "Bludgeoned to death; bodies found by a 12-year-old boy, Jennifer Carole's younger brother [19][21][22]. The tissue DNA collected April 23, 2018 matched semen from Charlene Smith's case [48].",
+        "humanizing_detail": "Lyman's daughter Jennifer Carole was 18 at the time and wrote that it was as if 'a bomb went off in our young lives' [19]",
+        "any_quotes_from_them": "None"
+      },
+      {
+        "name": "Keith Harrington and Patrice (Patty) Harrington",
+        "role_or_profession": "Keith, 24, fourth-year medical student; Patrice, nurse, age reported as 27 or 28 (disputed) [23][24][25]",
+        "connection_to_protagonist": "Murdered Aug 19, 1980 at home in Niguel Shores, a gated community then in unincorporated Orange County, now Dana Point [25]",
+        "specific_impact_suffered": "Bludgeoned to death; married only three months [25]",
+        "humanizing_detail": "Keith's brother Bruce Harrington spent years and his own money backing California's DNA database law, Proposition 69 [23][24]",
+        "any_quotes_from_them": "None"
+      },
+      {
+        "name": "Manuela Witthuhn",
+        "role_or_profession": "Age 28; bank teller per City of Irvine (Oxygen says loan officer) [26][14]",
+        "connection_to_protagonist": "Murdered at home in Irvine between 11 p.m. Feb 5 and 2 a.m. Feb 6, 1981 [26][27]",
+        "specific_impact_suffered": "Died of skull fractures from a beating; found by her parents [27][14]",
+        "humanizing_detail": "Her husband David was in hospital with a stomach virus; after visiting him she went home, and he phoned to make sure she had arrived safely — the last time he spoke to her [27][28]",
+        "any_quotes_from_them": "None"
+      },
+      {
+        "name": "Cheri Domingo and Gregory Sanchez",
+        "role_or_profession": "Cheri, 35; Greg, 27 [29][30]",
+        "connection_to_protagonist": "Murdered July 27, 1981 in a house near Goleta where Cheri was house-sitting (one CBS report: July 26) [29][30]",
+        "specific_impact_suffered": "Both beaten; Sanchez had also been shot [29][30]",
+        "humanizing_detail": "Cheri's daughter Debbi Domingo McMullan was 15 at the time [MINOR then] [29]",
+        "any_quotes_from_them": "None"
+      },
+      {
+        "name": "Janelle Lisa Cruz",
+        "role_or_profession": "Age 18; Irvine [31][35]",
+        "connection_to_protagonist": "Last known murder victim; killed in her Irvine home in early May 1986 (May 4 or 5 — disputed) while her family was on vacation in Mexico [35][22]",
+        "specific_impact_suffered": "Raped and murdered (legal fact only) [31][32]",
+        "humanizing_detail": "Her sister Michelle, one year younger, spent years raising awareness of the case [31][35]",
+        "any_quotes_from_them": "None"
+      }
     ],
     "collective_victims_if_applicable": {
       "group_description": "Survivors of home-invasion rapes and burglaries in the Sacramento area, the San Joaquin Valley, the Bay Area and Southern California, plus the families of 13 murder victims",
@@ -41,62 +111,352 @@
   "supporting_characters": {
     "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
     "characters": [
-      {"name": "Michelle McNamara", "role_in_story": "True-crime writer; coined 'Golden State Killer' in 'In the Footsteps of a Killer', Los Angeles Magazine, March 2013 [36][37]", "key_actions_they_took": "Spent years researching; signed a book contract after the article; died in her sleep April 21, 2016, age 46 (drugs plus undiagnosed heart condition) [37]; book 'I'll Be Gone in the Dark' completed by Billy Jensen and Paul Haynes from her notes and 3,500+ computer files, published Feb 27, 2018, reached No. 1 on the NYT nonfiction list, two months before the arrest [38]", "notable_quotes": "None used (her book's text not quoted)"},
-      {"name": "Patton Oswalt", "role_in_story": "Comedian, McNamara's widower", "key_actions_they_took": "Enlisted Jensen and Haynes to finish the book [38]; reacted publicly to arrest, plea and sentencing [39][40][41]", "notable_quotes": "'You did it, Michelle.' (2018) [39]; 'She kept coming at him.' [39]; 'The most important people at the #GoldenStateKiller hearing today are the survivors.' (June 2020) [41]; 'The insect gets none of my headspace today.' (Aug 2020) [40]"},
-      {"name": "Paul Holes", "role_in_story": "Forensic investigator who worked the case for decades [42][43]", "key_actions_they_took": "Brought genealogist Barbara Rae-Venter into the case (reported as March 2017 — timing single-sourced) [43]; the day before he retired, drove alone to DeAngelo's house and debated knocking on the door to ask for a DNA sample, but stayed in the car [50][51]; memoir 'Unmasked: My Life Solving America's Cold Cases' (2022) [50]", "notable_quotes": "'Fortunately I didn't go up to the door.' [50]"},
-      {"name": "Barbara Rae-Venter", "role_in_story": "Genetic genealogist; book 'I Know Who You Are: How an Amateur DNA Sleuth Unmasked the Golden State Killer and Changed Crime Fighting Forever' (2023) [44]", "key_actions_they_took": "Drafted a suspect profile from old newspaper articles suggesting law enforcement or military experience; worked from more than 1,000 'genetic cousins' returned by GEDmatch; built family trees with traditional genealogy [42][43]", "notable_quotes": "None verbatim used"},
-      {"name": "Anne Marie Schubert", "role_in_story": "Sacramento County District Attorney in 2018 [52][53]", "key_actions_they_took": "Announced the arrest April 25, 2018 (National DNA Day) [52]", "notable_quotes": "'We knew we were looking for a needle in a haystack, but we also knew that needle was there.' / 'We found the needle in the haystack, and it was right here in Sacramento.' [52][53]"},
-      {"name": "Thien Ho", "role_in_story": "Sacramento County prosecutor", "key_actions_they_took": "Presented facts at the June 29, 2020 plea hearing including DeAngelo's interrogation-room monologue [9][10]; read Loretta Maggiore's statement [18]", "notable_quotes": "Said DeAngelo had 'feigned feeble incoherence' [10]"},
-      {"name": "Judge Michael Bowman", "role_in_story": "Sacramento County Superior Court judge [4]", "key_actions_they_took": "Accepted plea; sentenced DeAngelo Aug 21, 2020 [4][5]", "notable_quotes": "'The defendant deserves no mercy.' [5]; without the persistence of survivors, families, citizen detectives and law enforcement, DeAngelo 'may have escaped earthly justice altogether.' [4]"},
-      {"name": "Tim Ward", "role_in_story": "Tulare County District Attorney", "key_actions_they_took": "Charged the Snelling murder in August 2018, calling Snelling believed to be the first murder victim [11]", "notable_quotes": "None verbatim"},
-      {"name": "Bruce Harrington", "role_in_story": "Brother of Keith Harrington", "key_actions_they_took": "Researched, funded and shaped Proposition 69 (2004), requiring DNA samples from all felony arrestees; passed with more than 62% [23][24]", "notable_quotes": "Arrest would 'bring closure to the anguish that we all suffered for the last 40-odd years.' [23]"},
-      {"name": "Ken Smith", "role_in_story": "Katie Maggiore's brother", "key_actions_they_took": "Victim impact statement Aug 20, 2020 [16][17]", "notable_quotes": "'You are not worth any more of my family's time.' / 'You can't hurt anybody again.' / 'Closure means there is an end, but nothing changes. You can't bring Katie and Brian back.' [16][17]"},
-      {"name": "Karen Smith", "role_in_story": "Katie Maggiore's aunt", "key_actions_they_took": "Victim impact statement Aug 20, 2020 [16][18]", "notable_quotes": "'They loved life and everybody loved them in the 18 months they were married.' / 'The only thing I'm happy for is that I got to live long enough to see this happen.' [16]"},
-      {"name": "Loretta Maggiore", "role_in_story": "Brian Maggiore's mother", "key_actions_they_took": "One-sentence statement read in court by prosecutor Thien Ho: she had nothing good to say about DeAngelo, so she would say nothing at all to him (paraphrase as reported) [16][18]", "notable_quotes": "Paraphrase only"},
-      {"name": "Jennifer Carole", "role_in_story": "Daughter of Lyman Smith; writer and advocate", "key_actions_they_took": "Spoke publicly and gave a victim impact statement; criticised the plea outcome [19][20][21]", "notable_quotes": "'From the outside, he looks particularly ordinary and yet we know on the inside there's a monster there.' [21][22]; criticised his 'friction-free' existence since arrest [20]"},
-      {"name": "Michelle Cruz", "role_in_story": "Janelle Cruz's sister, one year younger [31][35]", "key_actions_they_took": "Raised awareness for years; victim impact statement Aug 20, 2020 [28][32]", "notable_quotes": "Murder 'completely changed my world, my life, my identity' [31]; 'I can finally breathe again' (headline quote, 2018) [31]; 'cried and cried for hours' after the arrest [28]; 'Now my time will no longer [be] concentrated on who killed my sister but rather on finding happiness and enjoyment, which I had lost because of Joseph DeAngelo 34 years ago' [32]; 'Why did he stop after Jeanelle?' (CBS Sacramento, date unclear) [33]"},
-      {"name": "Diane Stein", "role_in_story": "Janelle Cruz's mother (Jacksonville area)", "key_actions_they_took": "Spoke to First Coast News after the sentence [34]", "notable_quotes": "'She can rest in peace now' (headline quote) [34]"},
-      {"name": "Debbi Domingo McMullan", "role_in_story": "Cheri Domingo's daughter, 15 in 1981 [MINOR then] [29]", "key_actions_they_took": "Family member of victims (statement content not verified in-session)", "notable_quotes": "None verified"}
+      {
+        "name": "Michelle McNamara",
+        "role_in_story": "True-crime writer; coined 'Golden State Killer' in 'In the Footsteps of a Killer', Los Angeles Magazine, March 2013 [36][37]",
+        "key_actions_they_took": "Spent years researching; signed a book contract after the article; died in her sleep April 21, 2016, age 46 (drugs plus undiagnosed heart condition) [37]; book 'I'll Be Gone in the Dark' completed by Billy Jensen and Paul Haynes from her notes and 3,500+ computer files, published Feb 27, 2018, reached No. 1 on the NYT nonfiction list, two months before the arrest [38]",
+        "notable_quotes": "None used (her book's text not quoted)"
+      },
+      {
+        "name": "Patton Oswalt",
+        "role_in_story": "Comedian, McNamara's widower",
+        "key_actions_they_took": "Enlisted Jensen and Haynes to finish the book [38]; reacted publicly to arrest, plea and sentencing [39][40][41]",
+        "notable_quotes": "'You did it, Michelle.' (2018) [39]; 'She kept coming at him.' [39]; 'The most important people at the #GoldenStateKiller hearing today are the survivors.' (June 2020) [41]; 'The insect gets none of my headspace today.' (Aug 2020) [40]"
+      },
+      {
+        "name": "Paul Holes",
+        "role_in_story": "Forensic investigator who worked the case for decades [42][43]",
+        "key_actions_they_took": "Brought genealogist Barbara Rae-Venter into the case (reported as March 2017 — timing single-sourced) [43]; the day before he retired, drove alone to DeAngelo's house and debated knocking on the door to ask for a DNA sample, but stayed in the car [50][51]; memoir 'Unmasked: My Life Solving America's Cold Cases' (2022) [50]",
+        "notable_quotes": "'Fortunately I didn't go up to the door.' [50]"
+      },
+      {
+        "name": "Barbara Rae-Venter",
+        "role_in_story": "Genetic genealogist; book 'I Know Who You Are: How an Amateur DNA Sleuth Unmasked the Golden State Killer and Changed Crime Fighting Forever' (2023) [44]",
+        "key_actions_they_took": "Drafted a suspect profile from old newspaper articles suggesting law enforcement or military experience; worked from more than 1,000 'genetic cousins' returned by GEDmatch; built family trees with traditional genealogy [42][43]",
+        "notable_quotes": "None verbatim used"
+      },
+      {
+        "name": "Anne Marie Schubert",
+        "role_in_story": "Sacramento County District Attorney in 2018 [52][53]",
+        "key_actions_they_took": "Announced the arrest April 25, 2018 (National DNA Day) [52]",
+        "notable_quotes": "'We knew we were looking for a needle in a haystack, but we also knew that needle was there.' / 'We found the needle in the haystack, and it was right here in Sacramento.' [52][53]"
+      },
+      {
+        "name": "Thien Ho",
+        "role_in_story": "Sacramento County prosecutor",
+        "key_actions_they_took": "Presented facts at the June 29, 2020 plea hearing including DeAngelo's interrogation-room monologue [9][10]; read Loretta Maggiore's statement [18]",
+        "notable_quotes": "Said DeAngelo had 'feigned feeble incoherence' [10]"
+      },
+      {
+        "name": "Judge Michael Bowman",
+        "role_in_story": "Sacramento County Superior Court judge [4]",
+        "key_actions_they_took": "Accepted plea; sentenced DeAngelo Aug 21, 2020 [4][5]",
+        "notable_quotes": "'The defendant deserves no mercy.' [5]; without the persistence of survivors, families, citizen detectives and law enforcement, DeAngelo 'may have escaped earthly justice altogether.' [4]"
+      },
+      {
+        "name": "Tim Ward",
+        "role_in_story": "Tulare County District Attorney",
+        "key_actions_they_took": "Charged the Snelling murder in August 2018, calling Snelling believed to be the first murder victim [11]",
+        "notable_quotes": "None verbatim"
+      },
+      {
+        "name": "Bruce Harrington",
+        "role_in_story": "Brother of Keith Harrington",
+        "key_actions_they_took": "Researched, funded and shaped Proposition 69 (2004), requiring DNA samples from all felony arrestees; passed with more than 62% [23][24]",
+        "notable_quotes": "Arrest would 'bring closure to the anguish that we all suffered for the last 40-odd years.' [23]"
+      },
+      {
+        "name": "Ken Smith",
+        "role_in_story": "Katie Maggiore's brother",
+        "key_actions_they_took": "Victim impact statement Aug 20, 2020 [16][17]",
+        "notable_quotes": "'You are not worth any more of my family's time.' / 'You can't hurt anybody again.' / 'Closure means there is an end, but nothing changes. You can't bring Katie and Brian back.' [16][17]"
+      },
+      {
+        "name": "Karen Smith",
+        "role_in_story": "Katie Maggiore's aunt",
+        "key_actions_they_took": "Victim impact statement Aug 20, 2020 [16][18]",
+        "notable_quotes": "'They loved life and everybody loved them in the 18 months they were married.' / 'The only thing I'm happy for is that I got to live long enough to see this happen.' [16]"
+      },
+      {
+        "name": "Loretta Maggiore",
+        "role_in_story": "Brian Maggiore's mother",
+        "key_actions_they_took": "One-sentence statement read in court by prosecutor Thien Ho: she had nothing good to say about DeAngelo, so she would say nothing at all to him (paraphrase as reported) [16][18]",
+        "notable_quotes": "Paraphrase only"
+      },
+      {
+        "name": "Jennifer Carole",
+        "role_in_story": "Daughter of Lyman Smith; writer and advocate",
+        "key_actions_they_took": "Spoke publicly and gave a victim impact statement; criticised the plea outcome [19][20][21]",
+        "notable_quotes": "'From the outside, he looks particularly ordinary and yet we know on the inside there's a monster there.' [21][22]; criticised his 'friction-free' existence since arrest [20]"
+      },
+      {
+        "name": "Michelle Cruz",
+        "role_in_story": "Janelle Cruz's sister, one year younger [31][35]",
+        "key_actions_they_took": "Raised awareness for years; victim impact statement Aug 20, 2020 [28][32]",
+        "notable_quotes": "Murder 'completely changed my world, my life, my identity' [31]; 'I can finally breathe again' (headline quote, 2018) [31]; 'cried and cried for hours' after the arrest [28]; 'Now my time will no longer [be] concentrated on who killed my sister but rather on finding happiness and enjoyment, which I had lost because of Joseph DeAngelo 34 years ago' [32]; 'Why did he stop after Jeanelle?' (CBS Sacramento, date unclear) [33]"
+      },
+      {
+        "name": "Diane Stein",
+        "role_in_story": "Janelle Cruz's mother (Jacksonville area)",
+        "key_actions_they_took": "Spoke to First Coast News after the sentence [34]",
+        "notable_quotes": "'She can rest in peace now' (headline quote) [34]"
+      },
+      {
+        "name": "Debbi Domingo McMullan",
+        "role_in_story": "Cheri Domingo's daughter, 15 in 1981 [MINOR then] [29]",
+        "key_actions_they_took": "Family member of victims (statement content not verified in-session)",
+        "notable_quotes": "None verified"
+      }
     ]
   },
   "chronological_timeline": {
     "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
     "events": [
-      {"date": "1945-11-08", "location": "Bath, New York", "what_happened": "Joseph James DeAngelo born", "significance": "Then-and-now ages", "source": "[56] Biography.com; [57] Valley Voice"},
-      {"date": "1973-08-22", "location": "Exeter, CA", "what_happened": "Exeter Sun reports DeAngelo as a new Exeter police officer, Vietnam veteran from Bath, NY", "significance": "He wore a badge 12 miles from Visalia", "source": "[57] Valley Voice; [11] NBC"},
-      {"date": "1974–1975 (mid-1970s)", "location": "Visalia, CA", "what_happened": "Series of burglaries attributed to the 'Visalia Ransacker'; crimes span 1974–1986 overall", "significance": "Beginning of the series", "source": "[64] Wikipedia via search; [65] CBS LA"},
-      {"date": "1975-09-11 (about 2 a.m.; Hupp dates going to bed Sept 10)", "location": "Visalia, CA", "what_happened": "Masked intruder tries to take Elizabeth from her home; her father Claude Snelling, 45, confronts him and is shot twice; dies on the way to hospital; intruder kicks Elizabeth and flees", "significance": "First murder", "source": "[11] NBC; [12] ABC30"},
-      {"date": "1976–1979", "location": "Auburn, CA", "what_happened": "DeAngelo serves as an Auburn police officer", "significance": "Overlaps the East Area Rapist series", "source": "[53] CNN; [59] DPIC/[64]"},
-      {"date": "Mid/late 1970s", "location": "Eastern suburbs of Sacramento, later Bay Area", "what_happened": "Home-invasion rapes attributed to the 'East Area Rapist'", "significance": "Dozens of survivors", "source": "[36] Oxygen; [64]; [1]"},
-      {"date": "1978-02-02 (evening)", "location": "Rancho Cordova, Sacramento County", "what_happened": "Brian (21) and Katie (20) Maggiore, walking their dog, are chased and shot", "significance": "Counts on which DeAngelo was arrested in 2018; tied to the EAR in 2016", "source": "[13] FBI; [14] Oxygen; [15] CBS Sacramento; [53] CNN"},
-      {"date": "1979-08", "location": "Auburn, CA", "what_happened": "DeAngelo fired after being caught shoplifting a hammer and dog repellent; convicted, fined $100; per prosecutor, faked a heart attack when caught", "significance": "A missed signal", "source": "[53] CNN; [58] CBS; [10] SFGate"},
-      {"date": "1979-12-30", "location": "Near Goleta, Santa Barbara County", "what_happened": "Dr. Robert Offerman and Debra Manning shot to death in a condominium", "significance": "Start of the 'Original Night Stalker' murders", "source": "[29] Noozhawk; [30] NBC"},
-      {"date": "1980-03-13", "location": "Ventura, CA", "what_happened": "Lyman (43) and Charlene (33) Smith bludgeoned to death in their home; found by Lyman's 12-year-old son", "significance": "Crime scene whose DNA later anchored the genealogy and the match", "source": "[19] Carole; [21] Oxygen; [22] ABC; [48] ABC"},
-      {"date": "1980-08-19", "location": "Niguel Shores, then unincorporated Orange County (now Dana Point)", "what_happened": "Keith (24) and Patrice Harrington, married three months, bludgeoned to death", "significance": "Inspired Bruce Harrington's DNA crusade", "source": "[25] Dana Point Times; [23] CBS SF"},
-      {"date": "1981-02-05/06", "location": "Irvine, CA", "what_happened": "Manuela Witthuhn, 28, killed at home while husband David was hospitalised; found by her parents", "significance": "Orange County series", "source": "[26] City of Irvine; [27] Spectrum; [14] Oxygen"},
-      {"date": "1981-07-27", "location": "Near Goleta, Santa Barbara County", "what_happened": "Cheri Domingo (35) and Gregory Sanchez (27) killed in a house Cheri was house-sitting", "significance": "DNA from this scene later tied to other ONS crimes", "source": "[29] Noozhawk; [30] NBC"},
-      {"date": "1986-05-04/05", "location": "Irvine, CA", "what_happened": "Janelle Cruz, 18, raped and murdered at home while family was in Mexico", "significance": "Last known murder; then silence", "source": "[35] Heavy; [31] GMA; [22] ABC"},
-      {"date": "Turn of the 2000s (exact year not confirmed in-session)", "location": "California crime labs", "what_happened": "DNA links the East Area Rapist crimes to the Original Night Stalker murders", "significance": "One offender, many names", "source": "[37] Wikipedia via search"},
-      {"date": "2004 (November election)", "location": "California", "what_happened": "Proposition 69, backed by Bruce Harrington, passes with over 62%: DNA from all felony arrestees", "significance": "Expanded the state DNA database", "source": "[23] CBS SF; [24] CBS Sacramento"},
-      {"date": "2013-03", "location": "Los Angeles Magazine", "what_happened": "Michelle McNamara publishes 'In the Footsteps of a Killer', coining 'Golden State Killer'", "significance": "Revived public attention", "source": "[36] Oxygen; [37] Wikipedia"},
-      {"date": "2016-04-21", "location": "Los Angeles", "what_happened": "McNamara dies in her sleep, age 46", "significance": "Book unfinished", "source": "[37]"},
-      {"date": "2016", "location": "Sacramento", "what_happened": "Investigators formally tie the Maggiore murders to the East Area Rapist; FBI and partners publicise a $50,000 reward (reward year from CBS LA headline context; exact date not confirmed in-session)", "significance": "40th-anniversary push", "source": "[14] Oxygen; [63] CBS LA"},
-      {"date": "2017 (reported March 2017)", "location": "California", "what_happened": "Paul Holes contacts genealogist Barbara Rae-Venter (timing single-sourced)", "significance": "Genealogy enters the case", "source": "[43] Wikipedia via search; [42] KTVU"},
-      {"date": "2018-02-27", "location": "USA", "what_happened": "'I'll Be Gone in the Dark' published", "significance": "Two months before the arrest", "source": "[38]"},
-      {"date": "Early 2018", "location": "GEDmatch (public genealogy database)", "what_happened": "Crime-scene DNA profile uploaded; >1,000 genetic cousins; trees narrow to a handful of men; eye-color prediction used; DeAngelo emerges", "significance": "Breakthrough", "source": "[45] NPR; [42] KTVU; [46] ResearchGate"},
-      {"date": "2018 (day before Holes retired)", "location": "Citrus Heights", "what_happened": "Holes sits alone in his car outside DeAngelo's house, decides not to knock", "significance": "Human tension", "source": "[50] NPR; [51] Colorado Sun"},
-      {"date": "2018-04-18", "location": "Hobby Lobby parking lot, Roseville, CA", "what_happened": "Investigators swab DeAngelo's car door handle while he shops; sample matched crime-scene DNA per warrant", "significance": "First confirmation", "source": "[47] CNN; [49] SF Chronicle"},
-      {"date": "2018-04-23", "location": "Citrus Heights", "what_happened": "Tissue from his trash can matched DNA from the 1980 Charlene Smith case; called conclusive in the warrant", "significance": "Conclusive match", "source": "[48] ABC News"},
-      {"date": "2018-04-24", "location": "Citrus Heights", "what_happened": "DeAngelo, 72, arrested at his home on two counts of murder (Maggiores)", "significance": "Arrest", "source": "[53] CNN; [55] NPR; [52] TheWrap"},
-      {"date": "2018-04-25", "location": "Sacramento", "what_happened": "Schubert announces arrest on National DNA Day: 'We found the needle in the haystack…'", "significance": "Public reveal", "source": "[52] TheWrap; [53] CNN"},
-      {"date": "2018-06 (warrants unsealed ~June 1–2)", "location": "Sacramento", "what_happened": "Search warrants unsealed revealing Hobby Lobby and trash DNA; charged with 12 murders in four counties", "significance": "How it was done", "source": "[47] CNN; [30] NBC"},
-      {"date": "2018-08", "location": "Tulare County", "what_happened": "DA Tim Ward charges Snelling murder — 13th count", "significance": "Visalia Ransacker confirmed", "source": "[11] NBC"},
-      {"date": "2020-06-29", "location": "University ballroom, Sacramento State", "what_happened": "DeAngelo, 74, pleads guilty to 13 first-degree murders and 13 kidnappings for robbery; admits uncharged crimes; 87 victims, 53 crime scenes", "significance": "Death penalty off the table", "source": "[7] State Hornet; [8] Fox; [1] Contra Costa DA; [3] A&E"},
-      {"date": "2020-08-18 to 2020-08-20", "location": "Sacramento State", "what_happened": "Three days of victim impact statements", "significance": "Survivors and families face him", "source": "[5] AP; [27]; [28]; [12]"},
-      {"date": "2020-08-21", "location": "Sacramento State", "what_happened": "DeAngelo rises from wheelchair, removes mask, says 'I'm truly sorry to everyone I've hurt'; Judge Bowman imposes 11 consecutive LWOP + life + 8 years", "significance": "Sentence", "source": "[5] AP; [6] ABC; [4] NBC; [2] Contra Costa DA"},
-      {"date": "2022", "location": "USA", "what_happened": "Paul Holes publishes 'Unmasked'", "significance": "Aftermath", "source": "[50] NPR"},
-      {"date": "2023", "location": "USA", "what_happened": "Barbara Rae-Venter publishes 'I Know Who You Are'", "significance": "Aftermath", "source": "[44] Goodreads"},
-      {"date": "2026 (A&E article March 2026, updated July 2026)", "location": "California State Prison, Corcoran", "what_happened": "DeAngelo, 80, held in the Protective Housing Unit; no new appeals or sentence changes found", "significance": "Current status", "source": "[3] A&E"}
+      {
+        "date": "1945-11-08",
+        "location": "Bath, New York",
+        "what_happened": "Joseph James DeAngelo born",
+        "significance": "Then-and-now ages",
+        "source": "[56] Biography.com; [57] Valley Voice"
+      },
+      {
+        "date": "1973-08-22",
+        "location": "Exeter, CA",
+        "what_happened": "Exeter Sun reports DeAngelo as a new Exeter police officer, Vietnam veteran from Bath, NY",
+        "significance": "He wore a badge 12 miles from Visalia",
+        "source": "[57] Valley Voice; [11] NBC"
+      },
+      {
+        "date": "1974–1975 (mid-1970s)",
+        "location": "Visalia, CA",
+        "what_happened": "Series of burglaries attributed to the 'Visalia Ransacker'; crimes span 1974–1986 overall",
+        "significance": "Beginning of the series",
+        "source": "[64] Wikipedia via search; [65] CBS LA"
+      },
+      {
+        "date": "1975-09-11 (about 2 a.m.; Hupp dates going to bed Sept 10)",
+        "location": "Visalia, CA",
+        "what_happened": "Masked intruder tries to take Elizabeth from her home; her father Claude Snelling, 45, confronts him and is shot twice; dies on the way to hospital; intruder kicks Elizabeth and flees",
+        "significance": "First murder",
+        "source": "[11] NBC; [12] ABC30"
+      },
+      {
+        "date": "1976–1979",
+        "location": "Auburn, CA",
+        "what_happened": "DeAngelo serves as an Auburn police officer",
+        "significance": "Overlaps the East Area Rapist series",
+        "source": "[53] CNN; [59] DPIC/[64]"
+      },
+      {
+        "date": "Mid/late 1970s",
+        "location": "Eastern suburbs of Sacramento, later Bay Area",
+        "what_happened": "Home-invasion rapes attributed to the 'East Area Rapist'",
+        "significance": "Dozens of survivors",
+        "source": "[36] Oxygen; [64]; [1]"
+      },
+      {
+        "date": "1978-02-02 (evening)",
+        "location": "Rancho Cordova, Sacramento County",
+        "what_happened": "Brian (21) and Katie (20) Maggiore, walking their dog, are chased and shot",
+        "significance": "Counts on which DeAngelo was arrested in 2018; tied to the EAR in 2016",
+        "source": "[13] FBI; [14] Oxygen; [15] CBS Sacramento; [53] CNN"
+      },
+      {
+        "date": "1979-08",
+        "location": "Auburn, CA",
+        "what_happened": "DeAngelo fired after being caught shoplifting a hammer and dog repellent; convicted, fined $100; per prosecutor, faked a heart attack when caught",
+        "significance": "A missed signal",
+        "source": "[53] CNN; [58] CBS; [10] SFGate"
+      },
+      {
+        "date": "1979-12-30",
+        "location": "Near Goleta, Santa Barbara County",
+        "what_happened": "Dr. Robert Offerman and Debra Manning shot to death in a condominium",
+        "significance": "Start of the 'Original Night Stalker' murders",
+        "source": "[29] Noozhawk; [30] NBC"
+      },
+      {
+        "date": "1980-03-13",
+        "location": "Ventura, CA",
+        "what_happened": "Lyman (43) and Charlene (33) Smith bludgeoned to death in their home; found by Lyman's 12-year-old son",
+        "significance": "Crime scene whose DNA later anchored the genealogy and the match",
+        "source": "[19] Carole; [21] Oxygen; [22] ABC; [48] ABC"
+      },
+      {
+        "date": "1980-08-19",
+        "location": "Niguel Shores, then unincorporated Orange County (now Dana Point)",
+        "what_happened": "Keith (24) and Patrice Harrington, married three months, bludgeoned to death",
+        "significance": "Inspired Bruce Harrington's DNA crusade",
+        "source": "[25] Dana Point Times; [23] CBS SF"
+      },
+      {
+        "date": "1981-02-05/06",
+        "location": "Irvine, CA",
+        "what_happened": "Manuela Witthuhn, 28, killed at home while husband David was hospitalised; found by her parents",
+        "significance": "Orange County series",
+        "source": "[26] City of Irvine; [27] Spectrum; [14] Oxygen"
+      },
+      {
+        "date": "1981-07-27",
+        "location": "Near Goleta, Santa Barbara County",
+        "what_happened": "Cheri Domingo (35) and Gregory Sanchez (27) killed in a house Cheri was house-sitting",
+        "significance": "DNA from this scene later tied to other ONS crimes",
+        "source": "[29] Noozhawk; [30] NBC"
+      },
+      {
+        "date": "1986-05-04/05",
+        "location": "Irvine, CA",
+        "what_happened": "Janelle Cruz, 18, raped and murdered at home while family was in Mexico",
+        "significance": "Last known murder; then silence",
+        "source": "[35] Heavy; [31] GMA; [22] ABC"
+      },
+      {
+        "date": "Turn of the 2000s (exact year not confirmed in-session)",
+        "location": "California crime labs",
+        "what_happened": "DNA links the East Area Rapist crimes to the Original Night Stalker murders",
+        "significance": "One offender, many names",
+        "source": "[37] Wikipedia via search"
+      },
+      {
+        "date": "2004 (November election)",
+        "location": "California",
+        "what_happened": "Proposition 69, backed by Bruce Harrington, passes with over 62%: DNA from all felony arrestees",
+        "significance": "Expanded the state DNA database",
+        "source": "[23] CBS SF; [24] CBS Sacramento"
+      },
+      {
+        "date": "2013-03",
+        "location": "Los Angeles Magazine",
+        "what_happened": "Michelle McNamara publishes 'In the Footsteps of a Killer', coining 'Golden State Killer'",
+        "significance": "Revived public attention",
+        "source": "[36] Oxygen; [37] Wikipedia"
+      },
+      {
+        "date": "2016-04-21",
+        "location": "Los Angeles",
+        "what_happened": "McNamara dies in her sleep, age 46",
+        "significance": "Book unfinished",
+        "source": "[37]"
+      },
+      {
+        "date": "2016",
+        "location": "Sacramento",
+        "what_happened": "Investigators formally tie the Maggiore murders to the East Area Rapist; FBI and partners publicise a $50,000 reward (reward year from CBS LA headline context; exact date not confirmed in-session)",
+        "significance": "40th-anniversary push",
+        "source": "[14] Oxygen; [63] CBS LA"
+      },
+      {
+        "date": "2017 (reported March 2017)",
+        "location": "California",
+        "what_happened": "Paul Holes contacts genealogist Barbara Rae-Venter (timing single-sourced)",
+        "significance": "Genealogy enters the case",
+        "source": "[43] Wikipedia via search; [42] KTVU"
+      },
+      {
+        "date": "2018-02-27",
+        "location": "USA",
+        "what_happened": "'I'll Be Gone in the Dark' published",
+        "significance": "Two months before the arrest",
+        "source": "[38]"
+      },
+      {
+        "date": "Early 2018",
+        "location": "GEDmatch (public genealogy database)",
+        "what_happened": "Crime-scene DNA profile uploaded; >1,000 genetic cousins; trees narrow to a handful of men; eye-color prediction used; DeAngelo emerges",
+        "significance": "Breakthrough",
+        "source": "[45] NPR; [42] KTVU; [46] ResearchGate"
+      },
+      {
+        "date": "2018 (day before Holes retired)",
+        "location": "Citrus Heights",
+        "what_happened": "Holes sits alone in his car outside DeAngelo's house, decides not to knock",
+        "significance": "Human tension",
+        "source": "[50] NPR; [51] Colorado Sun"
+      },
+      {
+        "date": "2018-04-18",
+        "location": "Hobby Lobby parking lot, Roseville, CA",
+        "what_happened": "Investigators swab DeAngelo's car door handle while he shops; sample matched crime-scene DNA per warrant",
+        "significance": "First confirmation",
+        "source": "[47] CNN; [49] SF Chronicle"
+      },
+      {
+        "date": "2018-04-23",
+        "location": "Citrus Heights",
+        "what_happened": "Tissue from his trash can matched DNA from the 1980 Charlene Smith case; called conclusive in the warrant",
+        "significance": "Conclusive match",
+        "source": "[48] ABC News"
+      },
+      {
+        "date": "2018-04-24",
+        "location": "Citrus Heights",
+        "what_happened": "DeAngelo, 72, arrested at his home on two counts of murder (Maggiores)",
+        "significance": "Arrest",
+        "source": "[53] CNN; [55] NPR; [52] TheWrap"
+      },
+      {
+        "date": "2018-04-25",
+        "location": "Sacramento",
+        "what_happened": "Schubert announces arrest on National DNA Day: 'We found the needle in the haystack…'",
+        "significance": "Public reveal",
+        "source": "[52] TheWrap; [53] CNN"
+      },
+      {
+        "date": "2018-06 (warrants unsealed ~June 1–2)",
+        "location": "Sacramento",
+        "what_happened": "Search warrants unsealed revealing Hobby Lobby and trash DNA; charged with 12 murders in four counties",
+        "significance": "How it was done",
+        "source": "[47] CNN; [30] NBC"
+      },
+      {
+        "date": "2018-08",
+        "location": "Tulare County",
+        "what_happened": "DA Tim Ward charges Snelling murder — 13th count",
+        "significance": "Visalia Ransacker confirmed",
+        "source": "[11] NBC"
+      },
+      {
+        "date": "2020-06-29",
+        "location": "University ballroom, Sacramento State",
+        "what_happened": "DeAngelo, 74, pleads guilty to 13 first-degree murders and 13 kidnappings for robbery; admits uncharged crimes; 87 victims, 53 crime scenes",
+        "significance": "Death penalty off the table",
+        "source": "[7] State Hornet; [8] Fox; [1] Contra Costa DA; [3] A&E"
+      },
+      {
+        "date": "2020-08-18 to 2020-08-20",
+        "location": "Sacramento State",
+        "what_happened": "Three days of victim impact statements",
+        "significance": "Survivors and families face him",
+        "source": "[5] AP; [27]; [28]; [12]"
+      },
+      {
+        "date": "2020-08-21",
+        "location": "Sacramento State",
+        "what_happened": "DeAngelo rises from wheelchair, removes mask, says 'I'm truly sorry to everyone I've hurt'; Judge Bowman imposes 11 consecutive LWOP + life + 8 years",
+        "significance": "Sentence",
+        "source": "[5] AP; [6] ABC; [4] NBC; [2] Contra Costa DA"
+      },
+      {
+        "date": "2022",
+        "location": "USA",
+        "what_happened": "Paul Holes publishes 'Unmasked'",
+        "significance": "Aftermath",
+        "source": "[50] NPR"
+      },
+      {
+        "date": "2023",
+        "location": "USA",
+        "what_happened": "Barbara Rae-Venter publishes 'I Know Who You Are'",
+        "significance": "Aftermath",
+        "source": "[44] Goodreads"
+      },
+      {
+        "date": "2026 (A&E article March 2026, updated July 2026)",
+        "location": "California State Prison, Corcoran",
+        "what_happened": "DeAngelo, 80, held in the Protective Housing Unit; no new appeals or sentence changes found",
+        "significance": "Current status",
+        "source": "[3] A&E"
+      }
     ]
   },
   "cold_open_material": {
@@ -124,10 +484,22 @@
     ],
     "why_it_worked": "Distant relatives of the offender had voluntarily uploaded DNA to a public database; crime-scene samples had been preserved since the 1970s–80s [45][48]",
     "technical_terms_to_explain": [
-      {"term": "CODIS", "simple_explanation": "The law-enforcement DNA database; only finds a person already in it"},
-      {"term": "Genetic cousin", "simple_explanation": "A person who shares a stretch of DNA with you because of a shared ancestor"},
-      {"term": "Discarded DNA", "simple_explanation": "Traces left on objects a person touches or throws away, collected without a warrant"},
-      {"term": "STR profile", "simple_explanation": "The standard forensic DNA 'fingerprint' used for a confirming match"}
+      {
+        "term": "CODIS",
+        "simple_explanation": "The law-enforcement DNA database; only finds a person already in it"
+      },
+      {
+        "term": "Genetic cousin",
+        "simple_explanation": "A person who shares a stretch of DNA with you because of a shared ancestor"
+      },
+      {
+        "term": "Discarded DNA",
+        "simple_explanation": "Traces left on objects a person touches or throws away, collected without a warrant"
+      },
+      {
+        "term": "STR profile",
+        "simple_explanation": "The standard forensic DNA 'fingerprint' used for a confirming match"
+      }
     ],
     "scale_of_operation": "87 victims, 53 crime scenes (admitted) [1][3]; 13 murders; crimes 1974–1986 [64]"
   },
@@ -164,14 +536,33 @@
   },
   "legal_resolution": {
     "_instructions": "Court proceedings, sentencing, and aftermath.",
-    "charges_filed": ["13 counts of first-degree murder (Sacramento, Ventura, Orange, Santa Barbara, Tulare counties) [7][11][30]", "13 counts of kidnapping for robbery [7]"],
+    "charges_filed": [
+      "13 counts of first-degree murder (Sacramento, Ventura, Orange, Santa Barbara, Tulare counties) [7][11][30]",
+      "13 counts of kidnapping for robbery [7]"
+    ],
     "trial_date_if_applicable": "No trial; guilty plea June 29, 2020 [7]",
     "notable_court_testimony": "Prosecutors recounted the crimes at the plea; DeAngelo repeatedly said 'guilty' and 'I admit' [8]",
     "victim_impact_statements": [
-      {"from_whom": "Elizabeth Hupp", "key_quote": "'He would have been a wonderful grandpa.'", "emotional_impact": "Lost father, years of guilt [12]"},
-      {"from_whom": "Ken Smith (Katie's brother)", "key_quote": "'You can't hurt anybody again.'", "emotional_impact": "Defiance [16][17]"},
-      {"from_whom": "Karen Smith (Katie's aunt)", "key_quote": "'The only thing I'm happy for is that I got to live long enough to see this happen.'", "emotional_impact": "Time passing [16]"},
-      {"from_whom": "Michelle Cruz", "key_quote": "'…finding happiness and enjoyment, which I had lost because of Joseph DeAngelo 34 years ago'", "emotional_impact": "Lost identity, regained [32]"}
+      {
+        "from_whom": "Elizabeth Hupp",
+        "key_quote": "'He would have been a wonderful grandpa.'",
+        "emotional_impact": "Lost father, years of guilt [12]"
+      },
+      {
+        "from_whom": "Ken Smith (Katie's brother)",
+        "key_quote": "'You can't hurt anybody again.'",
+        "emotional_impact": "Defiance [16][17]"
+      },
+      {
+        "from_whom": "Karen Smith (Katie's aunt)",
+        "key_quote": "'The only thing I'm happy for is that I got to live long enough to see this happen.'",
+        "emotional_impact": "Time passing [16]"
+      },
+      {
+        "from_whom": "Michelle Cruz",
+        "key_quote": "'…finding happiness and enjoyment, which I had lost because of Joseph DeAngelo 34 years ago'",
+        "emotional_impact": "Lost identity, regained [32]"
+      }
     ],
     "sentence_received": "11 consecutive life terms without the possibility of parole, plus an additional life term, plus eight years (AP) [5]; Contra Costa DA: 11 consecutive LWOP for 13 murders plus an additional consecutive life term for the 13 kidnappings [2]",
     "protagonist_statement_in_court": "'I've listened to all your statements. Each one of them. And I'm truly sorry to everyone I've hurt.' (ABC; AP wording: 'truly sorry for everyone I've hurt') [6][5]",
@@ -180,47 +571,239 @@
   "verified_quotes": {
     "_instructions": "ONLY include quotes you can verify from reliable sources.",
     "quotes": [
-      {"speaker": "Anne Marie Schubert", "exact_quote": "We knew we were looking for a needle in a haystack, but we also knew that needle was there.", "context": "Press conference, April 25, 2018", "source": "[52][53]"},
-      {"speaker": "Anne Marie Schubert", "exact_quote": "We found the needle in the haystack, and it was right here in Sacramento.", "context": "Same press conference (wording varies slightly)", "source": "[52]"},
-      {"speaker": "Joseph DeAngelo (as recounted by prosecutor Thien Ho)", "exact_quote": "I did all that.", "context": "Alone in interrogation room after arrest; recounted June 29, 2020", "source": "[9][8]"},
-      {"speaker": "Joseph DeAngelo", "exact_quote": "I've listened to all your statements. Each one of them. And I'm truly sorry to everyone I've hurt.", "context": "Sentencing, Aug 21, 2020", "source": "[6][5]"},
-      {"speaker": "Judge Michael Bowman", "exact_quote": "The defendant deserves no mercy.", "context": "Sentencing, Aug 21, 2020", "source": "[5]"},
-      {"speaker": "Judge Michael Bowman", "exact_quote": "may have escaped earthly justice altogether", "context": "On the persistence of survivors, families, citizen detectives and law enforcement", "source": "[4]"},
-      {"speaker": "Elizabeth Hupp", "exact_quote": "It wasn't until I became a parent myself that I realized there was nothing I could have said that would have kept my dad from trying to save me.", "context": "Victim impact statement, Aug 20, 2020", "source": "[12]"},
-      {"speaker": "Elizabeth Hupp", "exact_quote": "He would have been a wonderful grandpa.", "context": "Same", "source": "[12]"},
-      {"speaker": "Elizabeth Hupp", "exact_quote": "I was on the ground, thinking this is it.", "context": "Same, describing 1975", "source": "[12]"},
-      {"speaker": "Karen Smith", "exact_quote": "They loved life and everybody loved them in the 18 months they were married.", "context": "Victim impact statement, Aug 20, 2020", "source": "[16]"},
-      {"speaker": "Karen Smith", "exact_quote": "The only thing I'm happy for is that I got to live long enough to see this happen.", "context": "Same", "source": "[16]"},
-      {"speaker": "Ken Smith", "exact_quote": "You can't hurt anybody again.", "context": "Victim impact statement, Aug 20, 2020", "source": "[16][17]"},
-      {"speaker": "Ken Smith", "exact_quote": "Closure means there is an end, but nothing changes. You can't bring Katie and Brian back.", "context": "Same period", "source": "[16]"},
-      {"speaker": "Michelle Cruz", "exact_quote": "completely changed my world, my life, my identity", "context": "ABC/GMA interview, April 2018", "source": "[31]"},
-      {"speaker": "Michelle Cruz", "exact_quote": "Now my time will no longer concentrated on who killed my sister but rather on finding happiness and enjoyment, which I had lost because of Joseph DeAngelo 34 years ago", "context": "Victim impact statement, Aug 20, 2020 (as printed by UPI)", "source": "[32]"},
-      {"speaker": "Michelle Cruz", "exact_quote": "Why did he stop after Jeanelle?", "context": "CBS Sacramento (date unclear)", "source": "[33]"},
-      {"speaker": "Jennifer Carole", "exact_quote": "From the outside, he looks particularly ordinary and yet we know on the inside there's a monster there.", "context": "To ABC News / Oxygen after first seeing him in court, 2018", "source": "[21][22]"},
-      {"speaker": "Bruce Harrington", "exact_quote": "bring closure to the anguish that we all suffered for the last 40-odd years", "context": "After the 2018 arrest", "source": "[23]"},
-      {"speaker": "Patton Oswalt", "exact_quote": "You did it, Michelle.", "context": "Instagram video after arrest, April 2018", "source": "[39]"},
-      {"speaker": "Patton Oswalt", "exact_quote": "The most important people at the #GoldenStateKiller hearing today are the survivors.", "context": "June 29, 2020", "source": "[41]"},
-      {"speaker": "Patton Oswalt", "exact_quote": "The insect gets none of my headspace today.", "context": "Aug 21, 2020", "source": "[40]"},
-      {"speaker": "Paul Holes", "exact_quote": "Fortunately I didn't go up to the door.", "context": "NPR interview on his memoir, 2022", "source": "[50]"},
-      {"speaker": "Diane Stein (headline quote)", "exact_quote": "She can rest in peace now", "context": "First Coast News, Aug 2020", "source": "[34]"},
-      {"speaker": "Unnamed survivor (headline quote)", "exact_quote": "After 42 years I still look over my shoulder", "context": "Victim statements, Aug 2020", "source": "[61]"}
+      {
+        "speaker": "Anne Marie Schubert",
+        "exact_quote": "We knew we were looking for a needle in a haystack, but we also knew that needle was there.",
+        "context": "Press conference, April 25, 2018",
+        "source": "[52][53]"
+      },
+      {
+        "speaker": "Anne Marie Schubert",
+        "exact_quote": "We found the needle in the haystack, and it was right here in Sacramento.",
+        "context": "Same press conference (wording varies slightly)",
+        "source": "[52]"
+      },
+      {
+        "speaker": "Joseph DeAngelo (as recounted by prosecutor Thien Ho)",
+        "exact_quote": "I did all that.",
+        "context": "Alone in interrogation room after arrest; recounted June 29, 2020",
+        "source": "[9][8]"
+      },
+      {
+        "speaker": "Joseph DeAngelo",
+        "exact_quote": "I've listened to all your statements. Each one of them. And I'm truly sorry to everyone I've hurt.",
+        "context": "Sentencing, Aug 21, 2020",
+        "source": "[6][5]"
+      },
+      {
+        "speaker": "Judge Michael Bowman",
+        "exact_quote": "The defendant deserves no mercy.",
+        "context": "Sentencing, Aug 21, 2020",
+        "source": "[5]"
+      },
+      {
+        "speaker": "Judge Michael Bowman",
+        "exact_quote": "may have escaped earthly justice altogether",
+        "context": "On the persistence of survivors, families, citizen detectives and law enforcement",
+        "source": "[4]"
+      },
+      {
+        "speaker": "Elizabeth Hupp",
+        "exact_quote": "It wasn't until I became a parent myself that I realized there was nothing I could have said that would have kept my dad from trying to save me.",
+        "context": "Victim impact statement, Aug 20, 2020",
+        "source": "[12]"
+      },
+      {
+        "speaker": "Elizabeth Hupp",
+        "exact_quote": "He would have been a wonderful grandpa.",
+        "context": "Same",
+        "source": "[12]"
+      },
+      {
+        "speaker": "Elizabeth Hupp",
+        "exact_quote": "I was on the ground, thinking this is it.",
+        "context": "Same, describing 1975",
+        "source": "[12]"
+      },
+      {
+        "speaker": "Karen Smith",
+        "exact_quote": "They loved life and everybody loved them in the 18 months they were married.",
+        "context": "Victim impact statement, Aug 20, 2020",
+        "source": "[16]"
+      },
+      {
+        "speaker": "Karen Smith",
+        "exact_quote": "The only thing I'm happy for is that I got to live long enough to see this happen.",
+        "context": "Same",
+        "source": "[16]"
+      },
+      {
+        "speaker": "Ken Smith",
+        "exact_quote": "You can't hurt anybody again.",
+        "context": "Victim impact statement, Aug 20, 2020",
+        "source": "[16][17]"
+      },
+      {
+        "speaker": "Ken Smith",
+        "exact_quote": "Closure means there is an end, but nothing changes. You can't bring Katie and Brian back.",
+        "context": "Same period",
+        "source": "[16]"
+      },
+      {
+        "speaker": "Michelle Cruz",
+        "exact_quote": "completely changed my world, my life, my identity",
+        "context": "ABC/GMA interview, April 2018",
+        "source": "[31]"
+      },
+      {
+        "speaker": "Michelle Cruz",
+        "exact_quote": "Now my time will no longer concentrated on who killed my sister but rather on finding happiness and enjoyment, which I had lost because of Joseph DeAngelo 34 years ago",
+        "context": "Victim impact statement, Aug 20, 2020 (as printed by UPI)",
+        "source": "[32]"
+      },
+      {
+        "speaker": "Michelle Cruz",
+        "exact_quote": "Why did he stop after Jeanelle?",
+        "context": "CBS Sacramento (date unclear)",
+        "source": "[33]"
+      },
+      {
+        "speaker": "Jennifer Carole",
+        "exact_quote": "From the outside, he looks particularly ordinary and yet we know on the inside there's a monster there.",
+        "context": "To ABC News / Oxygen after first seeing him in court, 2018",
+        "source": "[21][22]"
+      },
+      {
+        "speaker": "Bruce Harrington",
+        "exact_quote": "bring closure to the anguish that we all suffered for the last 40-odd years",
+        "context": "After the 2018 arrest",
+        "source": "[23]"
+      },
+      {
+        "speaker": "Patton Oswalt",
+        "exact_quote": "You did it, Michelle.",
+        "context": "Instagram video after arrest, April 2018",
+        "source": "[39]"
+      },
+      {
+        "speaker": "Patton Oswalt",
+        "exact_quote": "The most important people at the #GoldenStateKiller hearing today are the survivors.",
+        "context": "June 29, 2020",
+        "source": "[41]"
+      },
+      {
+        "speaker": "Patton Oswalt",
+        "exact_quote": "The insect gets none of my headspace today.",
+        "context": "Aug 21, 2020",
+        "source": "[40]"
+      },
+      {
+        "speaker": "Paul Holes",
+        "exact_quote": "Fortunately I didn't go up to the door.",
+        "context": "NPR interview on his memoir, 2022",
+        "source": "[50]"
+      },
+      {
+        "speaker": "Diane Stein (headline quote)",
+        "exact_quote": "She can rest in peace now",
+        "context": "First Coast News, Aug 2020",
+        "source": "[34]"
+      },
+      {
+        "speaker": "Unnamed survivor (headline quote)",
+        "exact_quote": "After 42 years I still look over my shoulder",
+        "context": "Victim statements, Aug 2020",
+        "source": "[61]"
+      },
+      {
+        "speaker": "Elizabeth Hupp",
+        "exact_quote": "What sickens and angers me the most is that DeAngelo was able to live a normal life with his family for all those years",
+        "context": "Victim impact statement, Aug 20, 2020",
+        "source": "[12]"
+      },
+      {
+        "speaker": "DeAngelo's former wife (headline quote)",
+        "exact_quote": "I Will Never Be The Same Person",
+        "context": "Victim impact statement submitted Aug 2020",
+        "source": "[62]"
+      },
+      {
+        "speaker": "Jennifer Carole (paraphrase)",
+        "exact_quote": "focus on the 'silver linings' — the survivors who have grown so close to each other since his capture",
+        "context": "Comments around the 2020 hearings",
+        "source": "[19][21]"
+      },
+      {
+        "speaker": "Patton Oswalt",
+        "exact_quote": "She kept coming at him.",
+        "context": "After arrest, 2018",
+        "source": "[39]"
+      }
     ]
   },
   "statistics_and_numbers": {
     "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
     "figures": [
-      {"number": "13", "what_it_represents": "Murders he pleaded guilty to", "source": "[7]"},
-      {"number": "13", "what_it_represents": "Counts of kidnapping for robbery", "source": "[7]"},
-      {"number": "87 / 53", "what_it_represents": "Individual victims / separate crime scenes admitted", "source": "[1][3]"},
-      {"number": "11 + 1 + 8 years", "what_it_represents": "Consecutive LWOP terms, additional life term, eight years", "source": "[5]"},
-      {"number": "1,000+", "what_it_represents": "Genetic cousins returned by GEDmatch", "source": "[42]"},
-      {"number": "3,500+", "what_it_represents": "Computer files McNamara left", "source": "[38]"},
-      {"number": "62%+", "what_it_represents": "Vote for Proposition 69", "source": "[23][24]"},
-      {"number": "12 miles", "what_it_represents": "Exeter to Visalia", "source": "[11]"},
-      {"number": "$100", "what_it_represents": "Fine for 1979 shoplifting", "source": "[64] via search summary"},
-      {"number": "72 / 74 / 80", "what_it_represents": "DeAngelo's age at arrest / plea / 2026", "source": "[53][5][3]"},
-      {"number": "18 months / 3 months", "what_it_represents": "Length of the Maggiore / Harrington marriages", "source": "[16][25]"},
-      {"number": "3 days", "what_it_represents": "Victim impact statements before sentencing", "source": "[5]"}
+      {
+        "number": "13",
+        "what_it_represents": "Murders he pleaded guilty to",
+        "source": "[7]"
+      },
+      {
+        "number": "13",
+        "what_it_represents": "Counts of kidnapping for robbery",
+        "source": "[7]"
+      },
+      {
+        "number": "87 / 53",
+        "what_it_represents": "Individual victims / separate crime scenes admitted",
+        "source": "[1][3]"
+      },
+      {
+        "number": "11 + 1 + 8 years",
+        "what_it_represents": "Consecutive LWOP terms, additional life term, eight years",
+        "source": "[5]"
+      },
+      {
+        "number": "1,000+",
+        "what_it_represents": "Genetic cousins returned by GEDmatch",
+        "source": "[42]"
+      },
+      {
+        "number": "3,500+",
+        "what_it_represents": "Computer files McNamara left",
+        "source": "[38]"
+      },
+      {
+        "number": "62%+",
+        "what_it_represents": "Vote for Proposition 69",
+        "source": "[23][24]"
+      },
+      {
+        "number": "12 miles",
+        "what_it_represents": "Exeter to Visalia",
+        "source": "[11]"
+      },
+      {
+        "number": "$100",
+        "what_it_represents": "Fine for 1979 shoplifting",
+        "source": "[64] via search summary"
+      },
+      {
+        "number": "72 / 74 / 80",
+        "what_it_represents": "DeAngelo's age at arrest / plea / 2026",
+        "source": "[53][5][3]"
+      },
+      {
+        "number": "18 months / 3 months",
+        "what_it_represents": "Length of the Maggiore / Harrington marriages",
+        "source": "[16][25]"
+      },
+      {
+        "number": "3 days",
+        "what_it_represents": "Victim impact statements before sentencing",
+        "source": "[5]"
+      }
     ]
   },
   "ironic_and_absurd_details": {
@@ -236,14 +819,54 @@
   "sensory_and_environmental_details": {
     "_instructions": "Details that help viewers visualize scenes.",
     "key_locations": [
-      {"location_name": "Visalia / Exeter", "physical_description": "San Joaquin Valley towns about 12 miles apart [11]", "atmosphere": "General context only", "relevant_details": "College of the Sequoias, where Snelling taught [11]"},
-      {"location_name": "Rancho Cordova", "physical_description": "Sacramento County suburb near Mather Air Force Base [15]", "atmosphere": "General context only", "relevant_details": "Maggiore murders"},
-      {"location_name": "Goleta", "physical_description": "Santa Barbara County", "atmosphere": "General", "relevant_details": "Four murders 1979 and 1981 [29]"},
-      {"location_name": "Ventura", "physical_description": "Coastal city", "atmosphere": "General", "relevant_details": "Smith home"},
-      {"location_name": "Niguel Shores", "physical_description": "Gated community, now Dana Point [25]", "atmosphere": "General", "relevant_details": "Harrington home"},
-      {"location_name": "Irvine", "physical_description": "Orange County city", "atmosphere": "General", "relevant_details": "Witthuhn and Cruz homes; Cruz family left Irvine and never returned [31]"},
-      {"location_name": "Citrus Heights", "physical_description": "Sacramento suburb", "atmosphere": "General", "relevant_details": "DeAngelo's home at arrest [53]"},
-      {"location_name": "Sacramento State university ballroom", "physical_description": "Makeshift courtroom", "atmosphere": "Socially distanced crowd, 2020 [7]", "relevant_details": "Plea and sentencing"}
+      {
+        "location_name": "Visalia / Exeter",
+        "physical_description": "San Joaquin Valley towns about 12 miles apart [11]",
+        "atmosphere": "General context only",
+        "relevant_details": "College of the Sequoias, where Snelling taught [11]"
+      },
+      {
+        "location_name": "Rancho Cordova",
+        "physical_description": "Sacramento County suburb near Mather Air Force Base [15]",
+        "atmosphere": "General context only",
+        "relevant_details": "Maggiore murders"
+      },
+      {
+        "location_name": "Goleta",
+        "physical_description": "Santa Barbara County",
+        "atmosphere": "General",
+        "relevant_details": "Four murders 1979 and 1981 [29]"
+      },
+      {
+        "location_name": "Ventura",
+        "physical_description": "Coastal city",
+        "atmosphere": "General",
+        "relevant_details": "Smith home"
+      },
+      {
+        "location_name": "Niguel Shores",
+        "physical_description": "Gated community, now Dana Point [25]",
+        "atmosphere": "General",
+        "relevant_details": "Harrington home"
+      },
+      {
+        "location_name": "Irvine",
+        "physical_description": "Orange County city",
+        "atmosphere": "General",
+        "relevant_details": "Witthuhn and Cruz homes; Cruz family left Irvine and never returned [31]"
+      },
+      {
+        "location_name": "Citrus Heights",
+        "physical_description": "Sacramento suburb",
+        "atmosphere": "General",
+        "relevant_details": "DeAngelo's home at arrest [53]"
+      },
+      {
+        "location_name": "Sacramento State university ballroom",
+        "physical_description": "Makeshift courtroom",
+        "atmosphere": "Socially distanced crowd, 2020 [7]",
+        "relevant_details": "Plea and sentencing"
+      }
     ]
   },
   "universal_stakes": {
@@ -256,76 +879,416 @@
   "sources": {
     "_instructions": "List ALL sources.",
     "primary_sources": [
-      {"type": "Prosecutor press release", "title": "[1] Joseph DeAngelo Jr. Pleads Guilty to 13 Murders, 13 Kidnappings & Uncharged Crimes — Contra Costa County DA", "url_or_reference": "https://www.contracosta.ca.gov/CivicAlerts.aspx?AID=2331&ARC=8982", "key_information_obtained": "Plea; 87 victims / 53 scenes (via search summary)"},
-      {"type": "Prosecutor press release", "title": "[2] Joseph DeAngelo Sentenced to 11 Consecutive LWOP for 13 Murders — Contra Costa County DA", "url_or_reference": "https://www.contracosta.ca.gov/CivicAlerts.aspx?AID=2380&ARC=7624", "key_information_obtained": "Sentence structure"},
-      {"type": "FBI image repository", "title": "[13] Katie and Brian Maggiore — FBI", "url_or_reference": "https://www.fbi.gov/image-repository/katie_brian_maggiore.jpg/view", "key_information_obtained": "Feb 2, 1978 walk with dog"},
-      {"type": "City press release", "title": "[26] City of Irvine news release (2018)", "url_or_reference": "https://cityofirvine.org/news-media/press/article/46381", "key_information_obtained": "Witthuhn bank teller; Irvine cases"},
-      {"type": "Victim's family writing", "title": "[19] Jennifer Carole, 'Golden State Killer: Writing My Victim Impact Statement' (Medium)", "url_or_reference": "https://jcarole.medium.com/golden-state-killer-writing-my-victim-impact-statement-706793fd7221", "key_information_obtained": "Age 18; brother found bodies"},
-      {"type": "Victim's family writing", "title": "[20] Jennifer Carole, 'In the Case of Joseph DeAngelo, Justice Has Not Been Served' (Medium)", "url_or_reference": "https://medium.com/@JenCarole/in-the-case-of-joseph-deangelo-justice-has-not-been-served-a55924af9173", "key_information_obtained": "'friction-free' critique"},
-      {"type": "Book (genealogist)", "title": "[44] Barbara Rae-Venter, I Know Who You Are (2023) — Goodreads listing", "url_or_reference": "https://www.goodreads.com/en/book/show/61111260", "key_information_obtained": "Book title / self-description"},
-      {"type": "Memoir interview", "title": "[50] NPR, After a career of cracking cold cases, investigator Paul Holes opens up (Aug 10, 2022)", "url_or_reference": "https://www.npr.org/2022/08/10/1116304728/golden-state-killer-paul-holes-unmasked-cold-case", "key_information_obtained": "Last-day visit; quote"}
+      {
+        "type": "Prosecutor press release",
+        "title": "[1] Joseph DeAngelo Jr. Pleads Guilty to 13 Murders, 13 Kidnappings & Uncharged Crimes — Contra Costa County DA",
+        "url_or_reference": "https://www.contracosta.ca.gov/CivicAlerts.aspx?AID=2331&ARC=8982",
+        "key_information_obtained": "Plea; 87 victims / 53 scenes (via search summary)"
+      },
+      {
+        "type": "Prosecutor press release",
+        "title": "[2] Joseph DeAngelo Sentenced to 11 Consecutive LWOP for 13 Murders — Contra Costa County DA",
+        "url_or_reference": "https://www.contracosta.ca.gov/CivicAlerts.aspx?AID=2380&ARC=7624",
+        "key_information_obtained": "Sentence structure"
+      },
+      {
+        "type": "FBI image repository",
+        "title": "[13] Katie and Brian Maggiore — FBI",
+        "url_or_reference": "https://www.fbi.gov/image-repository/katie_brian_maggiore.jpg/view",
+        "key_information_obtained": "Feb 2, 1978 walk with dog"
+      },
+      {
+        "type": "City press release",
+        "title": "[26] City of Irvine news release (2018)",
+        "url_or_reference": "https://cityofirvine.org/news-media/press/article/46381",
+        "key_information_obtained": "Witthuhn bank teller; Irvine cases"
+      },
+      {
+        "type": "Victim's family writing",
+        "title": "[19] Jennifer Carole, 'Golden State Killer: Writing My Victim Impact Statement' (Medium)",
+        "url_or_reference": "https://jcarole.medium.com/golden-state-killer-writing-my-victim-impact-statement-706793fd7221",
+        "key_information_obtained": "Age 18; brother found bodies"
+      },
+      {
+        "type": "Victim's family writing",
+        "title": "[20] Jennifer Carole, 'In the Case of Joseph DeAngelo, Justice Has Not Been Served' (Medium)",
+        "url_or_reference": "https://medium.com/@JenCarole/in-the-case-of-joseph-deangelo-justice-has-not-been-served-a55924af9173",
+        "key_information_obtained": "'friction-free' critique"
+      },
+      {
+        "type": "Book (genealogist)",
+        "title": "[44] Barbara Rae-Venter, I Know Who You Are (2023) — Goodreads listing",
+        "url_or_reference": "https://www.goodreads.com/en/book/show/61111260",
+        "key_information_obtained": "Book title / self-description"
+      },
+      {
+        "type": "Memoir interview",
+        "title": "[50] NPR, After a career of cracking cold cases, investigator Paul Holes opens up (Aug 10, 2022)",
+        "url_or_reference": "https://www.npr.org/2022/08/10/1116304728/golden-state-killer-paul-holes-unmasked-cold-case",
+        "key_information_obtained": "Last-day visit; quote"
+      }
     ],
     "secondary_sources": [
-      {"type": "Magazine", "title": "[3] Where Is the Golden State Killer Now? — A&E (2026)", "url_or_reference": "https://www.aetv.com/articles/where-is-the-golden-state-killer-now-joseph-deangelo-life-in-prison", "key_information_obtained": "Corcoran PHU, age 80"},
-      {"type": "News", "title": "[4] NBC News, Golden State Killer Joseph DeAngelo sentenced to life without possibility of parole (Aug 21, 2020)", "url_or_reference": "https://www.nbcnews.com/news/us-news/golden-state-killer-joseph-deangelo-sentenced-life-without-possibility-parole-n1237670", "key_information_obtained": "Bowman quotes, reasons for plea"},
-      {"type": "News (AP)", "title": "[5] AP via ABC13, Golden State Killer sentenced to life for 26 rapes, slayings (Aug 21, 2020)", "url_or_reference": "https://abc13.com/post/golden-state-killer-sentenced-to-life-for-26-rapes-slayings/6381825/", "key_information_obtained": "Sentence, apology, wheelchair"},
-      {"type": "News", "title": "[6] ABC News, 'Golden State Killer' addresses the court: 'I'm truly sorry' (Aug 21, 2020)", "url_or_reference": "https://abcnews.com/US/living-witness-teen-dads-murder-confronts-golden-state/story?id=72473195", "key_information_obtained": "Apology wording"},
-      {"type": "News", "title": "[7] The State Hornet, Golden State Killer suspect pleads guilty in hearing at Sac State (June 2020)", "url_or_reference": "https://statehornet.com/2020/06/golden-state-killer-plea-guilty-sac-state", "key_information_obtained": "Counts, venue"},
-      {"type": "News", "title": "[8] Fox News, DeAngelo pleads guilty to murder for first time (June 29, 2020)", "url_or_reference": "https://www.foxnews.com/us/golden-state-killer-joseph-james-deangelo-pleads-guilty-murder-first-time", "key_information_obtained": "'guilty', 'I admit'"},
-      {"type": "News", "title": "[9] CBS Sacramento, 'I Did All That': Inner Person Drove The Golden State Killer, Prosecutor Says (June 2020)", "url_or_reference": "https://www.cbsnews.com/amp/sacramento/news/golden-state-killer-joseph-deangelo-pleads-guilty-sac-county-da/", "key_information_obtained": "Interrogation monologue"},
-      {"type": "News", "title": "[10] SFGate, Golden State Killer has history of faking insanity, feebleness, prosecutor says (June 2020)", "url_or_reference": "https://www.sfgate.com/crime/article/Golden-State-Killer-Joseph-DeAngelo-mental-health-15374517.php", "key_information_obtained": "Feigned incoherence; 1979 fake heart attack"},
-      {"type": "News", "title": "[11] NBC News, Golden State Killer suspect charged with 13th murder — possibly his first (Aug 2018)", "url_or_reference": "https://www.nbcnews.com/news/us-news/police-pin-13th-murder-accused-golden-state-killer-n900266", "key_information_obtained": "Snelling details; Exeter 12 miles"},
-      {"type": "Local TV", "title": "[12] ABC30, Daughter of Golden State Killer's first murder victim shares heartbreaking story (Aug 20, 2020)", "url_or_reference": "https://abc30.com/post/golden-state-killer-victims-continue-impact-statements-in-sacramento/6379912/", "key_information_obtained": "Hupp quotes"},
-      {"type": "News", "title": "[14] Oxygen, These Are The 12 Suspected Murder Victims Of The Golden State Killer", "url_or_reference": "https://www.oxygen.com/crime-time/murder-victims-golden-state-killer", "key_information_obtained": "Victim details"},
-      {"type": "Local TV", "title": "[15] CBS Sacramento, After Suspect's Arrest, Victims Share Horror Of East Area Rapist", "url_or_reference": "https://www.cbsnews.com/sacramento/news/east-area-rapist-horror/", "key_information_obtained": "Maggiore ages"},
-      {"type": "Blog/recap", "title": "[16] Murder by Design (Medium), GSK Victim Impact Statements And Sentencing", "url_or_reference": "https://medium.com/murder-by-design/gsk-victim-impact-statements-and-sentencing-168af2ecca63", "key_information_obtained": "Smith family quotes"},
-      {"type": "Local TV", "title": "[17] ABC10, Golden State Killer back in court for the final day of victim impact statements (Aug 20, 2020)", "url_or_reference": "https://www.abc10.com/article/news/crime/golden-state-killer-back-in-court-for-the-final-day-of-victim-impact-statements/103-1341b6d2-a0bd-4845-99c1-d2ad778bbfd2", "key_information_obtained": "Katie's brother"},
-      {"type": "Court-watch site", "title": "[18] goldenstatekillertrial.com, August 20th, 2020 Victim Impact Statements", "url_or_reference": "http://goldenstatekillertrial.com/august-20th-2020-victim-impact-statements-in-sacramento/", "key_information_obtained": "Speaker list; Ho read Loretta's statement"},
-      {"type": "News", "title": "[21] Oxygen, Daughter Of Victims Of Golden State Killer Faces Suspect For First Time", "url_or_reference": "https://www.oxygen.com/crime-time/golden-state-killer-joseph-deangelo-jennifer-carole-victim-court", "key_information_obtained": "Carole quote; Smith ages"},
-      {"type": "News", "title": "[22] ABC News, 'Golden State Killer' victims included couple murdered in their home", "url_or_reference": "https://abcnews.com/US/portraits-golden-state-killer-victims/story?id=54748646", "key_information_obtained": "Victim portraits"},
-      {"type": "Local TV", "title": "[23] CBS San Francisco, Brother Of Golden State Killer's Victim Advocated For DNA Testing", "url_or_reference": "https://www.cbsnews.com/sanfrancisco/news/brother-golden-state-killers-victim-advocated-dna-testing/", "key_information_obtained": "Prop 69; quote"},
-      {"type": "Local TV", "title": "[24] CBS Sacramento, East Area Rapist Victims' Brother Led Crusade For DNA Database", "url_or_reference": "https://www.cbsnews.com/sacramento/news/dna-database-east-area-rapist/", "key_information_obtained": "Prop 69"},
-      {"type": "Local news", "title": "[25] Dana Point Times (Picket Fence Media), GSK Suspect Pleads Guilty to 13 Murder Counts, Including Dana Point Couple", "url_or_reference": "https://www.picketfencemedia.com/golden-state-killer-suspect-pleads-guilty-to-13-murder-counts-including-dana-point-couple/article_60f20e33-be5f-5b3b-95bd-24cbd8f7c5d3.html", "key_information_obtained": "Harrington details"},
-      {"type": "Local TV", "title": "[27] Spectrum News 1, Golden State Killer Faces His Victims Before Sentencing (Aug 18, 2020)", "url_or_reference": "https://spectrumnews1.com/ca/orange-county/public-safety/2020/08/18/golden-state-killer-faces-his-victims-before-sentencing", "key_information_obtained": "Witthuhn details"},
-      {"type": "Radio", "title": "[28] KFI AM 640, Relatives of Golden State Killer's Murder Victims Testify (Aug 20, 2020)", "url_or_reference": "https://kfiam640.iheart.com/content/2020-08-20-golden-state-killer-to-face-murder-victims/", "key_information_obtained": "Cruz/Witthuhn statements"},
-      {"type": "Local news", "title": "[29] Noozhawk, Family, Friends of Homicide Victims Confront Joseph DeAngelo", "url_or_reference": "https://www.noozhawk.com/deangelo_golden_state_killer_victim_impact_statements/", "key_information_obtained": "Goleta victims"},
-      {"type": "News", "title": "[30] NBC News, Golden State Killer suspect charged with four more murders, total 12", "url_or_reference": "https://www.nbcnews.com/news/us-news/golden-state-killer-suspect-charged-four-more-murders-total-12-n873201", "key_information_obtained": "Santa Barbara charges"},
-      {"type": "TV", "title": "[31] Good Morning America, 'Golden State Killer' victim's sister: 'I can finally breathe again' (April 2018)", "url_or_reference": "https://www.goodmorningamerica.com/news/story/golden-state-killer-victims-sister-finally-breathe-54743720", "key_information_obtained": "Michelle Cruz quotes"},
-      {"type": "Wire", "title": "[32] UPI, Victims' relatives face Golden State Killer in court (Aug 20, 2020)", "url_or_reference": "https://www.upi.com/Top_News/US/2020/08/20/Victims-relatives-face-Golden-State-Killer-in-court/8831597876685/", "key_information_obtained": "Michelle Cruz statement"},
-      {"type": "Local TV", "title": "[33] CBS Sacramento, Survivors Ready For The Future After Golden State Killer Is Sentenced", "url_or_reference": "https://www.cbsnews.com/sacramento/news/survivors-ready-future-golden-state-killer-sentenced/", "key_information_obtained": "'Why did he stop'"},
-      {"type": "Local TV", "title": "[34] First Coast News, 'She can rest in peace now' — mother of last known victim", "url_or_reference": "https://firstcoastnews.com/article/news/crime/she-can-rest-in-peace-now-first-coast-mother-of-last-known-victim-of-the-golden-state-killer-speaks-on-his-life-sentence/77-fd32cbec-3a29-4727-ade8-f9f9fe543f23", "key_information_obtained": "Diane Stein"},
-      {"type": "News", "title": "[35] Heavy, Janelle Cruz's Death: 5 Fast Facts (July 2020)", "url_or_reference": "https://heavy.com/entertainment/2020/07/janelle-cruz-death/", "key_information_obtained": "Cruz details (secondary; cross-checked with [22][31])"},
-      {"type": "News", "title": "[36] Oxygen, What book inspired Michelle McNamara…", "url_or_reference": "https://www.oxygen.com/true-crime-buzz/sudden-terror-inspired-michelle-mcnamaras-gsk-book-ill-be-gone-in-the-dark", "key_information_obtained": "Coined name"},
-      {"type": "Encyclopedia", "title": "[37] Wikipedia, Michelle McNamara", "url_or_reference": "https://en.wikipedia.org/wiki/Michelle_McNamara", "key_information_obtained": "Death, article"},
-      {"type": "Encyclopedia", "title": "[38] Wikipedia, I'll Be Gone in the Dark", "url_or_reference": "https://en.wikipedia.org/wiki/I%27ll_Be_Gone_in_the_Dark", "key_information_obtained": "Publication, 3,500 files"},
-      {"type": "News", "title": "[39] Fox News, Patton Oswalt credits late wife in Golden State Killer case (April 2018)", "url_or_reference": "https://www.foxnews.com/us/patton-oswalt-credits-late-wife-in-golden-state-killer-case", "key_information_obtained": "'You did it, Michelle.'"},
-      {"type": "News", "title": "[40] TODAY, Patton Oswalt honors late wife after Golden State Killer sentencing (Aug 2020)", "url_or_reference": "https://www.today.com/popculture/patton-oswalt-honors-late-wife-after-golden-state-killer-sentencing-t190038", "key_information_obtained": "'insect' tweet"},
-      {"type": "News", "title": "[41] E! Online, Patton Oswalt speaks out on plea (June 2020)", "url_or_reference": "https://www.eonline.com/news/1166103/golden-state-killer-pleads-guilty-michelle-mcnamaras-widow-patton-oswalt-speaks-out", "key_information_obtained": "Survivors tweet"},
-      {"type": "Local TV", "title": "[42] KTVU, Critical genealogist in Golden State Killer case speaks out about her role", "url_or_reference": "https://www.ktvu.com/news/critical-genealogist-in-golden-state-killer-case-speaks-out-about-her-role", "key_information_obtained": ">1,000 cousins; suspect profile"},
-      {"type": "Encyclopedia", "title": "[43] Wikipedia, Barbara Rae-Venter", "url_or_reference": "https://en.wikipedia.org/wiki/Barbara_Rae-Venter", "key_information_obtained": "Holes contact (2017)"},
-      {"type": "News", "title": "[45] NPR, In Hunt For Golden State Killer, Investigators Uploaded His DNA To Genealogy Site (Apr 27, 2018)", "url_or_reference": "https://www.npr.org/sections/thetwo-way/2018/04/27/606624218/in-hunt-for-golden-state-killer-investigators-uploaded-his-dna-to-genealogy-site", "key_information_obtained": "GEDmatch; relative's upload"},
-      {"type": "Academic", "title": "[46] ResearchGate, The Golden State Killer investigation and the nascent field of forensic genealogy (2018)", "url_or_reference": "https://www.researchgate.net/publication/326475141_The_Golden_State_Killer_investigation_and_the_nascent_field_of_forensic_genealogy", "key_information_obtained": "Method; six men; eye colour"},
-      {"type": "News", "title": "[47] CNN, Golden State Killer suspect's stop at Hobby Lobby key to his arrest (June 2, 2018)", "url_or_reference": "https://www.cnn.com/2018/06/02/us/golden-state-killer-unsealed-warrants/index.html", "key_information_obtained": "April 18 door handle"},
-      {"type": "News", "title": "[48] ABC News, DNA from tissue taken out of alleged Golden State Killer's trash led to arrest, warrant shows", "url_or_reference": "https://abcnews.com/US/dna-tissue-alleged-golden-state-killers-trash-led/story?id=55602892", "key_information_obtained": "April 23 tissue; Charlene Smith match"},
-      {"type": "News", "title": "[49] San Francisco Chronicle, Golden State Killer suspect's DNA taken from car as he shopped at Hobby Lobby", "url_or_reference": "https://www.sfchronicle.com/crime/article/Golden-State-Killer-suspect-s-DNA-taken-from-12961700.php", "key_information_obtained": "Roseville"},
-      {"type": "News", "title": "[51] Colorado Sun, In his memoir, cold-case investigator Paul Holes also shined a light on himself (Nov 6, 2022)", "url_or_reference": "https://coloradosun.com/2022/11/06/sunlit-paul-holes-unmasked/", "key_information_obtained": "Holes reasoning"},
-      {"type": "News", "title": "[52] TheWrap, 'We Found the Needle in the Haystack,' DA Says (Apr 25, 2018)", "url_or_reference": "https://www.thewrap.com/golden-state-killer-suspect-arrest-we-found-the-needle-in-the-haystack-da-says/", "key_information_obtained": "Schubert quotes; National DNA Day"},
-      {"type": "News", "title": "[53] CNN, Authorities have been looking for the Golden State Killer for 40 years. They've arrested an ex-cop (Apr 25, 2018)", "url_or_reference": "https://www.cnn.com/2018/04/25/us/golden-state-killer-development", "key_information_obtained": "Arrest; Auburn firing; radar quote"},
-      {"type": "Public radio", "title": "[54] KQED, Suspected Golden State Killer, a Former Police Officer, Arrested in Sacramento", "url_or_reference": "https://www.kqed.org/news/11664637/suspected-golden-state-killer-a-former-police-officer-arrested-in-sacramento", "key_information_obtained": "Arrest"},
-      {"type": "Public radio", "title": "[55] NPR, 'Golden State Killer,' Suspected Of Terrorizing California For Years, Arrested (Apr 25, 2018)", "url_or_reference": "https://www.npr.org/sections/thetwo-way/2018/04/25/605771646/golden-state-killer-suspected-of-terrorizing-california-for-years-arrested", "key_information_obtained": "Retired mechanic, home"},
-      {"type": "Reference", "title": "[56] Biography.com, Golden State Killer", "url_or_reference": "https://biography.com/crime-figure/golden-state-killer", "key_information_obtained": "Birth; Navy"},
-      {"type": "Local news", "title": "[57] Valley Voice, Former Exeter officer identified as Golden State Killer, Visalia Ransacker suspect (Apr 25, 2018)", "url_or_reference": "https://www.ourvalleyvoice.com/2018/04/25/former-exeter-officer-identified-as-golden-state-killer-visalia-ransacker/", "key_information_obtained": "Exeter Sun 1973"},
-      {"type": "News", "title": "[58] CBS News, Alleged Golden State Killer's former boss: He was an average cop", "url_or_reference": "https://www.cbsnews.com/news/alleged-golden-state-killers-former-boss-he-was-an-average-cop", "key_information_obtained": "Auburn shoplifting"},
-      {"type": "NGO", "title": "[59] Death Penalty Information Center, 74-Year-Old 'Golden State Killer' Pleads Guilty… Gets 11 Life Sentences", "url_or_reference": "https://deathpenaltyinfo.org/74-year-old-golden-state-killer-joseph-deangelo-pleads-guilty-to-13-murders-and-rapes-gets-11-life-sentences", "key_information_obtained": "Age 74"},
-      {"type": "News", "title": "[60] Oxygen, Survivors And Relatives Of Golden State Killer… Tell Him He 'Can Go Straight To Hell'", "url_or_reference": "https://www.oxygen.com/crime-news/golden-state-killer-joseph-deangelo-victims-read-statements", "key_information_obtained": "Survivor reactions"},
-      {"type": "News", "title": "[61] TheWrap, Golden State Killer victim statements: 'After 42 years I still look over my shoulder'", "url_or_reference": "https://www.thewrap.com/golden-state-killer-victim-statements-ahead-of-sentencing-after-42-years-i-still-look-over-my-shoulder-video/", "key_information_obtained": "Survivor quote (headline)"},
-      {"type": "Local TV", "title": "[62] CBS Sacramento, 'I Will Never Be The Same Person': Ex-Wife Of Golden State Killer Submits Victim Impact Statement", "url_or_reference": "https://www.cbsnews.com/amp/sacramento/news/ex-wife-golden-state-killer-impact-statement", "key_information_obtained": "Ex-wife statement (headline)"},
-      {"type": "Local TV", "title": "[63] CBS Los Angeles, $50,000 Reward Offered For Elusive Cold Case 'Golden State Killer'", "url_or_reference": "https://www.cbsnews.com/losangeles/news/50000-reward-offered-for-elusive-cold-case-serial-killer/", "key_information_obtained": "Reward"},
-      {"type": "Encyclopedia", "title": "[64] Wikipedia, Joseph James DeAngelo (via search summary)", "url_or_reference": "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo", "key_information_obtained": "Aliases, 1974–1986, $100 fine"},
-      {"type": "Local TV", "title": "[65] CBS Los Angeles, Accused Golden State Killer to be charged for first murder in 1975", "url_or_reference": "https://www.cbsnews.com/losangeles/news/accused-golden-state-killer-to-be-charged-for-first-murder-in-1975", "key_information_obtained": "Visalia Ransacker"},
-      {"type": "News", "title": "[66] KARK/Nexstar, Capturing the Golden State Killer: Former DA Schubert recalls 'seismic shift'", "url_or_reference": "https://www.kark.com/news/national-news/capturing-the-golden-state-killer-former-da-schubert-recalls-seismic-shift-that-led-to-his-arrest/", "key_information_obtained": "Schubert retrospective"},
-      {"type": "News", "title": "[67] BuzzFeed News, GEDmatch Was Used To Crack The Golden State Killer Case And Has Been Bought By A Forensic Genetics Firm", "url_or_reference": "https://www.buzzfeednews.com/article/peteraldhous/the-genealogy-website-that-helped-crack-the-golden-state", "key_information_obtained": "GEDmatch sale"},
-      {"type": "News", "title": "[68] ABC News, The 'Golden State Killer': Inside the timeline of crimes", "url_or_reference": "https://abcnews.com/US/inside-timeline-crimes-golden-state-killer/story?id=54744307", "key_information_obtained": "Timeline"}
+      {
+        "type": "Magazine",
+        "title": "[3] Where Is the Golden State Killer Now? — A&E (2026)",
+        "url_or_reference": "https://www.aetv.com/articles/where-is-the-golden-state-killer-now-joseph-deangelo-life-in-prison",
+        "key_information_obtained": "Corcoran PHU, age 80"
+      },
+      {
+        "type": "News",
+        "title": "[4] NBC News, Golden State Killer Joseph DeAngelo sentenced to life without possibility of parole (Aug 21, 2020)",
+        "url_or_reference": "https://www.nbcnews.com/news/us-news/golden-state-killer-joseph-deangelo-sentenced-life-without-possibility-parole-n1237670",
+        "key_information_obtained": "Bowman quotes, reasons for plea"
+      },
+      {
+        "type": "News (AP)",
+        "title": "[5] AP via ABC13, Golden State Killer sentenced to life for 26 rapes, slayings (Aug 21, 2020)",
+        "url_or_reference": "https://abc13.com/post/golden-state-killer-sentenced-to-life-for-26-rapes-slayings/6381825/",
+        "key_information_obtained": "Sentence, apology, wheelchair"
+      },
+      {
+        "type": "News",
+        "title": "[6] ABC News, 'Golden State Killer' addresses the court: 'I'm truly sorry' (Aug 21, 2020)",
+        "url_or_reference": "https://abcnews.com/US/living-witness-teen-dads-murder-confronts-golden-state/story?id=72473195",
+        "key_information_obtained": "Apology wording"
+      },
+      {
+        "type": "News",
+        "title": "[7] The State Hornet, Golden State Killer suspect pleads guilty in hearing at Sac State (June 2020)",
+        "url_or_reference": "https://statehornet.com/2020/06/golden-state-killer-plea-guilty-sac-state",
+        "key_information_obtained": "Counts, venue"
+      },
+      {
+        "type": "News",
+        "title": "[8] Fox News, DeAngelo pleads guilty to murder for first time (June 29, 2020)",
+        "url_or_reference": "https://www.foxnews.com/us/golden-state-killer-joseph-james-deangelo-pleads-guilty-murder-first-time",
+        "key_information_obtained": "'guilty', 'I admit'"
+      },
+      {
+        "type": "News",
+        "title": "[9] CBS Sacramento, 'I Did All That': Inner Person Drove The Golden State Killer, Prosecutor Says (June 2020)",
+        "url_or_reference": "https://www.cbsnews.com/amp/sacramento/news/golden-state-killer-joseph-deangelo-pleads-guilty-sac-county-da/",
+        "key_information_obtained": "Interrogation monologue"
+      },
+      {
+        "type": "News",
+        "title": "[10] SFGate, Golden State Killer has history of faking insanity, feebleness, prosecutor says (June 2020)",
+        "url_or_reference": "https://www.sfgate.com/crime/article/Golden-State-Killer-Joseph-DeAngelo-mental-health-15374517.php",
+        "key_information_obtained": "Feigned incoherence; 1979 fake heart attack"
+      },
+      {
+        "type": "News",
+        "title": "[11] NBC News, Golden State Killer suspect charged with 13th murder — possibly his first (Aug 2018)",
+        "url_or_reference": "https://www.nbcnews.com/news/us-news/police-pin-13th-murder-accused-golden-state-killer-n900266",
+        "key_information_obtained": "Snelling details; Exeter 12 miles"
+      },
+      {
+        "type": "Local TV",
+        "title": "[12] ABC30, Daughter of Golden State Killer's first murder victim shares heartbreaking story (Aug 20, 2020)",
+        "url_or_reference": "https://abc30.com/post/golden-state-killer-victims-continue-impact-statements-in-sacramento/6379912/",
+        "key_information_obtained": "Hupp quotes"
+      },
+      {
+        "type": "News",
+        "title": "[14] Oxygen, These Are The 12 Suspected Murder Victims Of The Golden State Killer",
+        "url_or_reference": "https://www.oxygen.com/crime-time/murder-victims-golden-state-killer",
+        "key_information_obtained": "Victim details"
+      },
+      {
+        "type": "Local TV",
+        "title": "[15] CBS Sacramento, After Suspect's Arrest, Victims Share Horror Of East Area Rapist",
+        "url_or_reference": "https://www.cbsnews.com/sacramento/news/east-area-rapist-horror/",
+        "key_information_obtained": "Maggiore ages"
+      },
+      {
+        "type": "Blog/recap",
+        "title": "[16] Murder by Design (Medium), GSK Victim Impact Statements And Sentencing",
+        "url_or_reference": "https://medium.com/murder-by-design/gsk-victim-impact-statements-and-sentencing-168af2ecca63",
+        "key_information_obtained": "Smith family quotes"
+      },
+      {
+        "type": "Local TV",
+        "title": "[17] ABC10, Golden State Killer back in court for the final day of victim impact statements (Aug 20, 2020)",
+        "url_or_reference": "https://www.abc10.com/article/news/crime/golden-state-killer-back-in-court-for-the-final-day-of-victim-impact-statements/103-1341b6d2-a0bd-4845-99c1-d2ad778bbfd2",
+        "key_information_obtained": "Katie's brother"
+      },
+      {
+        "type": "Court-watch site",
+        "title": "[18] goldenstatekillertrial.com, August 20th, 2020 Victim Impact Statements",
+        "url_or_reference": "http://goldenstatekillertrial.com/august-20th-2020-victim-impact-statements-in-sacramento/",
+        "key_information_obtained": "Speaker list; Ho read Loretta's statement"
+      },
+      {
+        "type": "News",
+        "title": "[21] Oxygen, Daughter Of Victims Of Golden State Killer Faces Suspect For First Time",
+        "url_or_reference": "https://www.oxygen.com/crime-time/golden-state-killer-joseph-deangelo-jennifer-carole-victim-court",
+        "key_information_obtained": "Carole quote; Smith ages"
+      },
+      {
+        "type": "News",
+        "title": "[22] ABC News, 'Golden State Killer' victims included couple murdered in their home",
+        "url_or_reference": "https://abcnews.com/US/portraits-golden-state-killer-victims/story?id=54748646",
+        "key_information_obtained": "Victim portraits"
+      },
+      {
+        "type": "Local TV",
+        "title": "[23] CBS San Francisco, Brother Of Golden State Killer's Victim Advocated For DNA Testing",
+        "url_or_reference": "https://www.cbsnews.com/sanfrancisco/news/brother-golden-state-killers-victim-advocated-dna-testing/",
+        "key_information_obtained": "Prop 69; quote"
+      },
+      {
+        "type": "Local TV",
+        "title": "[24] CBS Sacramento, East Area Rapist Victims' Brother Led Crusade For DNA Database",
+        "url_or_reference": "https://www.cbsnews.com/sacramento/news/dna-database-east-area-rapist/",
+        "key_information_obtained": "Prop 69"
+      },
+      {
+        "type": "Local news",
+        "title": "[25] Dana Point Times (Picket Fence Media), GSK Suspect Pleads Guilty to 13 Murder Counts, Including Dana Point Couple",
+        "url_or_reference": "https://www.picketfencemedia.com/golden-state-killer-suspect-pleads-guilty-to-13-murder-counts-including-dana-point-couple/article_60f20e33-be5f-5b3b-95bd-24cbd8f7c5d3.html",
+        "key_information_obtained": "Harrington details"
+      },
+      {
+        "type": "Local TV",
+        "title": "[27] Spectrum News 1, Golden State Killer Faces His Victims Before Sentencing (Aug 18, 2020)",
+        "url_or_reference": "https://spectrumnews1.com/ca/orange-county/public-safety/2020/08/18/golden-state-killer-faces-his-victims-before-sentencing",
+        "key_information_obtained": "Witthuhn details"
+      },
+      {
+        "type": "Radio",
+        "title": "[28] KFI AM 640, Relatives of Golden State Killer's Murder Victims Testify (Aug 20, 2020)",
+        "url_or_reference": "https://kfiam640.iheart.com/content/2020-08-20-golden-state-killer-to-face-murder-victims/",
+        "key_information_obtained": "Cruz/Witthuhn statements"
+      },
+      {
+        "type": "Local news",
+        "title": "[29] Noozhawk, Family, Friends of Homicide Victims Confront Joseph DeAngelo",
+        "url_or_reference": "https://www.noozhawk.com/deangelo_golden_state_killer_victim_impact_statements/",
+        "key_information_obtained": "Goleta victims"
+      },
+      {
+        "type": "News",
+        "title": "[30] NBC News, Golden State Killer suspect charged with four more murders, total 12",
+        "url_or_reference": "https://www.nbcnews.com/news/us-news/golden-state-killer-suspect-charged-four-more-murders-total-12-n873201",
+        "key_information_obtained": "Santa Barbara charges"
+      },
+      {
+        "type": "TV",
+        "title": "[31] Good Morning America, 'Golden State Killer' victim's sister: 'I can finally breathe again' (April 2018)",
+        "url_or_reference": "https://www.goodmorningamerica.com/news/story/golden-state-killer-victims-sister-finally-breathe-54743720",
+        "key_information_obtained": "Michelle Cruz quotes"
+      },
+      {
+        "type": "Wire",
+        "title": "[32] UPI, Victims' relatives face Golden State Killer in court (Aug 20, 2020)",
+        "url_or_reference": "https://www.upi.com/Top_News/US/2020/08/20/Victims-relatives-face-Golden-State-Killer-in-court/8831597876685/",
+        "key_information_obtained": "Michelle Cruz statement"
+      },
+      {
+        "type": "Local TV",
+        "title": "[33] CBS Sacramento, Survivors Ready For The Future After Golden State Killer Is Sentenced",
+        "url_or_reference": "https://www.cbsnews.com/sacramento/news/survivors-ready-future-golden-state-killer-sentenced/",
+        "key_information_obtained": "'Why did he stop'"
+      },
+      {
+        "type": "Local TV",
+        "title": "[34] First Coast News, 'She can rest in peace now' — mother of last known victim",
+        "url_or_reference": "https://firstcoastnews.com/article/news/crime/she-can-rest-in-peace-now-first-coast-mother-of-last-known-victim-of-the-golden-state-killer-speaks-on-his-life-sentence/77-fd32cbec-3a29-4727-ade8-f9f9fe543f23",
+        "key_information_obtained": "Diane Stein"
+      },
+      {
+        "type": "News",
+        "title": "[35] Heavy, Janelle Cruz's Death: 5 Fast Facts (July 2020)",
+        "url_or_reference": "https://heavy.com/entertainment/2020/07/janelle-cruz-death/",
+        "key_information_obtained": "Cruz details (secondary; cross-checked with [22][31])"
+      },
+      {
+        "type": "News",
+        "title": "[36] Oxygen, What book inspired Michelle McNamara…",
+        "url_or_reference": "https://www.oxygen.com/true-crime-buzz/sudden-terror-inspired-michelle-mcnamaras-gsk-book-ill-be-gone-in-the-dark",
+        "key_information_obtained": "Coined name"
+      },
+      {
+        "type": "Encyclopedia",
+        "title": "[37] Wikipedia, Michelle McNamara",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Michelle_McNamara",
+        "key_information_obtained": "Death, article"
+      },
+      {
+        "type": "Encyclopedia",
+        "title": "[38] Wikipedia, I'll Be Gone in the Dark",
+        "url_or_reference": "https://en.wikipedia.org/wiki/I%27ll_Be_Gone_in_the_Dark",
+        "key_information_obtained": "Publication, 3,500 files"
+      },
+      {
+        "type": "News",
+        "title": "[39] Fox News, Patton Oswalt credits late wife in Golden State Killer case (April 2018)",
+        "url_or_reference": "https://www.foxnews.com/us/patton-oswalt-credits-late-wife-in-golden-state-killer-case",
+        "key_information_obtained": "'You did it, Michelle.'"
+      },
+      {
+        "type": "News",
+        "title": "[40] TODAY, Patton Oswalt honors late wife after Golden State Killer sentencing (Aug 2020)",
+        "url_or_reference": "https://www.today.com/popculture/patton-oswalt-honors-late-wife-after-golden-state-killer-sentencing-t190038",
+        "key_information_obtained": "'insect' tweet"
+      },
+      {
+        "type": "News",
+        "title": "[41] E! Online, Patton Oswalt speaks out on plea (June 2020)",
+        "url_or_reference": "https://www.eonline.com/news/1166103/golden-state-killer-pleads-guilty-michelle-mcnamaras-widow-patton-oswalt-speaks-out",
+        "key_information_obtained": "Survivors tweet"
+      },
+      {
+        "type": "Local TV",
+        "title": "[42] KTVU, Critical genealogist in Golden State Killer case speaks out about her role",
+        "url_or_reference": "https://www.ktvu.com/news/critical-genealogist-in-golden-state-killer-case-speaks-out-about-her-role",
+        "key_information_obtained": ">1,000 cousins; suspect profile"
+      },
+      {
+        "type": "Encyclopedia",
+        "title": "[43] Wikipedia, Barbara Rae-Venter",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Barbara_Rae-Venter",
+        "key_information_obtained": "Holes contact (2017)"
+      },
+      {
+        "type": "News",
+        "title": "[45] NPR, In Hunt For Golden State Killer, Investigators Uploaded His DNA To Genealogy Site (Apr 27, 2018)",
+        "url_or_reference": "https://www.npr.org/sections/thetwo-way/2018/04/27/606624218/in-hunt-for-golden-state-killer-investigators-uploaded-his-dna-to-genealogy-site",
+        "key_information_obtained": "GEDmatch; relative's upload"
+      },
+      {
+        "type": "Academic",
+        "title": "[46] ResearchGate, The Golden State Killer investigation and the nascent field of forensic genealogy (2018)",
+        "url_or_reference": "https://www.researchgate.net/publication/326475141_The_Golden_State_Killer_investigation_and_the_nascent_field_of_forensic_genealogy",
+        "key_information_obtained": "Method; six men; eye colour"
+      },
+      {
+        "type": "News",
+        "title": "[47] CNN, Golden State Killer suspect's stop at Hobby Lobby key to his arrest (June 2, 2018)",
+        "url_or_reference": "https://www.cnn.com/2018/06/02/us/golden-state-killer-unsealed-warrants/index.html",
+        "key_information_obtained": "April 18 door handle"
+      },
+      {
+        "type": "News",
+        "title": "[48] ABC News, DNA from tissue taken out of alleged Golden State Killer's trash led to arrest, warrant shows",
+        "url_or_reference": "https://abcnews.com/US/dna-tissue-alleged-golden-state-killers-trash-led/story?id=55602892",
+        "key_information_obtained": "April 23 tissue; Charlene Smith match"
+      },
+      {
+        "type": "News",
+        "title": "[49] San Francisco Chronicle, Golden State Killer suspect's DNA taken from car as he shopped at Hobby Lobby",
+        "url_or_reference": "https://www.sfchronicle.com/crime/article/Golden-State-Killer-suspect-s-DNA-taken-from-12961700.php",
+        "key_information_obtained": "Roseville"
+      },
+      {
+        "type": "News",
+        "title": "[51] Colorado Sun, In his memoir, cold-case investigator Paul Holes also shined a light on himself (Nov 6, 2022)",
+        "url_or_reference": "https://coloradosun.com/2022/11/06/sunlit-paul-holes-unmasked/",
+        "key_information_obtained": "Holes reasoning"
+      },
+      {
+        "type": "News",
+        "title": "[52] TheWrap, 'We Found the Needle in the Haystack,' DA Says (Apr 25, 2018)",
+        "url_or_reference": "https://www.thewrap.com/golden-state-killer-suspect-arrest-we-found-the-needle-in-the-haystack-da-says/",
+        "key_information_obtained": "Schubert quotes; National DNA Day"
+      },
+      {
+        "type": "News",
+        "title": "[53] CNN, Authorities have been looking for the Golden State Killer for 40 years. They've arrested an ex-cop (Apr 25, 2018)",
+        "url_or_reference": "https://www.cnn.com/2018/04/25/us/golden-state-killer-development",
+        "key_information_obtained": "Arrest; Auburn firing; radar quote"
+      },
+      {
+        "type": "Public radio",
+        "title": "[54] KQED, Suspected Golden State Killer, a Former Police Officer, Arrested in Sacramento",
+        "url_or_reference": "https://www.kqed.org/news/11664637/suspected-golden-state-killer-a-former-police-officer-arrested-in-sacramento",
+        "key_information_obtained": "Arrest"
+      },
+      {
+        "type": "Public radio",
+        "title": "[55] NPR, 'Golden State Killer,' Suspected Of Terrorizing California For Years, Arrested (Apr 25, 2018)",
+        "url_or_reference": "https://www.npr.org/sections/thetwo-way/2018/04/25/605771646/golden-state-killer-suspected-of-terrorizing-california-for-years-arrested",
+        "key_information_obtained": "Retired mechanic, home"
+      },
+      {
+        "type": "Reference",
+        "title": "[56] Biography.com, Golden State Killer",
+        "url_or_reference": "https://biography.com/crime-figure/golden-state-killer",
+        "key_information_obtained": "Birth; Navy"
+      },
+      {
+        "type": "Local news",
+        "title": "[57] Valley Voice, Former Exeter officer identified as Golden State Killer, Visalia Ransacker suspect (Apr 25, 2018)",
+        "url_or_reference": "https://www.ourvalleyvoice.com/2018/04/25/former-exeter-officer-identified-as-golden-state-killer-visalia-ransacker/",
+        "key_information_obtained": "Exeter Sun 1973"
+      },
+      {
+        "type": "News",
+        "title": "[58] CBS News, Alleged Golden State Killer's former boss: He was an average cop",
+        "url_or_reference": "https://www.cbsnews.com/news/alleged-golden-state-killers-former-boss-he-was-an-average-cop",
+        "key_information_obtained": "Auburn shoplifting"
+      },
+      {
+        "type": "NGO",
+        "title": "[59] Death Penalty Information Center, 74-Year-Old 'Golden State Killer' Pleads Guilty… Gets 11 Life Sentences",
+        "url_or_reference": "https://deathpenaltyinfo.org/74-year-old-golden-state-killer-joseph-deangelo-pleads-guilty-to-13-murders-and-rapes-gets-11-life-sentences",
+        "key_information_obtained": "Age 74"
+      },
+      {
+        "type": "News",
+        "title": "[60] Oxygen, Survivors And Relatives Of Golden State Killer… Tell Him He 'Can Go Straight To Hell'",
+        "url_or_reference": "https://www.oxygen.com/crime-news/golden-state-killer-joseph-deangelo-victims-read-statements",
+        "key_information_obtained": "Survivor reactions"
+      },
+      {
+        "type": "News",
+        "title": "[61] TheWrap, Golden State Killer victim statements: 'After 42 years I still look over my shoulder'",
+        "url_or_reference": "https://www.thewrap.com/golden-state-killer-victim-statements-ahead-of-sentencing-after-42-years-i-still-look-over-my-shoulder-video/",
+        "key_information_obtained": "Survivor quote (headline)"
+      },
+      {
+        "type": "Local TV",
+        "title": "[62] CBS Sacramento, 'I Will Never Be The Same Person': Ex-Wife Of Golden State Killer Submits Victim Impact Statement",
+        "url_or_reference": "https://www.cbsnews.com/amp/sacramento/news/ex-wife-golden-state-killer-impact-statement",
+        "key_information_obtained": "Ex-wife statement (headline)"
+      },
+      {
+        "type": "Local TV",
+        "title": "[63] CBS Los Angeles, $50,000 Reward Offered For Elusive Cold Case 'Golden State Killer'",
+        "url_or_reference": "https://www.cbsnews.com/losangeles/news/50000-reward-offered-for-elusive-cold-case-serial-killer/",
+        "key_information_obtained": "Reward"
+      },
+      {
+        "type": "Encyclopedia",
+        "title": "[64] Wikipedia, Joseph James DeAngelo (via search summary)",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo",
+        "key_information_obtained": "Aliases, 1974–1986, $100 fine"
+      },
+      {
+        "type": "Local TV",
+        "title": "[65] CBS Los Angeles, Accused Golden State Killer to be charged for first murder in 1975",
+        "url_or_reference": "https://www.cbsnews.com/losangeles/news/accused-golden-state-killer-to-be-charged-for-first-murder-in-1975",
+        "key_information_obtained": "Visalia Ransacker"
+      },
+      {
+        "type": "News",
+        "title": "[66] KARK/Nexstar, Capturing the Golden State Killer: Former DA Schubert recalls 'seismic shift'",
+        "url_or_reference": "https://www.kark.com/news/national-news/capturing-the-golden-state-killer-former-da-schubert-recalls-seismic-shift-that-led-to-his-arrest/",
+        "key_information_obtained": "Schubert retrospective"
+      },
+      {
+        "type": "News",
+        "title": "[67] BuzzFeed News, GEDmatch Was Used To Crack The Golden State Killer Case And Has Been Bought By A Forensic Genetics Firm",
+        "url_or_reference": "https://www.buzzfeednews.com/article/peteraldhous/the-genealogy-website-that-helped-crack-the-golden-state",
+        "key_information_obtained": "GEDmatch sale"
+      },
+      {
+        "type": "News",
+        "title": "[68] ABC News, The 'Golden State Killer': Inside the timeline of crimes",
+        "url_or_reference": "https://abcnews.com/US/inside-timeline-crimes-golden-state-killer/story?id=54744307",
+        "key_information_obtained": "Timeline"
+      }
     ]
   },
   "next_video_hook": {
@@ -346,7 +1309,9 @@
       "'Narrowed to six men' and eye-colour prediction — single academic source; script says 'a handful of men'",
       "Names of the Smiths' son who found the bodies — not used",
       "Ages of Robert Offerman and Debra Manning — not used",
-      "Exact count of uncharged admissions (161 offenses vs 62 rapes) — script says 'dozens of rapes too old to prosecute'"
+      "Exact count of uncharged admissions (161 offenses vs 62 rapes) — script says 'dozens of rapes too old to prosecute'",
+      "End of the Northern California attacks in 1979 (script says the northern attacks had stopped by the end of 1979) — consistent with the case chronology but not confirmed by a dedicated source in-session",
+      "Script says DNA testing later linked the EAR and ONS crimes without giving the year"
     ],
     "information_gaps": [
       "Direct page access was blocked; all sourcing is from search summaries of named articles",

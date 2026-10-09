@@ -849,7 +849,7 @@
       },
       {
         "type": "Background knowledge (not re-verified this session)",
-        "title": "[37] General background context (well-established public facts, not re-verified this session because the search budget was exhausted): CODIS, the FBI's national DNA index (national level operational in 1998; about 20 core STR markers since 2017); DNA fingerprinting discovered by Alec Jeffreys in 1984; GEDmatch founded 2010; Golden State Killer (Joseph James DeAngelo) arrested April 24, 2018 after genetic genealogy using GEDmatch; Othram founded in 2018; February 1974 context: Watergate investigation (Nixon resigned August 9, 1974), the 1973-74 Arab oil embargo and gasoline lines, Patty Hearst kidnapped in Berkeley on February 4, 1974. AMBER Alert origin: 9-year-old Amber Hagerman abducted in Arlington, Texas, on January 13, 1996; the alert system created in the Dallas-Fort Worth area in 1996. Fort Worth slogan 'Where the West Begins'; Dallas about 30 miles east of Fort Worth; Valentine's Day 1974 fell on a Thursday (calendar).",
+        "title": "[37] General background context (well-established public facts, not re-verified this session because the search budget was exhausted): CODIS, the FBI's national DNA index (national level operational in 1998; about 20 core STR markers since 2017); DNA fingerprinting discovered by Alec Jeffreys in 1984; GEDmatch founded 2010; Golden State Killer (Joseph James DeAngelo) arrested April 24, 2018 after genetic genealogy using GEDmatch; Othram founded in 2018; February 1974 context: Watergate investigation (Nixon resigned August 9, 1974), the 1973-74 Arab oil embargo and gasoline lines, Patty Hearst kidnapped in Berkeley on February 4, 1974. AMBER Alert origin: 9-year-old Amber Hagerman abducted in Arlington, Texas, on January 13, 1996; the alert system created in the Dallas-Fort Worth area in 1996. Fort Worth slogan 'Where the West Begins'; Dallas about 30 miles east of Fort Worth; Valentine's Day 1974 fell on a Thursday (calendar). Also: Sam Houston State University is in Huntsville, Texas, and known for criminal justice programs; curbside trash is generally treated as abandoned (California v. Greenwood, 1988); polygraph results are generally inadmissible in Texas courts; Bowie County is in northeast Texas; The Woodlands is about four hours' drive south of Fort Worth; the Chevrolet Monte Carlo of the early 1970s was a two-door coupe; 4 nanograms = 4 billionths of a gram; Feb. 17, 1974 to Sept. 21, 2020 = 17,018 days (computed).",
         "url_or_reference": "https://www.fbi.gov/services/laboratory/biometric-analysis/codis",
         "key_information_obtained": "Era and science context"
       }
@@ -870,7 +870,8 @@
       "Dance theme 'Love is a Kaleidoscope': single source (Dateline NBC) - attributed in script",
       "Drinking straw among the trash items: single secondary mention; script says 'items from his trash'",
       "Prison: Star-Telegram says Telford Unit, Bowie County; another site says Gib Lewis Unit. Script names Telford with attribution",
-      "Parole: AP says 'life in prison'; Star-Telegram/Wikipedia say 'without parole' (Texas had no LWOP in 1974); script says 'life in prison'"
+      "Parole: AP says 'life in prison'; Star-Telegram/Wikipedia say 'without parole' (Texas had no LWOP in 1974); script says 'life in prison'",
+      "Background facts in source [37] are general knowledge, not re-verified in this session (search budget exhausted; page fetching blocked)."
     ],
     "information_gaps": [
       "Names of Carla's parents not verified - not used",
