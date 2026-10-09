@@ -1,0 +1,326 @@
+{
+  "video_metadata": {
+    "working_title": "TEXAS 1974 Cold Case Solved After 46 Years — Justice for Carla Walker",
+    "topic_one_sentence": "In the early hours of February 17, 1974, 17-year-old Carla Walker was taken from her boyfriend's car in the Ridglea Bowl parking lot in Fort Worth after a Valentine's dance; the man questioned and cleared in March 1974, Glen Samuel McCurley, was identified 46 years later through forensic genetic genealogy, arrested on September 21, 2020, and pleaded guilty on August 24, 2021.",
+    "primary_emotion_to_evoke": "grief turning into quiet vindication: the answer had been sitting in the 1974 file all along",
+    "target_length_minutes": "70"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Glen Samuel McCurley (perpetrator; convicted by guilty plea). The heart of the story is the victim, Carla Jan Walker.",
+    "age_at_time_of_events": "Age 77 at his arrest on September 21, 2020 and 78 at his plea in August 2021 [9][11][26]; by arithmetic he was about 30 or 31 in February 1974 (computed, not stated in sources). Died at 80 in July 2023 [8].",
+    "occupation_or_status": "In 1974 an ex-convict (by his own statement to detectives, per the 2020 arrest affidavit) who owned a .22 caliber Ruger [7][9][10]. In 2020 he was living quietly in Fort Worth [5 Texas Monthly = source 7].",
+    "location": "Fort Worth, Texas (1974 and 2020) [7][9]",
+    "physical_description": "Not used. No verified physical description gathered.",
+    "background_brief": "In 1974 detectives traced a pistol magazine found at the abduction scene to a .22 Ruger; ATF purchase records gave about two dozen local buyers and McCurley was one of them. In early March 1974 two detectives visited his home; he said the Ruger had been stolen from his pickup about six weeks earlier while he was fishing, that he had not reported the theft because he was an ex-convict, and that his wife had been in West Texas at the time. He agreed to a polygraph, passed, and was cleared [7][9][15].",
+    "psychological_profile": "Not speculated. Documented behaviour only: denied knowing Carla in 1974 and again in September 2020 ('I've never seen her'), then broke down in the recorded interview and admitted choking her [24][25][26].",
+    "mundane_humanizing_detail": "Not used for the perpetrator (style rule: never glamorise).",
+    "nickname_or_alias_if_any": "None known"
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {
+        "name": "Carla Jan Walker [MINOR, 17]",
+        "role_or_profession": "Junior at Western Hills High School (Fort Worth ISD, Benbrook area); cheerleader; tennis team member [5][15][16]",
+        "connection_to_protagonist": "Stranger. Abducted from the passenger seat of her boyfriend's car in the Ridglea Bowl parking lot in the early hours of February 17, 1974; found in a culvert near Benbrook Lake on February 20, 1974 [1][9][15]",
+        "specific_impact_suffered": "Kidnapped, sexually assaulted and strangled (plain legal fact only; no detail) [2][9]",
+        "humanizing_detail": "Described by her sister Cindy as funny, sweet, tough and stubborn, a 'little spitfire'; at 16 she told her family she wanted a new Monte Carlo and her parents got it for her; popular with many girlfriends; her brother Jim thought she would go to college and become a veterinarian [16]",
+        "any_quotes_from_them": "None documented"
+      },
+      {
+        "name": "Rodney McCoy",
+        "role_or_profession": "Carla's boyfriend in 1974; the only living witness other than the killer [14]",
+        "connection_to_protagonist": "Struck in the head with a pistol by the attacker; never saw his face [14]",
+        "specific_impact_suffered": "Knocked unconscious; the gun was pointed inches from his head and clicked three times without firing; later placed on the 2019 list of more than 80 possible suspects that the cold case detectives reviewed [14][15]",
+        "humanizing_detail": "Drove to the Walker home with blood running into his eyes and banged on the door; testified at the 2021 trial [14]",
+        "any_quotes_from_them": "'I was in shock' (what he told the family, as reported from his 2021 testimony) [14]"
+      },
+      {
+        "name": "Jim Walker",
+        "role_or_profession": "Carla's younger brother; 12 years old in 1974 [11][13]",
+        "connection_to_protagonist": "Spoke at the September 22, 2020 press conference and addressed McCurley in court in August 2021 [11][12][5]",
+        "specific_impact_suffered": "Grew up in the shadow of the case; graduated from Western Hills High, attended Sam Houston State University, planned to become a detective to get his hands on Carla's files; for years called the Fort Worth police cold case unit asking about developments [7]",
+        "humanizing_detail": "Wept at the 2020 press conference [13]; told the court he had managed to forgive his sister's killer [5]; later served on the board of the FWPD Cold Case Support Group [33]",
+        "any_quotes_from_them": "'The word that came across my brain was finally, finally.' / 'This is a resolution that's been prayed for.' [11]; 'Carla was tiny, but mighty.' [16]"
+      },
+      {
+        "name": "Cindy (Walker) Stone",
+        "role_or_profession": "Carla's older sister; closest sibling, 'not only sisters, but best friends' [16]",
+        "connection_to_protagonist": "Delivered a victim impact statement on August 24, 2021 [2][5][36]",
+        "specific_impact_suffered": "Said the unresolved case shattered family milestones and relationships; said McCurley put her family through hell [5]",
+        "humanizing_detail": "Called Carla a 'little spitfire' [16]",
+        "any_quotes_from_them": "'I wish you'd done this a long time ago.' [5][36] (AP renders it 'I wish you had done this a long time ago.' [2]); 'I knew her.' and 'You had choices.' [5]"
+      }
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "The Walker family (parents and siblings) and the unsolved-case families of Fort Worth",
+      "total_number_affected": "Not quantified. A downtown Fort Worth rally raised awareness of about 1,000 unsolved cold cases (single source, date not verified) [news.yahoo rally item, not numbered; not used in script]",
+      "range_of_impacts": "Decades without an answer; milestones overshadowed [5]"
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Detective Leah Wagner, Fort Worth Police Department", "role_in_story": "Cold case detective", "key_actions_they_took": "Joined FWPD in 2000, patrol first, detective in 2013, moved to the cold case unit in 2018 when she was its sole staffer; returned Jim Walker's calls; reopened the case with Bennett in 2019; sent Carla's dress, bra and underwear for testing; received the September 4, 2020 lab call [7][9][11][15]", "notable_quotes": "None verified verbatim"},
+      {"name": "Detective Jeff Bennett, Fort Worth Police Department (CBS renders the first name 'Jay')", "role_in_story": "Cold case detective, Wagner's partner", "key_actions_they_took": "Reopened the case in 2019; called Paul Holes about the tiny remaining DNA; visited Othram's lab; sent a piece of Carla's bra to Othram CEO David Mittelman; interviewed McCurley at home in September 2020; later created the FWPD Cold Case Support Group nonprofit [11][18][33]", "notable_quotes": "'We had a very, very small amount left, which is not typically usable.' and told Holes he had 'four nanograms of DNA' [18]"},
+      {"name": "Paul Holes", "role_in_story": "Retired investigator; host of Oxygen's 'The DNA of Murder with Paul Holes'", "key_actions_they_took": "Introduced Fort Worth detectives to Othram after the evidence produced no CODIS hit; Oxygen paid for the testing according to reporting [7][17][18]", "notable_quotes": "None used"},
+      {"name": "David Mittelman", "role_in_story": "CEO of Othram Inc., The Woodlands, Texas", "key_actions_they_took": "Received the bra sample; Othram built a profile and uploaded the data to GEDmatch [18][20]", "notable_quotes": "None used"},
+      {"name": "Judge Elizabeth Beach", "role_in_story": "Tarrant County district judge", "key_actions_they_took": "Sentenced McCurley to life in prison on August 24, 2021 [2][5]", "notable_quotes": "None"},
+      {"name": "Sharen Wilson", "role_in_story": "Tarrant County Criminal District Attorney", "key_actions_they_took": "Office decided not to seek the death penalty (announced May 2021) [23]", "notable_quotes": "Said Fort Worth police 'never gave up.' [2]"},
+      {"name": "Senators John Cornyn (R-Texas) and Peter Welch (D-Vermont)", "role_in_story": "Sponsors of the Carla Walker Act", "key_actions_they_took": "Introduced the bill December 12, 2024; reintroduced May 22, 2025; Senate passed it unanimously in June 2026 [27][28][29][30]", "notable_quotes": "Cornyn: 'This bill creates a pilot program to fund the use of forensic genetic genealogy, which enables law enforcement to investigate and prosecute cold cases and other hard-to-solve crimes.' [28]"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "Saturday, February 16, 1974 (evening)", "location": "Western Hills High School, Benbrook/Fort Worth", "what_happened": "Carla, 17, attends the school's Valentine's dance with boyfriend Rodney McCoy; Dateline reports the theme was 'Love is a Kaleidoscope'", "significance": "Last ordinary hours", "source": "[1][15][31]"},
+      {"date": "Early morning, Sunday, February 17, 1974", "location": "Parking lot of Brunswick Ridglea Bowl, west Fort Worth", "what_happened": "Sitting in McCoy's car, the couple is approached by an armed man who strikes McCoy with a pistol, pulls Carla from the passenger seat and takes her; the gun clicked three times without firing; McCoy blacks out; police later said the man told McCoy 'I am going to kill you'", "significance": "The abduction", "source": "[1][11][14]"},
+      {"date": "February 17, 1974", "location": "Walker family home", "what_happened": "McCoy drives to the Walker house with blood running into his eyes, bangs on the door, tells the family what happened", "significance": "The family learns", "source": "[14]"},
+      {"date": "February 17, 1974", "location": "Ridglea Bowl lot", "what_happened": "A magazine from a .22 caliber Ruger is found at the scene", "significance": "The 1974 clue that pointed at McCurley", "source": "[7][9][15]"},
+      {"date": "Wednesday, February 20, 1974", "location": "Culvert near Benbrook Lake, about 30 minutes south(-west) of Fort Worth", "what_happened": "Carla's body is found three days after the abduction; she had been sexually assaulted and strangled", "significance": "Discovery; clothing (dress, bra, underwear) preserved as evidence", "source": "[1][2][7][15]"},
+      {"date": "Early March 1974", "location": "McCurley's home, Fort Worth", "what_happened": "After tracing the magazine to a .22 Ruger and pulling ATF purchase records (about two dozen buyers), two detectives visit McCurley; he says his Ruger was stolen from his pickup about six weeks earlier while fishing, that he did not report it because he was an ex-convict, and that his wife was in West Texas; he passes a polygraph and is cleared", "significance": "The killer is questioned and released in the first weeks", "source": "[7][9][10][15]"},
+      {"date": "1974", "location": "Fort Worth", "what_happened": "An anonymous handwritten letter is sent to a detective saying the writer might know who was responsible; it contains 'Sign 10100'", "significance": "A lead that went nowhere; resurfaced in 2019", "source": "[21][22]"},
+      {"date": "2000-2018", "location": "Fort Worth Police Department", "what_happened": "Leah Wagner joins FWPD in 2000, becomes a detective in 2013, joins the cold case unit in 2018 as its sole staffer", "significance": "The detective who answers Jim Walker's calls", "source": "[7]"},
+      {"date": "2018", "location": "Fort Worth", "what_happened": "Jim Walker reaches out to Fort Worth police asking for a fresh look", "significance": "Family pressure", "source": "[15][16]"},
+      {"date": "April 2019", "location": "Fort Worth", "what_happened": "Police publicly release the 1974 anonymous letter seeking its author", "significance": "Renewed public attention", "source": "[21][22]"},
+      {"date": "2019", "location": "FWPD Cold Case Unit", "what_happened": "Detectives Leah Wagner and Jeff Bennett reopen the case; build a list of more than 80 possible suspects; send Carla's dress, bra and underwear for testing; a male DNA profile from the bra yields no CODIS hit", "significance": "The modern investigation begins", "source": "[11][15][18]"},
+      {"date": "2020 (Wikipedia: April or May 2020)", "location": "Othram Inc., The Woodlands, Texas", "what_happened": "After an introduction by Paul Holes, Bennett and Wagner visit Othram and send a piece of Carla's bra to CEO David Mittelman; about four nanograms of DNA remain; Othram builds a profile and uploads it to GEDmatch; genealogy points to the McCurley family and narrows to three brothers", "significance": "The breakthrough", "source": "[1][15][18][19]"},
+      {"date": "July 7, 2020", "location": "Curbside bin at McCurley's Fort Worth home", "what_happened": "Investigators collect three items from his trash and send them for DNA testing (one account mentions a drinking straw)", "significance": "Discarded DNA", "source": "[9][18][19]"},
+      {"date": "September 4, 2020", "location": "Fort Worth", "what_happened": "Wagner is told by the lab that DNA from the trash matches the profile from Carla's bra", "significance": "First match", "source": "[9]"},
+      {"date": "Days after September 4, 2020", "location": "McCurley's home", "what_happened": "Bennett and Wagner interview McCurley; he denies knowing or killing Carla and consents to two mouth swabs", "significance": "Confirmation sample", "source": "[9][10]"},
+      {"date": "Wednesday, September 16, 2020", "location": "Lab", "what_happened": "McCurley's swab matches the DNA on Carla's bra", "significance": "Confirmed", "source": "[9] (day inferred from 'last Wednesday' in Sept. 22 report)"},
+      {"date": "Monday, September 21, 2020", "location": "Fort Worth", "what_happened": "McCurley, 77, is arrested without incident and charged with capital murder; held in Tarrant County Jail, bond $100,000; recorded police interview in which he first says 'I've never seen her' and later admits choking her", "significance": "Arrest", "source": "[1][9][11][24]"},
+      {"date": "Tuesday, September 22, 2020", "location": "FWPD press conference", "what_happened": "Jim Walker, in tears, thanks police: 'finally, finally'; '46 years, 7 months and 5 days'", "significance": "The family speaks", "source": "[11][12][13]"},
+      {"date": "Late 2020 / early 2021 (exact date not verified)", "location": "Tarrant County", "what_happened": "Grand jury indicts McCurley, 77, for capital murder", "significance": "Formal charge", "source": "[34][28 Fox News indictment item not numbered]"},
+      {"date": "May 2021", "location": "Tarrant County DA", "what_happened": "Prosecutors announce they will not seek the death penalty", "significance": "Life in prison is the goal", "source": "[23][2]"},
+      {"date": "Late August 2021 (opening ~Friday, August 20)", "location": "Tarrant County courthouse, Fort Worth", "what_happened": "Capital murder trial; Rodney McCoy testifies; jurors watch the 2020 interview video", "significance": "Trial", "source": "[14][24][25]"},
+      {"date": "Tuesday, August 24, 2021", "location": "Tarrant County court", "what_happened": "On the third day of trial McCurley, 78, waives the jury and pleads guilty to capital murder; Judge Elizabeth Beach sentences him to life in prison; families embrace; Cindy Stone and Jim Walker address him", "significance": "Conviction", "source": "[2][3][4][5][6]"},
+      {"date": "July 2022 (Texas Monthly August 2022 issue)", "location": "Texas Monthly", "what_happened": "Skip Hollandsworth reports police suspected Carla was not his only victim", "significance": "Open questions", "source": "[7]"},
+      {"date": "July 2023", "location": "Telford Unit (state prison), Bowie County, Texas", "what_happened": "McCurley dies of natural causes at 80, less than three years after his arrest; he had been a person of interest in three other murders but was never charged with them", "significance": "Final legal status", "source": "[8][1]"},
+      {"date": "December 12, 2024", "location": "U.S. Senate", "what_happened": "Senators Cornyn and Welch introduce the Carla Walker Act", "significance": "Legacy", "source": "[30][27]"},
+      {"date": "May 22, 2025", "location": "U.S. Senate", "what_happened": "Bill reintroduced in the new Congress", "significance": "Legacy", "source": "[27][30]"},
+      {"date": "June 2026", "location": "U.S. Senate", "what_happened": "Senate passes the Carla Walker Act unanimously; creates a pilot program to fund forensic genetic genealogy; House companion led by Reps. Wesley Hunt and Mike Simpson; no House vote found as of October 2026", "significance": "Current status of the legacy", "source": "[27][28][29]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {
+      "exact_date": "Early morning of Sunday, February 17, 1974",
+      "exact_location": "Brunswick Ridglea Bowl parking lot, west Fort Worth, Texas",
+      "what_is_happening": "Two teenagers in a parked car after a Valentine's dance; an armed man approaches the passenger side",
+      "what_makes_it_shocking": "A 17-year-old taken from a car with her boyfriend beside her; the gun clicked three times",
+      "ironic_twist": "Within weeks, detectives sat in the killer's home, heard his story about a stolen gun, watched him pass a polygraph, and cleared him. His name stayed in the file for 46 years."
+    },
+    "central_mystery_question": "How could the man who left a gun magazine in the parking lot be questioned in 1974 and stay free until 2020?"
+  },
+  "the_method": {
+    "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+    "technique_name": "Forensic genetic genealogy (FGG) with forensic-grade genome sequencing (Othram) and GEDmatch",
+    "step_by_step_explanation": [
+      "Detectives sent Carla's preserved clothing (dress, bra, underwear) for modern testing [15]",
+      "A single-source male DNA profile was developed from material on the bra; it produced no hit in CODIS, the FBI's national database of known offenders and arrestees [15][19]",
+      "Only about four nanograms of DNA remained, an amount Bennett said is 'not typically usable' [18]",
+      "Othram, a lab in The Woodlands near Houston, used forensic-grade genome sequencing to read tens to hundreds of thousands of genetic markers (SNPs), far more than the roughly 20 markers used by CODIS (CODIS figure: background knowledge) [18][20][37]",
+      "The data were uploaded to GEDmatch, a public genealogy comparison site where users opt in; matches were distant relatives of the unknown man [18]",
+      "Building family trees from those relatives pointed to the McCurley family and three brothers [9][15]",
+      "Glen McCurley's name was already in the 1974 file because of the Ruger magazine [7][15]",
+      "On July 7, 2020 detectives collected three items from his curbside trash; on September 4 the lab reported a match [9]",
+      "A consensual two-swab sample confirmed the match on September 16, 2020 [9][10]"
+    ],
+    "why_it_worked": "The clothing had been preserved since 1974, and sequencing could extract enough markers from a tiny, degraded sample to search for relatives instead of the killer himself.",
+    "technical_terms_to_explain": [
+      {"term": "CODIS", "simple_explanation": "The FBI's national DNA database; it can only find a person whose own profile is already in it"},
+      {"term": "SNP", "simple_explanation": "A single letter of the genetic code that varies between people; genealogy compares hundreds of thousands of them"},
+      {"term": "GEDmatch", "simple_explanation": "A genealogy website where people upload their own DNA files to find relatives; police can compare against users who allow it"},
+      {"term": "Nanogram", "simple_explanation": "A billionth of a gram; four nanograms is invisible to the eye"},
+      {"term": "Discarded DNA / trash pull", "simple_explanation": "Items a person throws away at the curb can be collected and tested without a warrant in this kind of investigation"}
+    ],
+    "scale_of_operation": "More than 80 possible suspects on the 2019 list [15]; about two dozen Ruger buyers in 1974 [7]; three brothers after genealogy [9]"
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "The 1974 investigation (Fort Worth police task force)",
+    "how_they_were_supposed_to_protect": "Follow the physical clue, the .22 Ruger magazine, to its owner",
+    "why_they_failed": "They found the owner but accepted his unreported 'stolen gun' story and a passed polygraph; the task force cleared him and, per Texas Monthly, a lead detective later acknowledged they never thought about him again [7]",
+    "specific_incompetence_examples": [
+      "An ex-convict who said his gun was stolen six weeks earlier had never reported the theft [9][10]",
+      "Reliance on a polygraph result to clear a suspect [7][15]",
+      "An anonymous 1974 letter sat in the file until it was released in 2019 [21][22]",
+      "By 2018 the cold case unit had a single staffer [7]"
+    ],
+    "ironic_details_about_the_failure": "The name that DNA delivered in 2020 had been in the case file since March 1974."
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Fort Worth Police Department Cold Case Unit, with Othram Inc.; Tarrant County Criminal District Attorney's Office prosecuted",
+    "operation_code_name_if_any": "None",
+    "when_investigation_began": "February 17, 1974; reopened 2019",
+    "initial_wrong_assumptions": "That the Ruger owner's stolen-gun story and polygraph cleared him",
+    "key_breakthrough": "Genome sequencing of about four nanograms of DNA from Carla's bra, uploaded to GEDmatch, leading to the McCurley family",
+    "the_fatal_mistake": "The 1974 magazine linked to his gun; in 2020, his discarded trash",
+    "how_long_until_caught": "46 years, 7 months and 4 days (February 17, 1974 to September 21, 2020; computed)"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "Monday, September 21, 2020 (time not verified)",
+    "location": "Fort Worth",
+    "scene_description": "Arrested without incident [18]",
+    "protagonist_reaction": "In the recorded interview he first said 'I've never seen her', then broke down in tears and admitted choking her [24][25]",
+    "ironic_or_absurd_details": "Days before, he had denied everything at his own door and agreed to give the swabs that confirmed the match [9]"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["Capital murder (Tarrant County) [9][34]"],
+    "trial_date_if_applicable": "Late August 2021; plea on the third day, August 24, 2021 [2][5]",
+    "notable_court_testimony": "Rodney McCoy described the gun clicking three times and blacking out [14]; jurors watched the 2020 interview: 'I choked her to death, I guess' / 'I'm guilty' [2][25]",
+    "victim_impact_statements": [
+      {"from_whom": "Cindy Stone (sister)", "key_quote": "I wish you'd done this a long time ago.", "emotional_impact": "Said he put the family through hell; urged him to confess any other crimes [2][5][36]"},
+      {"from_whom": "Jim Walker (brother)", "key_quote": "No verbatim quote verified; reported that he told McCurley he had managed to forgive him [5]", "emotional_impact": "Forgiveness"}
+    ],
+    "sentence_received": "Life in prison (AP: 'life in prison'; Star-Telegram/Wikipedia: life without parole; parole wording disputed, see notes) [2][8][1]",
+    "protagonist_statement_in_court": "Pleaded guilty; no verified allocution text",
+    "current_status": "Glen Samuel McCurley died of natural causes in July 2023, aged 80, in the Telford state prison in Bowie County, while serving his life sentence. He was convicted only of Carla Walker's murder. He was a person of interest in three other killings but was never charged with them [8]. The Carla Walker Act passed the U.S. Senate unanimously in June 2026; no House vote found as of October 2026 [27][28][29]."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Rodney McCoy (as recounted in 2021 testimony)", "exact_quote": "I was in shock", "context": "What he told the Walker family that night", "source": "[14] WFAA"},
+      {"speaker": "Police account of the attacker's words (via CBS Texas)", "exact_quote": "I am going to kill you", "context": "What the attacker told McCoy, per police", "source": "[11]"},
+      {"speaker": "Jim Walker", "exact_quote": "The word that came across my brain was finally, finally.", "context": "Press conference, Sept. 22, 2020", "source": "[11][13]"},
+      {"speaker": "Jim Walker", "exact_quote": "This is a resolution that's been prayed for.", "context": "Press conference, Sept. 22, 2020", "source": "[11]"},
+      {"speaker": "Jim Walker", "exact_quote": "after 46 years, 7 months and 5 days, we have a name, a face and we're moving toward complete resolution", "context": "Press conference, Sept. 22, 2020 (Fox 4 wording; NBC DFW printed 'five months and three days'; Fox 4 version matches the calendar)", "source": "[12]"},
+      {"speaker": "Jim Walker", "exact_quote": "Carla was tiny, but mighty.", "context": "Interview for The DNA of Murder with Paul Holes", "source": "[16]"},
+      {"speaker": "Cindy Stone", "exact_quote": "little spitfire", "context": "Describing Carla, The DNA of Murder with Paul Holes", "source": "[16]"},
+      {"speaker": "Cindy Stone", "exact_quote": "I wish you'd done this a long time ago.", "context": "Victim impact statement, Aug. 24, 2021", "source": "[5][36]; AP variant [2]"},
+      {"speaker": "Glen McCurley (2020 police interview video)", "exact_quote": "I've never seen her.", "context": "Initial denial", "source": "[24]"},
+      {"speaker": "Glen McCurley (2020 police interview video)", "exact_quote": "I choked her to death, I guess.", "context": "Played for jurors, Aug. 2021", "source": "[2][25]"},
+      {"speaker": "Glen McCurley (2020 police interview video)", "exact_quote": "I'm guilty.", "context": "Played for jurors, Aug. 2021", "source": "[2]"},
+      {"speaker": "Detective Jeff Bennett", "exact_quote": "We had a very, very small amount left, which is not typically usable.", "context": "On the remaining DNA", "source": "[18]"},
+      {"speaker": "Sharen Wilson, Tarrant County Criminal District Attorney", "exact_quote": "never gave up", "context": "About Fort Worth police, after the plea", "source": "[2]"},
+      {"speaker": "Tarrant County prosecutors (reported)", "exact_quote": "spend the rest of his days in prison", "context": "Why they did not seek death", "source": "[2]"},
+      {"speaker": "Sen. John Cornyn", "exact_quote": "This bill creates a pilot program to fund the use of forensic genetic genealogy, which enables law enforcement to investigate and prosecute cold cases and other hard-to-solve crimes.", "context": "Senate passage, June 2026", "source": "[28]"},
+      {"speaker": "Dateline NBC (episode description)", "exact_quote": "Love is a Kaleidoscope", "context": "Theme of the 1974 Valentine's dance", "source": "[31] (single source)"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "17", "what_it_represents": "Carla's age", "source": "[1][2]"},
+      {"number": "12", "what_it_represents": "Jim Walker's age in 1974", "source": "[11][13]"},
+      {"number": "3 days", "what_it_represents": "Between abduction and discovery", "source": "[1][2]"},
+      {"number": "3 clicks", "what_it_represents": "The gun clicked three times without firing", "source": "[14]"},
+      {"number": "about 2 dozen", "what_it_represents": "Local .22 Ruger buyers in ATF records, 1974", "source": "[7]"},
+      {"number": "6 weeks", "what_it_represents": "How long before the crime McCurley claimed the gun was stolen", "source": "[7][9]"},
+      {"number": "80+", "what_it_represents": "Possible suspects on the 2019 list", "source": "[15]"},
+      {"number": "4 nanograms", "what_it_represents": "DNA left for testing", "source": "[18]"},
+      {"number": "3", "what_it_represents": "McCurley brothers after genealogy; also three items from the trash", "source": "[9][18]"},
+      {"number": "$100,000", "what_it_represents": "Bond", "source": "[11]"},
+      {"number": "77 / 78 / 80", "what_it_represents": "McCurley's age at arrest / plea / death", "source": "[9][26][8]"},
+      {"number": "46 years, 7 months, 5 days", "what_it_represents": "Jim Walker's count at the Sept. 22, 2020 press conference", "source": "[12]"},
+      {"number": "3", "what_it_represents": "Other murders in which McCurley was a person of interest (never charged)", "source": "[8]"},
+      {"number": "0 votes against", "what_it_represents": "Carla Walker Act passed the Senate unanimously, June 2026", "source": "[27][28]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "The killer was questioned within weeks and cleared by a polygraph [7]",
+      "He said he never reported the 'stolen' gun because he was an ex-convict [9]",
+      "He denied everything at his door in September 2020 and then gave the swabs that confirmed the match [9]",
+      "The dance theme, per Dateline, was 'Love is a Kaleidoscope' [31]",
+      "Jim Walker wanted to become a detective to get his hands on Carla's files [7]"
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "Western Hills High School", "physical_description": "Fort Worth ISD high school in the Benbrook area, southwest Fort Worth; yearbook 'Catamount'", "atmosphere": "Not described (no verified detail)", "relevant_details": "Carla was a junior there; Jim later graduated there [5][7]"},
+      {"location_name": "Brunswick Ridglea Bowl", "physical_description": "Bowling alley with a parking lot in the Ridglea area of west Fort Worth", "atmosphere": "Not described", "relevant_details": "Abduction site; .22 Ruger magazine found [1][7]"},
+      {"location_name": "Culvert near Benbrook Lake", "physical_description": "Culvert just off the road near the reservoir, about 30 minutes from Fort Worth", "atmosphere": "Not described", "relevant_details": "Where Carla was found on Feb. 20, 1974 [1][7]"},
+      {"location_name": "Othram Inc.", "physical_description": "Private forensic genomics lab in The Woodlands, near Houston", "atmosphere": "n/a", "relevant_details": "Sequenced the four nanograms [18][20]"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "Evidence kept in a box for 46 years named a killer; a family's persistence and a one-detective unit changed the outcome.",
+    "how_this_could_happen_to_them": "An ordinary night after a school dance; a stranger.",
+    "lesson_or_warning": "Preserve evidence; never let a single test (a polygraph) close a door; families' calls matter.",
+    "current_relevance": "The Carla Walker Act (Senate-passed June 2026) would fund genetic genealogy for cold cases nationwide."
+  },
+  "sources": {
+    "_instructions": "List ALL sources. NOTE: in this session direct page fetching was blocked by network policy and the shared web-search budget ran out after ~22 queries; facts were taken from search-engine extracts of the pages listed below, cross-checked across outlets where possible.",
+    "primary_sources": [
+      {"type": "News (AP wire)", "title": "[2] Man pleads guilty to 1974 slaying of 17-year-old Texas girl (AP via Court TV), Aug. 24, 2021", "url_or_reference": "https://www.courttv.com/news/man-pleads-guilty-to-1974-slaying-of-17-year-old-texas-girl/", "key_information_obtained": "Plea on third day; Judge Beach; life; video quotes; Cindy's statement; Sharen Wilson quote; no death penalty"},
+      {"type": "Court/affidavit reporting", "title": "[9] DNA match leads Fort Worth police to arrest man in 1974 murder of 17-year-old girl, Dallas Morning News, Sept. 22, 2020", "url_or_reference": "https://www.dallasnews.com/news/crime/2020/09/22/fort-worth-police-make-arrest-in-cold-case-murder-that-has-remained-unsolved-for-46-years/", "key_information_obtained": "Affidavit: July 7 trash, Sept. 4 match, swabs, arrest Monday, ex-convict, stolen gun story, wife in West Texas"},
+      {"type": "Court/affidavit reporting", "title": "[10] Fort Worth police make arrest in Walker cold case from 1974, Fort Worth Business Press, Sept. 2020", "url_or_reference": "https://fortworthbusiness.com/government/fort-worth-police-make-arrest-in-walker-cold-case-from-1974/", "key_information_obtained": "Two mouth swabs; denial"},
+      {"type": "Lab (Othram)", "title": "[18] After 46 Years, Carla Walker's Killer is Arrested, DNASolves (Othram)", "url_or_reference": "https://dnasolves.com/articles/carla-walker-murder/", "key_information_obtained": "Holes introduction; four nanograms; Bennett quote; Mittelman; GEDmatch; trash July 7, 2020"},
+      {"type": "Government", "title": "[27] Welch-Cornyn Bipartisan 'Carla Walker Act' to Help Solve Cold Cases Passes Senate, Sen. Peter Welch, June 2026", "url_or_reference": "https://www.welch.senate.gov/welch-cornyn-bipartisan-carla-walker-act-to-help-solve-cold-cases-passes-senate/", "key_information_obtained": "Senate passage; FGG pilot"},
+      {"type": "Government", "title": "[28] Cornyn, Welch Bill to Help Solve Cold Cases Passes Senate, Sen. John Cornyn, June 2026", "url_or_reference": "https://www.cornyn.senate.gov/news/cornyn-welch-bill-to-help-solve-cold-cases-passes-senate/", "key_information_obtained": "Cornyn quote; unanimous"},
+      {"type": "Government", "title": "[30] Cornyn, Welch Introduce the Carla Walker Act to Help Solve Cold Cases, Sen. John Cornyn", "url_or_reference": "https://www.cornyn.senate.gov/news/cornyn-welch-introduce-the-carla-walker-act-to-help-solve-cold-cases", "key_information_obtained": "Introduced Dec. 12, 2024; reintroduced May 22, 2025"}
+    ],
+    "secondary_sources": [
+      {"type": "Encyclopedia", "title": "[1] Murder of Carla Walker, Wikipedia", "url_or_reference": "https://en.wikipedia.org/wiki/Murder_of_Carla_Walker", "key_information_obtained": "Overview; Ridglea Bowl; death July 2023; Othram contact April/May 2020"},
+      {"type": "News", "title": "[3] Carla Walker murder: Fort Worth man pleads guilty in 1974 killing, WFAA, Aug. 24, 2021", "url_or_reference": "https://www.wfaa.com/article/news/crime/fort-worth-suspect-in-1974-murder-of-carla-walker-pleads-guilty-gets-life-in-prison/287-fd28958f-0c98-4e00-9896-520b2d1a9b63", "key_information_obtained": "Plea"},
+      {"type": "News", "title": "[4] Glen McCurley Pleads Guilty During Trial To Murdering Carla Walker In Fort Worth In 1974, CBS Texas, Aug. 24, 2021", "url_or_reference": "https://www.cbsnews.com/texas/news/glen-mccurley-pleads-guilty-trial-murdering-carla-walker-fort-worth-texas-1974/", "key_information_obtained": "Plea"},
+      {"type": "News", "title": "[5] Glen McCurley Changes Plea to Guilty in Carla Walker Murder Trial, NBC DFW, Aug. 24, 2021", "url_or_reference": "https://www.nbcdfw.com/news/local/watch-live-carla-walker-cold-case-murder-trial-enters-third-day/2725579/", "key_information_obtained": "Western Hills junior; Cindy Stone statement; Jim forgiveness"},
+      {"type": "News", "title": "[6] Fort Worth man changes plea to guilty in the 1974 murder of 17-year-old Carla Walker, Dallas Morning News, Aug. 24, 2021", "url_or_reference": "https://www.dallasnews.com/news/crime/2021/08/24/fort-worth-man-changes-plea-to-guilty-in-the-1974-murder-of-17-year-old-carla-walker/", "key_information_obtained": "Plea confirmation"},
+      {"type": "Magazine", "title": "[7] Glen McCurley Strangled Carla Walker in 1974. Was She His Only Victim?, Skip Hollandsworth, Texas Monthly, August 2022 issue", "url_or_reference": "https://www.texasmonthly.com/true-crime/glen-mccurley-carla-walker-murder/", "key_information_obtained": "ATF records; March 1974 visit; polygraph; Wagner career; Jim's plans"},
+      {"type": "News", "title": "[8] Carla Walker's murderer died in prison. Police investigated him as possible serial killer, Fort Worth Star-Telegram via Yahoo/AOL, 2023", "url_or_reference": "https://www.aol.com/carla-walker-murderer-died-prison-162420233.html", "key_information_obtained": "Death at 80, natural causes, Telford, person of interest in three other murders"},
+      {"type": "News", "title": "[11] 'Finally, Finally': Suspected Killer Of Fort Worth Teen Carla Walker Arrested For Capital Murder 46 Years Later, CBS Texas, Sept. 22, 2020", "url_or_reference": "https://www.cbsnews.com/texas/news/suspected-killer-fort-worth-teen-carla-walker-arrested-capital-murder/", "key_information_obtained": "Jim's quotes; Jim was 12; bond; 2019 reopening"},
+      {"type": "News", "title": "[12] Fort Worth police make arrest in 1974 cold case murder of Carla Walker, FOX 4 KDFW, Sept. 22, 2020", "url_or_reference": "https://www.fox4news.com/news/fort-worth-police-make-arrest-in-1974-cold-case-murder-of-carla-walker", "key_information_obtained": "46 years, 7 months and 5 days quote"},
+      {"type": "News", "title": "[13] 1974 Cold Case Killing of 17-Year-Old Cheerleader Carla Walker Sees Arrest of Stranger After 46 Years, Inside Edition, Sept. 2020", "url_or_reference": "https://www.insideedition.com/1974-cold-case-killing-of-17-year-old-cheerleader-carla-walker-sees-arrest-of-stranger-after-46", "key_information_obtained": "Jim wept; 12 years old"},
+      {"type": "News", "title": "[14] 'I was in shock': Then-boyfriend of Carla Walker testifies what happened the night she was killed, WFAA, Aug. 2021", "url_or_reference": "https://www.wfaa.com/article/news/crime/boyfriend-of-carla-walker-testifies-1974-fort-worth-cold-case-dna/287-1c152a3c-f4a7-457d-a94e-039d855026e5", "key_information_obtained": "McCoy testimony"},
+      {"type": "TV network article", "title": "[15] Texas Teen Cheerleader Abducted from Car After School Dance, Her Battered Body Found Days Later, Oxygen (Dateline: Unforgettable)", "url_or_reference": "https://www.oxygen.com/dateline-unforgettable/crime-news/texas-teen-carla-walker-abducted-killed-by-glen-mccurley", "key_information_obtained": "Ruger magazine; 80+ suspects; clothing sent; three brothers; Jim 2018"},
+      {"type": "TV network article", "title": "[16] Who Killed 'Spitfire' Texas High School Cheerleader Carla Walker?, Oxygen (The DNA of Murder with Paul Holes)", "url_or_reference": "https://www.oxygen.com/dna-of-murder/crime-news/carla-walker-murder-cold-case-cheerleader", "key_information_obtained": "Portrait; Cindy and Jim quotes"},
+      {"type": "TV network article", "title": "[17] Glen McCurley Charged With Murder Of Carla Walker In Cold Case Break, Oxygen", "url_or_reference": "https://www.oxygen.com/crime-news/glen-mccurley-charged-murder-carla-walker-cold-case-paul-holes", "key_information_obtained": "Paul Holes / Oxygen role"},
+      {"type": "News", "title": "[19] Houston company uses cutting-edge DNA technology to solve teenage girl's murder, KPRC Click2Houston, Jan. 29, 2022", "url_or_reference": "https://www.click2houston.com/news/local/2022/01/29/houston-company-uses-cutting-edge-dna-technology-to-solve-teenage-girls-murder/", "key_information_obtained": "Bra strap; Othram; straw"},
+      {"type": "University news", "title": "[20] Baylor Alumna is Solving Mysteries with DNA, Baylor University, 2024", "url_or_reference": "https://artsandsciences.baylor.edu/news/story/2024/baylor-alumna-solving-mysteries-dna", "key_information_obtained": "Othram in The Woodlands; date of submission (says Sept. 2020, conflicts)"},
+      {"type": "News", "title": "[21] Police hope mystery letter can solve 45-year-old cold case, CNN, Apr. 20, 2019", "url_or_reference": "https://amp.cnn.com/cnn/2019/04/20/us/carla-walker-cold-case-letter-trnd", "key_information_obtained": "1974 anonymous letter; 'Sign 10100'"},
+      {"type": "News", "title": "[22] Handwritten letter rekindles interest in 1974 Fort Worth cold case, FOX 4, Apr. 2019", "url_or_reference": "https://www.fox4news.com/news/handwritten-letter-rekindles-interest-in-1974-fort-worth-cold-case", "key_information_obtained": "Letter release"},
+      {"type": "News", "title": "[23] Tarrant DA to Seek Life in Prison, Not Death, in the Murder of Carla Walker, NBC DFW, May 2021", "url_or_reference": "https://nbcdfw.com/news/local/tarrant-da-to-seek-life-in-prison-not-death-in-the-murder-of-carla-walker/2625740", "key_information_obtained": "No death penalty"},
+      {"type": "News", "title": "[24] Prosecutors play Glen McCurley's interview with Fort Worth detectives during murder trial, CBS Texas, Aug. 2021", "url_or_reference": "https://www.cbsnews.com/texas/news/prosecutors-glen-mccurley-interview-fort-worth-texas-detectives-murder-trial", "key_information_obtained": "'I've never seen her'; broke down in tears"},
+      {"type": "News", "title": "[25] Jury hears 78-year-old's confession to killing Carla Walker in 1974, FOX 4, Aug. 2021", "url_or_reference": "https://www.fox4news.com/news/jury-hears-77-year-olds-confession-to-killing-carla-walker-in-1974", "key_information_obtained": "Confession video"},
+      {"type": "News", "title": "[26] 78-Year-Old Man Charged with 1974 Abduction and Murder of High School Girl Changes Plea to Guilty, Law&Crime, Aug. 2021", "url_or_reference": "https://lawandcrime.com/crime/78-year-old-man-charged-with-1974-abduction-and-murder-of-high-school-girl-changes-plea-to-guilty-gets-life-sentence-reports/", "key_information_obtained": "Age 78"},
+      {"type": "News", "title": "[29] 'Carla Walker Act' to help solve cold cases passes Senate, Vermont Business Magazine, June 12, 2026", "url_or_reference": "https://vermontbiz.com/news/2026/june/12/carla-walker-act-help-solve-cold-cases-passes-senate", "key_information_obtained": "Senate passage date context; cosponsors"},
+      {"type": "TV", "title": "[31] Watch the Dateline episode 'After the Dance' now, NBC News", "url_or_reference": "https://www.nbcnews.com/dateline/watch-dateline-episode-after-dance-now-n1288341", "key_information_obtained": "Dance theme 'Love is a Kaleidoscope'"},
+      {"type": "Magazine", "title": "[32] Got an Unsolved Murder? Call the Cold Case Club, Texas Monthly", "url_or_reference": "https://www.texasmonthly.com/being-texan/fort-worth-cold-case-club/", "key_information_obtained": "Fort Worth cold case volunteers (context only)"},
+      {"type": "Podcast", "title": "[33] Inside A Cold Case Unit Solving A 46-Year Old Murder, True Crime Reporter", "url_or_reference": "https://www.truecrimereporter.com/episodes/inside-a-cold-case-unit-solving-a-46-year-old-murder/", "key_information_obtained": "FWPD Cold Case Support Group; Jim on board"},
+      {"type": "News", "title": "[34] 77-year-old suspect indicted in 1974 cold case murder of Carla Walker, NBC DFW", "url_or_reference": "https://www.nbcdfw.com/news/local/77-year-old-suspect-indicted-in-1974-cold-case-murder-of-carla-walker/2476621/", "key_information_obtained": "Indictment"},
+      {"type": "News", "title": "[35] Carla Walker family: legislative action aimed at solving cold cases nationwide, WFAA", "url_or_reference": "https://www.wfaa.com/article/news/local/texas/carla-walker-family-legislative-action-aimed-at-solving-cold-cases-nationwide/287-df501783-cc6b-4351-9201-fee731d79b16", "key_information_obtained": "Family behind the Act"},
+      {"type": "News", "title": "[36] Man, 78, Halts Murder Trial, Confesses to Killing Teenager 47 Years Ago, Inside Edition, Aug. 2021", "url_or_reference": "https://www.insideedition.com/man-78-halts-murder-trial-confesses-to-killing-teenager-47-years-ago-69413", "key_information_obtained": "Cindy Stone quote"},
+      {"type": "Background knowledge (not re-verified this session)", "title": "[37] General context: CODIS (FBI national DNA index, ~20 core STR markers); Golden State Killer arrest of April 2018 via GEDmatch; 1973-74 oil embargo; Watergate; Patty Hearst kidnapping Feb. 4, 1974", "url_or_reference": "https://www.fbi.gov/services/laboratory/biometric-analysis/codis", "key_information_obtained": "Era and science context"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "MINNESOTA 1993 — Jeanne Childs (Minneapolis; hockey-game napkin DNA; Jerry Westrom)",
+    "connection_to_current_video": "Another case where discarded DNA collected by detectives, this time a napkin at a hockey game, confirmed what genetic genealogy suggested.",
+    "teaser_line": "In 1993 a woman was killed in her Minneapolis apartment. Twenty-six years later, the answer came from a napkin a man threw away at his son's hockey game."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Morphine in toxicology: reported by secondary sites only; NOT used",
+      "Medical examiner window of death (Feb. 17-19) and 'kept alive about two days': secondary sources only; NOT used as fact",
+      "'Shot at him' (CBS) vs. 'clicked three times without firing' (McCoy testimony, WFAA): script uses the testimony",
+      "Dance theme 'Love is a Kaleidoscope': single source (Dateline NBC) - attributed in script",
+      "Drinking straw among the trash items: single secondary mention; script says 'items from his trash'",
+      "Prison: Star-Telegram says Telford Unit, Bowie County; another site says Gib Lewis Unit. Script names Telford with attribution",
+      "Parole: AP says 'life in prison'; Star-Telegram/Wikipedia say 'without parole' (Texas had no LWOP in 1974); script says 'life in prison'"
+    ],
+    "information_gaps": [
+      "Names of Carla's parents not verified - not used",
+      "Exact time of abduction - not used beyond 'early hours of February 17'",
+      "Date Othram received the sample: Wikipedia April/May 2020 vs Baylor Sept. 2020 (the latter conflicts with the July 2020 trash pull) - script says 2020",
+      "Indictment date not verified",
+      "Exact date of Senate passage in June 2026 not verified (around June 10-11)",
+      "Sister's surname: Walker (WFAA) vs Stone (NBC DFW, Oxygen, Inside Edition) - script uses 'her sister Cindy'",
+      "Detective Bennett's first name: Jeff (most sources) vs Jay (CBS)"
+    ],
+    "questions_to_answer": [
+      "Did the House act on the Carla Walker Act after June 2026?",
+      "Were any of the three other killings where McCurley was a person of interest resolved?"
+    ]
+  }
+}
