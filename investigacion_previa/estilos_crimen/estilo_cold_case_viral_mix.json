@@ -1,0 +1,147 @@
+{
+  "profile_name": "Solved Cold Case — Viral Mix (recommended for NexaTube)",
+  "based_on": "The chronological base of the somber cold-case profile plus the hook and retention techniques of four competitor videos that reached 270K–1.1M views. No names, places or cases from the originals are kept.",
+  "general_style_tags": ["true crime documentary", "solved cold case", "cinematic immersive narration", "evidence-driven mystery", "faceless YouTube long-form"],
+
+  "tone_of_voice": {
+    "primary": "cinematic, tense, respectful",
+    "secondary": ["intimate", "investigative", "quietly outraged at system failures"],
+    "never": ["jokey", "sarcastic", "gory", "sensational speculation", "disrespectful to victims"],
+    "notes": "Feels like a premium streaming documentary: present-tense immersion in the hook, calm authority in the investigation, controlled emotion at the end."
+  },
+
+  "point_of_view": {
+    "hook": "second person, present tense: the viewer is placed inside the ordinary moment ('You are standing in…', 'It is 2:30 in the morning…')",
+    "body": "third-person omniscient, past tense",
+    "ending": "returns briefly to second person for the lesson and the call-to-action"
+  },
+
+  "audience_addressing_style": "immersive 'you' in the first 60–90 seconds, then invisible narrator; one channel line after the hook, one at the end; occasional rhetorical question addressed to the viewer at chapter turns",
+
+  "hook_style": {
+    "type": "one of four proven openers, chosen per case",
+    "options": [
+      "A. Archival sound first: 2–3 short lines of a real news anchor or a family member's recorded words, then cut to the narrator.",
+      "B. Immersive second person: put the viewer in the place and minute just before everything went wrong, with one repeated motif (an announcement, a phone ringing, a song on the radio) that will return at the end.",
+      "C. The object that solved it: open on a small piece of evidence ignored for decades ('A stain on a borrowed boot went unnoticed for 36 years') and promise the story of how it named the killer.",
+      "D. Three open-loop questions: summarise the crime in 4 sentences, then ask three precise questions the video will answer ('Who did she meet after…? How did investigators find a man who was never a suspect? And why did they decide to wait?')."
+    ],
+    "always_include": ["exact date and small place", "victim name and age", "number of years the case stayed cold", "a promise that the answer was surprising"],
+    "length_words": "180–350 before the channel line",
+    "optional_warning": "a single sober viewer-discretion line if the case is disturbing"
+  },
+
+  "narrative_structure": {
+    "type": "immersive cold open → who the victim was → chronological night → investigation and dead ends → system failures with numbers → the science → the human hero → the reveal → legal outcome → legacy → circular ending",
+    "beats_in_order": [
+      "1. Hook (one of options A–D).",
+      "2. Channel line + 'Now, let's go back to that night. But before we go any further, you need to know who [victim] was. Not the case, not the headline, the person.'",
+      "3. Victim portrait with specific, humanising details (what they loved, a habit, a quote from family).",
+      "4. Era and place snapshot in 3–5 sentences.",
+      "5. The last hours, minute by minute.",
+      "6. Discovery, first investigation, the wrong suspect(s) and why the obsession with them cost time.",
+      "7. System-failure ledger: concrete numbers of missed chances (checks, alerts, calls, months) delivered as a short punchy list.",
+      "8. Cold years: anniversaries, family campaigns, retired detectives.",
+      "9. Science as a story: how the new technique works, in plain words, and why it finally applied here.",
+      "10. The hero: the genealogist, analyst or detective, with hours worked and the moment the branches pointed to one family.",
+      "11. The reveal: the confirmation sample (a discarded cup, a cigarette), the match odds, the surprise identity.",
+      "12. Interview, arrest, plea or trial; strict legal wording.",
+      "13. Legacy: laws changed, other cases solved, what the family said.",
+      "14. Ending: return to the opening motif or object, one line on what the victim's life was, one practical lesson for the viewer, sign-off 'No case stays cold forever.'"
+    ],
+    "chapter_turns": "every ~800 words end on a small cliffhanger sentence that pulls into the next part ('And that was exactly what investigators had missed.')"
+  },
+
+  "pacing": {
+    "overall": "faster than a classic documentary: a new fact, place or person every 2–3 sentences",
+    "hook": "short present-tense sentences, repetition of the motif",
+    "middle": "medium sentences with numbers; punchy lists for failures",
+    "climax": "one-line paragraphs-in-spirit (very short sentences in sequence)",
+    "ending": "slows down, repeats, lands softly"
+  },
+
+  "sentence_style": {
+    "average_words": "11–16 per sentence",
+    "mix": "60% medium declaratives, 25% short punches of 2–7 words, 15% long descriptive sentences",
+    "questions": "3–12 per script: only in the hook (option D) and at chapter turns",
+    "repetition": "a key phrase or motif repeated 3–4 times across the script",
+    "numbers": "precise and contrasted ('60 visits, not one look at the backyard')"
+  },
+
+  "language_style": {
+    "register": "clear cinematic English, vivid but plain",
+    "sensory_detail": "light, weather, sounds and objects of the moment, never gore",
+    "technical_terms": "explained with an everyday analogy the first time",
+    "legal_vocabulary": "'charged with', 'investigators say', 'he has not been convicted', 'according to court records'"
+  },
+
+  "characters": {
+    "victim": "the heart of the story, always 'the person, not the headline'",
+    "family": "the voice of time passing; one sibling or parent followed across decades",
+    "hero": "an ordinary professional or volunteer who noticed what the system missed",
+    "system": "an antagonist of its own (missed checks, lost evidence, tunnel vision), described with numbers, not insults",
+    "suspect": "introduced late; ordinary on the surface; no glorification, no nicknames that make him iconic"
+  },
+
+  "dialogue": {
+    "use": "documented quotes only: news clips, court testimony, police statements, family interviews",
+    "frequency": "2–4 per part",
+    "invented_dialogue": "never"
+  },
+
+  "humor": "none",
+
+  "emotional_tone": {
+    "arc": "unease → dread → grief → anger at the system → hope through science and people → justice → bittersweet reflection",
+    "dominant": ["tense", "dark", "empathetic", "determined", "bittersweet"]
+  },
+
+  "common_devices": [
+    "present-tense second-person immersion in the hook",
+    "a sound or object motif that returns at the end",
+    "three open-loop questions answered across the video",
+    "the 'ignored object' as the hero of the forensic story",
+    "ledger of missed chances with exact numbers",
+    "'Not the case, not the headline, the person.' humanising turn",
+    "cliffhanger sentence at the end of each part",
+    "then-and-now contrast (age at the crime vs. age at the arrest; sister aged 12 vs. 60 at the verdict)",
+    "circular ending repeating the opening image",
+    "closing mantra"
+  ],
+
+  "call_to_action_style": {
+    "after_hook": "'Welcome to [CHANNEL NAME]. This case took N years to close. Tell us in the comments where you are watching from, and if you are new, subscribe. It keeps us digging. Now, let's go back to that night.'",
+    "closing": "'If this case stayed with you, subscribe and share it. And remember, no case stays cold forever.'",
+    "frequency": "exactly two"
+  },
+
+  "visual_cue_prompts": {
+    "note": "Never written in the final script. Use them only for the separate shot list.",
+    "hook": "archival news frame in a TV frame, the motif object in close-up, 3D night establishing shot with fog and practical lights, date and place typed on screen",
+    "victim_portrait": "real photos with depth parallax, polaroid or case-file frame, name and age lower third",
+    "night_timeline": "3D road or house at night, clock overlays, route on a map",
+    "failures_ledger": "big animated numbers, stamped documents, highlighted report lines",
+    "science": "animated family tree spreading across a dark board, DNA helix, branches converging on one name",
+    "reveal": "the confirmation object in a lit evidence bag, suspect photo young vs. old",
+    "court_and_legacy": "courthouse exterior, highlighted charges, list of laws or other solved cases",
+    "ending": "same image as the hook, then the victim's photo with name and years"
+  },
+
+  "safety_and_compliance": [
+    "Facts only; mark uncertainty ('investigators believed', 'according to court records').",
+    "Anyone not convicted is 'charged' or 'accused', never 'the killer'.",
+    "One plain sentence for the cause of death; no gore.",
+    "Minors: no sexual detail, no abuse description, no AI recreation; follow the channel rule on whether child-victim cases are covered at all.",
+    "Victims only through real photos or anonymous silhouettes; the accused may be shown by mugshot or a labelled AI recreation in non-violent scenes."
+  ],
+
+  "script_formatting_rules": {
+    "parts": "The final script must be sectioned into 10 parts, each part at least 800 words.",
+    "total_length": "The full script must be 8,000+ words in total.",
+    "no_headings": "No section headings, no part numbers, no titles inside the text.",
+    "no_line_breaks": "No line breaks: the whole script is one continuous block of text.",
+    "no_symbols": "No underscores, no bullet points, no brackets, no stage directions, no visual cues, no comments.",
+    "no_wrappers": "No introductory statement and no closing statement outside the narration itself.",
+    "delivery": "Send the whole script in one batch, only the script text, with nothing before or after it."
+  }
+}

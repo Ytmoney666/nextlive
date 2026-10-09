@@ -1,0 +1,145 @@
+{
+  "profile_name": "Solved Cold Case — Cold Case Reopened style, 70-minute edition",
+  "based_on": "Fusion of estilo_cold_case_reopened.json (the channel's own chronological structure) and estilo_cold_case_viral_mix.json (hooks of 270K–1.1M competitor videos), recalibrated for 70-minute videos. Calibration: Cold Case Reopened narrates at ~170 words per minute (Etan Patz: 7,334 words / 42:54; Clouse: 8,570 words / 49:12), so 70 minutes ≈ 12,000 words.",
+  "general_style_tags": ["true crime documentary", "solved cold case", "forensic genealogy story", "victim-centred narration", "cinematic immersive cold open", "faceless YouTube long-form"],
+
+  "tone_of_voice": {
+    "primary": "somber, cinematic, respectful, factual",
+    "secondary": ["quietly dramatic", "investigative", "reflective", "quietly outraged at system failures"],
+    "never": ["jokey", "sarcastic", "gleeful about violence", "gory", "speculative gossip", "disrespectful to victims"],
+    "notes": "The drama comes from facts, time and contrast, never from adjectives about blood. A calm premium-documentary voice that respects the family who might be watching."
+  },
+
+  "point_of_view": {
+    "hook": "either third-person date-stamped cold open (channel default) or second-person present tense immersion ('It is 2:30 in the morning…') for the first 60–90 seconds",
+    "body": "third-person omniscient, past tense",
+    "ending": "brief return to second person for the lesson and the call-to-action"
+  },
+
+  "audience_addressing_style": "invisible narrator for 95% of the script; exactly two direct calls-to-action (after the hook and at the end); occasional rhetorical question at part turns",
+
+  "hook_style": {
+    "options": [
+      "A. Date-stamped factual cold open: On [full date], [victim, age] [ordinary action] in [small place]. [How it ended]. [The clue that existed]. [Years of silence]. [Family never gave up]. [The new technique]. [The answer shocked everyone].",
+      "B. Immersive second person in the minute before everything went wrong, with a motif (a song, a phone, an object) that returns at the end.",
+      "C. The object that solved it: open on a small piece of evidence ignored for decades and promise the story of how it named the killer.",
+      "D. Three open-loop questions after a 4-sentence summary of the crime."
+    ],
+    "always_include": ["exact date and small place", "victim name and age", "number of years the case stayed cold", "a promise that the answer was surprising"],
+    "length_words": "250–450 before the channel line",
+    "first_sentence_rule": "starts with a date, a time, or 'N years ago' plus a concrete ordinary action"
+  },
+
+  "narrative_structure": {
+    "type": "cold open → thesis triad → CTA → era → place → victim portrait → the last hours → discovery → first investigation and wrong suspects → long cold years → system-failure ledger → the science as a story → the human hero → breakthrough → confirmation sample → arrest and interview → court → aftermath → circular ending",
+    "ten_parts_plan_for_70_minutes": [
+      "Part 1 (≥1,200 words): cold open hook, thesis triad ('This is the story of…, of…, and of…'), CTA, then the era snapshot and the place portrait.",
+      "Part 2 (≥1,200 words): 'Not the case, not the headline, the person.' Full victim portrait: family, school, work, habits, dreams, a documented quote from someone who loved them.",
+      "Part 3 (≥1,200 words): the last day, minute by minute, with exact times, last call, last sighting.",
+      "Part 4 (≥1,200 words): discovery, the scene described soberly, first responders, what was collected (the evidence that will matter decades later).",
+      "Part 5 (≥1,200 words): first investigation: suspects, tips, polygraphs, why each lead died; tunnel vision; the cost in time.",
+      "Part 6 (≥1,200 words): the cold years: anniversaries, family campaigns, detectives who retired, re-testing attempts, CODIS with no match; the system-failure ledger in numbers.",
+      "Part 7 (≥1,200 words): the science as a story: how the technique works in plain words (database, SNP profile, family trees, reference sample), the landmark case that proved it, why it finally applied here.",
+      "Part 8 (≥1,200 words): the human hero and the breakthrough: the genealogist or detective, hours, branches, the surname, the surveillance, the discarded object, the match.",
+      "Part 9 (≥1,200 words): arrest, interview, what he said (documented only), charges, plea or trial, testimony, sentence or death before trial; careful legal wording.",
+      "Part 10 (≥1,200 words): aftermath, what the family said, what changed, open questions, the circular ending repeating the first image, a litany of what the victim's life was, one lesson, closing CTA and mantra."
+    ],
+    "time_handling": "strictly chronological after the cold open; the cold open is the only flash-forward",
+    "open_loops": "withhold the killer's identity and the method of the breakthrough until Part 8; every part ends on a small cliffhanger sentence"
+  },
+
+  "pacing": {
+    "overall": "slow-burn but steady; a new fact, place or person every 2–3 sentences; no scene lingers longer than ~250 words without a new fact",
+    "rhythm": "medium informative sentences broken by short fragments at emotional peaks",
+    "acceleration": "sentences get shorter in the discovery and breakthrough beats",
+    "breathing_room": "after each shocking fact, one short reflective sentence ('No one knew.')"
+  },
+
+  "sentence_style": {
+    "average_words": "12–17 per sentence",
+    "mix": "60% medium declaratives, 25% short punches of 2–7 words, 15% long descriptive sentences with numbers and places",
+    "questions": "4–12 per script, only in the hook and at part turns",
+    "repetition": "one key phrase or motif repeated 3–4 times across the script",
+    "numbers": "always precise and contrasted (ages then and now, miles, hours, years waited)"
+  },
+
+  "language_style": {
+    "register": "clear cinematic documentary English for a broad American audience, vivid but plain",
+    "technical_terms": "explained immediately with an everyday analogy the first time",
+    "legal_vocabulary": "accurate: 'charged with', 'pleaded guilty', 'convicted', 'alleged', 'has not been convicted', 'according to court records'",
+    "emotional_vocabulary": "restrained: devastated, never gave up, shattered, forgotten, waiting"
+  },
+
+  "characters": {
+    "victim": "the heart of the story, always 'the person, not the headline'; ages repeated at key moments",
+    "family": "the voice of time passing; one parent or sibling followed across decades",
+    "hero": "an ordinary professional or volunteer who noticed what the system missed",
+    "system": "an antagonist of its own (missed checks, lost evidence, tunnel vision), described with numbers, not insults",
+    "suspect": "introduced late; described through records and behaviour; never glamorised; the twist is how ordinary or familiar he seemed"
+  },
+
+  "dialogue": {
+    "use": "documented quotes only (news interviews, court testimony, police statements, family statements), introduced with 'said' or 'later told reporters'",
+    "frequency": "2–4 per part",
+    "invented_dialogue": "never"
+  },
+
+  "humor": "none",
+
+  "emotional_tone": {
+    "arc": "nostalgic calm → unease → shock → grief → frustration with the system → hope through science and people → justice or partial justice → bittersweet reflection",
+    "dominant": ["dark", "tense", "grieving", "dignified", "hopeful at the end"]
+  },
+
+  "common_devices": [
+    "thesis triad and anaphora",
+    "era nostalgia paragraph before the crime",
+    "'Not the case, not the headline, the person.' humanising turn",
+    "foreshadowing lines ('She had no idea…')",
+    "ledger of missed chances with exact numbers",
+    "the ignored object as the hero of the forensic story",
+    "science explained as a story inside the story",
+    "then-and-now contrast (age at the crime vs. age at the arrest)",
+    "cliffhanger sentence at the end of each part",
+    "circular ending repeating the first image",
+    "closing mantra 'No case stays cold forever.'"
+  ],
+
+  "call_to_action_style": {
+    "after_hook": "'If you are the kind of person who stays until the end, who wants to know not only what happened but why it took N years, you are in the right place. Subscribe to Cold Case Files. We dig into the cases everyone else has forgotten. And tell us in the comments where you are watching from. Now, let's go back to that night.'",
+    "closing": "'If this story stays with you, subscribe and share it. We tell the stories of forgotten victims and of the people who refuse to let them be forgotten. The next case is waiting. And remember, no case stays cold forever.'",
+    "channel_name_placeholder": "Use the generic name 'this channel' unless the user later provides the real channel name.",
+    "frequency": "exactly two; never mid-story"
+  },
+
+  "visual_cue_prompts": {
+    "note": "Cues are for the editor and are NEVER written in the script.",
+    "cold_open": "real victim photo with slow push-in, archival news frame, map pin on the town, the year in large type",
+    "era_snapshot": "period footage and photos of the year, film grain",
+    "night_reconstruction": "3D night scene of the road or house, timestamp overlays",
+    "science_interlude": "animated family tree, DNA helix, branches lighting up toward one name",
+    "breakthrough": "mugshot then and now, discarded object in an evidence bag",
+    "court": "courthouse exterior, highlighted charges and sentence",
+    "ending": "repeat the first image, then the victim's photo with name and dates"
+  },
+
+  "safety_and_compliance": [
+    "Never invent facts, quotes, motives, dialogue, weather or sensory details. Sensory detail only when documented or clearly framed as general context.",
+    "Use 'alleged', 'charged' and 'has not been convicted' for anyone not convicted. A person who died before trial was never convicted.",
+    "One plain sentence for the cause of death; no gore, no description of injuries beyond what is necessary.",
+    "Sexual assault is mentioned only as a legal fact in plain words, never described.",
+    "Minors: no sexual detail, no description of abuse acts, no AI recreation of child victims.",
+    "Victims are never recreated with AI likeness; real photos or anonymous silhouettes only.",
+    "Wrongfully convicted people are named as exonerated and treated with dignity."
+  ],
+
+  "script_formatting_rules": {
+    "parts": "The final script must be sectioned into 10 parts, each part at least 1,200 words.",
+    "total_length": "The full script must be 12,000+ words in total (≈70 minutes at ~170 words per minute).",
+    "no_headings": "No section headings, no part numbers, no titles inside the narration.",
+    "paragraphing": "Each of the 10 parts is one single continuous paragraph; parts are separated by one blank line only (useful for TTS chunking). No other line breaks.",
+    "no_symbols": "No underscores, no bullet points, no brackets, no stage directions, no visual cues, no comments, no markdown inside the narration.",
+    "no_wrappers": "No introductory or closing statement outside the narration itself.",
+    "numbers_for_tts": "Write years as digits (1979) and other numbers as a narrator would read them clearly."
+  }
+}

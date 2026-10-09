@@ -1,0 +1,124 @@
+{
+ "channel": "fbi_investigates",
+ "id": "UCpm62a6Py6-gxNm1HGtydmw",
+ "recent": [
+  {
+   "id": "j78T1o4m6qE",
+   "title": "Deadly Shotgun Standoff: FBI Manhunt For Double Homicide Fugitive",
+   "views": 13000,
+   "dur": 2886
+  },
+  {
+   "id": "gGCduB6dTTY",
+   "title": "Car Bomb Killer: The Strangest Murder-for-Hire Scheme in FBI History",
+   "views": 27000,
+   "dur": 2987
+  },
+  {
+   "id": "2cljBBq3S4M",
+   "title": "3 Year Manhunt: The Darkest FBI Investigation in American History",
+   "views": 25000,
+   "dur": 2955
+  },
+  {
+   "id": "w85Crh-vHNk",
+   "title": "FBI Hunt for the Deadliest Multi-State Serial Killer",
+   "views": 85000,
+   "dur": 3081
+  },
+  {
+   "id": "OYzUlYkyRVE",
+   "title": "Bearded Bandit: FBI Manhunt for Bank Robber Ends In Highway Shootout",
+   "views": 172000,
+   "dur": 2974
+  },
+  {
+   "id": "9Or__s1SNFU",
+   "title": "South Carolina Farmer Murdered: FBI Investigates The Most Twisted Assassination Plot",
+   "views": 324000,
+   "dur": 2974
+  },
+  {
+   "id": "mqxbg9T2-vo",
+   "title": "FBI Takedowns Of America's Most Evil Serial Killers",
+   "views": 71000,
+   "dur": 9027
+  },
+  {
+   "id": "0lEsd_wQUVY",
+   "title": "Unabomber: FBI Manhunt For America's Most Dangerous Domestic Terrorist",
+   "views": 168000,
+   "dur": 3124
+  },
+  {
+   "id": "s9VZ5nHMlIY",
+   "title": "Missing Wife: FBI Solves Twisted Kidnap and Ransom Case With Shock Discovery",
+   "views": 52000,
+   "dur": 2973
+  },
+  {
+   "id": "JKiKfk94RYA",
+   "title": "FBI Take Down of Criminal Anti-Government Terror Group",
+   "views": 59000,
+   "dur": 2974
+  },
+  {
+   "id": "yg3pXenOeN8",
+   "title": "Gone Girl: FBI Investigates Missing Child Case In Missouri",
+   "views": 78000,
+   "dur": 2974
+  },
+  {
+   "id": "D48dx6awBWw",
+   "title": "Cold Case Reopened: FBI Manhunt For Twisted Black Widow Killer",
+   "views": 30000,
+   "dur": 2602
+  },
+  {
+   "id": "Y91u-zdXKnA",
+   "title": "Cop Killers: The FBI's Most Dangerous Standoff With Arkansas White Supremacist Group",
+   "views": 178000,
+   "dur": 2974
+  },
+  {
+   "id": "aIwZ56hPxiE",
+   "title": "The FBI Takes Down America's Most Dangerous Biker Gang",
+   "views": 316000,
+   "dur": 2974
+  },
+  {
+   "id": "hxpRzxGpL38",
+   "title": "Criminal Mastermind: The FBI's Most Dangerous Hostage Rescue",
+   "views": 69000,
+   "dur": 2974
+  }
+ ],
+ "watched": {
+  "id": "9Or__s1SNFU",
+  "title": "South Carolina Farmer Murdered: FBI Investigates The Most Twisted Assassination Plot",
+  "views": 324000,
+  "dur": 2974
+ },
+ "style": {
+  "host_on_camera": false,
+  "is_tv_show_reupload": true,
+  "visual_share_pct": {
+   "real_case_footage": 30,
+   "real_case_photos": 15,
+   "news_clips": 10,
+   "generic_stock_video": 35,
+   "ai_images": 0,
+   "ai_video": 0,
+   "2d_animation": 0,
+   "3d": 0,
+   "maps_text_graphics": 0,
+   "reenactment_actors": 10
+  },
+  "narrator": "human",
+  "cuts_per_minute": 15.68,
+  "motion_graphics_quality_1_10": 4,
+  "overall_production_1_10": 7,
+  "style_in_5_words": "investigative archival documentary true crime drama",
+  "cases_country": "USA"
+ }
+}

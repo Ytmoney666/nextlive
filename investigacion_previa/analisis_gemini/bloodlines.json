@@ -1,0 +1,43 @@
+{
+ "visual_share_pct": {
+  "real_case_footage(bodycam/cctv/interrogation/court)": 39,
+  "real_case_photos": 8,
+  "news_clips": 0,
+  "generic_stock_video": 0,
+  "ai_images": 23,
+  "2d_animation": 0,
+  "3d": 0,
+  "maps_text_graphics": 30,
+  "live_action_reenactment": 0
+ },
+ "narrator": "ai_tts",
+ "cuts_per_minute": 23,
+ "graphics_seen": [
+  "lower thirds",
+  "map overlays with animated pins",
+  "disclaimer text",
+  "chapter titles with date/time stamps",
+  "red text highlights",
+  "video filters like VHS and CCTV scanlines"
+ ],
+ "thumbnail_style_guess": "Interrogation room close-up with suspect, gritty true-crime aesthetic with bold high-contrast text and vignette framing",
+ "what_makes_it_good": [
+  "Effective pacing with dynamic cut frequency matching the narrative tension",
+  "Good integration of real interrogation footage to ground the story",
+  "Clear visual geography using animated map graphics to trace the crime trail",
+  "Strong thematic consistency through graded filters and cohesive color palette"
+ ],
+ "hard_to_match_with_tools": [
+  "Access to specific raw police interrogation bodycam footage of Ayla Osterloth if not widely syndicated",
+  "Precise synchronization of emotional beats in the interrogation audio with fast cuts"
+ ],
+ "matchable_with_tools": [
+  "AI TTS voiceover narration",
+  "Map routes and location markers using Google Earth studio or motion graphics",
+  "2.5D photo animations and case-file polaroid framing",
+  "VHS, CCTV, and night-vision video filters",
+  "Standard lower thirds and chapter cards"
+ ],
+ "difficulty_1_10_for_that_toolset": 4,
+ "verdict": "This documentary relies heavily on standard true-crime production templates and accessible stock/AI assets, making it straightforward to replicate with modern automated video generation tools."
+}

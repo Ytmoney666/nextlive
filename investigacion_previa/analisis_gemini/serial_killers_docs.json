@@ -1,0 +1,124 @@
+{
+ "channel": "serial_killers_docs",
+ "id": "UCPnXkFy7z7JoLBtV2LLK2cQ",
+ "recent": [
+  {
+   "id": "A3arc1EZiok",
+   "title": "Gavin Eugene Long - The Baton Rouge Shooter",
+   "views": 18000,
+   "dur": 1339
+  },
+  {
+   "id": "mwYG73I4Svw",
+   "title": "Robert Ackermann (The Cannibal of Vienna)",
+   "views": 9200,
+   "dur": 574
+  },
+  {
+   "id": "qLesSQOFdvs",
+   "title": "Serial Killer Documentary: Michael Hristov - The Reddit Serial Killer (Wannabe)",
+   "views": 14000,
+   "dur": 1501
+  },
+  {
+   "id": "tIJorySCha4",
+   "title": "True Crime Documentary | Michael Mullen - The Bellingham Vigilante",
+   "views": 14000,
+   "dur": 1747
+  },
+  {
+   "id": "K8oVnQ6Sp_s",
+   "title": "Mass Murder Documentary: George Emil Banks (The Wilkes-Barre Shooter)",
+   "views": 16000,
+   "dur": 2733
+  },
+  {
+   "id": "6eDxZPadCUA",
+   "title": "Serial Killer Documentary: Robert Ben Rhoades (The Truck Stop Killer)",
+   "views": 18000,
+   "dur": 1845
+  },
+  {
+   "id": "WyTRFg1ROmc",
+   "title": "Serial Killer Documentary: John Anderson (The Fly-in Killer)",
+   "views": 32000,
+   "dur": 1909
+  },
+  {
+   "id": "y_JY1UZhTk4",
+   "title": "Serial Killer Documentary: Robert \"Lanky Bob\" Spahalski",
+   "views": 28000,
+   "dur": 1899
+  },
+  {
+   "id": "JqXz5Qgq4Rs",
+   "title": "3H Sleeper Edition: The Human Side of Serial Killers | NO AI, No Intro/Outro",
+   "views": 36000,
+   "dur": 11914
+  },
+  {
+   "id": "bH2wPaIkAe8",
+   "title": "The Human Side of Serial Killers: Joel \"Lard Ass\" Rifkin",
+   "views": 19000,
+   "dur": 2972
+  },
+  {
+   "id": "K_GbZ4Pe5_c",
+   "title": "Serial Killer Documentary: Tommy Lynn Sells (The Coast to Coast Killer)",
+   "views": 30000,
+   "dur": 2612
+  },
+  {
+   "id": "kRmgmZWQKWI",
+   "title": "True-Crime Documentary: Jonathan and Reginald Carr - The Wichita Massacre",
+   "views": 17000,
+   "dur": 2988
+  },
+  {
+   "id": "02ymRfPsRD8",
+   "title": "The Human Side of Serial Killers: Dennis Rader (Serial Killer Documentary)",
+   "views": 17000,
+   "dur": 2102
+  },
+  {
+   "id": "tAELHVmAfJE",
+   "title": "Serial Killer Documentary: Charles \"Smitty\" Schmid",
+   "views": 87000,
+   "dur": 2902
+  },
+  {
+   "id": "z8YbLk4Twso",
+   "title": "The Human Side of Serial Killers: Gary \"Wrong-Way\" Ridgway (Serial Killer Documentary)",
+   "views": 18000,
+   "dur": 1663
+  }
+ ],
+ "watched": {
+  "id": "tAELHVmAfJE",
+  "title": "Serial Killer Documentary: Charles \"Smitty\" Schmid",
+  "views": 87000,
+  "dur": 2902
+ },
+ "style": {
+  "host_on_camera": false,
+  "is_tv_show_reupload": false,
+  "visual_share_pct": {
+   "real_case_footage": 0,
+   "real_case_photos": 100,
+   "news_clips": 0,
+   "generic_stock_video": 0,
+   "ai_images": 0,
+   "ai_video": 0,
+   "2d_animation": 0,
+   "3d": 0,
+   "maps_text_graphics": 0,
+   "reenactment_actors": 0
+  },
+  "narrator": "human",
+  "cuts_per_minute": 3,
+  "motion_graphics_quality_1_10": 4,
+  "overall_production_1_10": 8,
+  "style_in_5_words": "historical true crime documentary photos",
+  "cases_country": "USA"
+ }
+}

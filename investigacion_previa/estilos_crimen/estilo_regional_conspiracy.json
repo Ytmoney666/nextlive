@@ -1,0 +1,113 @@
+{
+  "profile_name": "Regional Crime — Present-Tense Clock Open, Skeptical of the Official Story",
+  "based_on": "A faceless English channel about crimes from one region of the United States (~4,300 words, 30 minutes, photos, real footage and some 2D animation). No names, places or cases from the original are kept.",
+  "best_for": "a regional brand ('crimes of the Pacific Northwest', 'of the South', 'of one state'); cases with institutional failures, cover-ups or wrongful convictions; long 2–4 hour regional compilations",
+  "general_style_tags": ["true crime documentary", "regional true crime", "investigative skepticism", "institutional failure"],
+
+  "tone_of_voice": {
+    "primary": "investigative, dry, sharp",
+    "secondary": ["controlled anger at institutions", "precise"],
+    "never": ["conspiratorial without evidence", "flippant"]
+  },
+
+  "point_of_view": {
+    "narration": "third-person PRESENT tense in the opening scene, past tense afterwards",
+    "viewer_address": "brand line at the start and after the hook; occasional 'well,' asides"
+  },
+
+  "audience_addressing_style": "branded narrator: 'You're watching [CHANNEL NAME].' then 'This is [CHANNEL NAME].' after the hook",
+
+  "hook_style": {
+    "type": "date, time and place stamp, then a clock-driven scene",
+    "formula": "You're watching [CHANNEL NAME]. [City], [State], [full date]. It's a [weekday] evening, [exact time]. [Atmosphere: lights clicking off, early winter dark]. [Who the person is and why he mattered]. [He walks to his car, but he'll never drive away]. [Time stamps of who noticed what, and who failed to call]. [The discovery]. [The detail that contradicts the official explanation]. [Officials will call it X, but the facts suggest something darker]. This is [CHANNEL NAME].",
+    "length_words": "250–350"
+  },
+
+  "narrative_structure": {
+    "type": "clock open → who the victim was and what he threatened → the official version → the witnesses and confessions that did not fit → how the system steered the case → the wrongful outcome → what is still unanswered",
+    "beats_in_order": [
+      "1. Present-tense clock open.",
+      "2. The victim's career and why powerful people had reasons to fear him.",
+      "3. The official version announced quickly.",
+      "4. Tips, sketches and witnesses that pointed elsewhere.",
+      "5. A confession containing a detail never made public, and why it was dismissed.",
+      "6. Pressure on witnesses, lost or shredded evidence, immunity deals.",
+      "7. The person convicted and why the evidence against him was thin.",
+      "8. Appeals, releases, new reporting.",
+      "9. The system described as a machine that absorbs scandal.",
+      "10. Closing image: the physical place of the crime and the distance that holds the mystery."
+    ]
+  },
+
+  "pacing": {
+    "overall": "brisk; each paragraph adds a new document, witness or contradiction",
+    "lists": "stacked verbs for cover-up summaries ('absorb the murder, steer the investigation, pressure witnesses…')"
+  },
+
+  "sentence_style": {
+    "average_words": "13–16",
+    "mix": "clean declaratives; ironic understatement ('Now, that alone should have been notable.')",
+    "questions": "very rare"
+  },
+
+  "language_style": {
+    "register": "investigative journalism English",
+    "evidence_words": "documents, printouts, sketches, immunity, confession details withheld from the public"
+  },
+
+  "characters": {
+    "victim": "an insider who was about to expose something",
+    "institutions": "the real antagonist, described by documented actions",
+    "witnesses_and_confessors": "voices the official story ignored",
+    "the_convicted": "possibly the wrong man; treated fairly"
+  },
+
+  "dialogue": {
+    "use": "documented quotes from confessions, prosecutors and reporters",
+    "invented_dialogue": "never"
+  },
+
+  "humor": "none, only dry irony",
+
+  "emotional_tone": {
+    "arc": "quiet routine → shock → suspicion → frustration → unresolved unease",
+    "dominant": ["tense", "skeptical", "unresolved"]
+  },
+
+  "common_devices": [
+    "branded opener and branded line after the hook",
+    "clock timestamps",
+    "'Officials will call it X, but…' pivot",
+    "the withheld-detail confession",
+    "cover-up summarised as a list of verbs",
+    "closing on a physical distance or place"
+  ],
+
+  "call_to_action_style": {
+    "opening": "'You're watching [CHANNEL NAME].' and 'This is [CHANNEL NAME].'",
+    "closing": "none, or a single subscribe line"
+  },
+
+  "visual_cue_prompts": {
+    "note": "For the shot list only.",
+    "hook": "3D or stock of the building at night, lights turning off, car with the door open, clock overlays",
+    "documents": "highlighted memos, sketches, shredded paper motif",
+    "regional_brand": "regional map with the case pinned among earlier cases"
+  },
+
+  "safety_and_compliance": [
+    "Separate documented facts from theories; label theories clearly.",
+    "Never accuse a named living person of a crime without a conviction or credible documented allegation.",
+    "Fair treatment of the convicted person and of officials."
+  ],
+
+  "script_formatting_rules": {
+    "parts": "The final script must be sectioned into 10 parts, each part at least 800 words.",
+    "total_length": "The full script must be 8,000+ words in total.",
+    "no_headings": "No section headings, no part numbers, no titles inside the text.",
+    "no_line_breaks": "No line breaks: the whole script is one continuous block of text.",
+    "no_symbols": "No underscores, no bullet points, no brackets, no stage directions, no visual cues, no comments.",
+    "no_wrappers": "No introductory statement and no closing statement outside the narration itself.",
+    "delivery": "Send the whole script in one batch, only the script text, with nothing before or after it."
+  }
+}

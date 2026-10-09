@@ -1,0 +1,41 @@
+{
+  "visual_share_pct": {
+    "real_case_footage(bodycam/cctv/interrogation/court)": 73,
+    "real_case_photos": 0,
+    "news_clips": 0,
+    "generic_stock_video": 0,
+    "ai_images": 0,
+    "2d_animation": 0,
+    "3d": 12,
+    "maps_text_graphics": 15,
+    "live_action_reenactment": 0
+  },
+  "narrator": "human",
+  "cuts_per_minute": 22.0,
+  "graphics_seen": [
+    "location map",
+    "case report document with highlighted text",
+    "photo viewer windows with names",
+    "formal eviction notice document",
+    "text note editor"
+  ],
+  "thumbnail_style_guess": "True crime documentary thumbnail featuring a bodycam still of the suspect or victim with high-contrast text and ominous lighting.",
+  "what_makes_it_good": [
+    "Seamless integration of real police bodycam footage and interrogation video to ground the narrative",
+    "Effective use of 3D house mapping and overhead location context to establish the crime scene",
+    "Clear visual progression from the police station interview to the background story using highlighted case documents",
+    "Strong pacing and dramatic audio editing that build tension around the eviction dispute"
+  ],
+  "hard_to_match_with_tools": [
+    "Access to the exact bodycam and interrogation footage of Marilyn McEachin and Gregory Bargaineer from the Tyler Police Department",
+    "Authentic police case report and signed eviction notice documents related to this specific 2024 Tyler, TX case"
+  ],
+  "matchable_with_tools": [
+    "3D house exterior aerial view and map graphics",
+    "Photo viewer mockups and text editing overlays",
+    "AI text-to-speech narration and auto subtitles",
+    "Suspenseful background music and sound effects"
+  ],
+  "difficulty_1_10_for_that_toolset": 3,
+  "verdict": "An automated pipeline could easily replicate the stylistic presentation, but would be blocked by the proprietary availability of the real police bodycam and case files."
+}

@@ -1,0 +1,124 @@
+{
+ "channel": "twisted_tales",
+ "id": "UCrGk4b6Jeru3jYJmDbAmmwg",
+ "recent": [
+  {
+   "id": "XRI5pGlHFig",
+   "title": "The Wolf in Uniform: 72 Minutes of Terror on Utøya | Twisted Tales",
+   "views": 49,
+   "dur": 2805
+  },
+  {
+   "id": "RyNCyUCI_5k",
+   "title": "The Disappearance of Anne-Marie Fahey: Murder in the Highest Circles? | Twisted Tales",
+   "views": 6000,
+   "dur": 2597
+  },
+  {
+   "id": "0DAfelcjYPY",
+   "title": "Sex, Faith & Murder: Inside a Bizarre Love Affair! | Twisted Tales",
+   "views": 8000,
+   "dur": 2770
+  },
+  {
+   "id": "g0IOpYm0SXU",
+   "title": "Sold to a Stranger: My Nightmare as a Child Bride | Twisted Tales",
+   "views": 1200,
+   "dur": 2855
+  },
+  {
+   "id": "KfBm5sIw9pE",
+   "title": "The FBI Files: On the Hunt for The Casanova Killer | Paul John Knowles | Twisted Tales",
+   "views": 2600,
+   "dur": 5870
+  },
+  {
+   "id": "nrm5hpg6_dw",
+   "title": "An almost Perfect Crime: On the Hunt for the Predator | Twisted Tales",
+   "views": 8200,
+   "dur": 2785
+  },
+  {
+   "id": "wJ9jaMP_-q8",
+   "title": "Echoes of Terror: Uncovering a Killer’s Cruel Deception | Amanda Wright | Twisted Tales",
+   "views": 1700,
+   "dur": 2700
+  },
+  {
+   "id": "rjl6x66cm2k",
+   "title": "From Heaven to Hell: Inside the Bloody Mother Anna Cult | Twisted Tales",
+   "views": 0,
+   "dur": 2580
+  },
+  {
+   "id": "sTAz7AZkpbs",
+   "title": "Cult Justice: Inside the Brutal Holy Tribal Nation | Twisted Tales",
+   "views": 0,
+   "dur": 2580
+  },
+  {
+   "id": "bkSRj1zvJRE",
+   "title": "Cult Justice: The Hollywood Prophet | Tony Alamo | Twisted Tales",
+   "views": 0,
+   "dur": 2581
+  },
+  {
+   "id": "fdtSd_eul7U",
+   "title": "The FBI Files: On the Hunt for the Real D.B. Cooper | Twisted Tales",
+   "views": 0,
+   "dur": 5867
+  },
+  {
+   "id": "kM89xd6T6Sc",
+   "title": "On the Hunt for The Executioner | Twisted Tales",
+   "views": 41000,
+   "dur": 2597
+  },
+  {
+   "id": "cN9Hy0jE4ds",
+   "title": "Doctor Death: When Greed turns into cold-blooded Murder! | Twisted Tales",
+   "views": 9000,
+   "dur": 2770
+  },
+  {
+   "id": "a89nzBrSWJI",
+   "title": "Seconds to Impact: The Nightmare on the M1 Flight Crash | Twisted Tales",
+   "views": 1300,
+   "dur": 2731
+  },
+  {
+   "id": "GuPWzkw6Iqo",
+   "title": "A City in Fear: The Shadow of a Serial Killer Looms Over Flint | Twisted Tales",
+   "views": 22000,
+   "dur": 2596
+  }
+ ],
+ "watched": {
+  "id": "kM89xd6T6Sc",
+  "title": "On the Hunt for The Executioner | Twisted Tales",
+  "views": 41000,
+  "dur": 2597
+ },
+ "style": {
+  "host_on_camera": false,
+  "is_tv_show_reupload": true,
+  "visual_share_pct": {
+   "real_case_footage": 0,
+   "real_case_photos": 4,
+   "news_clips": 0,
+   "generic_stock_video": 0,
+   "ai_images": 0,
+   "ai_video": 0,
+   "2d_animation": 0,
+   "3d": 0,
+   "maps_text_graphics": 0,
+   "reenactment_actors": 96
+  },
+  "narrator": "human",
+  "cuts_per_minute": 15,
+  "motion_graphics_quality_1_10": 4,
+  "overall_production_1_10": 6,
+  "style_in_5_words": "dramatic true crime reenactment show",
+  "cases_country": "USA"
+ }
+}

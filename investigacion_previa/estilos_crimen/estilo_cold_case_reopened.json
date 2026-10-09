@@ -1,0 +1,142 @@
+{
+  "profile_name": "Solved Cold Case — Somber Chronological Documentary",
+  "based_on": "5 long-form transcripts of a faceless English cold-case channel (3,900–8,600 words each). No names, places or cases from the originals are kept.",
+  "general_style_tags": ["true crime documentary", "solved cold case", "forensic genealogy story", "victim-centred narration", "faceless YouTube long-form"],
+
+  "tone_of_voice": {
+    "primary": "somber, respectful, factual",
+    "secondary": ["quietly dramatic", "investigative", "reflective"],
+    "never": ["jokey", "sarcastic", "gleeful about violence", "sensational gore", "speculative gossip"],
+    "notes": "The drama comes from facts, time and contrast, never from adjectives about blood. The narrator sounds like a calm documentary voice that respects the family watching."
+  },
+
+  "point_of_view": {
+    "narration": "third-person omniscient, past tense",
+    "viewer_address": "only in the call-to-action lines and in the closing lessons, where it switches to second person ('you', 'your child')",
+    "first_person": "almost never; at most 'we' for the channel ('We dig into the cases everyone else has forgotten')"
+  },
+
+  "audience_addressing_style": "narration without reference to the viewer for 95% of the script; two short direct addresses: one subscribe line right after the hook, one closing line; optional 'let us know where you are watching from'",
+
+  "narrative_structure": {
+    "type": "cold open teaser → full chronological reconstruction → explanatory science interlude → breakthrough → arrest and court → aftermath → circular ending",
+    "beats_in_order": [
+      "1. Cold open (150–300 words): exact date, small place, who the victims were with their ages, the ordinary errand that went wrong, how they were found or that they vanished, the clue that existed but led nowhere, the decades of silence, the families who never gave up, the new technique, and a line that the answer shocked everyone.",
+      "2. Thesis triad: 'This is the story of [A], of [B], and of [C].' naming the silence, the evidence and the people who refused to forget.",
+      "3. Channel call-to-action (one or two sentences) aimed at viewers who 'stay until the end', then a bridge line such as 'But let's start from that night.'",
+      "4. Era snapshot: what the country was living that year (economy, mood, music, television, news headlines) in 3–5 sentences, to plant nostalgia and contrast with what is about to happen.",
+      "5. Place portrait: population, geography, climate, the feeling that 'neighbours knew each other by name' and nobody locked their doors.",
+      "6. Victim portraits: school, hobbies, character, plans, a loving quote from a parent or friend; make the viewer care before the crime.",
+      "7. The night or morning itself: minute-by-minute reconstruction with exact times, the last call, the last sighting.",
+      "8. Discovery and first investigation: what police found, what they collected, early suspects and why each was cleared.",
+      "9. The long cold years: leads that died, anniversaries, the families' fight, investigators who retired without an answer.",
+      "10. Science interlude: a clear plain-language explanation of the technique that finally worked (it searches the family, not the suspect), told as a mini-story of the landmark case that proved it.",
+      "11. The human heroes: the genealogist, the detective or the volunteer who reopened the file; how many hours, how many family branches.",
+      "12. Breakthrough: the name, the surprise (a neighbour, a familiar face, someone never considered), the discreet confirmation sample.",
+      "13. Arrest, interview, charges, trial or death before trial, sentence; careful legal wording when not convicted.",
+      "14. Aftermath: what the families said, what changed in the law or in procedures, questions still open.",
+      "15. Ending: either (a) numbered safety lessons for the viewer, or (b) a circular return to the very first image of the cold open, followed by a litany of the victims' names restored and the channel sign-off."
+    ],
+    "time_handling": "strictly chronological after the cold open; one flash-forward only (the cold open); dates spoken in full",
+    "open_loops": "the cold open withholds the killer's identity and the manner of the breakthrough; the middle teases 'a detail more haunting than the deaths themselves' before revealing it"
+  },
+
+  "hook_style": {
+    "type": "date-stamped factual cold open with a shocking-fact pivot",
+    "formula": "On [full date], [victims with ages] [ordinary action] in [small place]. [How it ended]. [The clue that existed]. [Years of silence]. [Families never gave up]. [The new technique]. [The answer shocked everyone in a way no one could have imagined after N years].",
+    "length_words": "150–300 before the call-to-action",
+    "first_sentence_rule": "always starts with a date or 'N years ago' and a concrete ordinary action, never with a question"
+  },
+
+  "pacing": {
+    "overall": "slow-burn but steady; no scene lingers longer than ~250 words without a new fact",
+    "rhythm": "long informative sentences broken by short fragments at emotional peaks",
+    "acceleration": "sentences get shorter in the discovery and breakthrough beats",
+    "breathing_room": "after each shocking fact, one short reflective sentence ('No one knew.')"
+  },
+
+  "sentence_style": {
+    "average_words": "13–18 per sentence",
+    "mix": "70% medium declarative sentences, 20% long descriptive sentences with numbers and places, 10% fragments of 2–6 words",
+    "fragment_examples_pattern": ["No body, no witnesses, no trace.", "Four bodies, not a single name, no suspect.", "No one knew.", "Guilty."],
+    "questions": "very rare (0–9 per script); only rhetorical, never as the hook",
+    "numbers": "always precise: times, distances, counts, years of waiting, populations"
+  },
+
+  "language_style": {
+    "register": "simple, clear, documentary English for a broad American audience",
+    "technical_terms": "explained immediately in plain words the first time (DNA database, genetic genealogy, reference sample)",
+    "legal_vocabulary": "accurate: 'charged with', 'pleaded', 'convicted', 'alleged', 'has not been convicted'",
+    "emotional_vocabulary": "restrained: devastated, never gave up, shattered, forgotten, waiting"
+  },
+
+  "characters": {
+    "victims": "presented as full people first (student, worker, parent, dreams), with ages repeated at key moments",
+    "families": "the moral centre: the mother who never stopped asking, the sibling who grew old waiting",
+    "investigators_and_experts": "named heroes with a short human detail (retired, volunteer, worked nights)",
+    "suspect": "introduced late, described through records and behaviour; never glamorised; the twist is how ordinary or familiar he seemed",
+    "community": "the town as a character that lost its innocence"
+  },
+
+  "dialogue": {
+    "use": "short real quotes from families, police statements, court records or interviews, introduced with 'said', 'later told reporters'",
+    "frequency": "1–3 quotes per part",
+    "invented_dialogue": "never; only documented words"
+  },
+
+  "humor": "none",
+
+  "emotional_tone": {
+    "arc": "nostalgic calm → shock → grief → frustration with the system → hope (science and people) → justice or partial justice → reflective",
+    "dominant": ["dark", "tense", "grieving", "dignified", "hopeful at the end"]
+  },
+
+  "common_devices": [
+    "triads and anaphora ('This is the story of…, of…, and of…')",
+    "precise numbers as drama (checks, years, miles, hours)",
+    "contrast between what officials missed and what one ordinary person noticed",
+    "era nostalgia paragraph before the crime",
+    "foreshadowing lines ('She had no idea…', 'a detail more haunting than…')",
+    "explaining the science as a story inside the story",
+    "circular ending that repeats the first image word for word",
+    "litany of victims' names restored",
+    "lessons list at the end ('First… Second… Third… And finally…')",
+    "short one-line paragraphs after big reveals"
+  ],
+
+  "call_to_action_style": {
+    "after_hook": "'If you are the kind of person who stays until the end, who wants to know not only what happened but why it took N years, you have come to the right place. Subscribe to [CHANNEL NAME]. We dig into the cases everyone else has forgotten.' or 'Before we dive deeper, let us know where you are watching from.'",
+    "closing": "'This is [CHANNEL NAME]. We tell the stories of forgotten victims and of the people who refuse to let them be forgotten. If this story stays with you, subscribe and share it. The next case is waiting.'",
+    "frequency": "exactly two; never mid-story"
+  },
+
+  "visual_cue_prompts": {
+    "note": "Cues are for the editor, never spoken. In the final script they are NOT written; keep them in a separate shot list if needed.",
+    "cold_open": "real victim photos with slow push-in, archival news frames, map pin on the small town, the year in large type",
+    "era_snapshot": "period footage and photos of the year (cars, TV, music), era film grain",
+    "place_portrait": "aerial of the town, street signs, welcome sign, weather",
+    "night_reconstruction": "3D night scene of the road or house with fog and street lamps, timestamp overlays, payphone or car silhouette",
+    "science_interlude": "animated family tree, DNA helix, database screens, branches lighting up toward one name",
+    "breakthrough": "mugshot then and now, discarded cup or object in close-up, case file stamp",
+    "court": "courthouse exterior, document highlights of charges and sentence",
+    "ending": "repeat the first image, then each victim photo with name and dates"
+  },
+
+  "safety_and_compliance": [
+    "Never invent facts, quotes or motives; if uncertain, say 'investigators believed' or 'according to court records'.",
+    "Use 'alleged' and 'has not been convicted' for anyone not convicted.",
+    "No graphic description of injuries beyond what is needed (cause of death in one plain sentence).",
+    "Minors: no sexual detail, no description of abuse acts, no AI recreation of child victims; if the channel rule excludes minors, choose cases with adult victims only.",
+    "Victims are never recreated with AI likeness; use their real photos or anonymous silhouettes."
+  ],
+
+  "script_formatting_rules": {
+    "parts": "The final script must be sectioned into 10 parts, each part at least 800 words.",
+    "total_length": "The full script must be 8,000+ words in total.",
+    "no_headings": "No section headings, no part numbers, no titles inside the text.",
+    "no_line_breaks": "No line breaks: the whole script is one continuous block of text.",
+    "no_symbols": "No underscores, no bullet points, no brackets, no stage directions, no visual cues, no comments.",
+    "no_wrappers": "No introductory statement and no closing statement outside the narration itself.",
+    "delivery": "Send the whole script in one batch, only the script text, with nothing before or after it."
+  }
+}

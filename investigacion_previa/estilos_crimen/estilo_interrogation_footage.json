@@ -1,0 +1,111 @@
+{
+  "profile_name": "Interrogation Documentary — 'Has No Idea' Irony, Real Footage Carries the Story",
+  "based_on": "The leading faceless English channel of 2026 in police-footage documentaries (~7,700 words including interrogation dialogue, 40–75 minutes, human narrator). No names, places or cases from the original are kept.",
+  "best_for": "ONLY when real interrogation, bodycam or 911 recordings of the case are publicly available and lawfully sourced. Without footage, use another style.",
+  "general_style_tags": ["true crime documentary", "police interrogation", "dramatic irony", "footage-driven narration"],
+
+  "tone_of_voice": {
+    "primary": "dry, knowing, suspenseful",
+    "secondary": ["analytical about interview tactics", "lightly ironic about the suspect's confidence"],
+    "never": ["mocking victims", "inventing what is not on tape"]
+  },
+
+  "point_of_view": {
+    "narration": "third-person, present tense around the footage ('Right now, she's being questioned…'), past tense for background",
+    "viewer_address": "'What you're about to watch is…' framing; comment questions at the end"
+  },
+
+  "audience_addressing_style": "narrator as a guide who knows the ending and lets the viewer watch the suspect not know it",
+
+  "hook_style": {
+    "type": "cold open on a real line from the interrogation, then the irony stated plainly",
+    "formula": "[2–4 real lines from the interview]. This is [name], [job, years]. Right now, [he/she] is being questioned about [crime] from [N] years ago. [He/She] is the one who did it. [He/She] just doesn't know that investigators already know it, too. [One more real line]. What you're about to watch is how [investigators] got [the suspect] to [walk into the truth] using nothing but a conversation.",
+    "length_words": "150–250 of narration around the quoted lines"
+  },
+
+  "narrative_structure": {
+    "type": "interrogation cold open → crime day reconstruction → original investigation and wrong theory → the evidence that waited → how investigators set up the interview → long interrogation segments with narrator bridges → arrest → trial and sentence → later admissions → comment questions",
+    "beats_in_order": [
+      "1. Interrogation cold open and irony line.",
+      "2. Date and place; the day of the crime reconstructed minute by minute.",
+      "3. The scene that looked like something else (a burglary, an accident).",
+      "4. Years of the wrong theory; the evidence that sat in storage.",
+      "5. The new test and the shock of whom it pointed to.",
+      "6. Covert evidence collection (a discarded cup or straw).",
+      "7. The interview strategy explained before the footage.",
+      "8. Footage blocks of 1–3 minutes, each introduced and then explained ('Notice what she does here…').",
+      "9. The moment the suspect realises; the arrest outside the room.",
+      "10. Trial, sentence, parole hearings, later admissions.",
+      "11. Two direct questions to the audience for the comments."
+    ]
+  },
+
+  "pacing": {
+    "overall": "alternates fast narrated reconstruction with slow real-time footage",
+    "footage_rule": "never more than ~2–3 minutes of uninterrupted footage before the narrator adds context or analysis"
+  },
+
+  "sentence_style": {
+    "average_words": "11–14 in narration",
+    "mix": "short ironic statements, procedural explanations, analysis of body language and word choice",
+    "questions": "only in the final comment prompt and in quoted dialogue"
+  },
+
+  "language_style": {
+    "register": "plain, slightly wry documentary English; interview-technique vocabulary explained"
+  },
+
+  "characters": {
+    "suspect": "confident, experienced, unaware; never glamorised",
+    "interviewers": "patient strategists",
+    "victim": "remembered at the start and at the sentence"
+  },
+
+  "dialogue": {
+    "use": "real recorded dialogue is the backbone (40%+ of runtime)",
+    "invented_dialogue": "never"
+  },
+
+  "humor": "dry irony only, never at the victim's expense",
+
+  "emotional_tone": {
+    "arc": "dramatic irony → curiosity → tension → release at the arrest → sober justice",
+    "dominant": ["tense", "knowing", "satisfying"]
+  },
+
+  "common_devices": [
+    "'has no idea' dramatic irony",
+    "'What you're about to watch is how…' promise",
+    "narrator pointing out tells in the footage",
+    "ending with two comment questions"
+  ],
+
+  "call_to_action_style": {
+    "closing": "'So, what stands out to you most about this case? Is it [A]? Or that [B]? Let us know what you think in the comments.'",
+    "frequency": "one, at the end"
+  },
+
+  "visual_cue_prompts": {
+    "note": "For the shot list only.",
+    "footage": "real interrogation or bodycam in a framed player with source caption, subtitles, names on first appearance",
+    "reconstruction": "maps, photos, silhouettes replacing bodies in scene photos",
+    "evidence": "the decisive object close-up, lab graphic"
+  },
+
+  "safety_and_compliance": [
+    "Footage must be lawfully obtained (public records, official releases); credit the source on screen and in the description.",
+    "Add substantial narration and analysis around every footage block (reused-content policy).",
+    "Blur minors, bystanders and graphic scene photos.",
+    "Never put a bodycam or CCTV frame on stock footage to make it look like real case footage."
+  ],
+
+  "script_formatting_rules": {
+    "parts": "The final script must be sectioned into 10 parts, each part at least 800 words (narration only; footage segments are planned separately).",
+    "total_length": "The full narration must be 8,000+ words in total.",
+    "no_headings": "No section headings, no part numbers, no titles inside the text.",
+    "no_line_breaks": "No line breaks: the whole script is one continuous block of text.",
+    "no_symbols": "No underscores, no bullet points, no brackets, no stage directions, no visual cues, no comments.",
+    "no_wrappers": "No introductory statement and no closing statement outside the narration itself.",
+    "delivery": "Send the whole script in one batch, only the script text, with nothing before or after it."
+  }
+}

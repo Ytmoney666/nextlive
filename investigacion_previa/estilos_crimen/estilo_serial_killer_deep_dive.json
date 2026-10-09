@@ -1,0 +1,118 @@
+{
+  "profile_name": "Serial Killer Deep Dive — Present-Tense Night Reconstruction with a Host Outro",
+  "based_on": "A faceless English channel of long serial-killer and mass-murder documentaries (~8,400 words, 45–60 minutes, AI narration over case photos, period stock and reenactment footage). No names, places or cases from the original are kept.",
+  "best_for": "famous or lesser-known serial and multiple-victim cases, 45–120 minutes",
+  "general_style_tags": ["true crime documentary", "serial killer deep dive", "minute-by-minute reconstruction", "host-led faceless channel"],
+
+  "tone_of_voice": {
+    "primary": "immersive, suspenseful, detailed",
+    "secondary": ["respectful", "personal and warm in the outro"],
+    "never": ["gleeful", "gory beyond necessity", "mocking victims"]
+  },
+
+  "point_of_view": {
+    "narration": "third-person PRESENT tense for the night of the crime ('she drives… he arrives…'), past tense for investigation and trial",
+    "viewer_address": "none in the body; warm first person from the host only in the outro"
+  },
+
+  "audience_addressing_style": "pure narration for the story; a friendly host sign-off with comments, suggestions and membership",
+
+  "hook_style": {
+    "type": "in medias res cinematic reconstruction",
+    "formula": "[Date]. [A named, ordinary person doing an ordinary thing in a precise place — car, snow, pet, plans for the evening]. [Other people arrive one by one, each with age and job]. [Small domestic details]. [A light, a knock, a voice at a late hour]. [The door flies open].",
+    "length_words": "350–600; the hook IS the beginning of the story, no summary first",
+    "no_cta_in_hook": true
+  },
+
+  "narrative_structure": {
+    "type": "present-tense night of terror → victims' fates → the investigation and manhunt → the arrest → the killer's background → the trial → the aftermath and memorials → host outro",
+    "beats_in_order": [
+      "1. The evening of the crime, minute by minute, from the victims' point of view.",
+      "2. The attack, described through sounds, light and fear rather than wounds.",
+      "3. The escape or survival of one witness, if any, and the first call for help.",
+      "4. Police response, the scene, the first evidence.",
+      "5. Earlier linked crimes revealed, building the pattern.",
+      "6. The tip or ordinary citizen that cracks the case (a landlady, a neighbour) told as a tense set piece.",
+      "7. The arrest and the evidence found with the suspects.",
+      "8. Background of the perpetrators, from childhood to the crimes.",
+      "9. Trial, verdict, sentences, appeals.",
+      "10. Aftermath: memorials, scholarships, laws, the survivor's later life.",
+      "11. Host outro: thanks, suggestions welcome, support the channel."
+    ]
+  },
+
+  "pacing": {
+    "overall": "slow-burn and cinematic in the first third, then brisk procedural",
+    "set_pieces": "two or three long scenes told in real time"
+  },
+
+  "sentence_style": {
+    "average_words": "14–20",
+    "mix": "flowing descriptive sentences with stacked clauses during the night; shorter sentences in the procedural part",
+    "questions": "almost none"
+  },
+
+  "language_style": {
+    "register": "vivid but plain English with sensory detail (snow, porch light, the clock on the wall)",
+    "victim_identifiers": "always age + job + one personal trait"
+  },
+
+  "characters": {
+    "victims": "a group of friends or family with distinct personalities introduced quickly",
+    "survivor": "the narrative anchor whose perspective carries the night",
+    "citizens": "an ordinary person whose courage breaks the case",
+    "perpetrators": "introduced through actions first, biography later; never glamorised"
+  },
+
+  "dialogue": {
+    "use": "reported speech from trial testimony and police reports, paraphrased into the narration",
+    "invented_dialogue": "never"
+  },
+
+  "humor": "none in the story; light warmth in the host outro only",
+
+  "emotional_tone": {
+    "arc": "cosy normality → terror → grief → determination → justice → remembrance",
+    "dominant": ["dark", "tense", "mournful"]
+  },
+
+  "common_devices": [
+    "present-tense reconstruction",
+    "domestic details before horror (dinner, TV, the pet)",
+    "the clock and the light as tension markers",
+    "citizen-hero set piece",
+    "memorial ending listing scholarships and tributes",
+    "host sign-off with community requests"
+  ],
+
+  "call_to_action_style": {
+    "closing": "'And with that, our deep dive into this case comes to a close. Thanks so much for watching. If you found this video interesting, please like, subscribe and tell me your thoughts in the comments. Case suggestions are always welcome. Until next time, you have been watching [CHANNEL NAME].'",
+    "frequency": "one, at the end"
+  },
+
+  "visual_cue_prompts": {
+    "note": "For the shot list only.",
+    "night": "3D night scene of the street and house in snow or rain, porch light, clock close-ups, silhouettes",
+    "victims": "real photos with name, age and job",
+    "manhunt": "map of the city with crime locations, car silhouette, police lights",
+    "background": "period photos and stock of the decades of the perpetrator's childhood",
+    "memorial": "scholarship plaques, candles, victims' photos in a row"
+  },
+
+  "safety_and_compliance": [
+    "Describe violence through sound, light and consequence; no explicit sexual detail.",
+    "Victims only with real photos or anonymous silhouettes.",
+    "Correct legal outcomes, including appeals and resentencing.",
+    "No minors recreated."
+  ],
+
+  "script_formatting_rules": {
+    "parts": "The final script must be sectioned into 10 parts, each part at least 800 words.",
+    "total_length": "The full script must be 8,000+ words in total.",
+    "no_headings": "No section headings, no part numbers, no titles inside the text.",
+    "no_line_breaks": "No line breaks: the whole script is one continuous block of text.",
+    "no_symbols": "No underscores, no bullet points, no brackets, no stage directions, no visual cues, no comments.",
+    "no_wrappers": "No introductory statement and no closing statement outside the narration itself.",
+    "delivery": "Send the whole script in one batch, only the script text, with nothing before or after it."
+  }
+}

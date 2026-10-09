@@ -1,0 +1,124 @@
+{
+ "channel": "northern_crimes",
+ "id": "UCFtWkGb25CyTJy3Q9fKxQsw",
+ "recent": [
+  {
+   "id": "ld2z6QwBYIw",
+   "title": "Oregon's Darkest True Crime Stories | 4 Hours",
+   "views": 95000,
+   "dur": 14308
+  },
+  {
+   "id": "w-2RFJHdDrY",
+   "title": "Canada's Most Mysterious Gold Scandal",
+   "views": 71000,
+   "dur": 1988
+  },
+  {
+   "id": "ZRrDE2MQ8NA",
+   "title": "Unsolved Mysteries from Idaho",
+   "views": 160000,
+   "dur": 1997
+  },
+  {
+   "id": "6eZ4oRv-ZgA",
+   "title": "Oregon's Most Disturbing Conspiracy",
+   "views": 505000,
+   "dur": 1852
+  },
+  {
+   "id": "AJDy2cTCY7w",
+   "title": "Washington's Most Disturbing Crimes | 2 Hours",
+   "views": 185000,
+   "dur": 7432
+  },
+  {
+   "id": "xEY0zC0JNo0",
+   "title": "The Alaskan Disappearance No One Talks About",
+   "views": 170000,
+   "dur": 1314
+  },
+  {
+   "id": "bbM9tvg5xMw",
+   "title": "Why Are These Parts of Oregon So Dangerous?",
+   "views": 157000,
+   "dur": 1612
+  },
+  {
+   "id": "yxH9j9bPZcM",
+   "title": "The Spy Who Disappeared in Olympic National Park",
+   "views": 109000,
+   "dur": 1227
+  },
+  {
+   "id": "jnA4V6xiBnw",
+   "title": "Canada's Darkest Crimes | 2 Hours",
+   "views": 133000,
+   "dur": 7752
+  },
+  {
+   "id": "7bPgyrOuCoE",
+   "title": "Unsolved Cold Cases from Newfoundland",
+   "views": 138000,
+   "dur": 2034
+  },
+  {
+   "id": "BVSidrsFnD8",
+   "title": "Canada's Most Disturbing Unsolved Mystery",
+   "views": 114000,
+   "dur": 1289
+  },
+  {
+   "id": "h1WQGXCO-P0",
+   "title": "Nobody Knows What Happened to These Hikers",
+   "views": 101000,
+   "dur": 1713
+  },
+  {
+   "id": "yATGW6nguq0",
+   "title": "Alaska's Most Disturbing Cold Cases | 2 Hours",
+   "views": 223000,
+   "dur": 7020
+  },
+  {
+   "id": "MpBFeNE-ZBU",
+   "title": "Norway's Strangest Unsolved Mystery",
+   "views": 237000,
+   "dur": 1318
+  },
+  {
+   "id": "nXkKwrmPnDw",
+   "title": "6 Disturbing Cold Cases from the Pacific Northwest",
+   "views": 293000,
+   "dur": 1772
+  }
+ ],
+ "watched": {
+  "id": "6eZ4oRv-ZgA",
+  "title": "Oregon's Most Disturbing Conspiracy",
+  "views": 505000,
+  "dur": 1852
+ },
+ "style": {
+  "host_on_camera": false,
+  "is_tv_show_reupload": false,
+  "visual_share_pct": {
+   "real_case_footage": 25,
+   "real_case_photos": 25,
+   "news_clips": 10,
+   "generic_stock_video": 10,
+   "ai_images": 0,
+   "ai_video": 0,
+   "2d_animation": 20,
+   "3d": 0,
+   "maps_text_graphics": 10,
+   "reenactment_actors": 0
+  },
+  "narrator": "human",
+  "cuts_per_minute": 22.45,
+  "motion_graphics_quality_1_10": 8,
+  "overall_production_1_10": 8,
+  "style_in_5_words": "gritty dark true crime documentary",
+  "cases_country": "USA"
+ }
+}

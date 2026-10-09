@@ -1,0 +1,39 @@
+{
+ "visual_share_pct": {
+  "real_case_footage(bodycam/cctv/interrogation/court)": 39,
+  "real_case_photos": 16,
+  "news_clips": 45,
+  "generic_stock_video": 0,
+  "ai_images": 0,
+  "2d_animation": 0,
+  "3d": 0,
+  "maps_text_graphics": 0,
+  "live_action_reenactment": 0
+ },
+ "narrator": "human",
+ "cuts_per_minute": 13,
+ "graphics_seen": [
+  "news lower thirds",
+  "reporter overlays",
+  "breaking news banners"
+ ],
+ "thumbnail_style_guess": "Crime scene tape with news anchor and victim portrait inset",
+ "what_makes_it_good": [
+  "Genuine local news broadcast style",
+  "Authentic neighbor and union president interviews",
+  "Real CCTV surveillance footage of the incident"
+ ],
+ "hard_to_match_with_tools": [
+  "Actual local news anchor broadcasts from Fox 32 and CBS Chicago",
+  "Original news interviews with neighbors and union officials",
+  "Authentic police scanner audio clips"
+ ],
+ "matchable_with_tools": [
+  "CCTV footage recreation",
+  "Victim portrait slides",
+  "News lower thirds and banners",
+  "Map graphics for crime locations"
+ ],
+ "difficulty_1_10_for_that_toolset": 6,
+ "verdict": "A standard television news broadcast segment detailing a tragic crime, highly reliant on authentic news footage and interviews."
+}

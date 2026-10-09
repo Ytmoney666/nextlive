@@ -1,0 +1,124 @@
+{
+ "channel": "the_case_vault",
+ "id": "UCjuwtKw5AJ4ibX4eIbpGiXw",
+ "recent": [
+  {
+   "id": "zyiP8qgL0Tk",
+   "title": "10 Prolific Serial Killers in Alaska History",
+   "views": 1200,
+   "dur": 3798
+  },
+  {
+   "id": "dFv9u6GvVG4",
+   "title": "10 Creepiest Serial Killers in Alabama History",
+   "views": 5300,
+   "dur": 3725
+  },
+  {
+   "id": "38-7flp-vZE",
+   "title": "10 Prolific Serial Killers in St  Louis History",
+   "views": 11000,
+   "dur": 3655
+  },
+  {
+   "id": "Ty5KgX7_f_A",
+   "title": "10 Disturbing Crimes in Tallahassee History",
+   "views": 7800,
+   "dur": 3865
+  },
+  {
+   "id": "fPlpp6PIrb0",
+   "title": "10 Creepiest Serial Killers in Raleigh History",
+   "views": 10000,
+   "dur": 3744
+  },
+  {
+   "id": "bC3MP4eEaJM",
+   "title": "10 Prolific Serial Killers in Asheville History",
+   "views": 3200,
+   "dur": 3723
+  },
+  {
+   "id": "sKwSHt2kgaw",
+   "title": "10 Creepiest Serial Killers in Chattanooga History",
+   "views": 19000,
+   "dur": 3829
+  },
+  {
+   "id": "2VPm3dOSicU",
+   "title": "10 Prolific Serial Killers in Knoxville History",
+   "views": 28000,
+   "dur": 3796
+  },
+  {
+   "id": "W3LzHjXvH8c",
+   "title": "10 Prolific Serial Killers in Lexington History",
+   "views": 21000,
+   "dur": 3811
+  },
+  {
+   "id": "2h5trfHP528",
+   "title": "10 Creepiest Serial Killers in London History",
+   "views": 11000,
+   "dur": 3779
+  },
+  {
+   "id": "5zcn1Juko-8",
+   "title": "10 Prolific Serial Killers in Washington D.C. History",
+   "views": 40000,
+   "dur": 3923
+  },
+  {
+   "id": "O_E5RkgQgxg",
+   "title": "10 Creepiest Serial Killers in Milwaukee History",
+   "views": 17000,
+   "dur": 3827
+  },
+  {
+   "id": "rwfCdiPy0kk",
+   "title": "10 Prolific Serial Killers in Cleveland History",
+   "views": 4300,
+   "dur": 3940
+  },
+  {
+   "id": "iq38AiEE20U",
+   "title": "10 Prolific Serial Killers in Kansas City History",
+   "views": 23000,
+   "dur": 3972
+  },
+  {
+   "id": "iroN0PPf23A",
+   "title": "10 Prolific Serial Killers in Minneapolis History",
+   "views": 26000,
+   "dur": 3737
+  }
+ ],
+ "watched": {
+  "id": "5zcn1Juko-8",
+  "title": "10 Prolific Serial Killers in Washington D.C. History",
+  "views": 40000,
+  "dur": 3923
+ },
+ "style": {
+  "host_on_camera": false,
+  "is_tv_show_reupload": true,
+  "visual_share_pct": {
+   "real_case_footage": 0,
+   "real_case_photos": 100,
+   "news_clips": 0,
+   "generic_stock_video": 0,
+   "ai_images": 0,
+   "ai_video": 0,
+   "2d_animation": 0,
+   "3d": 0,
+   "maps_text_graphics": 0,
+   "reenactment_actors": 0
+  },
+  "narrator": "human",
+  "cuts_per_minute": 1.25,
+  "motion_graphics_quality_1_10": 4,
+  "overall_production_1_10": 7,
+  "style_in_5_words": "dramatic, investigative, gripping, dark, archival",
+  "cases_country": "USA"
+ }
+}

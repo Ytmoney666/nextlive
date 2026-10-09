@@ -1,0 +1,124 @@
+{
+ "channel": "true_crime_uncut",
+ "id": "UCQuLkAD-nRqjiRrU1budBVA",
+ "recent": [
+  {
+   "id": "TNje6ZyIWeo",
+   "title": "The Monster Among Us | Murder at My Door | Full True Crime Documentary",
+   "views": 4400,
+   "dur": 2651
+  },
+  {
+   "id": "SAdQYnevmfE",
+   "title": "Stephen Grieveson | World's Most Evil Killers | Full True Crime Documentary",
+   "views": 370,
+   "dur": 2539
+  },
+  {
+   "id": "L7acOUSefMI",
+   "title": "The Most Unlikely Serial Killers | How I Caught the Killer | Full True Crime Documentary",
+   "views": 22000,
+   "dur": 8116
+  },
+  {
+   "id": "IrTQiR7J0EU",
+   "title": "Tracie Andrews | World's Most Evil Killers | Full True Crime Documentary",
+   "views": 334,
+   "dur": 2630
+  },
+  {
+   "id": "xDDCIbFdlWc",
+   "title": "The Twilight Killers | The Killer Within | Full True Crime Documentary",
+   "views": 17000,
+   "dur": 2736
+  },
+  {
+   "id": "jp0nyY3ZZkw",
+   "title": "John Duffy & David Mulcahy | World's Most Evil Killers | Full True Crime Documentary",
+   "views": 322,
+   "dur": 2602
+  },
+  {
+   "id": "M0btG9hFQb4",
+   "title": "The Dark Story of Los Angeles' Most Feared Serial Killers",
+   "views": 5300,
+   "dur": 1381
+  },
+  {
+   "id": "EYpDObbu7zA",
+   "title": "Roy Whiting | World's Most Evil Killers | Full True Crime Documentary",
+   "views": 271,
+   "dur": 2616
+  },
+  {
+   "id": "qVwNXo9zFUE",
+   "title": "A Daughter's Revenge | The Killer Within | Full True Crime Documentary",
+   "views": 82000,
+   "dur": 2644
+  },
+  {
+   "id": "GpMo1EHCEs4",
+   "title": "Raoul Moat | World's Most Evil Killers | Full True Crime Documentary",
+   "views": 205,
+   "dur": 2578
+  },
+  {
+   "id": "TmTeYNt888g",
+   "title": "The Most Evil Serial Killer You Don't Know About...",
+   "views": 6000,
+   "dur": 1457
+  },
+  {
+   "id": "FrfebVO0uFk",
+   "title": "Stephen Port | World's Most Evil Killers | Full True Crime Documentary",
+   "views": 177,
+   "dur": 2567
+  },
+  {
+   "id": "EVb9j3XP0OM",
+   "title": "The Nanny Killer | The Killer Within | Full True Crime Documentary",
+   "views": 3500,
+   "dur": 2701
+  },
+  {
+   "id": "89zw75QBMss",
+   "title": "Mark Bridger | World's Most Evil Killers | Full True Crime Documentary",
+   "views": 305,
+   "dur": 2561
+  },
+  {
+   "id": "HN-GLQzH9K4",
+   "title": "Once Upon a Time... in Atlanta | Full True Crime Documentary",
+   "views": 216000,
+   "dur": 3306
+  }
+ ],
+ "watched": {
+  "id": "HN-GLQzH9K4",
+  "title": "Once Upon a Time... in Atlanta | Full True Crime Documentary",
+  "views": 216000,
+  "dur": 3306
+ },
+ "style": {
+  "host_on_camera": true,
+  "is_tv_show_reupload": false,
+  "visual_share_pct": {
+   "real_case_footage": 23,
+   "real_case_photos": 20,
+   "news_clips": 10,
+   "generic_stock_video": 18,
+   "ai_images": 0,
+   "ai_video": 7,
+   "2d_animation": 0,
+   "3d": 0,
+   "maps_text_graphics": 0,
+   "reenactment_actors": 22
+  },
+  "narrator": "human",
+  "cuts_per_minute": 17.5,
+  "motion_graphics_quality_1_10": 7,
+  "overall_production_1_10": 8,
+  "style_in_5_words": "Historical true crime documentary series",
+  "cases_country": "USA"
+ }
+}

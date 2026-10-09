@@ -1,0 +1,44 @@
+{
+  "visual_share_pct": {
+    "real_case_footage(bodycam/cctv/interrogation/court)": 75,
+    "real_case_photos": 10,
+    "news_clips": 5,
+    "generic_stock_video": 0,
+    "ai_images": 0,
+    "2d_animation": 0,
+    "3d": 0,
+    "maps_text_graphics": 10,
+    "live_action_reenactment": 0
+  },
+  "narrator": "human",
+  "cuts_per_minute": 22.8,
+  "graphics_seen": [
+    "Location markers on aerial map",
+    "News article screenshot with headline and reporter name",
+    "Suspect booking photo frame with name tag",
+    "Interrogation room split-screen with gender/role labels",
+    "Text overlays for dialogue and disclaimers",
+    "Date and timestamp overlays"
+  ],
+  "thumbnail_style_guess": "Dramatic split-screen of suspect in police bodycam and interrogation room with bold true-crime typography",
+  "what_makes_it_good": [
+    "Authentic bodycam footage showing raw, immediate police response at the scene",
+    "Real interrogation room footage capturing raw emotional reactions of the parents",
+    "Effective pacing with quick cuts building narrative tension between police statements and suspect interviews",
+    "Clear contextual graphics including news clips and timeline markers to ground the true-crime documentary style"
+  ],
+  "hard_to_match_with_tools": [
+    "Access to exclusive or unedited police bodycam footage of this specific Goshen Township incident",
+    "Exact interrogation room camera angles and audio recordings of Andrew Kammerer and Danielle",
+    "Authentic local news coverage clips from WLWT5 regarding this specific Clermont County case",
+    "Real police evidence photos from the actual crime scene"
+  ],
+  "matchable_with_tools": [
+    "AI text-to-speech voiceover narration with dramatic tone",
+    "Auto-generated stylized subtitle overlays with highlighted keywords",
+    "Aerial map animations showing Goshen Township and Meadowbrook Drive",
+    "Standard true-crime disclaimer and chapter graphic templates"
+  ],
+  "difficulty_1_10_for_that_toolset": 9,
+  "verdict": "This documentary relies heavily on authentic, case-specific police bodycam and interrogation footage that automated tools cannot replicate without the source files."
+}

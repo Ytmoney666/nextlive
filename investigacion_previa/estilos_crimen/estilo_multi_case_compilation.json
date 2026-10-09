@@ -1,0 +1,111 @@
+{
+  "profile_name": "Multi-Case Compilation — Psychological Cold Open, 4–6 Cases in One Long Video",
+  "based_on": "A faceless English channel publishing 60–120 minute videos that chain several serial-killer cases (~16,500 words in the 2-hour example). No names, places or cases from the original are kept.",
+  "best_for": "1–2 hour videos: 'N cases nobody talks about', 'N killers from [state]', themed collections",
+  "general_style_tags": ["true crime documentary", "multi-case compilation", "psychological true crime", "long watch-time format"],
+
+  "tone_of_voice": {
+    "primary": "dark, contemplative, authoritative",
+    "secondary": ["psychological", "socially critical when the system failed certain victims"],
+    "never": ["jokey", "voyeuristic", "glamorising killers"]
+  },
+
+  "point_of_view": {
+    "narration": "third-person past tense, with occasional present-tense framing ('There is a photograph of…')",
+    "viewer_address": "a single 'Let's get into it.' after each case opener; 'you' only in reflective lines"
+  },
+
+  "audience_addressing_style": "invisible narrator with brief direct transitions between cases",
+
+  "hook_style": {
+    "type": "philosophical premise about the human mind, then a photograph that lies",
+    "formula": "[A general truth about how people hide what they are]. [Today's case takes that to its furthest point]. Let's get into it. There is a photograph of [person] taken [when]. [What he looks like: ordinary, forgettable]. He was not that man. [Years and place of the hidden crimes]. This is the story of the man they called [nickname or description], and by the end you will understand why.",
+    "length_words": "150–250 for the first case; each later case opens with its own 60–120 word mini-hook"
+  },
+
+  "narrative_structure": {
+    "type": "anthology: one premise → 4–6 self-contained case chapters → closing reflection",
+    "case_chapter_template": [
+      "a. Mini-hook: the ordinary face versus the hidden truth.",
+      "b. Birth and childhood, the first warning signs.",
+      "c. Early offences and missed chances.",
+      "d. The crimes in chronological order, focused on the victims as people.",
+      "e. How police connected them; social failures (which victims were ignored and why).",
+      "f. Arrest, trial or death, sentence.",
+      "g. A closing paragraph on what made this person 'truly terrifying': the normal life around the crimes."
+    ],
+    "transitions": "each chapter ends on a reflective line and the next opens with a new mini-hook, with no recap",
+    "ending": "the last case's reflection doubles as the video's ending; no long outro"
+  },
+
+  "pacing": {
+    "overall": "steady, documentary, with short sentence clusters at each reveal",
+    "chapter_length": "2,500–3,500 words per case"
+  },
+
+  "sentence_style": {
+    "average_words": "11–13",
+    "mix": "short declaratives in clusters ('He was not that man.'), medium descriptive sentences for biography",
+    "questions": "very rare"
+  },
+
+  "language_style": {
+    "register": "clear documentary English with psychological vocabulary explained simply",
+    "social_context": "names systemic bias or neglect when documented (whose disappearances were ignored)"
+  },
+
+  "characters": {
+    "perpetrators": "seen through the gap between public mask and private reality",
+    "victims": "named, with lives and families, especially those society overlooked",
+    "families_and_detectives": "voices of the long fight for attention"
+  },
+
+  "dialogue": {
+    "use": "short documented quotes from families, prosecutors, investigators",
+    "invented_dialogue": "never"
+  },
+
+  "humor": "none",
+
+  "emotional_tone": {
+    "arc": "unsettling premise → dread → anger at neglect → grim resolution, repeated per case",
+    "dominant": ["dark", "contemplative", "unsettling"]
+  },
+
+  "common_devices": [
+    "the photograph that lies",
+    "'He was not that man.' reversal",
+    "mask versus reality contrast",
+    "chapter-closing 'truly terrifying thing' reflection",
+    "naming overlooked victims and why they were overlooked"
+  ],
+
+  "call_to_action_style": {
+    "closing": "optional single line: 'If you want more cases like these, subscribe; new episodes every week.'",
+    "frequency": "zero or one"
+  },
+
+  "visual_cue_prompts": {
+    "note": "For the shot list only.",
+    "case_open": "the ordinary photo with a slow push-in, then a darkened duplicate",
+    "biography": "period stock and photos, map of the region",
+    "crimes": "victims' photos in a respectful grid, map pins, timeline",
+    "chapter_cards": "case number and name on a dark case-file card"
+  },
+
+  "safety_and_compliance": [
+    "No sexual or torture detail; state the nature of crimes in one plain sentence.",
+    "Do not glamorise nicknames; use them once to identify.",
+    "Victims only with real photos; no AI likeness; no minors recreated."
+  ],
+
+  "script_formatting_rules": {
+    "parts": "The final script must be sectioned into 10 parts, each part at least 800 words.",
+    "total_length": "The full script must be 8,000+ words in total (for a 2-hour video: 14 parts and 16,000+ words, generated in two batches of 7 parts).",
+    "no_headings": "No section headings, no part numbers, no titles inside the text.",
+    "no_line_breaks": "No line breaks: the whole script is one continuous block of text.",
+    "no_symbols": "No underscores, no bullet points, no brackets, no stage directions, no visual cues, no comments.",
+    "no_wrappers": "No introductory statement and no closing statement outside the narration itself.",
+    "delivery": "Send the whole script in one batch, only the script text, with nothing before or after it."
+  }
+}

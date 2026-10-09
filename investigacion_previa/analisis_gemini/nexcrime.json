@@ -1,0 +1,88 @@
+{
+ "channel": "nexcrime",
+ "id": "UCxAhfa6OzagZFozlT7P9AFg",
+ "recent": [
+  {
+   "id": "tv5amjlV1Eg",
+   "title": "How a Killer Turned a Road Trip Into Murder",
+   "views": 2600,
+   "dur": 3721
+  },
+  {
+   "id": "HJ_1jl5m62c",
+   "title": "Mom Discovers Her Son Is A Mass Killer",
+   "views": 1500,
+   "dur": 1256
+  },
+  {
+   "id": "OG9dHy8mJr8",
+   "title": "How a Killer Lured a Teen Into His Trap",
+   "views": 776,
+   "dur": 1202
+  },
+  {
+   "id": "rvTngvzmL1M",
+   "title": "When the Killer Couldn't Outsmart Detectives",
+   "views": 325,
+   "dur": 2041
+  },
+  {
+   "id": "sPbGUptl9wY",
+   "title": "Teen Killer Realizes Cameras Captured Everything",
+   "views": 11000,
+   "dur": 1467
+  },
+  {
+   "id": "uhujGoRFBA8",
+   "title": "Brother’s Horrific Discovery Exposes Sibling’s Dark Secret",
+   "views": 594,
+   "dur": 1463
+  },
+  {
+   "id": "JQJsOkInIzk",
+   "title": "How a Jealous Ex Became a Killer",
+   "views": 1700,
+   "dur": 1621
+  },
+  {
+   "id": "sk5agcwXZBE",
+   "title": "Killer Realizes He's Been Caught 40 Years Later",
+   "views": 1000000,
+   "dur": 1212
+  },
+  {
+   "id": "d2sV2-BpiJY",
+   "title": "She Walked Away When He Needed Her Most",
+   "views": 2100,
+   "dur": 2080
+  }
+ ],
+ "watched": {
+  "id": "sk5agcwXZBE",
+  "title": "Killer Realizes He's Been Caught 40 Years Later",
+  "views": 1000000,
+  "dur": 1212
+ },
+ "style": {
+  "host_on_camera": false,
+  "is_tv_show_reupload": true,
+  "visual_share_pct": {
+   "real_case_footage": 5,
+   "real_case_photos": 50,
+   "news_clips": 15,
+   "generic_stock_video": 10,
+   "ai_images": 0,
+   "ai_video": 0,
+   "2d_animation": 5,
+   "3d": 5,
+   "maps_text_graphics": 10,
+   "reenactment_actors": 0
+  },
+  "narrator": "human",
+  "cuts_per_minute": 15,
+  "motion_graphics_quality_1_10": 7,
+  "overall_production_1_10": 7,
+  "style_in_5_words": "investigative true crime documentary style",
+  "cases_country": "USA"
+ }
+}

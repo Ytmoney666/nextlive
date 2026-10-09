@@ -1,0 +1,124 @@
+{
+ "channel": "classified_real_crime",
+ "id": "UCKpcgruKh9QGyGgM6FK-rng",
+ "recent": [
+  {
+   "id": "vGJH-1YJXHI",
+   "title": "The Psychopath Who Joined The Search | True Crime Documentary",
+   "views": 45,
+   "dur": 1982
+  },
+  {
+   "id": "iZPC81OLuy0",
+   "title": "Three Rides That Ended In Murder | True Crime Documentary",
+   "views": 115,
+   "dur": 5101
+  },
+  {
+   "id": "dI8rxjxatlE",
+   "title": "One Ride Home Turned Into A Murder Case | True Crime Documentary",
+   "views": 94,
+   "dur": 1686
+  },
+  {
+   "id": "2VO03nT9d_E",
+   "title": "Her Best Friend Posted the Murder Weapon on Facebook | True Crime Documentary",
+   "views": 1100,
+   "dur": 1558
+  },
+  {
+   "id": "WKZXUBINd8I",
+   "title": "Cops Needed A Psychologist After They Saw This Crime Scene | True Crime Documentary",
+   "views": 396,
+   "dur": 1756
+  },
+  {
+   "id": "kY6bV9pG61Y",
+   "title": "She Was Steps Away From Her Mother | True Crime Documentary",
+   "views": 604,
+   "dur": 7321
+  },
+  {
+   "id": "Xg2qnv6f4t0",
+   "title": "The Manhunt Files: 10 True Crime Cases | True Crime Documentary",
+   "views": 411,
+   "dur": 16804
+  },
+  {
+   "id": "uhBTnXq5bHA",
+   "title": "A Predator Nobody Suspected Until It Was Too Late | True Crime Documentary",
+   "views": 249,
+   "dur": 4940
+  },
+  {
+   "id": "JssnHk6mXCQ",
+   "title": "She Vanished Days Before Her Wedding | True Crime Documentary",
+   "views": 141,
+   "dur": 1642
+  },
+  {
+   "id": "6ooRpxl_-CE",
+   "title": "He Said She Wanted It Too | True Crime Documentary",
+   "views": 806,
+   "dur": 1704
+  },
+  {
+   "id": "dGysBRgVF1A",
+   "title": "In The Hands Of Someone Consumed By Paranoia | True Crime Documentary",
+   "views": 194,
+   "dur": 1804
+  },
+  {
+   "id": "FtyqPgt1c_U",
+   "title": "Three Cities, Three Victims, One Question: Who Was Watching? | True Crime Documentary",
+   "views": 274,
+   "dur": 5818
+  },
+  {
+   "id": "3i9qXBudtzI",
+   "title": "The Alibi That Was Actually A Confession | True Crime Documentary",
+   "views": 141,
+   "dur": 2063
+  },
+  {
+   "id": "AJGwUkozaUA",
+   "title": "The Sentence That Set A Serial Rapist Free | True Crime Documentary",
+   "views": 248,
+   "dur": 1677
+  },
+  {
+   "id": "_rwD-qiVHVY",
+   "title": "The Murder So Horrific Her Body Was Never Found Whole | True Crime Documentary",
+   "views": 80,
+   "dur": 2283
+  }
+ ],
+ "watched": {
+  "id": "2VO03nT9d_E",
+  "title": "Her Best Friend Posted the Murder Weapon on Facebook | True Crime Documentary",
+  "views": 1100,
+  "dur": 1558
+ },
+ "style": {
+  "host_on_camera": false,
+  "is_tv_show_reupload": false,
+  "visual_share_pct": {
+   "real_case_footage": 72,
+   "real_case_photos": 17,
+   "news_clips": 0,
+   "generic_stock_video": 4,
+   "ai_images": 0,
+   "ai_video": 0,
+   "2d_animation": 0,
+   "3d": 0,
+   "maps_text_graphics": 0,
+   "reenactment_actors": 6
+  },
+  "narrator": "human",
+  "cuts_per_minute": 8.2,
+  "motion_graphics_quality_1_10": 2,
+  "overall_production_1_10": 6,
+  "style_in_5_words": "Interview-driven, somber, investigative, personal",
+  "cases_country": "Canada"
+ }
+}

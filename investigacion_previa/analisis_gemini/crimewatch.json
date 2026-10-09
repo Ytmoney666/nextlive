@@ -1,0 +1,124 @@
+{
+ "channel": "crimewatch",
+ "id": "UCQBstbrCfiXAJOITV4Zyv8g",
+ "recent": [
+  {
+   "id": "GJBISJf7DIw",
+   "title": "FLORIDA 1981 Cold Case Solved After 27 Years — The Killer Confessed On His Deathbed",
+   "views": 993,
+   "dur": 1375
+  },
+  {
+   "id": "CEzqVdbO3Zg",
+   "title": "TEXAS 1974 Cold Case Solved After 46 Years - His Name Was in File The Whole Time",
+   "views": 269,
+   "dur": 1380
+  },
+  {
+   "id": "Q2IF7BUsERY",
+   "title": "OREGON 1992 Cold Case Solved After 33 Years — He Shared a Cell With Ted Bundy",
+   "views": 365,
+   "dur": 1287
+  },
+  {
+   "id": "FdEa_gOEV6o",
+   "title": "CALIFORNIA 1991 Cold Case Solved After 35 Years — He Was Living Under a Fake Name",
+   "views": 286,
+   "dur": 1623
+  },
+  {
+   "id": "clOh5Nxcgc8",
+   "title": "Maryland 1975 Cold Case Solved — He Walked Out of the Station Free",
+   "views": 2100,
+   "dur": 1345
+  },
+  {
+   "id": "JtPRuQ9GZw0",
+   "title": "Idaho 1980 Cold Case Solved - He Killed Again the Following Year",
+   "views": 719,
+   "dur": 1090
+  },
+  {
+   "id": "VkCwJiJf-GY",
+   "title": "Texas 1986 Cold Case Solved — He Was Caught Celebrating His Own Birthday",
+   "views": 804,
+   "dur": 1004
+  },
+  {
+   "id": "_hcAArXtP6w",
+   "title": "California 1979 Cold Case EXPOSED by the Man Who Found Her",
+   "views": 221,
+   "dur": 1159
+  },
+  {
+   "id": "BWD9w8ikngA",
+   "title": "New Jersey Cold Case SOLVED by DNA After 36 Years",
+   "views": 494,
+   "dur": 1660
+  },
+  {
+   "id": "sJKWCne8l5A",
+   "title": "Washington 1989 Cold Case Solved — He Hid in Plain Sight for 36 Years",
+   "views": 160,
+   "dur": 1233
+  },
+  {
+   "id": "yJln1Mk3KAI",
+   "title": "Texas Cold Case That Took 42 Years and 4 Bodies to SOLVE",
+   "views": 322,
+   "dur": 1395
+  },
+  {
+   "id": "aRmTMjHA9kA",
+   "title": "Virginia 1973 Cold Case FINALLY Solved - Her Killer Hid in Plain Sight for 52 Years",
+   "views": 1200,
+   "dur": 1231
+  },
+  {
+   "id": "YtbRRVUIO3M",
+   "title": "North Carolina 1990 Cold Case Solved — His Name Was in the File From Day One",
+   "views": 371,
+   "dur": 1336
+  },
+  {
+   "id": "T-4TjDmxx-s",
+   "title": "Georgia 1972 Missing Girl Cold Case SOLVED — 51 Years to Find the Man Next Door",
+   "views": 1100,
+   "dur": 1414
+  },
+  {
+   "id": "fetFfO1lVB4",
+   "title": "New York Most FAMOUS Cold Case Was Just SOLVED After 47 Years",
+   "views": 805,
+   "dur": 1396
+  }
+ ],
+ "watched": {
+  "id": "clOh5Nxcgc8",
+  "title": "Maryland 1975 Cold Case Solved — He Walked Out of the Station Free",
+  "views": 2100,
+  "dur": 1345
+ },
+ "style": {
+  "host_on_camera": false,
+  "is_tv_show_reupload": false,
+  "visual_share_pct": {
+   "real_case_footage": 0,
+   "real_case_photos": 40,
+   "news_clips": 10,
+   "generic_stock_video": 40,
+   "ai_images": 0,
+   "ai_video": 0,
+   "2d_animation": 0,
+   "3d": 0,
+   "maps_text_graphics": 10,
+   "reenactment_actors": 0
+  },
+  "narrator": "human",
+  "cuts_per_minute": 5,
+  "motion_graphics_quality_1_10": 7,
+  "overall_production_1_10": 8,
+  "style_in_5_words": "dark, nostalgic, true-crime, documentary, investigative",
+  "cases_country": "USA"
+ }
+}

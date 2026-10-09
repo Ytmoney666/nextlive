@@ -1,0 +1,123 @@
+{
+  "profile_name": "Named Murder Case — 911 Cold Open, Warm Victim Portrait",
+  "based_on": "A faceless English channel about single named American murder cases (~3,400 words, 23 minutes, AI narration over case photos and drone/stock footage). No names, places or cases from the original are kept.",
+  "best_for": "one domestic or small-town murder per video, 20–30 minutes; extendable to 45–60 minutes when the case has a trial",
+  "general_style_tags": ["true crime documentary", "single named case", "small-town tragedy", "betrayal by a trusted person", "faceless long-form"],
+
+  "tone_of_voice": {
+    "primary": "calm, intimate, quietly indignant",
+    "secondary": ["analytical about the killer's thinking", "tender about the victim", "reflective about community"],
+    "never": ["mocking", "gory", "sensational"]
+  },
+
+  "point_of_view": {
+    "narration": "third-person, present tense in the cold open, past tense afterwards",
+    "viewer_address": "light second person in asides ('Honestly, everyone knows each other') and in the closing call-to-action",
+    "first_person": "only 'we' for the channel at the end"
+  },
+
+  "audience_addressing_style": "invisible narrator with a few conversational asides; one call-to-action at the very end",
+
+  "hook_style": {
+    "type": "date + place + 'a normal, quiet day' + the emergency call, quoted line by line",
+    "formula": "[Full date], [Town], [State]. Just a normal, quiet day. Then a 911 call comes in. [Short exchange with the dispatcher, real documented words]. [What responders find, in clinical detail without gore]. [A detective's first doubt, quoted].",
+    "length_words": "200–300",
+    "no_cta_in_hook": true
+  },
+
+  "narrative_structure": {
+    "type": "911 cold open → town portrait → victim biography → the relationship → the day itself → the investigation's doubts → digital and forensic evidence → the suspect's mind → interviews → trial → reflective ending on trust and community",
+    "beats_in_order": [
+      "1. The 911 call and first responders.",
+      "2. Town portrait: 'the sort of town where people settle in and don't leave', families, churches, generations on the same jobs.",
+      "3. Victim biography from birth: family size, how the town remembered her, what she gave to others, a sentence everybody repeated about her.",
+      "4. The relationship with the suspect and the cracks nobody saw.",
+      "5. The morning or day of the death, reconstructed.",
+      "6. The detail that 'didn't seem right' to investigators.",
+      "7. Evidence: scene analysis, phone and computer searches, timelines.",
+      "8. A passage that reads the suspect's thinking ('That is a very specific kind of thinking…'), anchored in evidence.",
+      "9. Second interview, arrest, charges.",
+      "10. Trial, verdict, sentence.",
+      "11. Reflection on what the case leaves in a close community, then the victim's full name, age and a closing line about saying her name correctly."
+    ]
+  },
+
+  "pacing": {
+    "overall": "measured and even; short factual sentences in sequence",
+    "acceleration": "the evidence section stacks facts quickly",
+    "pause_points": "after the victim portrait and after the verdict"
+  },
+
+  "sentence_style": {
+    "average_words": "11–14",
+    "mix": "mostly short and medium declaratives; occasional one-line verdicts ('He was almost right.')",
+    "questions": "rhetorical questions only inside quoted investigators' doubts",
+    "repetition": "anaphora in the analysis of the suspect ('He knew… He knew… He knew…')"
+  },
+
+  "language_style": {
+    "register": "plain conversational documentary English",
+    "humanising_detail": "small community details: Little League teams, church bulletins, wakes, local funeral homes",
+    "legal_vocabulary": "accurate charges, verdicts and sentences"
+  },
+
+  "characters": {
+    "victim": "the emotional centre, described through what others said about her",
+    "suspect": "a trusted insider (spouse, officer, relative); his expertise turned against the truth",
+    "investigators": "named detectives with their first doubts quoted",
+    "community": "the town that learns trust guarantees nothing"
+  },
+
+  "dialogue": {
+    "use": "real 911 audio lines, investigator interviews, court testimony",
+    "format_in_script": "written as plain sentences inside the narration; never invented",
+    "frequency": "a dense block in the hook, then 1–2 quotes per part"
+  },
+
+  "humor": "none",
+
+  "emotional_tone": {
+    "arc": "ordinary calm → shock → warmth for the victim → suspicion → cold clarity → justice → sober reflection",
+    "dominant": ["tense", "tender", "indignant", "reflective"]
+  },
+
+  "common_devices": [
+    "'Just a normal, quiet day.' contrast opener",
+    "town-as-character paragraph",
+    "victim remembered through a sentence everyone repeated",
+    "reading the suspect's mindset from his own searches and actions",
+    "one-line verdicts after long passages ('He was almost right.')",
+    "closing line about keeping the victim's name alive"
+  ],
+
+  "call_to_action_style": {
+    "closing": "'If this story stayed with you, share it. It matters that [victim]'s name keeps being said, and said correctly. If you'd like to support the channel, liking, sharing and subscribing is the best way.'",
+    "frequency": "one, at the end"
+  },
+
+  "visual_cue_prompts": {
+    "note": "Not written in the final script; for the shot list only.",
+    "hook": "911 audio waveform with typed transcript, house exterior, police lights",
+    "town": "drone shots of the real town, main street, church, school",
+    "victim": "real family photos with depth parallax, name and age lower third",
+    "evidence": "highlighted search history, timeline graphic, floor plan of the room",
+    "trial": "courthouse, verdict text stamped"
+  },
+
+  "safety_and_compliance": [
+    "Only documented quotes; 911 audio used briefly and commented.",
+    "Accused is 'charged' until convicted.",
+    "No gore; one plain sentence for the wound or cause of death.",
+    "No AI likeness of the victim; no minors recreated."
+  ],
+
+  "script_formatting_rules": {
+    "parts": "The final script must be sectioned into 10 parts, each part at least 800 words.",
+    "total_length": "The full script must be 8,000+ words in total.",
+    "no_headings": "No section headings, no part numbers, no titles inside the text.",
+    "no_line_breaks": "No line breaks: the whole script is one continuous block of text.",
+    "no_symbols": "No underscores, no bullet points, no brackets, no stage directions, no visual cues, no comments.",
+    "no_wrappers": "No introductory statement and no closing statement outside the narration itself.",
+    "delivery": "Send the whole script in one batch, only the script text, with nothing before or after it."
+  }
+}

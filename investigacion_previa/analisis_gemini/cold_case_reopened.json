@@ -1,0 +1,124 @@
+{
+ "channel": "cold_case_reopened",
+ "id": "UCHF9iZLaa0d3kRYNKtXrlrw",
+ "recent": [
+  {
+   "id": "u_6TCZwBlew",
+   "title": "OKLAHOMA 1977 Cold Case Solved After 45 Years — Justice for Lori, Michelle & Doris",
+   "views": 4100,
+   "dur": 2438
+  },
+  {
+   "id": "BTecLnTllEk",
+   "title": "NORTH CAROLINA 1985 Cold Case Solved After 20 Years — Justice for the Eastburn Family",
+   "views": 4200,
+   "dur": 2564
+  },
+  {
+   "id": "qyUYzgMtc4Y",
+   "title": "TEXAS 1980 Cold Case Solved After 40 Years — Justice for Dean & Tina Clouse",
+   "views": 14000,
+   "dur": 2952
+  },
+  {
+   "id": "7_lHDxQr2t8",
+   "title": "FLORIDA 1989 Cold Case Solved After 3 Years — Justice for the Rogers Family",
+   "views": 5200,
+   "dur": 2533
+  },
+  {
+   "id": "lWiRQguj_ds",
+   "title": "PENNSYLVANIA 1976 Cold Case Solved After 45 Years — Justice for Evelyn Colon",
+   "views": 2900,
+   "dur": 2638
+  },
+  {
+   "id": "d1Schn2-7QU",
+   "title": "MASSACHUSETTS 1974 Cold Case Solved After 48 Years — Justice for Ruth Marie Terry",
+   "views": 13000,
+   "dur": 2402
+  },
+  {
+   "id": "896Tiyo0yn8",
+   "title": "NEW JERSEY 1982 Cold Case Identified After 41 Years — Justice for Dawn Virginia Olanick",
+   "views": 7000,
+   "dur": 2145
+  },
+  {
+   "id": "IuUX0bliizA",
+   "title": "NEW YORK 1987 Cold Case Solved After 23 Years — Justice for Carlina White",
+   "views": 4000,
+   "dur": 2354
+  },
+  {
+   "id": "zwf1IPWo2oE",
+   "title": "CALIFORNIA 1988 Cold Case Solved After 32 Years — Justice for Michaela Garecht",
+   "views": 8000,
+   "dur": 2515
+  },
+  {
+   "id": "Qv3hDGbOadg",
+   "title": "CALIFORNIA 1972 Cold Case Solved After 8 Years — Justice for Steven Stayner",
+   "views": 25000,
+   "dur": 2523
+  },
+  {
+   "id": "XChQosAp9S0",
+   "title": "MISSISSIPPI 1964 Cold Case Solved After 43 Years — Justice for Henry Dee & Charles Moore",
+   "views": 2400,
+   "dur": 2574
+  },
+  {
+   "id": "fhGJxNAaZHg",
+   "title": "NEW YORK 1979 Cold Case Solved After 38 Years — Justice for Etan Patz",
+   "views": 43000,
+   "dur": 2574
+  },
+  {
+   "id": "cFT-d8rkqHI",
+   "title": "CALIFORNIA 1991 Cold Case Solved After 18 Years — Jaycee Dugard Finally Found",
+   "views": 2600,
+   "dur": 2703
+  },
+  {
+   "id": "DCeZQAFdfF0",
+   "title": "WISCONSIN 1980 Cold Case Solved After 43 Years — Justice for Tim Hack & Kelly Drew",
+   "views": 0,
+   "dur": 2817
+  },
+  {
+   "id": "o1a8swYLcTA",
+   "title": "TEXAS 1991 Cold Case Solved After 34 Years — Justice for the 4 Yogurt Shop Victims",
+   "views": 4200,
+   "dur": 2443
+  }
+ ],
+ "watched": {
+  "id": "fhGJxNAaZHg",
+  "title": "NEW YORK 1979 Cold Case Solved After 38 Years — Justice for Etan Patz",
+  "views": 43000,
+  "dur": 2574
+ },
+ "style": {
+  "host_on_camera": false,
+  "is_tv_show_reupload": false,
+  "visual_share_pct": {
+   "real_case_footage": 5,
+   "real_case_photos": 55,
+   "news_clips": 0,
+   "generic_stock_video": 1,
+   "ai_images": 0,
+   "ai_video": 0,
+   "2d_animation": 0,
+   "3d": 0,
+   "maps_text_graphics": 20,
+   "reenactment_actors": 19
+  },
+  "narrator": "human",
+  "cuts_per_minute": 16,
+  "motion_graphics_quality_1_10": 6,
+  "overall_production_1_10": 7,
+  "style_in_5_words": "Archival photos, reenactments, clear narration",
+  "cases_country": "USA"
+ }
+}

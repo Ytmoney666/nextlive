@@ -1,0 +1,43 @@
+{
+  "visual_share_pct": {
+    "real_case_footage(bodycam/cctv/interrogation/court)": 0,
+    "real_case_photos": 45,
+    "news_clips": 5,
+    "generic_stock_video": 30,
+    "ai_images": 0,
+    "2d_animation": 0,
+    "3d": 0,
+    "maps_text_graphics": 5,
+    "live_action_reenactment": 15
+  },
+  "narrator": "ai_tts",
+  "cuts_per_minute": 5,
+  "graphics_seen": [
+    "short list",
+    "CARR BROTHERS' VICTIMS graphic",
+    "Lower third for District Attorney Foulston",
+    "Lower third for Mayor Bob Knight"
+  ],
+  "thumbnail_style_guess": "grim photo of a victim or perpetrator, or a crime scene",
+  "what_makes_it_good": [
+    "Clear and consistent AI narration",
+    "Effective use of real case photos and relevant graphics",
+    "Good pacing that keeps the narrative engaging",
+    "Incorporation of direct quotes from officials"
+  ],
+  "hard_to_match_with_tools": [
+    "The specific real case photos (victims, crime scene, bullet casing, mugshots, childhood photo) would require access to specific public domain or case-file images, which an AI might struggle to source and correctly attribute without human guidance.",
+    "The specific news clip of Mayor Bob Knight.",
+    "The live-action reenactment of the family argument, while generic, would need to be specifically chosen to match the narrative of domestic abuse."
+  ],
+  "matchable_with_tools": [
+    "AI TTS voice and auto subtitles",
+    "AI still images for illustrative scenes (e.g., general city shots, snow falling, dark alley)",
+    "Photo animations (2.5D depth parallax, cut-outs, case-file/polaroid/stamp looks) applied to sourced images",
+    "Motion-graphic templates for titles, lower thirds, and victim composites",
+    "Stock video for city aerials, snow, and alley scenes",
+    "Epidemic music/sfx"
+  ],
+  "difficulty_1_10_for_that_toolset": 6,
+  "verdict": "This video is moderately difficult to replicate with the given toolset, primarily due to the need for specific real case photos and news clips, even if publicly available, which require careful sourcing and integration beyond generic AI generation."
+}

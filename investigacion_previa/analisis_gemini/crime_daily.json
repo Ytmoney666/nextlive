@@ -1,0 +1,124 @@
+{
+ "channel": "crime_daily",
+ "id": "UC2TWck0QQgri-en8813vK2Q",
+ "recent": [
+  {
+   "id": "i30vIEie7IE",
+   "title": "Aileen Wornos: Daytonas Last Resort Sting, Palm Print Break, Chilling Confession",
+   "views": 120,
+   "dur": 2593
+  },
+  {
+   "id": "Xdfxmv-erYU",
+   "title": "Who Really Killed the Bordens? 92 Second Street and the Pear Alibi",
+   "views": 94,
+   "dur": 3408
+  },
+  {
+   "id": "9PeBeeERsg4",
+   "title": "Lizzie Borden Reopened: Fall River 1892 and a Family Secret?",
+   "views": 324,
+   "dur": 2584
+  },
+  {
+   "id": "RZDWqUTWcqk",
+   "title": "Reynard Sinaga: Inside Manchester's 200-Victim Case",
+   "views": 203,
+   "dur": 3752
+  },
+  {
+   "id": "8YoP4YMmohw",
+   "title": "Silicon Valley CEO Found in a Sleeping Bag: The Michael Chalkley Case",
+   "views": 265,
+   "dur": 2465
+  },
+  {
+   "id": "3WtxwjytS8k",
+   "title": "Randy Sheridan Murder: Junction City Gossip, Pastor Receipt, Shotgun Ambush",
+   "views": 137,
+   "dur": 2838
+  },
+  {
+   "id": "VogZB0yfFRg",
+   "title": "Gossip to Murder: Christa Pike kills Colleen Slemmer at Knoxville Job Corps",
+   "views": 3700,
+   "dur": 2844
+  },
+  {
+   "id": "VunnIYJGeiU",
+   "title": "Ossining's Mother's Day Murder: Patricia Mary, Gossip and a Fake Alibi",
+   "views": 109,
+   "dur": 2858
+  },
+  {
+   "id": "Lw5VRoRfwbg",
+   "title": "Inside the Mind of Charles Manson - The Chilling Truth Behind the Family Murders",
+   "views": 2500,
+   "dur": 2690
+  },
+  {
+   "id": "AHoW3Fumkbg",
+   "title": "Inside the Hunt for America's Most Dangerous Domestic Terrorists",
+   "views": 257,
+   "dur": 2974
+  },
+  {
+   "id": "wFokFMpnY9Q",
+   "title": "The Disturbing Truth Behind Fred and Rose West's Crimes",
+   "views": 336,
+   "dur": 2728
+  },
+  {
+   "id": "xdftKcR6YNs",
+   "title": "The Disturbing Mind of Jeffrey Dahmer - Inside a Serial Killer's Life",
+   "views": 18000,
+   "dur": 2749
+  },
+  {
+   "id": "3ZNbGn0ThfI",
+   "title": "The Chilling Case of Ashley Pond and Miranda Gaddis - True Crime in Oregon",
+   "views": 305,
+   "dur": 2666
+  },
+  {
+   "id": "vke2vXEHDao",
+   "title": "Inside the Largest Bank Heist and Tragic Manhunt in Las Vegas History",
+   "views": 207,
+   "dur": 2979
+  },
+  {
+   "id": "lD7T7Wp0a6Q",
+   "title": "The FBI vs Croatian Terrorists - The Forgotten Bombings on U.S. Soil",
+   "views": 218,
+   "dur": 2973
+  }
+ ],
+ "watched": {
+  "id": "xdftKcR6YNs",
+  "title": "The Disturbing Mind of Jeffrey Dahmer - Inside a Serial Killer's Life",
+  "views": 18000,
+  "dur": 2749
+ },
+ "style": {
+  "host_on_camera": false,
+  "is_tv_show_reupload": true,
+  "visual_share_pct": {
+   "real_case_footage": 0,
+   "real_case_photos": 15,
+   "news_clips": 0,
+   "generic_stock_video": 65,
+   "ai_images": 0,
+   "ai_video": 0,
+   "2d_animation": 0,
+   "3d": 0,
+   "maps_text_graphics": 0,
+   "reenactment_actors": 20
+  },
+  "narrator": "human",
+  "cuts_per_minute": 17,
+  "motion_graphics_quality_1_10": 6,
+  "overall_production_1_10": 8,
+  "style_in_5_words": "Dark true-crime documentary interview reenactment",
+  "cases_country": "USA"
+ }
+}
