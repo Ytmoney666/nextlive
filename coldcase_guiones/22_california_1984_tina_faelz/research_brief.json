@@ -1,0 +1,277 @@
+{
+  "video_metadata": {
+    "working_title": "CALIFORNIA 1984 Cold Case Solved After 27 Years — Justice for Tina Faelz",
+    "topic_one_sentence": "In April 1984 a 14-year-old Foothill High freshman, Tina Faelz, was stabbed to death on a shortcut home under Interstate 680 in Pleasanton, California; 27 years later a trace of someone else's blood on her purse was linked by DNA to her classmate Steven Carlson, who was convicted in 2014 and confessed in letters in 2020.",
+    "primary_emotion_to_evoke": "grief turning into quiet outrage at how long the answer waited inside one small piece of evidence, then bittersweet partial justice",
+    "target_length_minutes": "70-75 (about 12,300-12,900 words at 170 wpm)"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Tina Faelz (victim, the heart of the story). Perpetrator: Steven John Carlson.",
+    "age_at_time_of_events": "Tina: 14. Carlson: 16 in April 1984; 43 at his arrest in August 2011; 46 at the verdict in October 2014.",
+    "occupation_or_status": "Tina: freshman at Foothill High School, Pleasanton. Carlson: fellow Foothill High student who lived on Lemonwood Way near the trail where she was found.",
+    "location": "Pleasanton, Alameda County, California; Tina lived in the Valley Trails neighborhood, east of Interstate 680.",
+    "physical_description": "Not documented in the sources consulted; use real archival photos only.",
+    "background_brief": "Tina lived with her mother, Shirley (later Shirley Faelz Orosco), and her younger brother Drew, who was 8 in 1984. Her mother said in 2008 that Tina had recently started walking home from school to avoid being teased by other students on the bus. Carlson was a Foothill student; after 1984 he built an extensive criminal record, including convictions reported by prosecutors for lewd acts with a child under 14 and for assault, and in 2011 he was in Santa Cruz County Jail on drug charges.",
+    "psychological_profile": "Carlson: in his 2020 letters he wrote that he remembered being full of rage, that he had been bullied over a house party he tried to throw at his parents' home, and that he had lived in denial for many years. A writer on the case told CBS that he was bullied but was also a major bully himself. No other profile is documented; do not speculate.",
+    "mundane_humanizing_detail": "Tina chose to walk home, through a path by Aster Court and Lemonwood Way and the I-680 underpass, to escape teasing on the school bus. A lilac tree was later planted on the Foothill campus in her memory.",
+    "nickname_or_alias_if_any": "None documented."
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {"name": "Tina Faelz", "role_or_profession": "14-year-old Foothill High freshman", "connection_to_protagonist": "Classmate at Foothill High School", "specific_impact_suffered": "Stabbed to death on April 5, 1984, on her walk home", "humanizing_detail": "Had recently started walking home to avoid being teased on the bus (mother, 2008)", "any_quotes_from_them": "None documented"},
+      {"name": "Shirley Faelz Orosco", "role_or_profession": "Tina's mother", "connection_to_protagonist": "Mother of the victim", "specific_impact_suffered": "Waited almost 30 years; died unexpectedly on February 13, 2014, the day the murder trial was originally scheduled to begin", "humanizing_detail": "Gave the Pleasanton Weekly an interview in 2008 while the case was still unsolved; sat outside her son's bedroom door at night so he could fall asleep", "any_quotes_from_them": "Paraphrase only (2008): Tina had recently started walking home to avoid teasing on the bus"},
+      {"name": "Drew Faelz", "role_or_profession": "Tina's younger brother, 8 in 1984", "connection_to_protagonist": "Brother of the victim", "specific_impact_suffered": "Grew up not knowing who the killer was and feared he might be next", "humanizing_detail": "Remembers the day as if it were yesterday; his mother sat outside his door so he could sleep", "any_quotes_from_them": "\"There's no remorse.\" (about Carlson's 2020 letters and canceled parole hearing)"},
+      {"name": "Karin Reiff", "role_or_profession": "Tina's aunt, Shirley's sister", "connection_to_protagonist": "Family of the victim", "specific_impact_suffered": "Watched her sister grieve for three decades", "humanizing_detail": "Spoke after Shirley's death in 2014", "any_quotes_from_them": "\"My sister went through almost 30 years of hell after Tina's death and I think she finally died of a broken heart.\""},
+      {"name": "Steve Faelz", "role_or_profession": "Reported as Tina's stepfather", "connection_to_protagonist": "Family of the victim", "specific_impact_suffered": "Commented after the verdict", "humanizing_detail": "Relationship reported as stepfather in one summary; verify", "any_quotes_from_them": "None captured verbatim"}
+    ],
+    "collective_victims_if_applicable": {"group_description": "Foothill High students and the Pleasanton community of 1984", "total_number_affected": "Not quantifiable", "range_of_impacts": "Fear of an unknown killer for 27 years; classmates who found her; families who kept children home"}
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Stacie Pettigrew", "role_in_story": "Alameda County deputy district attorney who prosecuted Carlson", "key_actions_they_took": "Built the case on the DNA from the blood on Tina's purse; told jurors the odds of the blood belonging to someone else were about 1 in 5 quadrillion; cited his prior convictions", "notable_quotes": "None verbatim (paraphrase only)"},
+      {"name": "Annie Beles", "role_in_story": "Carlson's defense attorney at trial", "key_actions_they_took": "Called the DNA evidence flimsy; questioned when and how it was collected, possible contamination and transfer; noted there was no motive, fingerprints or weapon", "notable_quotes": "Described the DNA evidence as \"flimsy\" (single word attributed in summaries)"},
+      {"name": "Judge C. Don Clay", "role_in_story": "Alameda County Superior Court judge at trial and sentencing", "key_actions_they_took": "Denied the motion for a new trial and sentenced Carlson to 26 years to life in January 2015", "notable_quotes": "None"},
+      {"name": "Judge Rhonda Burgess (per NBC Bay Area; Danville San Ramon credits Judge Trina Thompson)", "role_in_story": "Juvenile court judge who ruled Carlson should be tried as an adult", "key_actions_they_took": "Cited the criminal sophistication of the killing, the severity of the crime and previous failed attempts at rehabilitation", "notable_quotes": "None verbatim"},
+      {"name": "Joshua Suchon", "role_in_story": "Author of 'Murder in Pleasanton: Tina Faelz and the Search for Justice' (The History Press, 2015; audiobook with a new chapter, Tantor 2022)", "key_actions_they_took": "Was a fifth grader at Donlon Elementary in April 1984; his sister knew Carlson; researched Carlson's life up to his arrest", "notable_quotes": "\"The thing that drew me to the story was my sister knew Steve Carlson.\""},
+      {"name": "Pleasanton Police Department", "role_in_story": "Investigating agency", "key_actions_they_took": "Collected the evidence in 1984; re-examined it in late 2007 with new science, sending it to two laboratories; announced the DNA link in August 2011 and arrested Carlson", "notable_quotes": "None verbatim"},
+      {"name": "FBI crime laboratory", "role_in_story": "Credited by CBS News with the DNA work that linked Carlson", "key_actions_they_took": "DNA analysis of the evidence", "notable_quotes": "None"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "1973", "location": "Pleasanton", "what_happened": "Foothill High School opens on the west side of Pleasanton (background, verify)", "significance": "Setting", "source": "[32]"},
+      {"date": "Early 1984 (weeks before the murder)", "location": "Pleasanton", "what_happened": "Tina starts walking home from Foothill High instead of taking the bus, to avoid being teased by other students", "significance": "The reason she was on the shortcut", "source": "[1][18]"},
+      {"date": "April 5, 1984, 2:35 p.m.", "location": "Foothill High School area, Pleasanton", "what_happened": "Tina is last seen alive after leaving school to walk home", "significance": "Last sighting", "source": "[1][18]"},
+      {"date": "April 5, 1984", "location": "Path via Aster Court and Lemonwood Way to the I-680 underpass, toward Valley Trails", "what_happened": "Tina is attacked and stabbed to death in a drainage culvert/ditch that crossed beneath Interstate 680, east of the school", "significance": "The crime", "source": "[1][15][18][24]"},
+      {"date": "April 5, 1984, around 3 p.m.", "location": "Drainage area beside I-680", "what_happened": "Fellow students discover her body near the creek bed; her purse is found hanging in a tree near the scene", "significance": "Discovery; the purse is the evidence that matters 27 years later", "source": "[15][13][3]"},
+      {"date": "September 1984", "location": "Leicester, England", "what_happened": "Alec Jeffreys discovers DNA fingerprinting, five months after Tina's death", "significance": "Irony: the science that would solve the case was born the same year", "source": "[33]"},
+      {"date": "1988", "location": "England", "what_happened": "Colin Pitchfork becomes the first murderer convicted on DNA evidence", "significance": "DNA proves itself in court", "source": "[39]"},
+      {"date": "1998", "location": "United States", "what_happened": "The FBI's national DNA index (NDIS, part of CODIS) begins operating", "significance": "Crime scene profiles can be searched nationally", "source": "[34]"},
+      {"date": "November 2004", "location": "California", "what_happened": "Voters pass Proposition 69, expanding DNA collection to all felony convicts and, from 2009, adult felony arrestees", "significance": "Bigger database", "source": "[37]"},
+      {"date": "Late 2007", "location": "Pleasanton", "what_happened": "Pleasanton police re-examine evidence collected in 1984 using analyses not available then, sending it to two laboratories", "significance": "Start of the DNA investigation", "source": "[3][4][18]"},
+      {"date": "April 18, 2008", "location": "Pleasanton", "what_happened": "Pleasanton Weekly publishes the cover story 'Who killed Tina Faelz?'; her mother (interviewed in 2008) describes why Tina walked home", "significance": "The case is still public and unsolved after 24 years", "source": "[1]"},
+      {"date": "2011", "location": "Laboratory", "what_happened": "DNA testing shows a small amount of blood on Tina's purse that was not hers came from Steven Carlson; CBS credits the FBI crime lab (one report dates the match to 2007)", "significance": "Breakthrough", "source": "[3][4][16][18]"},
+      {"date": "August 7, 2011 (Sunday)", "location": "Santa Cruz County Jail", "what_happened": "Pleasanton police take Carlson, 43, into custody from the jail where he was held on drug charges", "significance": "Arrest after 27 years", "source": "[2][4][26]"},
+      {"date": "August 2011", "location": "Alameda County", "what_happened": "Carlson is charged with murder in juvenile court because he was 16 at the time; he tells NBC Bay Area 'I didn't do it' and pleads not guilty", "significance": "Unusual legal path: a 43-year-old in juvenile court", "source": "[5][6][7][8]"},
+      {"date": "October 17, 2012", "location": "Alameda County juvenile court", "what_happened": "Carlson appears in court on the 1984 murder", "significance": "Case moving slowly", "source": "[9]"},
+      {"date": "2012-2013 (exact date to verify)", "location": "Alameda County juvenile court", "what_happened": "Judge rules Carlson unfit for juvenile court and orders him tried as an adult, citing the sophistication and severity of the crime and failed attempts at rehabilitation", "significance": "Adult trial; adult sentence possible", "source": "[10][11]"},
+      {"date": "February 13, 2014", "location": "Pleasanton area", "what_happened": "Tina's mother, Shirley Faelz Orosco, dies unexpectedly on the day the trial was originally scheduled to begin", "significance": "She never sees the verdict", "source": "[24][29]"},
+      {"date": "October 2014", "location": "Alameda County Superior Court", "what_happened": "Trial: prosecutor Stacie Pettigrew presents the DNA (odds about 1 in 5 quadrillion); defense attorney Annie Beles attacks collection and contamination and notes no motive, fingerprints or weapon", "significance": "Trial 30 years after the murder", "source": "[12][13][14][16]"},
+      {"date": "October 30, 2014", "location": "Alameda County Superior Court", "what_happened": "After about one day of deliberations, the jury convicts Carlson, 46, of first-degree murder", "significance": "Verdict", "source": "[16][17][18]"},
+      {"date": "January 9, 2015", "location": "Alameda County Superior Court", "what_happened": "Judge C. Don Clay denies a new trial and sentences Carlson to 26 years to life; Carlson still professes innocence", "significance": "Sentence", "source": "[19][20][21]"},
+      {"date": "2015", "location": "Charleston, SC (publisher)", "what_happened": "The History Press publishes Joshua Suchon's 'Murder in Pleasanton: Tina Faelz and the Search for Justice'", "significance": "Reference book", "source": "[26][28]"},
+      {"date": "January 2017 (article January 4, 2017)", "location": "California Court of Appeal", "what_happened": "A three-judge panel reduces the conviction to second-degree murder because prosecutors had not proved premeditation and deliberation; CBS reports the sentence became 16 years to life", "significance": "Partial reversal", "source": "[22][24][29]"},
+      {"date": "October 2020", "location": "California Correctional Institution, Tehachapi", "what_happened": "Approaching his first parole hearing, Carlson writes a nine-page insight statement for parole commissioners, a letter to the Faelz family and a letter to Tina, admitting the killing; the family shares them with the San Francisco Chronicle; he then cancels his own parole hearing", "significance": "Confession after years of denial", "source": "[23][24][25]"},
+      {"date": "2022", "location": "-", "what_happened": "Tantor releases the audiobook of 'Murder in Pleasanton' with a new chapter of case updates", "significance": "Case remains in public memory", "source": "[27]"},
+      {"date": "As of October 2026", "location": "California", "what_happened": "No public report of a parole grant was found; CBS said his next hearing would be in three years and a low-reliability secondary source mentions 2027. Status to verify with CDCR inmate locator", "significance": "Current legal status", "source": "[24][30]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {
+      "exact_date": "Thursday, April 5, 1984, about 2:35 p.m.",
+      "exact_location": "A footpath from Foothill High School past Aster Court and Lemonwood Way to a drainage culvert under Interstate 680, Pleasanton, California",
+      "what_is_happening": "A 14-year-old freshman walks home alone on a shortcut she has chosen to avoid teasing on the school bus",
+      "what_makes_it_shocking": "She was found within the hour by fellow students; the killer was a classmate who lived on the very street her path crossed, and he stayed free for 27 years",
+      "ironic_twist": "Her purse, hung in a tree near the scene, held a trace of his blood the whole time; five months after her death, in England, Alec Jeffreys discovered DNA fingerprinting"
+    },
+    "central_mystery_question": "Who killed a 14-year-old girl in broad daylight on a walk home, and why did the answer take 27 years?"
+  },
+  "the_method": {
+    "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+    "technique_name": "Modern STR DNA profiling of a trace bloodstain from 1984 evidence (the victim's purse), compared against a known profile",
+    "step_by_step_explanation": [
+      "1984: police collect the purse found hanging in a tree near the scene and keep it in evidence",
+      "Late 2007: police re-examine the 1984 evidence with methods unavailable in 1984 and send items to two labs",
+      "Testing finds a trace of blood on the purse that is not Tina's",
+      "A DNA profile from that blood is linked to Steven Carlson (CBS credits the FBI crime lab; reports date the link to 2011)",
+      "At trial the prosecution says the chance the blood belongs to someone else is about 1 in 5 quadrillion"
+    ],
+    "why_it_worked": "The purse was preserved for decades, and DNA methods became sensitive enough to type a very small stain",
+    "technical_terms_to_explain": [
+      {"term": "DNA profile (STR)", "simple_explanation": "A set of number readings at specific places in the DNA, like a barcode, that almost never repeats between unrelated people"},
+      {"term": "Random match probability", "simple_explanation": "The chance that a random unrelated person would share the same barcode; here about 1 in 5 quadrillion"},
+      {"term": "CODIS", "simple_explanation": "The FBI-run system that lets labs compare crime-scene DNA against profiles of offenders"},
+      {"term": "Contamination/transfer", "simple_explanation": "The defense theory that DNA can arrive on an item innocently or through handling, rather than during the crime"}
+    ],
+    "scale_of_operation": "One trace stain on one item"
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "No single institutional failure is documented; the main enemy was time and the limits of 1984 forensic science",
+    "how_they_were_supposed_to_protect": "Investigate and identify the killer",
+    "why_they_failed": "No witnesses, no weapon, no fingerprints; DNA profiling did not exist in April 1984",
+    "specific_incompetence_examples": [
+      "Not documented; do not invent. Open question: whether Carlson, who lived on the street the path crossed, was interviewed in 1984 (verify in Suchon's book)",
+      "The re-examination came in late 2007, about nine years after the national DNA index began operating in 1998",
+      "From re-examination (late 2007) to arrest (August 2011): almost four years",
+      "Arrest to verdict: more than three years; Tina's mother died on the day the trial was originally scheduled to begin"
+    ],
+    "ironic_details_about_the_failure": "The court of appeal found premeditation unproven; in 2020 Carlson wrote that he had taken a butcher knife from the kitchen before the attack"
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Pleasanton Police Department; FBI laboratory credited; Alameda County District Attorney's Office prosecuted",
+    "operation_code_name_if_any": "None",
+    "when_investigation_began": "April 5, 1984; re-examination late 2007",
+    "initial_wrong_assumptions": "Not documented in the sources consulted",
+    "key_breakthrough": "A trace of blood on Tina's purse that was not hers matched Carlson's DNA",
+    "the_fatal_mistake": "He left his own blood on her purse",
+    "how_long_until_caught": "27 years and 4 months (April 5, 1984 to August 7, 2011)"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "Sunday, August 7, 2011",
+    "location": "Santa Cruz County Jail, where Carlson was held on drug charges",
+    "scene_description": "Pleasanton police take custody of Carlson, 43, and bring him to Alameda County",
+    "protagonist_reaction": "Denied it: an NBC Bay Area headline quoted him, 'I didn't do it'; pleaded not guilty; professed innocence at sentencing in 2015",
+    "ironic_or_absurd_details": "A 43-year-old man was charged in juvenile court because he was 16 at the time of the crime"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["Murder (Penal Code 187), initially in juvenile court, then in adult court after a fitness ruling"],
+    "trial_date_if_applicable": "October 2014, Alameda County Superior Court; verdict October 30, 2014",
+    "notable_court_testimony": "Prosecutor: blood on purse is Carlson's, odds of another source about 1 in 5 quadrillion. Defense: DNA flimsy, possible contamination or transfer, no motive, fingerprints or weapon. Oxygen reports a former friend testified Carlson was bullied and thrown into a dumpster after a confrontation with football players (single source).",
+    "victim_impact_statements": [
+      {"from_whom": "Karin Reiff, Tina's aunt (statement after Shirley's death, not in court)", "key_quote": "\"My sister went through almost 30 years of hell after Tina's death and I think she finally died of a broken heart.\"", "emotional_impact": "Cost of 30 years of waiting"}
+    ],
+    "sentence_received": "26 years to life (January 9, 2015); after the 2017 appeal reduced the conviction to second-degree murder, 16 years to life (CBS)",
+    "protagonist_statement_in_court": "Professed innocence at sentencing (CBS headline 'Professing innocence, man gets 26 years to life')",
+    "current_status": "Convicted of second-degree murder; incarcerated at the California Correctional Institution, Tehachapi (as last reported). No public record found of parole being granted as of October 2026; verify with CDCR."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Steven Carlson (2020 letter to the Faelz family)", "exact_quote": "I want you to know you and your family did absolutely nothing to deserve what I did to you.", "context": "Letters released by the family to the San Francisco Chronicle", "source": "[24]"},
+      {"speaker": "Steven Carlson (2020 statement, as headlined)", "exact_quote": "I remember being full of rage", "context": "Oxygen headline quoting his parole insight statement", "source": "[25]"},
+      {"speaker": "Steven Carlson (2011)", "exact_quote": "I didn't do it", "context": "NBC Bay Area headline after his arrest", "source": "[7]"},
+      {"speaker": "Drew Faelz, Tina's brother", "exact_quote": "There's no remorse.", "context": "On the 2020 letters and the canceled parole hearing", "source": "[25]"},
+      {"speaker": "Karin Reiff, Tina's aunt", "exact_quote": "My sister went through almost 30 years of hell after Tina's death and I think she finally died of a broken heart.", "context": "After Shirley Faelz Orosco died on February 13, 2014", "source": "[24][29]"},
+      {"speaker": "Joshua Suchon, author", "exact_quote": "The thing that drew me to the story was my sister knew Steve Carlson.", "context": "Interview with Pleasanton Weekly about his book", "source": "[26]"},
+      {"speaker": "A writer on the case (likely Suchon; verify)", "exact_quote": "Steve got bullied but also Steve was a major bully himself.", "context": "CBS report on the 2020 confession", "source": "[24]"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "14", "what_it_represents": "Tina's age", "source": "[2][16]"},
+      {"number": "16 / 43 / 46", "what_it_represents": "Carlson's age at the crime, arrest and verdict", "source": "[5][16]"},
+      {"number": "2:35 p.m.", "what_it_represents": "Last time Tina was seen alive", "source": "[1][18]"},
+      {"number": "about 3 p.m.", "what_it_represents": "When fellow students found her", "source": "[15]"},
+      {"number": "27 years", "what_it_represents": "Time unsolved (April 1984 to August 2011)", "source": "[18][31]"},
+      {"number": "1 in 5 quadrillion", "what_it_represents": "Prosecution's odds that the blood came from someone other than Carlson", "source": "[13][16]"},
+      {"number": "2", "what_it_represents": "Laboratories that received evidence in the late-2007 re-examination", "source": "[3][4]"},
+      {"number": "1 day", "what_it_represents": "Jury deliberations", "source": "[16][17]"},
+      {"number": "26 years to life → 16 years to life", "what_it_represents": "Original sentence and sentence after 2017 appeal (CBS)", "source": "[19][24]"},
+      {"number": "9 pages", "what_it_represents": "Carlson's 2020 insight statement for parole commissioners", "source": "[24][25]"},
+      {"number": "8", "what_it_represents": "Drew Faelz's age in 1984", "source": "[24]"},
+      {"number": "36 years", "what_it_represents": "From the murder to the confession letters (2020)", "source": "[23]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "Tina walked to escape teasing on the bus; the shortcut led past the street where her killer lived",
+      "DNA fingerprinting was discovered in September 1984, five months after her death",
+      "A 43-year-old man made his first court appearance in juvenile court",
+      "Tina's mother died on the day the trial was first scheduled to begin",
+      "The appeal court said premeditation was not proved; his own later letter said he took a knife from the kitchen beforehand",
+      "After finally confessing, he canceled his own parole hearing"
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "Foothill High School", "physical_description": "Public high school on the west side of Pleasanton, near the foothills (background)", "atmosphere": "Ordinary suburban high school, 1984", "relevant_details": "A lilac tree was planted on campus in Tina's memory"},
+      {"location_name": "Path via Aster Court and Lemonwood Way", "physical_description": "Residential streets and a footpath east of the school", "atmosphere": "Afternoon walk home", "relevant_details": "Carlson lived on Lemonwood Way near the trail"},
+      {"location_name": "Drainage culvert under I-680", "physical_description": "A culvert/drainage ditch and creek bed beneath and beside the freeway; the culvert has since been changed ('once crossed')", "atmosphere": "Hidden from street view, traffic noise overhead (general)", "relevant_details": "Crime scene; purse found hanging in a tree nearby"},
+      {"location_name": "Valley Trails", "physical_description": "Residential neighborhood east of I-680", "atmosphere": "Family homes", "relevant_details": "Tina's home and destination"},
+      {"location_name": "Santa Cruz County Jail", "physical_description": "County jail", "atmosphere": "-", "relevant_details": "Where Carlson was held on drug charges in August 2011"},
+      {"location_name": "California Correctional Institution, Tehachapi", "physical_description": "State prison", "atmosphere": "-", "relevant_details": "Where Carlson was held when he wrote the 2020 letters"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "A child chose to walk home to escape bullying; the danger was a classmate who lived along the way",
+    "how_this_could_happen_to_them": "Ordinary suburban afternoon, a familiar shortcut, a familiar face",
+    "lesson_or_warning": "Preserve evidence: one stain on one purse waited 27 years for science to read it",
+    "current_relevance": "Old evidence lockers across the US still hold unsolved cases; juvenile justice law in California has changed since 2011 (Prop 57 in 2016)"
+  },
+  "sources": {
+    "_instructions": "List ALL sources.",
+    "primary_sources": [
+      {"type": "Local newspaper", "title": "[1] Pleasanton Weekly cover story 'Who killed Tina Faelz?' (April 18, 2008)", "url_or_reference": "https://www.pleasantonweekly.com/cover-story/2008/04/18/who-killed-tina-faelz-3/", "key_information_obtained": "Route, last seen 2:35 p.m., mother's 2008 interview, re-examination"},
+      {"type": "TV news", "title": "[2] CBS SF, Arrest made in 1984 murder of Pleasanton teen (Aug 2011)", "url_or_reference": "https://www.cbsnews.com/sanfrancisco/news/arrest-made-in-1984-murder-of-pleasanton-teen", "key_information_obtained": "Arrest, Santa Cruz jail"},
+      {"type": "TV news", "title": "[3] CBS News, Arrest made in 1984 murder of Calif. teen Tina Faelz, FBI crime lab credited", "url_or_reference": "https://cbsnews.com/news/arrest-made-in-1984-murder-of-calif-teen-tina-faelz-fbi-crime-lab-credited", "key_information_obtained": "Late-2007 re-examination, two labs, FBI lab"},
+      {"type": "TV news (AP)", "title": "[4] 6abc archive, DNA evidence cracks 1984 cold case murder", "url_or_reference": "https://6abc.com/archive/8300635", "key_information_obtained": "Taken from Santa Cruz County Jail on a Sunday; FBI lab"},
+      {"type": "Specialist news", "title": "[5] JJIE, 43-Year-Old Charged in Juvenile Court for 1984 Slaying", "url_or_reference": "https://jjie.org/?p=19870", "key_information_obtained": "Juvenile court charging, age 43"},
+      {"type": "TV news", "title": "[6] CBS SF, Suspect in 1984 Pleasanton killing appears in juvenile court", "url_or_reference": "https://www.cbsnews.com/sanfrancisco/news/suspect-in-1984-pleasanton-killing-appears-in-juvenile-court", "key_information_obtained": "Juvenile court appearance"},
+      {"type": "TV news", "title": "[7] NBC Bay Area, Cold-Case Murder Suspect: 'I didn't do it'", "url_or_reference": "https://www.nbcbayarea.com/news/local/cold-case-suspect-i-didnt-do-it/1898482/", "key_information_obtained": "Carlson's denial"},
+      {"type": "TV news", "title": "[8] NBC Bay Area, Alleged Tina Faelz killer pleads not guilty", "url_or_reference": "https://www.nbcbayarea.com/news/local/alleged-tina-faelz-killer-pleads-not-guilty/1941167/", "key_information_obtained": "Not guilty plea"},
+      {"type": "Local newspaper", "title": "[9] Danville San Ramon, Alleged killer in 1984 murder of Foothill High freshman in court (Oct 17, 2012)", "url_or_reference": "https://www.danvillesanramon.com/news/2012/10/17/alleged-killer-in-1984-murder-of-foothill-high-freshman-in-court/", "key_information_obtained": "Court appearance; Judge Trina Thompson"},
+      {"type": "TV news", "title": "[10] NBC Bay Area, Cold Case Suspect to be Tried as Adult", "url_or_reference": "https://www.nbcbayarea.com/news/local/cold-case-suspect-to-be-tried-as-adult/1943803/", "key_information_obtained": "Judge Rhonda Burgess's fitness ruling and reasons"},
+      {"type": "TV news", "title": "[11] CBS SF, Man to be tried as adult in 1984 Pleasanton teen murder", "url_or_reference": "https://www.cbsnews.com/sanfrancisco/news/man-to-be-tried-as-adult-in-1984-pleasanton-teen-murder", "key_information_obtained": "Adult trial ruling"},
+      {"type": "Local news", "title": "[12] Patch, Trial underway for accused killer Steven Carlson 30 years after murder of Tina Faelz", "url_or_reference": "https://patch.com/california/pleasanton/trial-underway-accused-killer-steven-carlson-30-years-after-murder-tina-fael-0", "key_information_obtained": "Trial, Lemonwood Way"},
+      {"type": "Local news", "title": "[13] Patch, Prosecutor: DNA evidence connects Steven Carlson to murder of Tina Faelz", "url_or_reference": "https://patch.com/california/pleasanton/prosecutor-dna-evidence-connects-steven-carlson-murder-tina-faelz-0", "key_information_obtained": "Purse in tree, 1 in 5 quadrillion"},
+      {"type": "Local news", "title": "[14] Patch, Prosecutor: evidence proves Steven Carlson killed Tina Faelz", "url_or_reference": "https://patch.com/california/pleasanton/prosecutor-evidence-proves-steven-carlson-killed-tina-faelz-pleasanton-0", "key_information_obtained": "Closing arguments"},
+      {"type": "TV news", "title": "[15] CBS SF, Pleasanton teenager murdered in 1984 died of multiple stab wounds", "url_or_reference": "https://www.cbsnews.com/sanfrancisco/news/pleasanton-teenager-murdered-in-1984-died-of-multiple-stab-wounds/", "key_information_obtained": "Found by fellow students around 3 p.m. near creek bed; drainage area by I-680"},
+      {"type": "TV news", "title": "[16] NBC Bay Area, Guilty verdict in 1984 Pleasanton cold case", "url_or_reference": "https://nbcbayarea.com/news/local/tina-faelz-guilty-verdict-in-1984-pleasanton-cold-case/78609", "key_information_obtained": "Verdict, one day of deliberation, defense arguments"},
+      {"type": "Local news", "title": "[17] Patch, Steven Carlson convicted of first-degree murder of Tina Faelz", "url_or_reference": "https://patch.com/california/pleasanton/steven-carlson-convicted-first-degree-murder-tina-faelz-0", "key_information_obtained": "Verdict October 30, 2014"},
+      {"type": "Local newspaper", "title": "[18] Pleasanton Weekly, verdict report (Oct 2014)", "url_or_reference": "https://www.pleasantonweekly.com/?p=15181", "key_information_obtained": "Verdict, age 46, DNA investigation begun 2007, route"},
+      {"type": "Local newspaper", "title": "[19] Pleasanton Weekly, Carlson sentenced to 26 years in prison (Jan 10, 2015)", "url_or_reference": "https://www.pleasantonweekly.com/news/2015/01/10/carlson-sentenced-to-26-years-in-prison-for-1984-foothill-high-student-murder", "key_information_obtained": "Sentence, Judge C. Don Clay, new trial denied"},
+      {"type": "TV news", "title": "[20] CBS SF, Professing innocence, man gets 26 years to life for 1984 murder of his high school classmate", "url_or_reference": "https://www.cbsnews.com/sanfrancisco/news/professing-innocence-man-gets-26-years-life-1984-murder-his-high-school-classmate/", "key_information_obtained": "Sentence; still denied guilt"},
+      {"type": "Local news", "title": "[21] Patch, Steven Carlson gets 26 years to life", "url_or_reference": "https://patch.com/california/pleasanton/steven-carlson-gets-26-years-life-prison-1984-fatal-stabbing-pleasanton-teen-0", "key_information_obtained": "Sentence"},
+      {"type": "Local newspaper", "title": "[22] Pleasanton Weekly, Court reduces conviction to 2nd-degree murder (Jan 4, 2017)", "url_or_reference": "https://www.pleasantonweekly.com/news/2017/01/04/court-reduces-convicton-of-mans-killing-of-14-year-old-foothill-high-student-to-2nd-degree-murder", "key_information_obtained": "Appeal: premeditation not proved"},
+      {"type": "Local newspaper", "title": "[23] Pleasanton Weekly, 36 years later, former classmate confesses (Oct 23, 2020)", "url_or_reference": "https://www.pleasantonweekly.com/news/2020/10/23/36-years-later-former-classmate-confesses-to-murder-of-pleasantons-tina-faelz", "key_information_obtained": "Confession letters"},
+      {"type": "TV news", "title": "[24] CBS SF, Man convicted in 1984 murder of Tina Faelz confesses to family after years of denials", "url_or_reference": "https://www.cbsnews.com/sanfrancisco/news/man-convicted-in-1984-murder-of-tina-faelz-in-pleasanton-confesses-to-family-after-years-of-denials", "key_information_obtained": "Letters, 16 to life, Drew's memories, Shirley's death, Tehachapi, next hearing in three years"}
+    ],
+    "secondary_sources": [
+      {"type": "TV network website", "title": "[25] Oxygen, 'I Remember Being Full Of Rage': Prison inmate confesses", "url_or_reference": "https://www.oxygen.com/crime-news/tina-faelz-murder-prison-inmate-steven-carlson-confesses", "key_information_obtained": "Nine-page statement, three letters, canceled hearing, Drew quote, dumpster testimony (single source), '10 years' figure (likely confusion)"},
+      {"type": "Local newspaper", "title": "[26] Pleasanton Weekly, on Suchon's book", "url_or_reference": "https://www.pleasantonweekly.com/?p=17632", "key_information_obtained": "Suchon at Donlon Elementary; sister knew Carlson; arrest Aug 7, 2011 in Santa Cruz"},
+      {"type": "Publisher", "title": "[27] Tantor Media, Murder in Pleasanton audiobook (2022)", "url_or_reference": "https://tantor.com/murder-in-pleasanton-joshua-suchon.html", "key_information_obtained": "Shortcut, found within about an hour, no witnesses or leads, new chapter"},
+      {"type": "Publisher", "title": "[28] Arcadia / The History Press, Murder in Pleasanton (2015)", "url_or_reference": "https://arcadiapublishing.com/products/9781467117654", "key_information_obtained": "Book details"},
+      {"type": "Local newspaper PDF", "title": "[29] Pleasanton Weekly print edition, Aug 26, 2022", "url_or_reference": "https://www.pleasantonweekly.com/wp-content/uploads/2023/10/2022_08_26.pls_.section1.pdf", "key_information_obtained": "Appeal reduced conviction to second degree"},
+      {"type": "Legal blog (low reliability)", "title": "[30] Legal Clarity", "url_or_reference": "https://legalclarity.org/steven-carlson-cold-case-conviction-staffer-attorney/", "key_information_obtained": "Mentions next parole hearing in 2027 (unverified)"},
+      {"type": "Student newspaper", "title": "[31] The Shield, The 27 Year Cold Case (Sept 1, 2021)", "url_or_reference": "https://whstheshield.com/2021/09/01/the-27-year-cold-case/", "key_information_obtained": "27 years unsolved; purse retested, blood not Tina's"},
+      {"type": "Encyclopedia", "title": "[32] Wikipedia, Foothill High School (Pleasanton, California)", "url_or_reference": "https://en.wikipedia.org/wiki/Foothill_High_School_(Pleasanton,_California)", "key_information_obtained": "School background"},
+      {"type": "Encyclopedia", "title": "[33] Wikipedia, Alec Jeffreys", "url_or_reference": "https://en.wikipedia.org/wiki/Alec_Jeffreys", "key_information_obtained": "DNA fingerprinting discovered September 10, 1984"},
+      {"type": "Government", "title": "[34] FBI, CODIS and NDIS fact sheet", "url_or_reference": "https://www.fbi.gov/how-we-can-help-you/dna-fingerprint-act-of-2005-expungement-policy/codis-and-ndis-fact-sheet", "key_information_obtained": "National DNA index from 1998"},
+      {"type": "Encyclopedia", "title": "[35] Wikipedia, 1984 Summer Olympics", "url_or_reference": "https://en.wikipedia.org/wiki/1984_Summer_Olympics", "key_information_obtained": "Los Angeles Games, summer 1984"},
+      {"type": "Encyclopedia", "title": "[36] Wikipedia, National Center for Missing & Exploited Children", "url_or_reference": "https://en.wikipedia.org/wiki/National_Center_for_Missing_%26_Exploited_Children", "key_information_obtained": "Founded 1984"},
+      {"type": "Encyclopedia", "title": "[37] Wikipedia, 2004 California Proposition 69", "url_or_reference": "https://en.wikipedia.org/wiki/2004_California_Proposition_69", "key_information_obtained": "DNA database expansion"},
+      {"type": "Encyclopedia", "title": "[38] Wikipedia, Pleasanton, California", "url_or_reference": "https://en.wikipedia.org/wiki/Pleasanton,_California", "key_information_obtained": "City background: Amador Valley, Alameda County, I-580/I-680, fairgrounds"},
+      {"type": "Encyclopedia", "title": "[39] Wikipedia, Colin Pitchfork", "url_or_reference": "https://en.wikipedia.org/wiki/Colin_Pitchfork", "key_information_obtained": "First DNA murder conviction, 1988"},
+      {"type": "Encyclopedia", "title": "[40] Wikipedia, 2016 California Proposition 57", "url_or_reference": "https://en.wikipedia.org/wiki/2016_California_Proposition_57", "key_information_obtained": "Juvenile transfer now requires a judge's hearing"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "Another California cold case solved by preserved evidence",
+    "connection_to_current_video": "One small item kept in an evidence locker for decades",
+    "teaser_line": "The next case is waiting."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Exact year of the DNA match: most sources say 2011; one report says the FBI lab matched in 2007",
+      "Whether the database hit came through CODIS (likely given his convictions, but not stated in the snippets)",
+      "Judge for the fitness ruling: Rhonda Burgess (NBC) vs Trina Thompson (Danville San Ramon)",
+      "Steve Faelz described as stepfather in one summary",
+      "Dumpster/football testimony (Oxygen only)",
+      "16 years to life after appeal (CBS) vs '10 years' (Oxygen, likely confusion with minimum eligible parole date)",
+      "One charging document summary gives April 15 instead of April 5 (typo)"
+    ],
+    "information_gaps": [
+      "Parole hearings after 2020 and any decision up to October 2026",
+      "Whether Carlson was interviewed in 1984",
+      "Names of the detectives who reopened the case",
+      "Details of Tina's hobbies and personality beyond the record",
+      "Whether the A&E/ID clip ('Shortcut to Murder', IMDb tt4990394) is the episode with 2.14M views"
+    ],
+    "questions_to_answer": ["Current CDCR status of Steven John Carlson", "Exact date of the adult-trial ruling"]
+  }
+}

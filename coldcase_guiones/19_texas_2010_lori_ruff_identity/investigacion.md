@@ -166,3 +166,26 @@ Un investigador de la Administración del Seguro Social en Seattle, Joe Velling,
 17. IMDb — People Magazine Presents: Crimes of the 2010s, "2010: Who Is Lori Ruff?": https://m.imdb.com/news/ni64771761
 18. Ranker — Lori Ruff's True Identity Was A Secret (baja fiabilidad, solo apoyo): https://www.ranker.com/list/lori-ruff/matthew-lavelle
 19. 988 Suicide & Crisis Lifeline: https://988lifeline.org
+
+## 14. Verificación del guion
+
+- **Párrafos:** 10 (uno por parte), separados por una línea en blanco; sin títulos, corchetes, viñetas ni indicaciones visuales.
+- **Palabras por parte:** 1.321 / 1.334 / 1.257 / 1.261 / 1.259 / 1.224 / 1.254 / 1.268 / 1.287 / 1.226 (todas ≥ 1.200).
+- **Total:** 12.691 palabras → **≈ 74,7 minutos a 170 ppm**.
+- **Signos de interrogación:** 9 (máximo 12).
+- **CTA:** 2, ambos con "this channel" (tras el gancho y al final) + mantra "No case stays cold forever."
+- **Seguridad:** el suicidio se describe en una frase sencilla (Parte 1 y Parte 3), se repite que no hubo asesinato ni sospechoso, y se incluye el recurso 988 (Partes 3 y 10). No se nombra a la hija [MENOR] ni al primo Cassidy; no se citan las notas de despedida; Kimberly McLean nunca fue acusada ni condenada y así se dice (Parte 9).
+- **Correcciones del fact-check:** eliminados detalles no documentados (llave de la caja, clima, "miles" de lectores, enterramiento, contenido de las notas, "Dallas County", atribución a O'Hagan del artículo de 2016); "Joel Brown" y "DNA Detectives" NO aparecen en el guion por falta de fuente.
+
+**10 afirmaciones clave y sus fuentes:**
+
+1. Murió por suicidio el 24-12-2010 en su vehículo, en la entrada de la casa de sus suegros en Longview — [1][5][11].
+2. La caja fuerte se abrió con un destornillador y contenía el certificado de nacimiento de Becky Sue Turner — [9][1].
+3. Becky Sue Turner nació en Bakersfield y murió a los 2 años en un incendio en Fife, Washington, en 1971 — [4][6].
+4. Cadena de 1988: ID de Idaho 16-06, cambio de nombre en Dallas 05-07, SSN 12-07, ID de Texas 13-07; licencia en abril de 1989 — [2].
+5. Licenciatura en UT Arlington en 1997 (Business, marketing) — [10] (fuente única).
+6. Casada con Blake Ruff en enero de 2004; decía que sus padres habían muerto y no tenía hermanos — [2][11].
+7. Joe Velling (SSA, Seattle) recibió el caso del asesor de un congresista y trabajó año y medio/dos años sin resolverlo — [9][4].
+8. Junio 2013: reportaje de Maureen O'Hagan en el Seattle Times con fotos de pistas; cita a Poynter — [3][8].
+9. Diciembre 2015: Fitzpatrick, con ADN autosómico del marido y la hija, halla un primo hermano en la familia Cassidy de Filadelfia — [2][7][1][12].
+10. Marzo 2016: "My God, that's Kimberly!"; confirmación por ADN; Kimberly Maria McLean, que se fue de casa en 1986; retirada de NamUs el 19-09-2016 — [2][5][7].

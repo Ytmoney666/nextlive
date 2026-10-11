@@ -1,0 +1,263 @@
+{
+  "video_metadata": {
+    "working_title": "VERMONT 1971 Cold Case — DNA Identified Her Killer After 51 Years | Rita Curran",
+    "topic_one_sentence": "Rita Curran, a 24-year-old second-grade teacher from Milton, was killed in her Burlington, Vermont apartment in July 1971; for decades rumor pointed at Ted Bundy, but in February 2023 Burlington police announced that DNA on a cigarette butt left beside her body identified William DeRoos, the man who lived two floors above her, who died in 1986 and was never charged.",
+    "primary_emotion_to_evoke": "Grief for a young teacher, unease that the answer was a few steps away all along, quiet anger at a false alibi kept for five decades, and a bittersweet sense of truth arriving too late for trial.",
+    "target_length_minutes": "70"
+  },
+  "protagonist": {
+    "_instructions": "Antagonist of the story. Never convicted, never charged. Strict legal wording: identified by DNA, according to Burlington police.",
+    "full_name": "William R. DeRoos",
+    "age_at_time_of_events": "31 (born December 14, 1939, in Chicago, Illinois, per a July 28, 1971 Burlington police entry quoted in the 2023 Trieb report) [8]",
+    "occupation_or_status": "Tenant in the same Brookes Avenue building as Rita Curran, living in a third-floor apartment (listed in the police report as 15 Brookes Ave) with his then-wife Michelle [8][2]. Never charged; died in 1986.",
+    "location": "Burlington, Vermont (1971); later Thailand; later San Francisco, California, where he died on August 7, 1986 [13][1]",
+    "physical_description": "Not documented in the sources consulted; do not describe.",
+    "background_brief": "According to Burlington police, after the murder DeRoos left Burlington, went to Thailand and became a Buddhist monk, later turned up in San Francisco, where he met another wife, and died there in 1986 of a drug overdose (acute morphine poisoning) in a hotel room [2][13][1]. Some reports say he had a criminal record [1]; later reporting describes a history of violence toward a later wife (single-sourced, see notes) [13].",
+    "psychological_profile": "Not to be speculated. Documented behaviour only: according to police, he told officers in 1971 he had been home with his wife all night and persuaded her to back that alibi [1][2].",
+    "mundane_humanizing_detail": "He smoked; a Lark brand cigarette butt found beside Rita's right arm carried the DNA that police say was his [11].",
+    "nickname_or_alias_if_any": "None documented. His wife's name is spelled Michelle (most reports) and 'Michele' in the police report excerpt [1][8]."
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected.",
+    "individuals": [
+      {
+        "name": "Rita Curran",
+        "role_or_profession": "Second-grade teacher at Milton Elementary School in Milton, Vermont; summer job as a chambermaid at a Burlington motel (named in some reports as the Colonial Motor Inn) [1][16]",
+        "connection_to_protagonist": "Downstairs neighbor in the same building; according to the Trieb report they did not appear to have known each other [1][8]",
+        "specific_impact_suffered": "Beaten, sexually assaulted and strangled in her ground-floor bedroom on the night of July 19–20, 1971; she was 24 [1][2][20]",
+        "humanizing_detail": "Eldest of three children, with a brother Thomas three years younger and a sister Mary five years younger; attended Trinity College in Burlington; her family home was in Milton (single-sourced podcast account) [16]",
+        "any_quotes_from_them": "None documented."
+      },
+      {
+        "name": "Tom (Thomas) Curran",
+        "role_or_profession": "Rita's younger brother",
+        "connection_to_protagonist": "Family of the victim",
+        "specific_impact_suffered": "Lost his older sister at about 21; waited more than five decades for an answer",
+        "humanizing_detail": "Spoke at the February 21, 2023 press conference; said he thinks less about the killer than about Rita and his parents, and that he prays to his parents and to Rita (paraphrase) [9][7]",
+        "any_quotes_from_them": "Paraphrase only; no verified verbatim quote."
+      },
+      {
+        "name": "Mary Curran Campbell",
+        "role_or_profession": "Rita's younger sister, of Hartland, Vermont",
+        "connection_to_protagonist": "Family of the victim",
+        "specific_impact_suffered": "Often wondered if her sister's killer would ever be identified; spoke at the 2023 press conference [10][9]",
+        "humanizing_detail": "Later spoke with Senator Patrick Leahy about the case, per the Vermont Standard [10]",
+        "any_quotes_from_them": "None verified verbatim."
+      }
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "Rita's parents (who died without an answer), siblings, roommates who found her, her Milton pupils and the Burlington community",
+      "total_number_affected": "Not quantifiable",
+      "range_of_impacts": "Grief, fear in a small city, decades of rumor including the Ted Bundy theory"
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, witnesses, family.",
+    "characters": [
+      {"name": "Jon Murad", "role_in_story": "Acting chief of the Burlington Police Department in February 2023", "key_actions_they_took": "Announced the identification on February 21, 2023", "notable_quotes": "\"The random violence of her murder left a stain on our community and it devastated her family.\" [6][20]; on the wife: \"Five decades later, she gave our detectives a different story: the truth.\" [9]; DeRoos \"moved to Thailand and became a Buddhist monk\" [13]"},
+      {"name": "Lt. James Trieb", "role_in_story": "Commander of the Burlington Police Detective Services Bureau; author of the 34-page final report", "key_actions_they_took": "Led the cold case review and wrote the report released in February 2023 [8]", "notable_quotes": "Said the detective bureau and the chief were confident that William DeRoos was responsible for the aggravated murder of Rita Curran, and that because he died of an overdose he would not be held accountable (paraphrase of press reports) [2][7]"},
+      {"name": "CeCe Moore", "role_in_story": "Chief genetic genealogist at Parabon NanoLabs", "key_actions_they_took": "Traced the cigarette-butt DNA profile through open-source genealogy databases to DeRoos [4]", "notable_quotes": "\"This case is over 50 years old, and it only took a few hours to narrow it down to William DeRoos.\" [4]"},
+      {"name": "Sarah George", "role_in_story": "Chittenden County State's Attorney", "key_actions_they_took": "Reviewed the evidence and found probable cause for aggravated first-degree murder had DeRoos been alive [6][1]", "notable_quotes": "\"I would have felt perfectly comfortable going to trial.\" [7]"},
+      {"name": "Michelle DeRoos", "role_in_story": "DeRoos's wife in 1971", "key_actions_they_took": "Backed her husband's alibi in 1971; told the 1971 detective she had not heard or seen anything [8]; decades later told detectives he had left their apartment for a brief period that night [9]", "notable_quotes": "None verbatim; described through police statements."},
+      {"name": "Detective Winterbottom", "role_in_story": "1971 Burlington detective (first name not confirmed)", "key_actions_they_took": "Spoke with Mrs. DeRoos in 1971, per the Trieb report [8]", "notable_quotes": "None"},
+      {"name": "Roommates (one named Lamphere in press accounts)", "role_in_story": "Shared the Brookes Avenue apartment; found Rita", "key_actions_they_took": "Returned after an evening out and found her on the bedroom floor in the early hours of July 20, 1971 [1][21]", "notable_quotes": "None"},
+      {"name": "DeRoos's half-brother (unnamed)", "role_in_story": "Living relative", "key_actions_they_took": "Voluntarily gave a DNA sample; analysis indicated a 97 percent probability he and the cigarette donor were half-siblings [2][8]", "notable_quotes": "None"},
+      {"name": "Ted Bundy", "role_in_story": "Rumored suspect, never linked by evidence", "key_actions_they_took": "Born in Burlington in 1946; named in theories by authors and a retired FBI agent; denied involvement to FBI agent William Hagmaier on January 22, 1989 [1][14]", "notable_quotes": "None used"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "Backbone.",
+    "events": [
+      {"date": "November 24, 1946", "location": "Burlington, Vermont", "what_happened": "Ted Bundy is born at the Elizabeth Lund Home for Unwed Mothers.", "significance": "Origin of the later rumor linking Bundy to the case.", "source": "[1][14]"},
+      {"date": "December 14, 1939", "location": "Chicago, Illinois", "what_happened": "William DeRoos is born.", "significance": "He is 31 in July 1971.", "source": "[8]"},
+      {"date": "1970–1971 school year", "location": "Milton, Vermont", "what_happened": "Rita Curran teaches second grade at Milton Elementary School.", "significance": "Her identity and community.", "source": "[1][2]"},
+      {"date": "Summer 1971", "location": "Burlington, Vermont", "what_happened": "Rita works as a motel chambermaid and shares a ground-floor apartment on Brookes Avenue with roommates; the DeRoos couple live two floors above.", "significance": "Proximity of the killer.", "source": "[1][2][8]"},
+      {"date": "Evening of Monday, July 19, 1971", "location": "Brookes Avenue apartment", "what_happened": "Rita's roommates are out; DeRoos, according to police, leaves his apartment after an argument with his wife to 'cool down'.", "significance": "Window for the crime.", "source": "[2][9]"},
+      {"date": "Night of July 19–20, 1971", "location": "Rita's bedroom", "what_happened": "Rita Curran, 24, is beaten, sexually assaulted and strangled. A Lark cigarette butt is left beside her right arm.", "significance": "The cigarette is the evidence that matters 51 years later.", "source": "[1][2][11]"},
+      {"date": "Early hours of Tuesday, July 20, 1971 (reports say about 12:30 a.m. or 1:20 a.m.)", "location": "Brookes Avenue", "what_happened": "Roommates return and find Rita dead on her bedroom floor.", "significance": "Discovery.", "source": "[1][21]"},
+      {"date": "July 20, 1971", "location": "15 Brookes Ave, third floor", "what_happened": "Police canvass the building; DeRoos says he was home all night with his wife; she says she heard and saw nothing.", "significance": "The false alibi.", "source": "[1][2][8]"},
+      {"date": "July 28, 1971", "location": "Burlington", "what_happened": "A police record entry lists William DeRoos, age 31, of 15 Brookes Ave, DOB 12-14-39, born in Chicago.", "significance": "He was in the file from the start but, per the 2023 report, never treated as a person of interest.", "source": "[8]"},
+      {"date": "After July 1971", "location": "Thailand", "what_happened": "According to police, DeRoos leaves Burlington, goes to Thailand and becomes a Buddhist monk.", "significance": "Flight; his wife kept the alibi.", "source": "[13][2]"},
+      {"date": "1970s–1980s", "location": "Burlington and beyond", "what_happened": "Ted Bundy, later revealed as a serial killer, is rumored as a suspect because he was born in Burlington; a retired FBI agent, John Bassett, later proposes him; no evidence ever links him.", "significance": "A dead end that consumed attention.", "source": "[1][12][14]"},
+      {"date": "August 7, 1986", "location": "San Francisco hotel", "what_happened": "DeRoos dies of acute morphine poisoning (drug overdose), aged 46, never charged.", "significance": "No trial ever possible.", "source": "[13][1]"},
+      {"date": "January 22, 1989", "location": "Florida", "what_happened": "On the eve of his execution, Bundy denies involvement in the Curran case to FBI agent William Hagmaier.", "significance": "Bundy theory weakens.", "source": "[1]"},
+      {"date": "2014", "location": "Burlington", "what_happened": "Burlington police send crime-scene evidence including the cigarette butt for DNA analysis; a profile is developed but matches no one in criminal databases.", "significance": "Science arrives but no name.", "source": "[1][4]"},
+      {"date": "2019", "location": "Burlington", "what_happened": "A new team of detectives renews the investigation.", "significance": "Cold case revived.", "source": "[1]"},
+      {"date": "2022", "location": "Burlington / Parabon NanoLabs", "what_happened": "Police contract Parabon NanoLabs; genealogist CeCe Moore traces the profile to DeRoos within hours, via relatives on both paternal and maternal sides.", "significance": "The name.", "source": "[4][2]"},
+      {"date": "2022–early 2023", "location": "Various", "what_happened": "A living half-brother gives DNA (97 percent half-sibling probability); DNA on Rita's torn housecoat matches the cigarette profile; DeRoos's former wife tells detectives he had left their apartment that night.", "significance": "Confirmation.", "source": "[2][8][9]"},
+      {"date": "Tuesday, February 21, 2023", "location": "Burlington Police Department", "what_happened": "Acting Chief Jon Murad, Lt. James Trieb, CeCe Moore and State's Attorney Sarah George announce DeRoos as the man identified by DNA; Tom Curran and Mary Curran Campbell speak; the case is closed.", "significance": "Resolution without trial.", "source": "[5][6][7][9]"},
+      {"date": "As of October 2026", "location": "—", "what_happened": "Case closed by Burlington police; no charges possible; no further public developments found.", "significance": "Current status.", "source": "[5][19]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "Hook.",
+    "the_moment": {
+      "exact_date": "Early hours of Tuesday, July 20, 1971",
+      "exact_location": "Ground-floor apartment, Brookes Avenue, Burlington, Vermont",
+      "what_is_happening": "Roommates come home and find Rita Curran, 24, dead in her bedroom; a cigarette butt lies beside her arm.",
+      "what_makes_it_shocking": "The man police now say killed her lived two floors up and told police that morning he had been home all night.",
+      "ironic_twist": "The city whispered about Ted Bundy for decades; the answer was a neighbor whose wife gave him an alibi, and the evidence was a cigarette butt kept in storage for half a century."
+    },
+    "central_mystery_question": "Who killed a young teacher in her own bedroom while her roommates were out, and why did it take 51 years to name him?"
+  },
+  "the_method": {
+    "_instructions": "How the case was resolved.",
+    "technique_name": "Investigative genetic genealogy (IGG) plus kinship DNA confirmation",
+    "step_by_step_explanation": [
+      "The cigarette butt kept since 1971 is tested; a DNA profile is developed in 2014 but matches no one in criminal databases [1][4].",
+      "In 2022 Parabon NanoLabs is contracted; the DNA is used in open-source genealogy databases where people upload their own DNA [4].",
+      "Partial matches with distant relatives on both paternal and maternal sides are found [2].",
+      "CeCe Moore builds family trees and narrows the candidate to William DeRoos within hours [4].",
+      "A living half-brother voluntarily provides DNA; analysis gives a 97 percent probability of half-siblinghood with the cigarette donor [2][8].",
+      "DNA on Rita's torn housecoat is found to match the cigarette DNA [2][7].",
+      "DeRoos's former wife tells detectives he had left the apartment for a period that night [9]."
+    ],
+    "why_it_worked": "The cigarette butt was preserved for five decades and genealogy databases had grown large enough to find relatives.",
+    "technical_terms_to_explain": [
+      {"term": "CODIS / criminal DNA database", "simple_explanation": "A national index that only finds people already in the system, like a phone book of offenders."},
+      {"term": "Genetic genealogy", "simple_explanation": "Using DNA shared with cousins who uploaded their profiles to build a family tree backward and forward until one person fits."},
+      {"term": "Half-sibling kinship test", "simple_explanation": "Comparing a known relative's DNA with the evidence to measure how likely they share one parent."}
+    ],
+    "scale_of_operation": "A few hours of tree-building after 51 years of waiting [4]."
+  },
+  "systemic_failure": {
+    "_instructions": "What failed.",
+    "institution_that_failed": "The 1971 investigation (Burlington Police Department), and the limits of forensic science at the time",
+    "how_they_were_supposed_to_protect": "Identify and charge the killer.",
+    "why_they_failed": "The neighbor's alibi was accepted; per the 2023 report, DeRoos was never investigated as a person of interest in 1971; DNA testing did not exist; attention drifted to rumors such as Bundy.",
+    "specific_incompetence_examples": [
+      "DeRoos was interviewed the day the body was found and recorded in a July 28, 1971 entry, yet never treated as a suspect [8].",
+      "His wife's alibi was not broken for about 51 years [9].",
+      "He was able to leave the country for Thailand [13].",
+      "The first DNA profile was developed only in 2014, 43 years later [1][4]."
+    ],
+    "ironic_details_about_the_failure": "The killer, according to police, lived in the same building; he was added to the DNA comparison pool in recent years only 'because of his proximity to this crime' [8]."
+  },
+  "the_investigation": {
+    "_instructions": "How identified.",
+    "investigating_agency": "Burlington Police Department, Detective Services Bureau",
+    "operation_code_name_if_any": "None",
+    "when_investigation_began": "July 20, 1971; renewed 2014 and 2019",
+    "initial_wrong_assumptions": "Neighbor alibi accepted; Ted Bundy rumor never supported by evidence.",
+    "key_breakthrough": "Genetic genealogy by Parabon NanoLabs in 2022 on the cigarette DNA.",
+    "the_fatal_mistake": "Leaving a cigarette butt beside the body.",
+    "how_long_until_caught": "Never caught; identified about 51 years and 7 months later, after his death."
+  },
+  "the_confrontation": {
+    "_instructions": "No arrest occurred.",
+    "date_and_time": "February 21, 2023 press conference",
+    "location": "Burlington Police Department, Burlington, Vermont",
+    "scene_description": "Police, the state's attorney, the genealogist and Rita's brother and sister speak publicly; the case is declared closed.",
+    "protagonist_reaction": "None; DeRoos died in 1986.",
+    "ironic_or_absurd_details": "The man he left behind, his wife, was the one who finally told the truth."
+  },
+  "legal_resolution": {
+    "_instructions": "No charges.",
+    "charges_filed": [],
+    "trial_date_if_applicable": "None",
+    "notable_court_testimony": "None",
+    "victim_impact_statements": [
+      {"from_whom": "Tom Curran (press conference, paraphrased)", "key_quote": "Paraphrase: he thinks less about the killer than about Rita and his parents, and prays to them.", "emotional_impact": "Faith and grief rather than anger."}
+    ],
+    "sentence_received": "None. State's Attorney Sarah George said there was probable cause for aggravated first-degree murder had he been alive.",
+    "protagonist_statement_in_court": "None",
+    "current_status": "DeRoos was never charged or convicted; he died in 1986. Burlington police closed the case in February 2023. No later developments found as of October 2026."
+  },
+  "verified_quotes": {
+    "_instructions": "Verified only.",
+    "quotes": [
+      {"speaker": "Jon Murad, acting Burlington police chief", "exact_quote": "The random violence of her murder left a stain on our community and it devastated her family.", "context": "Press conference, Feb 21, 2023", "source": "[6][20]"},
+      {"speaker": "Jon Murad", "exact_quote": "Five decades later, she gave our detectives a different story: the truth.", "context": "On DeRoos's former wife", "source": "[9]"},
+      {"speaker": "Jon Murad", "exact_quote": "moved to Thailand and became a Buddhist monk", "context": "On DeRoos after the murder (fragment)", "source": "[13]"},
+      {"speaker": "CeCe Moore, Parabon NanoLabs", "exact_quote": "This case is over 50 years old, and it only took a few hours to narrow it down to William DeRoos.", "context": "Press conference", "source": "[4]"},
+      {"speaker": "Sarah George, Chittenden County State's Attorney", "exact_quote": "I would have felt perfectly comfortable going to trial.", "context": "To reporters after the press conference", "source": "[7]"},
+      {"speaker": "Trieb report", "exact_quote": "Because of his proximity to this crime, he was added to our suspect pool, along with many others, as a person to compare DNA to.", "context": "On how DeRoos entered the comparison pool", "source": "[8]"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Figures.",
+    "figures": [
+      {"number": "24", "what_it_represents": "Rita's age", "source": "[1][2]"},
+      {"number": "31", "what_it_represents": "DeRoos's age in July 1971", "source": "[8]"},
+      {"number": "46", "what_it_represents": "DeRoos's age at death (Aug 7, 1986; computed from DOB)", "source": "[8][13]"},
+      {"number": "15 years", "what_it_represents": "Time from the murder to DeRoos's death", "source": "[13]"},
+      {"number": "2014", "what_it_represents": "First DNA profile from the cigarette; no database match", "source": "[1][4]"},
+      {"number": "A few hours", "what_it_represents": "Time Moore needed to narrow to DeRoos", "source": "[4]"},
+      {"number": "97 percent", "what_it_represents": "Probability the half-brother and cigarette donor were half-siblings", "source": "[8]"},
+      {"number": "34 pages", "what_it_represents": "Length of the Trieb final report", "source": "[8]"},
+      {"number": "About 51 years 7 months", "what_it_represents": "July 20, 1971 to February 21, 2023", "source": "computed"},
+      {"number": "Two floors", "what_it_represents": "Distance between Rita's apartment and DeRoos's", "source": "[2][3]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Contrasts.",
+    "details": [
+      "The infamous serial killer born in Burlington was the rumor; the answer was the quiet neighbor upstairs.",
+      "The man police say killed her was questioned the same day, and his wife's word was enough.",
+      "A man who, according to police, had strangled a young teacher went to Thailand and became a Buddhist monk.",
+      "The truth came from the same woman who had covered for him, five decades later."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Documented only.",
+    "key_locations": [
+      {"location_name": "Brookes Avenue, Burlington", "physical_description": "Residential street near downtown; Rita's ground-floor apartment at 17 Brookes Ave (police report lists DeRoos at 15 Brookes Ave, third floor)", "atmosphere": "Summer, college town between semesters (general context)", "relevant_details": "Rita shared one of two ground-floor bedrooms with a roommate [1][20][8]"},
+      {"location_name": "Milton Elementary School, Milton", "physical_description": "Town north of Burlington in Chittenden County", "atmosphere": "Small-town school", "relevant_details": "Where Rita taught second grade [1]"},
+      {"location_name": "San Francisco hotel", "physical_description": "Not documented", "atmosphere": "—", "relevant_details": "Where DeRoos died in 1986 [13]"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why care.",
+    "why_this_matters_to_viewer": "Danger may be close and familiar; a single preserved object can speak decades later.",
+    "how_this_could_happen_to_them": "A neighbor in the same building, an alibi from a spouse, a rumor that pulled attention elsewhere.",
+    "lesson_or_warning": "Keep the evidence; question convenient alibis; rumors are not evidence.",
+    "current_relevance": "Genetic genealogy continues to identify killers in very old cases, often after their deaths."
+  },
+  "sources": {
+    "_instructions": "Numbering matches the bracketed references.",
+    "primary_sources": [
+      {"type": "Police report", "title": "[8] Burlington Police Department, Detective Services Bureau, Rita Curran Murder — Trieb Final Report (34 pages)", "url_or_reference": "https://www.mychamplainvalley.com/wp-content/uploads/sites/61/2023/02/Rita-Curran-Murder-Trieb-Final-Report.pdf", "key_information_obtained": "DeRoos DOB, address, 1971 entries, half-sibling 97 percent, how he entered the pool"},
+      {"type": "State police page", "title": "[19] Vermont State Police, Rita Curran case page", "url_or_reference": "https://vsp.vermont.gov/node/303", "key_information_obtained": "Body discovered July 20, 1971 at Brookes Avenue; case closed"}
+    ],
+    "secondary_sources": [
+      {"type": "Encyclopedia", "title": "[1] Murder of Rita Curran — Wikipedia", "url_or_reference": "https://en.wikipedia.org/wiki/Murder_of_Rita_Curran", "key_information_obtained": "Overview, 2014 and 2019 dates, Bundy theory, Hagmaier denial, DeRoos death"},
+      {"type": "News (CNN via ABC)", "title": "[2] Woman's murder solved after more than 50 years using DNA found on cigarette, victim's clothing", "url_or_reference": "https://abc13.com/post/william-deroos-rita-curran-vermont-murder-news-today/12861222/", "key_information_obtained": "Housecoat DNA, half-brother, alibi, Thailand, Trieb statements"},
+      {"type": "News (Gray TV)", "title": "[3] Cigarette butt leads police to suspected killer in 1971 murder", "url_or_reference": "https://www.wbtv.com/2023/02/21/cigarette-butt-leads-police-suspected-killer-1971-murder/", "key_information_obtained": "Two floors above, cool down argument"},
+      {"type": "News (NPR)", "title": "[4] A discarded cigarette butt and DNA tests solve a 52-year-old murder of Vermont woman", "url_or_reference": "https://www.npr.org/2023/02/22/1158684385/a-discarded-cigarette-butt-and-dna-tests-solve-a-52-year-old-murder-of-vermont-w", "key_information_obtained": "Parabon, CeCe Moore quote, 2014 no match"},
+      {"type": "News (VTDigger)", "title": "[5] Burlington police say neighbor killed Rita Curran, solving a more than 50-year-old cold case", "url_or_reference": "https://vtdigger.org/2023/02/21/burlington-police-say-neighbor-killed-rita-curran-solving-a-more-than-50-year-old-cold-case/", "key_information_obtained": "Neighbor, wife's alibi"},
+      {"type": "News (Vermont Public)", "title": "[6] After more than 50 years, Burlington police say they've solved the murder of Rita Curran", "url_or_reference": "https://www.vermontpublic.org/local-news/2023-02-21/after-more-than-50-years-burlington-police-say-theyve-solved-the-murder-of-rita-curran", "key_information_obtained": "Murad quote, probable cause"},
+      {"type": "News (Seven Days)", "title": "[7] Genealogy Database Helps Crack Burlington's Oldest Cold Case", "url_or_reference": "https://www.sevendaysvt.com/news/genealogy-database-helps-crack-burlingtons-oldest-cold-case-37648543/", "key_information_obtained": "Sarah George quote, coat DNA, Tom Curran"},
+      {"type": "News (ABC22/FOX44)", "title": "[9] DNA evidence led police to Rita Curran's killer 50 years later", "url_or_reference": "https://www.mychamplainvalley.com/news/local-news/burlington-police-say-neighbor-killed-rita-curran-in-1971/", "key_information_obtained": "Murad 'the truth' quote, wife's new account, Tom Curran paraphrase, siblings spoke"},
+      {"type": "News (Vermont Standard)", "title": "[10] Murder of Hartland woman's sister finally solved after 50 years", "url_or_reference": "https://thevermontstandard.com/murder-of-hartland-womans-sister-finally-solved-after-50-years/", "key_information_obtained": "Mary Curran Campbell"},
+      {"type": "News (Valley News)", "title": "[11] Valley News coverage", "url_or_reference": "https://vnews.com/?p=12233", "key_information_obtained": "Lark brand cigarette next to right arm"},
+      {"type": "News (Bennington Banner)", "title": "[12] Rita Curran 1971 homicide solved with DNA", "url_or_reference": "https://www.benningtonbanner.com/local-news/rita-curran-1971-homicide-solved-with-dna/article_84cda414-ae3e-11ed-9f83-73d22fc98287.html", "key_information_obtained": "Bundy a dead end"},
+      {"type": "News (Fox News)", "title": "[13] Vermont cold case murder suspect fled country, became monk after strangling woman", "url_or_reference": "https://foxnews.com/us/vermont-cold-case-murder-suspect-fled-country-became-monk-after-strangling-woman.amp", "key_information_obtained": "Murad monk quote, morphine poisoning Aug 7, 1986"},
+      {"type": "News (Daily Beast)", "title": "[14] Her murder was tied to Ted Bundy. Then the case went cold", "url_or_reference": "https://www.thedailybeast.com/her-murder-was-tied-to-ted-bundy-then-the-case-went-cold", "key_information_obtained": "Bundy rumor"},
+      {"type": "Blog (family member, partisan)", "title": "[15] Killer in the Archives — The unconfirmed cases: Rita P. Curran", "url_or_reference": "https://killerinthearchives.blog/the-unconfirmed-cases-rita-p-curran/", "key_information_obtained": "Bundy denied; police ruled him out (weak)"},
+      {"type": "Podcast", "title": "[16] Murder, She Told — Rita Curran", "url_or_reference": "https://www.murdershetold.com/episodes/rita-curran", "key_information_obtained": "Siblings, Trinity College, Colonial Motor Inn (single-sourced)"},
+      {"type": "News (WCAX)", "title": "[17] Case closed: Cigarette butt leads police to killer in 1971 Burlington murder", "url_or_reference": "https://www.wcax.com/2023/02/21/watch-live-police-expected-reveal-suspect-50-year-old-burlington-murder-case/", "key_information_obtained": "Case closed; Bundy once investigated"},
+      {"type": "News (Boston.com)", "title": "[18] DNA on a cigarette butt just helped solve a 52-year-old murder in Vermont", "url_or_reference": "https://www.boston.com/news/crime/2023/02/22/dna-on-a-cigarette-butt-just-helped-solve-a-52-year-old-murder-in-vermont/", "key_information_obtained": "Murad quote"},
+      {"type": "News (PEOPLE via AOL)", "title": "[20] She Was Strangled in Her Bedroom with No Witnesses. Some Suspected Ted Bundy — But Real Killer Was Just Steps Away", "url_or_reference": "https://www.aol.com/she-strangled-her-bedroom-no-160000935.html", "key_information_obtained": "17 Brookes Ave, Murad quote"},
+      {"type": "News (Bangor Daily News/AP)", "title": "[21] Vermont murder cold case new evidence", "url_or_reference": "https://www.bangordailynews.com/2023/02/21/new-england/new-england-news/vermont-murder-cold-case-new-evidence/", "key_information_obtained": "Roommates returned about 12:30 a.m."}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease.",
+    "next_topic": "Another decades-old New England cold case closed by DNA",
+    "connection_to_current_video": "A preserved object and a family who waited",
+    "teaser_line": "In our next case, another piece of evidence waited decades in a box."
+  },
+  "notes_and_gaps": {
+    "_instructions": "To verify.",
+    "unverified_claims": [
+      "Exact discovery time (12:30 a.m. vs 1:20 a.m.).",
+      "Name of motel (Colonial Motor Inn) and its proximity to the Elizabeth Lund Home (Wikipedia).",
+      "Claim that Bundy told detective Robert Keppel he killed a woman in Burlington in 1971 (Wikipedia only; not used in script).",
+      "DeRoos's alleged later violence toward a second wife (single-sourced; not used in script).",
+      "Whether 15 and 17 Brookes Ave are the same building (media say same building, two floors above).",
+      "Exact year the half-brother sample and housecoat test were done."
+    ],
+    "information_gaps": ["Rita's exact birth date", "Parents' names", "Roommates' full names", "Exact wording of Trieb's statement", "Date DeRoos left for Thailand"],
+    "questions_to_answer": ["Did Burlington police file a formal closure document with the court?", "Has the family commented since 2023?"]
+  }
+}

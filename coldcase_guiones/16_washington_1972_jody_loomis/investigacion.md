@@ -202,3 +202,24 @@ Miller, de 77 años, fue detenido el 10/04/2019 en su casa de Edmonds y acusado 
 33. Wikipedia, CeCe Moore (contexto) — https://en.wikipedia.org/wiki/CeCe_Moore
 
 Contexto general sin URL (conocimiento de fondo bien documentado): Watergate, Múnich 1972, valla de Seattle 1971, 26.ª Enmienda, Alec Jeffreys 1984, CODIS 1998, GEDmatch 2010 y su cambio a "opt-in" en 2019, Golden State Killer (04/2018), incorporación de Mill Creek (1983).
+
+## 14. Verificación del guion
+
+- Palabras totales: **12506**
+- Palabras por parte: P1: 1269, P2: 1254, P3: 1252, P4: 1263, P5: 1252, P6: 1233, P7: 1255, P8: 1221, P9: 1218, P10: 1289
+- Duración estimada a 170 ppm: **73.6 minutos** (~73 min 34 s)
+- Formato: 10 párrafos separados por una línea en blanco; sin encabezados, corchetes ni acotaciones; 2 CTA (tras el gancho y al final, "this channel"); 6 signos de interrogación; la identidad de Miller no se nombra hasta la parte 8 (en la parte 5 solo se anticipan, sin nombre, su domicilio cercano y su antecedente de 1968).
+- Motivo recurrente: "Remember the boots" / la bota prestada (partes 1, 2, 6, 8, 9, 10); final circular que repite la imagen inicial; mantra "No case stays cold forever."
+- Repaso de hechos: se revisó el guion frase por frase contra research_brief.json. Se eliminaron o suavizaron afirmaciones no documentadas (que la familia no cerrara puertas, que Jody hubiera hecho el trayecto muchas veces, que Jody y Jana usaran la misma talla, que la mancha fuera visible "en el polvo", que Miller viviera 46 años seguidos a 5 millas, que la gente usara el bosque "para estar sola", que fuera el primer voto de Jody en cualquier elección, que Miller pasara en coche por el lugar). Se corrigió "eight" por "nine presidential administrations". Los datos de fuente única van atribuidos ("later accounts", "some accounts", "according to local reporting").
+
+**Las 10 afirmaciones clave del guion y su fuente:**
+1. El 23/08/1972 Jody Loomis, de 20 años (cumplidos en junio), salió en bicicleta de Winesap Road hacia el establo y fue vista hacia las 17:00 rumbo a Penny Creek Road — [3][11][17]
+2. Llevaba botas St. Moritz "waffle-stomper" talla 5½ prestadas por su hermana Jana, de 12 años — [2][3]
+3. Hacia las 17:30 dos tiradores que pararon a apartar un árbol la encontraron; disparo de .22 sobre la oreja derecha; la bicicleta, en un terraplén — [2][24][31]
+4. En enero de 2008 se enviaron pruebas al laboratorio de la WSP; en mayo se hallaron espermatozoides en la bota izquierda; CODIS sin coincidencia — [14][15][1]
+5. En 2018 Parabon y la genealogista Deb Stone (GEDmatch) llegaron a los seis hijos de Jacquette y Albert Miller, de Edmonds — [1][16][11]
+6. Miller tenía una condena por "lewd conduct" de 1968, vivía a unas 5 millas en 1972 y el jurado no lo supo — [6][14][23]
+7. En agosto de 2018 detectives recuperaron el vaso de café que tiró en el Tulalip Resort Casino; coincidió con la bota — [1][15][18]
+8. Detenido el 10/04/2019 a los 77 años; fianza de 1 millón (luego 750.000); libre bajo fianza desde el 14/06/2019 con monitorización electrónica — [14][1][9][22]
+9. Juicio en octubre de 2020 (27 testigos; deposición del hombre que la encontró; Jana ve sus botas por primera vez en 48 años); el 09/11/2020 Miller fue hallado muerto (suicidio) y horas después fue declarado culpable de asesinato en primer grado — [2][4][6][7][17]
+10. El 18/12/2020 el juez David Kurtz ("somewhat unprecedented") rechazó anular el veredicto; Jana dijo que no quería venganza y que sus padres murieron sin saberlo — [8]

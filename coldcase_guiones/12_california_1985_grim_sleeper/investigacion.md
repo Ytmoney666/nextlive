@@ -200,3 +200,23 @@ Entre 1985 y 2007, diez mujeres y niñas negras (de 15 a 35 años) fueron asesin
 42. KTLA, alegato inicial de la defensa (2016) — https://digital-dev.ktla.com/news/local-news/defense-attorney-delivers-opening-statement-in-grim-sleeper-trial/amp/
 43. NBC Los Angeles, "Grim Sleeper trial: victims' families shed tears, pray following guilty verdict" (05-2016) — https://www.nbclosangeles.com/news/grim-sleeper-trial-victims-families-shed-tears-pray-following-guilty-verdict/56570/?amp=1
 44. ABC7, "Dozens in 'Grim Sleeper' pics come forward" (2010-2011) — https://abc7.com/archive/7847398
+
+## 14. Verificación del guion
+
+- **Párrafos:** 10. **Palabras por parte:** 1.261 / 1.280 / 1.229 / 1.257 / 1.232 / 1.243 / 1.212 / 1.229 / 1.262 / 1.228. **Total:** 12.433 palabras. **Signos de interrogación:** 5 (máx. 12).
+- **Duración estimada a 170 ppm:** ~73 minutos (12.433 / 170 = 73,1).
+- Sin encabezados, corchetes, viñetas ni indicaciones visuales. 2 CTA ("this channel" tras el gancho; cierre con "no case stays cold forever").
+- Correcciones hechas en el fact-check: se eliminaron detalles no documentados (disparo "a quemarropa", "a pocas manzanas", "media porción de pizza", "cientos de fotos", presencia de Brown en la rueda de prensa, motivos supuestos del secreto policial, recuerdos inventados de Washington); se cambió "law" por "DNA policy"; la recompensa de 1986 se expresa con las cifras documentadas.
+- Identidad del asesino retenida hasta la parte 8 (como pide el perfil de estilo).
+
+**10 afirmaciones clave y su fuente:**
+1. Enietra Washington aceptó que la llevara un hombre en un Ford Pinto naranja, recibió un disparo en el pecho, fue agredida, fotografiada y empujada fuera del coche; sobrevivió — [3][5].
+2. Le dijo a su agresor que si moría lo perseguiría ("haunt") — [3].
+3. Diez asesinatos (1985–2007) y un intento de asesinato; víctimas de 15 a 35 años — [2][9][32].
+4. Bernita Sparks (1987) y Janecia Peters (2007) aparecieron en el mismo callejón — [9].
+5. En 1985 el LAPD fue criticado por no alertar antes a South LA; Prescod: "The department's refusal to publicize the slayings has further endangered the lives of poor black women living on the Southside" — [1][13].
+6. Grupo especial de 2007 tras el vínculo de ADN, sin aviso público; familias no informadas; Pelisek lo destapó en agosto de 2008 y acuñó "Grim Sleeper" — [1][14][15][16].
+7. Primera búsqueda familiar (2008) fallida; segunda (28-04-2010) señaló al hijo, condenado en 2009 por un delito grave de armas — [25][26].
+8. Agente encubierto como ayudante de camarero en una pizzería durante un cumpleaños; corteza de pizza, servilleta y vaso; detención el 07-07-2010 — [3][4].
+9. Culpable el 05-05-2016; pena de muerte recomendada el 06-06-2016 y dictada el 10-08-2016 por la jueza Kathleen Kennedy ("This is not a sentence of vengeance.") — [2][7][8][29].
+10. Murió en San Quentin el 28-03-2020 a los 67 años, sin signos de trauma; nunca se le imputaron las muertes de Thomas, Dismuke y Warren — [17][24].
