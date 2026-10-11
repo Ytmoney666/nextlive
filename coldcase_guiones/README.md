@@ -66,24 +66,58 @@ Cada carpeta contiene:
 
 Los títulos finales y los textos de las miniaturas están al principio de cada `investigacion.md`.
 
-### Estado final
+### Estado final: 30 historias
 
-Los 10 guiones están completos: 10 partes de 1.200 palabras o más cada una, 2 llamadas a la acción, sin corchetes ni encabezados, y el JSON del brief es válido.
+Las 30 historias están completas. Cada una tiene 10 partes de 1.200 palabras o más, 2 llamadas a la acción, ni corchetes ni encabezados, y un JSON válido. Cada carpeta trae 4 archivos: `guion.txt` (en inglés), `investigacion.md` (en español, con fuentes), `research_brief.json` y `seo.txt`. **`SEO_30_videos.txt`** junta en un solo archivo el título, los títulos alternativos, la descripción con hashtags, las etiquetas y el texto de miniatura de los 30 vídeos.
 
 | # | Título | Palabras | Duración (170 ppm) |
 |---|---|---|---|
 | 1 | IOWA 1979 Cold Case Solved After 39 Years — Justice for Michelle Martinko | 12.570 | ~74 min |
 | 2 | COLORADO 1982 Cold Case Solved After 39 Years — Justice for Annette and Bobbie Jo | 12.288 | ~72 min |
 | 3 | IDAHO 1996 Cold Case Solved After 23 Years — Justice for Angie Dodge | 12.383 | ~73 min |
-| 4 | HAWAII 1991 Cold Case — DNA Identified the Killer After 32 Years \| Dana Ireland | 12.583 | ~74 min |
+| 4 | HAWAII 1991 Cold Case — DNA Identified the Killer After 32 Years | Dana Ireland | 12.583 | ~74 min |
 | 5 | TEXAS 1974 Cold Case Solved After 46 Years — Justice for Carla Walker | 12.660 | ~74 min |
 | 6 | MINNESOTA 1993 Cold Case Solved After 25 Years — Justice for Jeanie Childs | 12.469 | ~73 min |
 | 7 | CALIFORNIA 1975 Cold Case Solved After 43 Years — Justice for the Golden State Killer's Victims | 12.854 | ~76 min |
 | 8 | CALIFORNIA 1996 Cold Case Solved After 26 Years — Justice for Kristin Smart | 12.457 | ~73 min |
-| 9 | PENNSYLVANIA 1957 Cold Case Identified After 65 Years — The Boy in the Box Finally Has a Name | 12.681 | ~74 min |
+| 9 | PENNSYLVANIA 1957 Cold Case Identified After 65 Years — The Boy in the Box Finally Has a Name | 12.681 | ~75 min |
 | 10 | PENNSYLVANIA 1992 Cold Case Solved After 25 Years — Justice for Christy Mirack | 12.383 | ~73 min |
+| 11 | WASHINGTON 1982 Cold Case Solved After 19 Years — Justice for the Green River Victims | 12.576 | ~74 min |
+| 12 | CALIFORNIA 1985 Cold Case Solved After 25 Years — Justice for the Lost Women of South LA | 12.433 | ~73 min |
+| 13 | MASSACHUSETTS 1964 Cold Case: Killer Identified After 49 Years — Justice for Mary Sullivan | 12.397 | ~73 min |
+| 14 | FLORIDA 1981 Cold Case — Police Named Adam Walsh's Killer After 27 Years | 12.567 | ~74 min |
+| 15 | ILLINOIS 1993 Cold Case Solved After 9 Years — Justice for the Brown's Chicken Seven | 12.538 | ~74 min |
+| 16 | WASHINGTON 1972 Cold Case Solved After 48 Years — Justice for Jody Loomis | 12.506 | ~74 min |
+| 17 | ARIZONA 1992 Cold Case Solved After 22 Years — Justice for Angela Brosso and Melanie Bernas | 12.530 | ~74 min |
+| 18 | OHIO 1980 Cold Case Solved After 24 Years — Justice for Sister Margaret Ann Pahl | 12.454 | ~73 min |
+| 19 | TEXAS 2010 Cold Case Identified After 6 Years — The Woman Who Lived as Lori Ruff | 12.691 | ~75 min |
+| 20 | KENTUCKY 1968 Cold Case Identified After 30 Years — The Tent Girl Was Barbara Taylor | 12.386 | ~73 min |
+| 21 | ALASKA 1993 Cold Case Solved After 26 Years — Justice for Sophie Sergie | 12.496 | ~74 min |
+| 22 | CALIFORNIA 1984 Cold Case Solved After 27 Years — Justice for Tina Faelz | 12.440 | ~73 min |
+| 23 | MICHIGAN 1987 Cold Case Solved After 35 Years — Justice for Roxanne Wood | 12.477 | ~73 min |
+| 24 | TEXAS 1995 Cold Case Solved After 26 Years — Justice for Mary Catherine Edwards | 12.482 | ~73 min |
+| 25 | MICHIGAN 1987 Cold Case Solved After 26 Years — Justice for Rick & Gail Brink | 12.340 | ~73 min |
+| 26 | MICHIGAN 1969 Cold Case Solved After 35 Years — Justice for Jane Mixer | 12.513 | ~74 min |
+| 27 | MASSACHUSETTS 1969 Cold Case — DNA Identified Her Killer After 49 Years | Jane Britton | 12.478 | ~73 min |
+| 28 | MISSISSIPPI 1963 Cold Case Solved After 31 Years — Justice for Medgar Evers | 12.392 | ~73 min |
+| 29 | VERMONT 1971 Cold Case — DNA Identified Her Killer After 51 Years | Rita Curran | 12.744 | ~75 min |
+| 30 | WASHINGTON 1986 Cold Case Solved After 32 Years — Justice for Michella Welch | 12.429 | ~73 min |
 
-**Aviso importante sobre las fuentes:** la red del entorno bloqueó la descarga de páginas y las búsquedas web tenían un cupo. Por eso los datos se verificaron con los extractos del buscador (de 37 a 69 fuentes por caso) y no con los artículos completos. Antes de publicar cada vídeo, revisa la sección «pendiente de verificar» de su `investigacion.md`.
+- Del 1 al 10: la primera entrega.
+- Del 11 al 20: casos con demanda comprobada. Joseph Newton Chandler se sustituyó por la hermana Pahl, porque los datos mostraron que estaba saturado.
+- Del 21 al 30: el TOP elegido con datos de NexLev (`_nicho/seleccion_casos.md`).
+- Los casos 4, 9, 13, 14, 19, 20, 27 y 29 dicen «Identified» o «Police Named» en vez de «Solved», porque nadie fue condenado.
+
+**Informes del nicho (`_nicho/`):**
+- `investigacion_nicho_miniaturas.md`: los 15 vídeos virales de la competencia, con descripción completa, hashtags y etiquetas; las fórmulas de título y de miniatura; si las caras de las miniaturas de CCR son reales (casi seguro que no todas); los riesgos legales y de YouTube, y 17 reglas para el canal.
+- `seleccion_casos.md`: el ranking de 22 candidatos con datos de NexLev y la validación de los casos elegidos.
+
+**Orden de publicación sugerido** (según `seleccion_casos.md`):
+- Primero, los casos sin copias de la competencia: Pahl, Sergie, Faelz y Mixer.
+- No publiques seguidos dos megacasos como Golden State, Green River o Grim Sleeper.
+- Retrasa Dana Ireland y Christy Mirack: Cold Case Redemption los publicó hace 1–2 meses.
+
+**Aviso importante sobre las fuentes:** la red del entorno bloqueó la descarga de páginas y las búsquedas web tenían un cupo. Por eso los datos se verificaron con los extractos del buscador (de 18 a 69 fuentes por caso) y no con los artículos completos. Antes de publicar cada vídeo, revisa la sección «pendiente de verificar» de su `investigacion.md`.
 
 **Caso 4 (Dana Ireland):** Albert Lauro Jr. nunca fue acusado ni condenado; murió en 2024. Por eso el título se cambió (11 oct 2026) a «HAWAII 1991 Cold Case — DNA Identified the Killer After 32 Years | Dana Ireland», sin «Solved».
 
