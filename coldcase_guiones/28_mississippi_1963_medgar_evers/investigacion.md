@@ -185,3 +185,23 @@ Caso cerrado. Byron De La Beckwith fue condenado por asesinato el 5 feb 1994; la
 43. Tracing Center, 50 años: https://www.tracingcenter.org/blog/2013/06/the-assassination-of-medgar-evers-50-years-later/
 
 Libros de referencia (no consultados directamente): DeLaughter, *Never Too Late* (2001); Vollers, *Ghosts of Mississippi* (1995); Nossiter, *Of Long Memory* (1994); Myrlie Evers, *For Us, the Living* (1967); Mitchell, *Race Against Time* (2020).
+
+## 14. Verificación del guion
+- **Partes:** 10 párrafos separados por una línea en blanco.
+- **Palabras por parte:** 1.356 / 1.237 / 1.246 / 1.218 / 1.218 / 1.223 / 1.248 / 1.218 / 1.207 / 1.221.
+- **Total:** 12.392 palabras → ≈72,9 minutos a 170 ppm.
+- **Signos de interrogación:** 6 (máximo 12).
+- **Sin** encabezados, corchetes, viñetas ni indicaciones visuales. Dos CTA ("this channel"), mantra final "No case stays cold forever."
+- **Ajustes de fact-check aplicados:** se eliminaron detalles sensoriales no documentados (luz de la cochera, bandera doblada, multitudes llorando, coches merodeando); se suavizaron afirmaciones interpretativas; se quitó "primera mujer al frente de la NAACP" (incorrecto: Margaret Bush Wilson presidió el consejo antes); el paradero del rifle (suegro de DeLaughter) no se menciona; la cita "You can kill a man..." se presenta como atribuida.
+
+**10 afirmaciones clave y sus fuentes:**
+1. Evers, 37, fue alcanzado por la espalda en su entrada poco después de medianoche del 12 jun 1963 y murió en menos de una hora en University Hospital — [1][4][6]
+2. Myrlie y los niños lo esperaban viendo la TV; los niños se tiraron al suelo y ayudaron al de 3 años a meterse en la bañera — [1]
+3. Llevaba camisetas "Jim Crow Must Go"; Kennedy había dado su discurso esa noche ("a moral issue…") — [28][29][43]
+4. El rifle con mira telescópica se halló cerca; la huella en la mira se atribuyó a Beckwith — [8][40]
+5. Dos juicios en 1964 con jurados blancos terminaron sin veredicto; coartada de dos policías de Greenwood a más de 90 millas; Barnett saludó a Beckwith en la sala — [7][9][12][33]
+6. La Sovereignty Commission investigó a posibles jurados del segundo juicio para ayudar a la defensa; artículo de Mitchell del 1 oct 1989; ≈2.400 páginas — [19][20][21]
+7. DeLaughter recuperó las transcripciones de 1964, las fotos y el rifle desaparecido del depósito — [12][17]
+8. Nueva acusación en dic 1990; ≈10 meses de lucha contra la extradición; exhumación y autopsia de Baden en 1991 con el cuerpo intacto — [9][11][24][25]
+9. Veredicto de culpabilidad el 5 feb 1994 con jurado de 8 negros y 4 blancos (7 mujeres, 5 hombres); Beckwith, 73; cadena perpetua; "Yes, Medgar!" — [4][12][13][26][27]
+10. Confirmación 4-2 el 22 dic 1997 (juez Mike Mills); Beckwith murió preso el 21 ene 2001, a los 80, en el University Medical Center de Jackson; Medalla de la Libertad el 3 may 2024 — [14][15][16][32]
