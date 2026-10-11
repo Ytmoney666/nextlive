@@ -1,0 +1,263 @@
+{
+  "video_metadata": {
+    "working_title": "TEXAS 1995 Cold Case Solved After 26 Years — Justice for Mary Catherine Edwards",
+    "topic_one_sentence": "In January 1995 Beaumont schoolteacher Mary Catherine Edwards, 31, was found handcuffed and dead in the bathtub of her townhome; 26 years later Othram's forensic genetic genealogy and a trash pull in Ohio identified Clayton Bernard Foreman, a man from her high school whose 1982 wedding she had been a bridesmaid in, and a Jefferson County jury convicted him of capital murder in March 2024.",
+    "primary_emotion_to_evoke": "grief turning into quiet outrage at how close and familiar the killer was, then relief through science and persistent detectives",
+    "target_length_minutes": "70"
+  },
+  "protagonist": {
+    "_instructions": "Victim-centred story. The convicted man is described in supporting_characters.",
+    "full_name": "Mary Catherine Edwards (often called Catherine in reporting)",
+    "age_at_time_of_events": "31 (born 1963 per Find a Grave memorial)",
+    "occupation_or_status": "Elementary school teacher at Price Elementary School, Beaumont (12NewsNow URL slug describes her as a 5th-grade teacher; single-sourced)",
+    "location": "Her townhome (townhouse) in Beaumont, Jefferson County, Texas",
+    "physical_description": "Not used; real photos only. She had an identical twin sister, Allison.",
+    "background_brief": "Beaumont native; identical twin of Allison Edwards Brocato; attended the same high school as Clayton Foreman (Forest Park High School per Foreman's 1978 graduation and reports that they were schoolmates); she and her twin were good friends with Dianna Coe and served as bridesmaids at Coe's 1982 wedding to Foreman; became a teacher and, per her twin's trial testimony, loved her students dearly and called them all her kids.",
+    "psychological_profile": "Not documented beyond family testimony; do not speculate.",
+    "mundane_humanizing_detail": "She called all of her students 'her kids' (Allison Brocato's trial testimony, as reported).",
+    "nickname_or_alias_if_any": "Catherine"
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected.",
+    "individuals": [
+      {"name": "Mary Catherine Edwards", "role_or_profession": "Elementary school teacher, Price Elementary, Beaumont", "connection_to_protagonist": "Victim", "specific_impact_suffered": "Sexually assaulted and killed in her townhome; found handcuffed in the bathtub on January 14, 1995; autopsy: drowning and asphyxiation (later described by Det. Lewallen as suffocation by compression because there was not enough fluid in her lungs).", "humanizing_detail": "Called her students 'her kids'; identical twin.", "any_quotes_from_them": "None documented."},
+      {"name": "Allison Edwards Brocato", "role_or_profession": "Identical twin sister", "connection_to_protagonist": "Twin; also a bridesmaid at the 1982 Foreman–Coe wedding", "specific_impact_suffered": "Went with her mother to the townhome on January 14, 1995 and is heard on the 911 call ('My sister's dead'); testified at trial in 2024 about how close the twins were.", "humanizing_detail": "Testified through tears about the day her sister died.", "any_quotes_from_them": "'My sister's dead.' (911 call transcript excerpt, KFDM)"},
+      {"name": "Edwards' parents (names not confirmed in sources)", "role_or_profession": "Parents", "connection_to_protagonist": "Parents", "specific_impact_suffered": "CBS reports her parents found her; KFDM reports her mother and sister described finding her on the 911 call.", "humanizing_detail": "Could not reach her and went to check on her.", "any_quotes_from_them": "KFDM headline quotes the 911 call: 'My daughter's been murdered' (speaker not confirmed in excerpt)."},
+      {"name": "Woman assaulted in 1981 (name withheld)", "role_or_profession": "19 years old in 1981; described as a former high school classmate of Foreman", "connection_to_protagonist": "Earlier victim of Foreman", "specific_impact_suffered": "Testified in 2024 that Foreman bound her hands behind her back with a belt and assaulted her at knifepoint in his car before driving her home; Foreman pleaded guilty to aggravated assault and received 3 years deferred adjudication.", "humanizing_detail": "Testified decades later.", "any_quotes_from_them": "None used."}
+    ],
+    "collective_victims_if_applicable": {"group_description": "Edwards' family, her students and colleagues at Price Elementary, Beaumont community", "total_number_affected": "n/a", "range_of_impacts": "29 years from the murder to the verdict"}
+  },
+  "supporting_characters": {
+    "_instructions": "Key figures.",
+    "characters": [
+      {"name": "Clayton Bernard Foreman", "role_in_story": "Convicted of capital murder (March 20, 2024)", "key_actions_they_took": "1978 graduate of Forest Park High School, Beaumont; in 1981 pleaded guilty to aggravated assault in an attack on a 19-year-old woman (3 years deferred adjudication); married Dianna Coe in 1982 with Mary Catherine and Allison Edwards as bridesmaids; not a person of interest in the original investigation; by 2021 living in Reynoldsburg, Franklin County, Ohio, reportedly working as a rideshare driver; arrested April 2021 at age 61; told investigators the twins had been bridesmaids at his wedding but that he had no interactions with them beyond it; convicted at 63; life sentence.", "notable_quotes": "Per Dianna Coe (CBS 48 Hours), when she called him crying that somebody had murdered Catherine, he answered 'Oh, really?' with no emotion."},
+      {"name": "Dianna Coe", "role_in_story": "Foreman's first wife; friend of the Edwards twins; same high school", "key_actions_they_took": "Told 48 Hours / testified that Foreman kept a billy club by the bed 'for protection' and had ordered handcuffs that hung over the rearview mirror; recalled his flat reaction to the news of the murder.", "notable_quotes": "Recalled him saying 'Oh, really?' (CBS)"},
+      {"name": "Det. Aaron Lewallen", "role_in_story": "Beaumont Police Department detective who worked the cold case", "key_actions_they_took": "Received the genealogy lead; built the case; co-conducted the recorded interview with Foreman; spoke to 48 Hours.", "notable_quotes": "Paraphrased (CBS): originally they believed she might have been drowned, but there was not enough fluid in her lungs; it became suffocation by compression."},
+      {"name": "Texas Ranger Brandon Bess", "role_in_story": "Texas Rangers Unsolved Crimes Investigation Program", "key_actions_they_took": "Co-conducted the 50-minute recorded interview with Foreman.", "notable_quotes": "Single-sourced fragment 'There's no justice' (context: loss of life) — not used in script."},
+      {"name": "Shera LaPoint", "role_in_story": "Genealogist", "key_actions_they_took": "Helped build the family trees (ISHI Report).", "notable_quotes": ""},
+      {"name": "Othram Inc. (The Woodlands, Texas; CEO David Mittelman)", "role_in_story": "Forensic genomics lab", "key_actions_they_took": "Received the crime-scene DNA in April 2020; built a profile of more than half a million markers for genetic genealogy.", "notable_quotes": ""},
+      {"name": "Bob Wortham", "role_in_story": "Jefferson County Criminal District Attorney", "key_actions_they_took": "Said that on his first day in office he called Chief Singletary and asked him to put people on the Edwards case; credited Beaumont PD.", "notable_quotes": "Paraphrase only."},
+      {"name": "James (Jimmy) Singletary", "role_in_story": "Beaumont Police Chief", "key_actions_they_took": "Assigned investigators; press conferences.", "notable_quotes": ""},
+      {"name": "Judge John Stevens", "role_in_story": "Criminal District Court of Jefferson County", "key_actions_they_took": "Presided over the trial; allowed the interview video; imposed life sentence.", "notable_quotes": ""},
+      {"name": "Tom Burbank", "role_in_story": "Defense attorney", "key_actions_they_took": "Argued the interview violated Foreman's rights and was conducted under false pretenses; no defense witnesses were called.", "notable_quotes": ""},
+      {"name": "Natalie Morales", "role_in_story": "CBS 48 Hours correspondent", "key_actions_they_took": "Reported 'Tracking the Killer of Mary Catherine Edwards' (Nov 2024; re-aired Jan 2026).", "notable_quotes": ""}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "Backbone.",
+    "events": [
+      {"date": "1963", "location": "Beaumont, Texas", "what_happened": "Mary Catherine Edwards born (identical twin of Allison).", "significance": "Age 31 in January 1995.", "source": "[36] Find a Grave; [3] CBS"},
+      {"date": "1978", "location": "Forest Park High School, Beaumont", "what_happened": "Clayton Foreman graduates.", "significance": "Shared school with Edwards, Coe and the 1981 victim.", "source": "[6] KFDM; [3] CBS"},
+      {"date": "1981", "location": "Beaumont", "what_happened": "Foreman binds a 19-year-old woman's hands behind her back with a belt and assaults her at knifepoint in his car; pleads guilty to aggravated assault; 3 years deferred adjudication.", "significance": "Admitted at trial; appeals court found 12 similarities with the Edwards murder.", "source": "[6] KFDM; [17] Beaumont Enterprise; [9] 12NewsNow"},
+      {"date": "1982", "location": "Beaumont", "what_happened": "Foreman marries Dianna Coe; Mary Catherine and Allison Edwards are bridesmaids.", "significance": "The personal link no one connected for 26 years.", "source": "[3] CBS; [26] Fox News; [29] CBS Austin"},
+      {"date": "Friday, January 13, 1995", "location": "Beaumont", "what_happened": "Edwards last seen; prosecutors and police date the rape and murder to this day.", "significance": "Last day of her life.", "source": "[25] WSOC/Cox; [15] Houston Chronicle"},
+      {"date": "Saturday, January 14, 1995", "location": "Edwards' townhome, Beaumont", "what_happened": "Family cannot reach her; mother and twin (CBS: parents) find her in the upstairs bathroom, handcuffed behind her back, head in the water of the bathtub; 911 call.", "significance": "Discovery; no forced entry.", "source": "[5] KFDM; [3] CBS; [4] CBS"},
+      {"date": "January 1995", "location": "Beaumont", "what_happened": "Autopsy: drowning and asphyxiation; sexual assault confirmed; semen collected; police-grade Smith & Wesson handcuffs, a T-shirt and the sexual assault kit preserved.", "significance": "The DNA that would solve the case 26 years later.", "source": "[17] Beaumont Enterprise; [7] KFDM; [4] CBS; [25] WSOC"},
+      {"date": "1995 onward", "location": "Beaumont", "what_happened": "Beaumont PD and Texas Rangers investigate; handcuff serial numbers traced without result; law enforcement officers questioned without result.", "significance": "Fear the killer was a police officer; Foreman never a person of interest.", "source": "[4] CBS; [24] DNASolves"},
+      {"date": "After 1998 (date not specified)", "location": "CODIS", "what_happened": "STR profile from unknown male searched in CODIS: no match.", "significance": "Foreman's 1981 plea predates DNA databases.", "source": "[23] ISHI; [41] FBI CODIS fact sheet"},
+      {"date": "January 2019", "location": "Jefferson County", "what_happened": "Bob Wortham takes office as DA; on his first day calls Chief Singletary to put people on the case.", "significance": "Political will to reopen.", "source": "[20] Beaumont Enterprise (Wortham quote paraphrase)"},
+      {"date": "2020", "location": "Beaumont", "what_happened": "Texas Rangers and Beaumont PD renew efforts and offer a $6,000 reward.", "significance": "", "source": "[23] ISHI; [24] DNASolves"},
+      {"date": "April 2020", "location": "Othram, The Woodlands, Texas", "what_happened": "Crime-scene DNA sent to Othram; profile of more than half a million markers built for forensic genetic genealogy.", "significance": "Start of the breakthrough.", "source": "[22] Texas Monthly; [23] ISHI; [24] DNASolves"},
+      {"date": "2020–2021", "location": "Genealogy databases", "what_happened": "Closest match: a woman in Louisiana, apparently a second cousin; lead passed to Det. Aaron Lewallen; trees built with genealogist Shera LaPoint; trees point to Clayton Foreman.", "significance": "Identification.", "source": "[22] Texas Monthly; [23] ISHI"},
+      {"date": "Early 2021 (exact date not public in sources)", "location": "Reynoldsburg, Ohio", "what_happened": "Investigators collect discarded items from Foreman's curb; affidavit: trash DNA matches the semen from 1995.", "significance": "Confirmation.", "source": "[25] WSOC/Cox; [26] Fox News"},
+      {"date": "April 26, 2021 (DPS; other outlets say April 29)", "location": "Franklin County, Ohio", "what_happened": "Foreman, 61, arrested; Jefferson County Sheriff's aviation unit flew investigators; recorded 50-minute interview with Ranger Brandon Bess and Det. Aaron Lewallen.", "significance": "26 years and about 3 months after the murder (9,599 days to April 26).", "source": "[1] DPS; [25] WSOC; [23] ISHI; [11] 12NewsNow"},
+      {"date": "May–June 2021", "location": "Ohio / Jefferson County", "what_happened": "Foreman appears to contest extradition; Ohio judge orders him returned by July 6; transported to Jefferson County Jail on June 15, 2021 (single-sourced).", "significance": "", "source": "[30] KFDM; search snippet of Beaumont Enterprise"},
+      {"date": "September 22, 2021", "location": "Jefferson County", "what_happened": "Grand jury indicts Foreman for capital murder; DA weighs death penalty.", "significance": "", "source": "[23] ISHI; [28] KJAS; [29] CBS Austin; [20] Beaumont Enterprise"},
+      {"date": "March 11, 2024", "location": "Criminal District Court, Jefferson County", "what_happened": "Jury selection begins before Judge John Stevens; testimony begins March 12 with the 911 call.", "significance": "", "source": "[10] 12NewsNow; [33] Fox4Beaumont; [21] Beaumont Enterprise"},
+      {"date": "March 12–20, 2024", "location": "Beaumont", "what_happened": "Testimony: 911 call, twin sister, handcuffs/T-shirt/kit, DNA experts, Dianna Coe, 1981 victim; interview video admitted over defense objection; no defense witnesses.", "significance": "", "source": "[5][6][7][8][11][32] KFDM, 12NewsNow, The Examiner"},
+      {"date": "Wednesday, March 20, 2024", "location": "Beaumont", "what_happened": "Jury finds Foreman, 63, guilty of capital murder after about 50 minutes (another report: 52); automatic life sentence; parole eligibility reported as 2061 (Texas Monthly: 30 years).", "significance": "29 years after the murder.", "source": "[10] 12NewsNow; [2] Texas Rangers; [15] Houston Chronicle; [22] Texas Monthly"},
+      {"date": "November 2024", "location": "CBS", "what_happened": "48 Hours airs 'Tracking the Killer of Mary Catherine Edwards' (Natalie Morales); re-aired January 2026.", "significance": "", "source": "[35] CBS; [3] CBS"},
+      {"date": "Early January 2026 (approx.; exact opinion date not verified)", "location": "Ninth Court of Appeals, Beaumont", "what_happened": "Conviction affirmed; claims about the 1981 extraneous offense, Miranda and hearsay rejected; court listed twelve similarities.", "significance": "Current status as of October 2026: conviction affirmed; no further ruling found.", "source": "[9] 12NewsNow"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "Hook.",
+    "the_moment": {"exact_date": "Saturday, January 14, 1995", "exact_location": "Edwards' townhome, Beaumont, Texas", "what_is_happening": "Her family cannot reach her, goes to her townhome, and finds her in the upstairs bathroom.", "what_makes_it_shocking": "Police-grade handcuffs; no forced entry; she seemed to know her killer.", "ironic_twist": "The man whose DNA was left behind had stood at an altar in 1982 while she and her twin stood beside his bride as bridesmaids."},
+    "central_mystery_question": "Who did Mary Catherine Edwards let into her home, and why did it take 26 years and a cousin in Louisiana to find out?"
+  },
+  "the_method": {
+    "_instructions": "Forensic genetic genealogy.",
+    "technique_name": "Forensic genetic genealogy (FGG) with Othram's genome sequencing",
+    "step_by_step_explanation": [
+      "1995: semen preserved in the sexual assault kit.",
+      "STR profile (about 20 markers) searched in CODIS: no match.",
+      "April 2020: sample to Othram, which built a profile of more than half a million markers (SNPs).",
+      "Profile compared with consenting users in genealogy databases.",
+      "Closest match: a woman in Louisiana, about a second cousin (shares great-grandparents).",
+      "Genealogists build family trees forward from shared ancestors using public records; tree narrows to Clayton Foreman.",
+      "Discarded items from Foreman's curb in Reynoldsburg, Ohio tested: match to 1995 semen.",
+      "Arrest; confirmation testing; trial DNA testimony."
+    ],
+    "why_it_worked": "The DNA had been preserved; Foreman's 1981 offense was resolved by a plea before DNA databases existed, so he was never in CODIS; consumer genealogy databases contained a distant relative.",
+    "technical_terms_to_explain": [
+      {"term": "CODIS / STR", "simple_explanation": "The FBI's national DNA index (launched nationally in October 1998) compares about 20 short repeated markers; it only finds people already in it."},
+      {"term": "SNP profile", "simple_explanation": "Hundreds of thousands of single-letter spelling points in the genome; enough to detect distant cousins."},
+      {"term": "Second cousin", "simple_explanation": "Someone who shares a set of great-grandparents with you."},
+      {"term": "Trash pull / abandoned DNA", "simple_explanation": "Police may collect items a person has put out for garbage collection and test them."},
+      {"term": "Deferred adjudication", "simple_explanation": "A Texas form of probation after a guilty plea; if completed, no final conviction is entered."},
+      {"term": "Extraneous-offense evidence (Rule 404(b))", "simple_explanation": "Evidence of an earlier act admitted not to show bad character but for identity, intent or motive."}
+    ],
+    "scale_of_operation": "Half a million markers; one Louisiana second cousin; one trash pull."
+  },
+  "systemic_failure": {
+    "_instructions": "",
+    "institution_that_failed": "The pre-DNA-database criminal justice system of the early 1980s and the 1995 investigation's limits",
+    "how_they_were_supposed_to_protect": "Identify offenders with prior violent sexual offenses.",
+    "why_they_failed": "The 1981 attack was resolved by a plea to aggravated assault with deferred adjudication, long before Texas DNA collection; Foreman was not a person of interest in 1995; investigators focused on the police-grade handcuffs.",
+    "specific_incompetence_examples": ["Handcuff serial numbers traced with no result", "Law enforcement officers questioned with no result", "CODIS search returned no match", "26 years and 3 months to an arrest"],
+    "ironic_details_about_the_failure": "The killer was in the victim's own social circle, on her own high school's alumni list and in her bridesmaid photos; the 1981 victim's hands had also been bound behind her back."
+  },
+  "the_investigation": {
+    "_instructions": "",
+    "investigating_agency": "Beaumont Police Department; Texas Rangers Unsolved Crimes Investigation Program; Othram; Jefferson County Criminal District Attorney's Office",
+    "operation_code_name_if_any": "None known",
+    "when_investigation_began": "January 14, 1995; renewed 2019–2020",
+    "initial_wrong_assumptions": "Fear that the killer was a law enforcement officer because of the police-grade handcuffs.",
+    "key_breakthrough": "Othram genealogy profile → Louisiana second cousin → family tree → Clayton Foreman.",
+    "the_fatal_mistake": "Discarded trash at his Reynoldsburg home carried his DNA.",
+    "how_long_until_caught": "26 years, 3 months"
+  },
+  "the_confrontation": {
+    "_instructions": "",
+    "date_and_time": "April 26, 2021 (DPS; others April 29)",
+    "location": "Franklin County, Ohio (Reynoldsburg area)",
+    "scene_description": "Investigators flown in by the Jefferson County Sheriff's Office aviation unit; Foreman taken into custody; recorded 50-minute interview with Ranger Bess and Det. Lewallen.",
+    "protagonist_reaction": "Told investigators the twins were bridesmaids at his 1982 wedding but that he had no interactions with them beyond it.",
+    "ironic_or_absurd_details": "The interview began as a 'conversation'; defense later called it false pretenses; judge admitted it."
+  },
+  "legal_resolution": {
+    "_instructions": "",
+    "charges_filed": ["Capital murder (Texas), indicted September 22, 2021"],
+    "trial_date_if_applicable": "Jury selection March 11, 2024; verdict March 20, 2024",
+    "notable_court_testimony": "911 call; twin sister Allison Brocato; Dianna Coe (billy club, handcuffs, 'Oh, really?'); 1981 victim; DNA experts; handcuffs, T-shirt and sexual assault kit shown to jury.",
+    "victim_impact_statements": [{"from_whom": "Family spokesperson", "key_quote": "...been a long, emotional journey to finally see justice and closure.", "emotional_impact": "Relief after 29 years"}],
+    "sentence_received": "Automatic life in TDCJ (death penalty not sought at trial); parole eligibility reported as 2061 (Texas Monthly says 30 years; 40-year rule for capital life for 1993–2005 offenses supports 2061).",
+    "protagonist_statement_in_court": "Did not testify; no defense witnesses.",
+    "current_status": "As of October 2026: serving life in TDCJ; conviction affirmed by the Ninth Court of Appeals (Beaumont), reported early January 2026. No report found of a petition for discretionary review outcome."
+  },
+  "verified_quotes": {
+    "_instructions": "",
+    "quotes": [
+      {"speaker": "Allison Edwards Brocato (911 call, January 14, 1995)", "exact_quote": "My sister's dead.", "context": "Transcript excerpt of the 911 call played at trial", "source": "[5] KFDM"},
+      {"speaker": "Unidentified family member on 911 call (headline)", "exact_quote": "My daughter's been murdered", "context": "KFDM headline quoting the 911 tape", "source": "[5] KFDM"},
+      {"speaker": "Voice on 911 call (headline)", "exact_quote": "I think they drowned her!", "context": "12NewsNow headline on the first day of testimony", "source": "[12] 12NewsNow"},
+      {"speaker": "Affidavit (Beaumont PD)", "exact_quote": "DNA collected from the trash run of Clayton Foreman's residence is a match to the DNA extracted from the semen collected from Edwards' body in 1995", "context": "Arrest affidavit, April 2021", "source": "[25] WSOC/Cox; [26] Fox News"},
+      {"speaker": "Family spokesperson (to 12News)", "exact_quote": "...been a long, emotional journey to finally see justice and closure.", "context": "After the verdict, March 2024", "source": "[10] 12NewsNow"},
+      {"speaker": "Clayton Foreman, as recalled by Dianna Coe", "exact_quote": "Oh, really?", "context": "Coe called him crying after the murder; he responded with no emotion", "source": "[3] CBS 48 Hours"},
+      {"speaker": "Allison Brocato, trial testimony (reported paraphrase)", "exact_quote": "called them all her kids", "context": "About her sister's students", "source": "[32] The Examiner"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "",
+    "figures": [
+      {"number": "31", "what_it_represents": "Edwards' age", "source": "[3]"},
+      {"number": "26 years 3 months / 9,599 days", "what_it_represents": "Murder to arrest (Jan 14, 1995 – Apr 26, 2021)", "source": "calculation from [1][3]"},
+      {"number": "29 years", "what_it_represents": "Murder to verdict", "source": "[10]"},
+      {"number": "$6,000", "what_it_represents": "Reward offered in 2020", "source": "[23]"},
+      {"number": "more than 500,000", "what_it_represents": "Markers in Othram's profile", "source": "[23][24]"},
+      {"number": "61 / 63", "what_it_represents": "Foreman's age at arrest / at trial", "source": "[1][15]"},
+      {"number": "19", "what_it_represents": "Age of the 1981 victim", "source": "[6]"},
+      {"number": "3 years", "what_it_represents": "Deferred adjudication for 1981 aggravated assault plea", "source": "[6][17]"},
+      {"number": "12", "what_it_represents": "Similarities between the 1981 assault and the murder listed by the appeals court", "source": "[9]"},
+      {"number": "50 (or 52) minutes", "what_it_represents": "Jury deliberation", "source": "[10]"},
+      {"number": "7 days", "what_it_represents": "Days of testimony", "source": "[10]"},
+      {"number": "50 minutes", "what_it_represents": "Length of recorded interview", "source": "[11]"},
+      {"number": "2061", "what_it_represents": "Reported first parole eligibility", "source": "[15]/[10] (search snippet); discrepancy with [22]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "",
+    "details": [
+      "January 13, 1995, the day she was last seen, was a Friday the 13th.",
+      "Police-grade handcuffs made investigators fear the killer was one of their own; the man had ordered handcuffs and hung them on his rearview mirror years earlier, according to his ex-wife.",
+      "She and her twin had been bridesmaids at his wedding.",
+      "His 1981 plea to aggravated assault, with deferred adjudication, left no DNA profile in any database."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "",
+    "key_locations": [
+      {"location_name": "Edwards' townhome, Beaumont", "physical_description": "Two-storey townhome with an upstairs bathroom (exact address not used)", "atmosphere": "Private, ordinary", "relevant_details": "No forced entry"},
+      {"location_name": "Beaumont, Texas", "physical_description": "Jefferson County seat on the Neches River in Southeast Texas; part of the Golden Triangle with Port Arthur and Orange; Spindletop oil gusher of January 10, 1901; Lamar University; about 114,000 residents in 1990", "atmosphere": "Refinery city", "relevant_details": "Background context"},
+      {"location_name": "Reynoldsburg, Ohio", "physical_description": "Suburb east of Columbus, Franklin County", "atmosphere": "", "relevant_details": "Where Foreman lived in 2021"},
+      {"location_name": "Jefferson County courthouse, Beaumont", "physical_description": "Criminal District Court", "atmosphere": "", "relevant_details": "Trial March 2024"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "",
+    "why_this_matters_to_viewer": "The most dangerous person may be someone familiar enough to be let in the door.",
+    "how_this_could_happen_to_them": "No forced entry; a known face.",
+    "lesson_or_warning": "Old violent offenses that predate DNA databases can hide offenders for decades; preserved evidence and genealogy can still find them.",
+    "current_relevance": "Forensic genetic genealogy funding and Othram's case work continue in 2026."
+  },
+  "sources": {
+    "_instructions": "Numbering matches investigacion.md section 13.",
+    "primary_sources": [
+      {"type": "Police release", "title": "[1] ICYMI: Suspect Charged in 1995 Ranger Cold Case — Texas DPS", "url_or_reference": "https://www.dps.texas.gov/news/icymi-suspect-charged-1995-ranger-cold-case", "key_information_obtained": "Arrest April 26, 2021, Franklin County, Ohio; Rangers + BPD + Othram"},
+      {"type": "Police case page", "title": "[2] Texas Rangers Cold Case Investigation Details #268", "url_or_reference": "https://www.dps.texas.gov/apps/coldCase/Home/Details/268", "key_information_obtained": "Guilty March 20, 2024; life in TDCJ"},
+      {"type": "Court ruling (via news)", "title": "[9] Texas appeals court upholds conviction — 12NewsNow", "url_or_reference": "https://www.12newsnow.com/article/news/crime/appeals-court-upholds-conviction-in-1995-murder-of-beaumont-teacher/502-ed7ac621-6fe7-4636-b5e3-fa3ec617dafe", "key_information_obtained": "Ninth Court of Appeals affirmed; 12 similarities; Miranda/hearsay claims rejected"},
+      {"type": "Affidavit (via news)", "title": "[25] DNA leads to arrest of former classmate — WSOC-TV (Cox)", "url_or_reference": "https://www.wsoctv.com/news/trending/dna-leads-arrest-former-classmate-brutal-1995-rape-murder-texas-schoolteacher/35J5RKQLDRFTBI4WYK3AJGSBLU/", "key_information_obtained": "Trash DNA affidavit quote; 1982 wedding; 1981 plea"}
+    ],
+    "secondary_sources": [
+      {"type": "TV news", "title": "[3] CBS News 48 Hours — Victim was a bridesmaid in killer's wedding", "url_or_reference": "https://www.cbsnews.com/news/mary-catherine-edwards-clayton-foreman-texas-murder-bridesmaid-killers-wedding-48-hours/", "key_information_obtained": "Jan 14, 1995; parents; identical twin; Dianna Coe; billy club; 'Oh, really?'"},
+      {"type": "TV news", "title": "[4] CBS News — Police-style handcuffs", "url_or_reference": "https://www.cbsnews.com/news/mary-catherine-edwards-texas-murder-clayton-foreman-handcuffs-48-hours/", "key_information_obtained": "Smith & Wesson; serial numbers; officers questioned; Lewallen on cause of death"},
+      {"type": "TV news", "title": "[5] KFDM — 911 tape", "url_or_reference": "https://kfdm.com/news/local/opening-arguments-and-start-of-testimony-in-clayton-foreman-capital-murder-trial", "key_information_obtained": "Upstairs bathroom; mother and sister; 'My sister's dead'"},
+      {"type": "TV news", "title": "[6] KFDM — Jury convicts Foreman / 1981 witness", "url_or_reference": "https://kfdm.com/news/local/state-rests-in-foreman-trial-after-after-witness-testifies-about-terrifying-previous-rape", "key_information_obtained": "1981 assault details; 1978 graduate; life; Judge Stevens"},
+      {"type": "TV news", "title": "[7] KFDM — Handcuffs, T-shirt, sex assault kit shown to jury", "url_or_reference": "https://kfdm.com/news/local/handcuffs-t-shirt-sex-assault-kit-show-to-jury-in-foreman-capital-murder-trial", "key_information_obtained": "Evidence shown"},
+      {"type": "TV news", "title": "[8] KFDM — DNA testimony", "url_or_reference": "https://kfdm.com/news/local/dna-testimony", "key_information_obtained": "DNA testimony at trial"},
+      {"type": "TV news", "title": "[10] 12NewsNow — Day 7: jury finds man guilty", "url_or_reference": "https://www.12newsnow.com/article/news/crime/day-7-jury-finds-man-guilty-in-trial-for-1995-cold-case-murder-of-beaumont-teacher/502-43d754c5-5929-4bf8-8e92-b75aac3a1251", "key_information_obtained": "March 11 jury selection; 50/52 minutes; family spokesperson quote; 2061"},
+      {"type": "TV news", "title": "[11] 12NewsNow — Trial coverage", "url_or_reference": "https://www.12newsnow.com/article/news/crime/trial-of-clayton-foreman-1995-murder-of-beaumont-teacher-mary-catherine-edwards/502-bf9b5d15-44de-4707-8e6b-dd083b01edcd", "key_information_obtained": "50-minute interview with Bess and Lewallen; defense objection"},
+      {"type": "TV news", "title": "[12] 12NewsNow — 'I think they drowned her!'", "url_or_reference": "https://www.12newsnow.com/article/news/crime/foreman-begins-testimony-after-being-accused-of-murder-of-beaumont-5th-grade-teacher/502-891f3c25-6acf-481a-ae4a-cb3981a3415a", "key_information_obtained": "5th-grade teacher (slug); 911"},
+      {"type": "TV news", "title": "[13] 12NewsNow — Juror shares verdict", "url_or_reference": "https://www.12newsnow.com/article/news/crime/juror-who-found-clayton-foreman-guilty-of-murder-of-beaumont-teacher-shares-how-they-came-to-verdict/502-1cd3b918-f717-4cd1-8812-a8a7d9064842", "key_information_obtained": "Quick verdict"},
+      {"type": "TV news", "title": "[14] 12NewsNow — DNA evidence leads to arrest", "url_or_reference": "https://www.12newsnow.com/article/news/crime/dna-evidence-leads-to-arrest-1995-murder-of-beaumont-teacher/502-0d52678d-90c7-4588-9c0d-a6870d118155", "key_information_obtained": "Arrest 2021"},
+      {"type": "Newspaper", "title": "[15] Houston Chronicle — Clayton Foreman found guilty", "url_or_reference": "https://www.houstonchronicle.com/news/houston-texas/texas/article/clayton-foreman-found-guilty-1995-murder-beaumont-19331281.php", "key_information_obtained": "Jan 13 last seen; parole 2061"},
+      {"type": "Newspaper", "title": "[16] Houston Chronicle — Genealogy leads Beaumont police to Ohio", "url_or_reference": "https://www.houstonchronicle.com/news/houston-texas/crime/article/Genealogy-DNA-testing-helps-crack-cold-case-of-16160772.php", "key_information_obtained": "Genealogy to Ohio"},
+      {"type": "Newspaper", "title": "[17] Beaumont Enterprise — Family tree cracks cold case", "url_or_reference": "https://www.beaumontenterprise.com/insider/article/DNA-helps-crack-cold-case-in-unsolved-murder-of-16150931.php", "key_information_obtained": "Handcuffs; head in water; Reynoldsburg; 1981 plea"},
+      {"type": "Newspaper", "title": "[18] Beaumont Enterprise — DNA testing went on for years", "url_or_reference": "https://www.beaumontenterprise.com/news/article/dna-evidence-genealogy-key-decades-old-beaumont-19019179.php", "key_information_obtained": "Genealogy since April 2020"},
+      {"type": "Newspaper", "title": "[19] Beaumont Enterprise — Jury finds Foreman guilty", "url_or_reference": "https://www.beaumontenterprise.com/news/article/clayton-foreman-guilty-beaumont-cold-case-19315952.php", "key_information_obtained": "Price Elementary; under an hour"},
+      {"type": "Newspaper", "title": "[20] Beaumont Enterprise — DA weighing death penalty", "url_or_reference": "https://www.beaumontenterprise.com/news/article/Jefferson-Co-indicts-cold-case-suspect-for-16479979.php", "key_information_obtained": "Wortham credit to BPD; first-day call"},
+      {"type": "Newspaper", "title": "[21] Beaumont Enterprise — Testimony begins with 911 call", "url_or_reference": "https://www.beaumontenterprise.com/news/article/clayton-foreman-accused-killing-mary-catherine-18922491.php", "key_information_obtained": "Trial began March 12, 2024"},
+      {"type": "Magazine", "title": "[22] Texas Monthly — Inside the Texas Crime Lab That's Cracked Hundreds of Cold Cases", "url_or_reference": "https://www.texasmonthly.com/news-politics/othram-forensic-genetic-genealogy-catherine-edwards-murder/", "key_information_obtained": "April 2020 to Othram; Louisiana second cousin; Lewallen; under an hour; parole 30 years"},
+      {"type": "Industry report", "title": "[23] ISHI Report — The Missing Piece: Mary Catherine Edwards", "url_or_reference": "https://promega.foleon.com/theishireport/the-ishi-report-november-2021/the-missing-piece-mary-catherine-edwards/", "key_information_obtained": "No CODIS match; $6,000 reward; half a million markers; LaPoint; aviation unit; indictment Sept 22, 2021"},
+      {"type": "Lab case page", "title": "[24] DNASolves (Othram) — After 26 years, Mary Catherine Edwards' Killer is Arrested", "url_or_reference": "https://dnasolves.com/articles/mary-catherine-edwards/", "key_information_obtained": "No forced entry; exhaustive investigation; Othram role"},
+      {"type": "TV news", "title": "[26] Fox News — DNA links Ohio man to 1995 murder of bridesmaid in his wedding", "url_or_reference": "https://www.foxnews.com/us/dna-ohio-man-1995-murder-bridesmaid-wedding.amp", "key_information_obtained": "Wedding link; trash"},
+      {"type": "Radio news", "title": "[27] KJAS — New details about arrest", "url_or_reference": "https://www.kjas.com/news/local_news/article_bb7d3112-ad02-11eb-9dab-539a9a215d55.html", "key_information_obtained": "Arrest details"},
+      {"type": "Radio news", "title": "[28] KJAS — Suspect indicted", "url_or_reference": "https://www.kjas.com/news/local_news/article_7a2ac138-1be9-11ec-bca8-27fbad0d4549.html", "key_information_obtained": "Indictment Sept 2021"},
+      {"type": "TV news", "title": "[29] CBS Austin — Grand jury indicts suspect", "url_or_reference": "https://cbsaustin.com/news/local/grand-jury-indicts-suspect-arrested-in-cold-case-murder-of-mary-catherine-edwards", "key_information_obtained": "Wortham: bridesmaid in wedding of Foreman and first wife; age 61"},
+      {"type": "TV news", "title": "[30] KFDM — Suspect ordered to return to Texas by July 6", "url_or_reference": "https://kfdm.com/news/local/suspect-in-mary-catherine-edwards-murder-ordered-to-return-to-texas-by-july-6", "key_information_obtained": "Extradition"},
+      {"type": "Newspaper", "title": "[31] The Examiner — Foreman found guilty", "url_or_reference": "https://www.theexaminer.com/news/foreman-found-guilty-1995-murder-mary-catherine-edwards", "key_information_obtained": "No defense witnesses; Tom Burbank; rideshare driver; denial of knowing twins"},
+      {"type": "Newspaper", "title": "[32] The Examiner — Trial underway", "url_or_reference": "https://www.theexaminer.com/news/trial-underway-1995-murder-school-teacher", "key_information_obtained": "Twin's testimony: 'called them all her kids'"},
+      {"type": "TV news", "title": "[33] Fox4Beaumont — Testimony begins Tuesday", "url_or_reference": "https://fox4beaumont.com/news/testimony-begins-tuesday-after-jury-picked-in-clayton-foreman-capital-murder-trial", "key_information_obtained": "Jury picked"},
+      {"type": "TV news", "title": "[34] KHOU Missing Pieces", "url_or_reference": "https://www.khou.com/article/news/investigations/missing-pieces/missing-pieces-mary-catherine-edwards-murder-solved/285-afdf5001-4b92-4e1e-a813-7947f6db34f7", "key_information_obtained": "Case overview"},
+      {"type": "TV episode", "title": "[35] CBS 48 Hours — Tracking the Killer of Mary Catherine Edwards", "url_or_reference": "https://www.cbsnews.com/video/tracking-the-killer-of-mary-catherine-edwards/", "key_information_obtained": "Natalie Morales; Nov 2024"},
+      {"type": "Memorial", "title": "[36] Find a Grave — Mary Catherine Edwards (1963–1995)", "url_or_reference": "https://www.findagrave.com/memorial/38335110/mary_catherine-edwards", "key_information_obtained": "Birth year"},
+      {"type": "TV news", "title": "[37] KFDM — Solving the case: police work and new technology", "url_or_reference": "https://kfdm.com/news/local/solving-the-mary-catherine-edwards-case-a-combination-of-police-work-and-new-technology", "key_information_obtained": "Police work + technology"},
+      {"type": "Reference", "title": "[39] Othram — Wikipedia", "url_or_reference": "https://en.wikipedia.org/wiki/Othram", "key_information_obtained": "Founded 2018, The Woodlands"},
+      {"type": "Reference", "title": "[40] Joseph James DeAngelo — Wikipedia", "url_or_reference": "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo", "key_information_obtained": "Golden State Killer arrest April 24, 2018 via genetic genealogy"},
+      {"type": "Government", "title": "[41] FBI — CODIS and NDIS Fact Sheet", "url_or_reference": "https://le.fbi.gov/science-and-lab/biometrics-and-fingerprints/codis/codis-and-ndis-fact-sheet", "key_information_obtained": "NDIS operational October 1998; STR loci"},
+      {"type": "Reference", "title": "[42] Beaumont, Texas — Wikipedia", "url_or_reference": "https://en.wikipedia.org/wiki/Beaumont,_Texas", "key_information_obtained": "Neches River; Spindletop 1901; Lamar University; population"},
+      {"type": "Statute", "title": "[43] Texas Government Code §508.145 (parole eligibility, capital felony life)", "url_or_reference": "https://statutes.capitol.texas.gov/Docs/GV/htm/GV.508.htm", "key_information_obtained": "40 calendar years for capital life (offenses 1993–2005)"},
+      {"type": "Project file", "title": "[44] Carla Walker case (project folder 05, sources listed there): Othram, GEDmatch, McCurley guilty plea Aug 24, 2021", "url_or_reference": "/home/user/nextlive/coldcase_guiones/05_texas_1974_carla_walker/investigacion.md", "key_information_obtained": "Othram's 2020 Fort Worth landmark case"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "",
+    "next_topic": "Another Othram-solved Texas cold case",
+    "connection_to_current_video": "Same lab, same method",
+    "teaser_line": "The same lab outside Houston was already working on another Texas family's 46-year wait."
+  },
+  "notes_and_gaps": {
+    "_instructions": "",
+    "unverified_claims": [
+      "Who exactly found her: CBS says parents; KFDM says mother and twin sister described finding her on the 911 call.",
+      "Arrest date: April 26, 2021 (DPS) vs April 29 (some outlets).",
+      "Parole eligibility: 2061 (12News/Houston Chronicle) vs 'thirty years' (Texas Monthly).",
+      "Fifth-grade teacher: only from a 12NewsNow URL slug.",
+      "Foreman as rideshare driver: single source.",
+      "Exact date of the Ninth Court of Appeals opinion (approx. early January 2026) and docket number.",
+      "Whether Forest Park High School was Edwards' school (inferred from 'same high school' + Foreman's 1978 graduation)."
+    ],
+    "information_gaps": ["Parents' names", "Exact address", "Exact time of death", "Date of the trash pull", "Whether a petition for discretionary review was filed after the appeal"],
+    "questions_to_answer": ["Did the State formally waive the death penalty, and when?", "Has Foreman filed a PDR with the Court of Criminal Appeals?"]
+  }
+}

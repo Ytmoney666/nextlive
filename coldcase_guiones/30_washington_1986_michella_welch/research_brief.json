@@ -1,0 +1,248 @@
+{
+  "video_metadata": {
+    "working_title": "WASHINGTON 1986 Cold Case Solved After 32 Years — Justice for Michella Welch",
+    "topic_one_sentence": "In March 1986, 12-year-old Michella Welch vanished from Puget Park in North Tacoma while looking after her two younger sisters; for 32 years her killing was wrongly assumed to be linked to the murder of 13-year-old Jennifer Bastian, until DNA split the cases and genetic genealogy plus a discarded restaurant napkin led to the June 2018 arrest of nurse Gary Charles Hartman, convicted in March 2022.",
+    "primary_emotion_to_evoke": "grief turning into dignified, hard-won justice",
+    "target_length_minutes": "70-75"
+  },
+  "protagonist": {
+    "_instructions": "Main character. For this channel the victim is the heart of the story; the convicted man is described through records only.",
+    "full_name": "Michella Evon Welch (victim, central character). Convicted offender: Gary Charles Hartman.",
+    "age_at_time_of_events": "Michella: 12 (born 1973, sixth grader). Hartman: 66 at arrest in June 2018 and 70 at sentencing in March 2022, so roughly 33-34 in March 1986 (derived).",
+    "occupation_or_status": "Michella: sixth-grade student in Tacoma, oldest of three sisters. Hartman: registered nurse, described as a community nurse specialist at Western State Hospital in Lakewood at the time of his arrest.",
+    "location": "Tacoma (North End / North Tacoma), Pierce County, Washington. Hartman lived in Lakewood in 2018 and, according to records cited by ABC News, less than two miles from Puget Park in 1986.",
+    "physical_description": "Not used. Only real archival photos released by family/police may be shown.",
+    "background_brief": "Michella was the oldest of three girls. On a Wednesday in March 1986 she was in charge of her two younger sisters at Puget Park. Her sister Nicole Eby later described her as 'like a mom, a second mom to me.'",
+    "psychological_profile": "Not applicable to a 12-year-old victim; for Hartman, no motive or psychology is documented in the sources and none is offered.",
+    "mundane_humanizing_detail": "She rode her bike home to pick up lunch, sandwiches, for her sisters, and her bike and the lunch were found at the park after she vanished.",
+    "nickname_or_alias_if_any": "None documented."
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected.",
+    "individuals": [
+      {"name": "Michella Evon Welch", "role_or_profession": "12-year-old sixth grader", "connection_to_protagonist": "Victim", "specific_impact_suffered": "Abducted from Puget Park on March 26, 1986 and killed; found the same night in the adjacent gulch. Officials said she had been sexually assaulted and died of blunt force trauma to the head.", "humanizing_detail": "Looking after her younger sisters; went home on her bike to fetch their lunch.", "any_quotes_from_them": "None documented."},
+      {"name": "Barbara Leonard", "role_or_profession": "Michella's mother", "connection_to_protagonist": "Mother of the victim", "specific_impact_suffered": "Waited 32 years for an arrest and 36 for a conviction; attended the 2018 arraignment and the 2022 sentencing. (A KING 5 headline says a 'mother of murdered Tacoma girl' backed the 2019 DNA bill; it is not confirmed whether this was Barbara Leonard or Jennifer Bastian's mother, so the script does not claim it.)", "humanizing_detail": "Asked the judge for the maximum sentence while acknowledging it would not bring Michella back (paraphrase).", "any_quotes_from_them": "Paraphrase only (KING 5, 2022): he should be locked up and the key thrown away; it will not bring her back, but justice will have been served."},
+      {"name": "Nicole Eby", "role_or_profession": "Michella's younger sister", "connection_to_protagonist": "One of the two sisters at Puget Park that day", "specific_impact_suffered": "Lost her oldest sister as a child.", "humanizing_detail": "Said she forgives Hartman and wants to live her life fully because Michella never could.", "any_quotes_from_them": "'like a mom, a second mom to me' (2022); 'He cut such a precious life short' (2018, wording varies by outlet)"},
+      {"name": "Angela Velasquez", "role_or_profession": "Michella's younger sister", "connection_to_protagonist": "Sister of the victim", "specific_impact_suffered": "Lost her oldest sister as a child.", "humanizing_detail": "At sentencing she urged Hartman to rely on God (paraphrase).", "any_quotes_from_them": "No verbatim quote verified."},
+      {"name": "Jennifer 'Jenni' Bastian", "role_or_profession": "13-year-old Tacoma girl", "connection_to_protagonist": "Separate 1986 case long assumed to be linked; NOT killed by Hartman", "specific_impact_suffered": "Disappeared while riding her bike in Point Defiance Park on August 4, 1986 and was found killed; Robert D. Washburn pleaded guilty in January 2019.", "humanizing_detail": "Her family and Tacoma detectives sponsored/pushed for 'Jennifer and Michella's Law' (2019).", "any_quotes_from_them": "None."}
+    ],
+    "collective_victims_if_applicable": {"group_description": "Two Tacoma families (Welch and Bastian) whose cases were treated as one for decades", "total_number_affected": "2 victims, 2 families", "range_of_impacts": "Decades without answers; the assumption of a single killer shaped both investigations until 2013."}
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, family, court.",
+    "characters": [
+      {"name": "Detective Lindsey Wade (Tacoma Police Department)", "role_in_story": "Cold case detective who reopened the case in 2009", "key_actions_they_took": "Compiled a list of every man named in dozens of binders of reports, about 2,300 names; pushed re-testing; worked the genealogy lead.", "notable_quotes": "'That was a big turning point in the investigation.' (NBC News, 2019, about the DNA results)"},
+      {"name": "Detective Gene Miller (Tacoma Police Department)", "role_in_story": "Cold case unit partner", "key_actions_they_took": "Worked the Welch and Bastian cold cases with Wade (NBC News).", "notable_quotes": "None verified."},
+      {"name": "Donald Ramsdell", "role_in_story": "Tacoma Police Chief in 2018", "key_actions_they_took": "Announced the arrest.", "notable_quotes": "Called the case a 'great example' of 'advancements in DNA identification and computer modeling combined with tried and true police techniques.'"},
+      {"name": "Parabon NanoLabs", "role_in_story": "DNA technology company", "key_actions_they_took": "2016 Snapshot phenotyping reports on two separate male suspects; genealogists using GEDmatch data and public records built family trees (per the 2023 appellate opinion).", "notable_quotes": "None."},
+      {"name": "Washington State Patrol Crime Laboratory", "role_in_story": "State forensic lab", "key_actions_they_took": "Developed the Bastian swimsuit profile in November 2013; on June 19, 2018 reported the napkin DNA matched the Welch crime-scene DNA.", "notable_quotes": "None."},
+      {"name": "Judge Stanley Rumbaugh (Pierce County Superior Court)", "role_in_story": "Presided over the March 22, 2022 stipulated-facts bench trial and sentencing", "key_actions_they_took": "Found Hartman guilty of first-degree murder; sentenced him to 26 years and six months (some outlets: 320 months); said he would likely die in prison (paraphrase).", "notable_quotes": "Paraphrase only."},
+      {"name": "Judge Elizabeth Martin (Pierce County Superior Court)", "role_in_story": "Took Robert Washburn's guilty plea in the Bastian case", "key_actions_they_took": "Read Washburn's written confession aloud in court.", "notable_quotes": "None."},
+      {"name": "Robert Dwane Washburn", "role_in_story": "Convicted killer of Jennifer Bastian (separate case)", "key_actions_they_took": "Gave Tacoma police a DNA sample in May 2018 that matched the Bastian swimsuit; arrested in Eureka, Illinois; pleaded guilty in January 2019; sentenced to about 26.5-27 years.", "notable_quotes": "Written statement (paraphrase): he wanted to spare the Bastian family a trial."}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "Backbone.",
+    "events": [
+      {"date": "1973", "location": "Washington", "what_happened": "Michella Evon Welch is born.", "significance": "She was 12 in March 1986.", "source": "[34] Find a Grave memorial 20446637 (single source for middle name and birth year; age 12 confirmed by all outlets)"},
+      {"date": "1986-03-26 (Wednesday), morning", "location": "Puget Park, North Tacoma", "what_happened": "Michella, a sixth grader, takes her two younger sisters to Puget Park; she rides her bike home to pick up lunch (sandwiches) and returns.", "significance": "Ordinary errand; her bike and the lunch later remain at the park.", "source": "[6] ABC News 2018; [1] KING 5 2018; [9] Newsweek 2018"},
+      {"date": "1986-03-26, about 12:30 p.m.", "location": "A business near Puget Park", "what_happened": "The younger sisters leave the park to use a restroom at a nearby business.", "significance": "The window in which Michella disappeared.", "source": "[6] ABC News 2018 (times differ slightly across accounts)"},
+      {"date": "1986-03-26, about 1:00 p.m.", "location": "Puget Park", "what_happened": "The sisters return; Michella is gone; her bike and the lunch are at the park.", "significance": "Start of the search.", "source": "[6] ABC News; [36] Washington Post via Duluth News Tribune; [1] KING 5"},
+      {"date": "1986-03-26, just before 11 p.m.", "location": "Gulch adjacent to Puget Park", "what_happened": "A search dog finds Michella's body in an isolated area of the gulch, more than a quarter mile from the play area, near a makeshift fire pit.", "significance": "Evidence collected, including DNA that would be preserved for decades.", "source": "[6] ABC News quoting police; [33] Oxygen (fire pit; some accounts say about 11:30 p.m.)"},
+      {"date": "1986", "location": "Tacoma", "what_happened": "Officials later said she had been sexually assaulted and died of blunt force trauma to the head.", "significance": "Basis of the charges in 2018.", "source": "[6] ABC News; [8] Inside Edition"},
+      {"date": "1986-08-04", "location": "Point Defiance Park, Tacoma", "what_happened": "Jennifer Bastian, 13, disappears while riding her bike; she is later found killed. Police long believe one man killed both girls.", "significance": "The single-killer assumption shapes both investigations.", "source": "[10] NBC News; [28] KIRO 7; [33] Oxygen"},
+      {"date": "2009", "location": "Tacoma Police Department", "what_happened": "Detective Lindsey Wade reopens the cases and lists every man named in the files: about 2,300 names.", "significance": "Cold case work restarts.", "source": "[10] NBC News; [33] Oxygen"},
+      {"date": "2013-11", "location": "Washington State Patrol Crime Lab", "what_happened": "A male DNA profile is developed from Jennifer Bastian's swimsuit, untested for decades; it does not match the DNA from Michella's case.", "significance": "Proves two different killers.", "source": "[10] NBC News; [33] Oxygen; [31] Fox 13"},
+      {"date": "2016-04", "location": "Parabon NanoLabs, Reston, Virginia", "what_happened": "Parabon releases Snapshot DNA phenotyping composites for two male suspects believed individually responsible for the two deaths.", "significance": "Public confirmation of two offenders.", "source": "[11] Parabon NanoLabs release; [12] Parabon case summary"},
+      {"date": "2016", "location": "Tacoma", "what_happened": "Police begin working with a genetic genealogist; a family tree built from public websites and run through a public database (GEDmatch) yields a 'significant match' to relatives.", "significance": "First step toward Hartman.", "source": "[6] ABC News; [23] State v. Hartman (Wash. Ct. App. 2023)"},
+      {"date": "2018-04-24", "location": "Sacramento area, California", "what_happened": "Arrest of Joseph James DeAngelo, the Golden State Killer suspect, publicly revealing genetic genealogy as a police tool.", "significance": "Context: Hartman's arrest came less than two months later.", "source": "[39] public record (AP / Wikipedia summary)"},
+      {"date": "2018-05", "location": "Eureka, Illinois", "what_happened": "Tacoma police ask Robert Washburn for a DNA sample; it matches the Bastian swimsuit; he is arrested (May 10 or May 24 per different accounts) and extradited.", "significance": "Bastian case solved separately; no link to Michella.", "source": "[28] KIRO 7; [32] KSL/AP; [31] Fox 13"},
+      {"date": "2018-06 (early)", "location": "Tacoma / Lakewood", "what_happened": "The genealogy points to Gary Hartman and his younger brother, who lived in Tacoma's North End in 1986; detectives begin surveillance.", "significance": "Narrowing to one family.", "source": "[3] Seattle Times; [4] KGW; [6] ABC News"},
+      {"date": "2018-06 (before June 19)", "location": "A restaurant", "what_happened": "A detective following Hartman collects a napkin he used and discarded at a restaurant.", "significance": "The discarded object that solved the case.", "source": "[5] KOMO court file; [3] Seattle Times; [6] ABC News"},
+      {"date": "2018-06-19", "location": "Washington State Patrol Crime Lab", "what_happened": "The lab reports that DNA from the napkin matches the DNA from the Welch crime scene.", "significance": "Confirmation.", "source": "[4] KGW; [6] ABC News"},
+      {"date": "2018-06-20 (Wednesday)", "location": "Lakewood, Washington", "what_happened": "Hartman, 66, is arrested during a traffic stop and booked into the Pierce County Jail.", "significance": "32 years and 86 days after Michella vanished.", "source": "[4] KGW; [1] KING 5; [2] KOMO"},
+      {"date": "2018-06-22 (Friday)", "location": "Pierce County", "what_happened": "Hartman is charged with first-degree murder and first-degree rape; bail later set at $5 million.", "significance": "Formal charges.", "source": "[7] CNN; [16] KING 5; [6] ABC News"},
+      {"date": "2018-06-25 (Monday)", "location": "Pierce County Superior Court", "what_happened": "Hartman pleads not guilty; Michella's mother Barbara Leonard and sisters attend.", "significance": "Family faces him in court.", "source": "[15] KING 5; [14] Fox 13"},
+      {"date": "2019-01", "location": "Pierce County Superior Court", "what_happened": "Robert Washburn pleads guilty to first-degree murder of Jennifer Bastian before Judge Elizabeth Martin and is sentenced to about 26.5-27 years.", "significance": "Bastian case closed; reported date Jan. 25, 2019.", "source": "[28] KIRO 7; [29] KING 5; [30] KOMO; [31] Fox 13"},
+      {"date": "2019", "location": "Olympia, Washington", "what_happened": "'Jennifer and Michella's Law' (HB 1326) is enacted, expanding DNA collection (including people convicted of felonies and indecent exposure, and samples from deceased offenders).", "significance": "Legacy of both girls.", "source": "[25] KING 5; [26] HB 1326 digest; [27] NIJ"},
+      {"date": "2022-03-22 (Tuesday)", "location": "Pierce County Superior Court", "what_happened": "At a stipulated-facts bench trial lasting under two hours, Judge Stanley Rumbaugh finds Hartman, 70, guilty of first-degree (felony) murder, with rape as the underlying felony; Hartman says 'I'm so sorry'; he is sentenced to 26 years and six months.", "significance": "Conviction 36 years after the crime. NOTE: this was not a guilty plea and not in 2020.", "source": "[17] Seattle Times/AP; [18] KOMO; [19] KING 5; [20] Law&Crime (says 320 months); [23] State v. Hartman"},
+      {"date": "2023-08-22", "location": "Washington Court of Appeals, Division II", "what_happened": "In State v. Hartman, No. 56801-2-II, the court affirms the conviction, holding he had no privacy interest in DNA he abandoned or in his relatives' voluntarily uploaded DNA.", "significance": "Genealogy method upheld on appeal.", "source": "[23] FindLaw opinion; [24] State's answer to petition for review"},
+      {"date": "2023-2024", "location": "Washington Supreme Court", "what_happened": "Hartman petitions for review (No. 102409-6); the State files an answer. Outcome not confirmed in this research.", "significance": "Pending verification.", "source": "[24] State's answer (courts.wa.gov)"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "Hook.",
+    "the_moment": {"exact_date": "Wednesday, March 26, 1986, about 1 p.m.", "exact_location": "Puget Park, North Tacoma, Washington", "what_is_happening": "Two little girls return from a restroom trip to find their big sister gone; her bike and their lunch are still at the park.", "what_makes_it_shocking": "She was found that night in the wooded gulch next to the park.", "ironic_twist": "The man convicted 36 years later was a nurse who, records show, lived less than two miles from the park in 1986; a used restaurant napkin finished the case."},
+    "central_mystery_question": "Who took a 12-year-old from a neighborhood park in broad daylight, and why did it take 32 years to find out?"
+  },
+  "the_method": {
+    "_instructions": "How the case was solved.",
+    "technique_name": "Investigative genetic genealogy plus discarded-DNA confirmation (STR comparison)",
+    "step_by_step_explanation": [
+      "Crime-scene DNA preserved from 1986 produced a male profile that never matched anyone in the state or national offender databases (CODIS).",
+      "2013: separate testing of the Bastian swimsuit showed a different male DNA profile, proving two killers.",
+      "2016: Parabon phenotyping predicted traits of two different men; police began working with a genetic genealogist.",
+      "Genealogists compared the profile against a public database (GEDmatch), found several cousins of the killer, and built family trees with public records.",
+      "The trees converged on two brothers who lived in Tacoma's North End in 1986: Gary Hartman and his younger brother.",
+      "Surveillance in early June 2018; a detective collected a napkin Gary Hartman used at a restaurant.",
+      "Standard STR testing by the Washington State Patrol Crime Lab matched the napkin DNA to the crime-scene DNA on June 19, 2018."
+    ],
+    "why_it_worked": "Relatives had voluntarily uploaded their DNA to GEDmatch; family trees narrowed the search to one household; a discarded napkin provided a legally collected confirmation sample.",
+    "technical_terms_to_explain": [
+      {"term": "CODIS", "simple_explanation": "The FBI-run DNA index of convicted offenders and crime scenes; it only finds people already in it."},
+      {"term": "STR profile", "simple_explanation": "The classic forensic DNA fingerprint: a short set of markers, good for a yes/no match, not for finding cousins."},
+      {"term": "SNP profile / genetic genealogy", "simple_explanation": "Hundreds of thousands of markers, like the ones consumer DNA tests read, that can reveal distant relatives who then become clues on a family tree."},
+      {"term": "GEDmatch", "simple_explanation": "A free website (launched 2010) where people upload DNA results to find relatives."},
+      {"term": "DNA phenotyping (Parabon Snapshot)", "simple_explanation": "A prediction of physical traits and ancestry from DNA; used here in 2016 to show two different men."},
+      {"term": "Abandoned DNA", "simple_explanation": "DNA left on an item someone throws away; courts in this case held he had no privacy interest in it."}
+    ],
+    "scale_of_operation": "About 2,300 names reviewed in the original files; decades of binders; a family tree built from several cousin matches."
+  },
+  "systemic_failure": {
+    "_instructions": "What failed.",
+    "institution_that_failed": "The early investigation and the forensic limits of the era (not a single institution).",
+    "how_they_were_supposed_to_protect": "Solve the case with the evidence collected in 1986.",
+    "why_they_failed": "In 1986 forensic DNA was in its infancy and the national DNA index did not exist until 1998; investigators assumed one killer for both Tacoma girls, and the Bastian swimsuit went untested until 2013.",
+    "specific_incompetence_examples": [
+      "Two cases treated as one for about 27 years (1986-2013).",
+      "Bastian swimsuit evidence left untested for decades (NBC News).",
+      "Hartman's DNA was never in an offender database, so the profile never matched."
+    ],
+    "ironic_details_about_the_failure": "The man convicted lived less than two miles from the park in 1986 and worked for years as a nurse at a state hospital."
+  },
+  "the_investigation": {
+    "_instructions": "How he was caught.",
+    "investigating_agency": "Tacoma Police Department (cold case unit), Washington State Patrol Crime Lab, Parabon NanoLabs, Pierce County Prosecutor's Office",
+    "operation_code_name_if_any": "None",
+    "when_investigation_began": "March 26, 1986; reopened by Detective Lindsey Wade in 2009",
+    "initial_wrong_assumptions": "That one man killed both Michella Welch and Jennifer Bastian.",
+    "key_breakthrough": "Genetic genealogy via GEDmatch cousins pointing to the Hartman brothers.",
+    "the_fatal_mistake": "A napkin used and left at a restaurant during police surveillance.",
+    "how_long_until_caught": "32 years and 86 days (March 26, 1986 to June 20, 2018)."
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest.",
+    "date_and_time": "June 20, 2018",
+    "location": "Traffic stop in Lakewood, Washington",
+    "scene_description": "Police stopped Hartman's vehicle and arrested him; he was booked into the Pierce County Jail. No further documented detail.",
+    "protagonist_reaction": "No documented statement at arrest in these sources.",
+    "ironic_or_absurd_details": "He was 66 and still working as a nurse at Western State Hospital."
+  },
+  "legal_resolution": {
+    "_instructions": "Court.",
+    "charges_filed": ["First-degree murder (felony murder, rape as underlying felony)", "First-degree rape (as filed in 2018; per the appellate opinion the murder charge used the rape as the predicate felony)"],
+    "trial_date_if_applicable": "March 22, 2022: bench trial on stipulated facts, under two hours, Pierce County Superior Court",
+    "notable_court_testimony": "Hartman stipulated that the DNA from his used napkin matched DNA from Michella's body (per appellate opinion).",
+    "victim_impact_statements": [
+      {"from_whom": "Barbara Leonard, mother", "key_quote": "Paraphrase: lock him up and throw away the key; it won't bring her back, but justice will have been served.", "emotional_impact": "Asked for the maximum."},
+      {"from_whom": "Nicole Eby, sister", "key_quote": "'like a mom, a second mom to me'", "emotional_impact": "Forgiveness as survival."},
+      {"from_whom": "Angela Velasquez, sister", "key_quote": "Paraphrase: urged Hartman to rely on God.", "emotional_impact": "Faith."}
+    ],
+    "sentence_received": "26 years and six months in prison (most outlets); Law&Crime reports 320 months. The judge said he would likely die in prison.",
+    "protagonist_statement_in_court": "'I'm so sorry.' He apologized to the family (KOMO).",
+    "current_status": "Convicted; serving his sentence in the Washington Department of Corrections (one secondary source names Airway Heights Corrections Center). Conviction affirmed by the Court of Appeals on August 22, 2023; outcome of the petition to the Washington Supreme Court (No. 102409-6) not confirmed."
+  },
+  "verified_quotes": {
+    "_instructions": "Verified only.",
+    "quotes": [
+      {"speaker": "Nicole Eby (sister)", "exact_quote": "like a mom, a second mom to me", "context": "Describing Michella at the 2022 sentencing", "source": "[19] KING 5, March 2022; [18] KOMO"},
+      {"speaker": "Nicole Eby (sister)", "exact_quote": "He cut such a precious life short", "context": "After the 2018 charges (KOMO's fuller version: 'Very unfair that he cut such a precious life short that I don't understand')", "source": "[13] KATU/KOMO, June 2018"},
+      {"speaker": "Nicole Eby (sister)", "exact_quote": "when I do not it brings death to my life in one way or another", "context": "Explaining why she forgives Hartman, 2022", "source": "[19] KING 5"},
+      {"speaker": "Gary Hartman", "exact_quote": "I'm so sorry.", "context": "After the verdict, March 22, 2022", "source": "[18] KOMO"},
+      {"speaker": "Donald Ramsdell, Tacoma Police Chief", "exact_quote": "advancements in DNA identification and computer modeling combined with tried and true police techniques", "context": "Calling the arrest a 'great example', June 2018", "source": "[6] ABC News; [8] Inside Edition"},
+      {"speaker": "Det. Lindsey Wade, Tacoma Police", "exact_quote": "That was a big turning point in the investigation.", "context": "On the DNA results, NBC News 2019", "source": "[10] NBC News"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Figures.",
+    "figures": [
+      {"number": "12", "what_it_represents": "Michella's age", "source": "[1][6]"},
+      {"number": "32 years", "what_it_represents": "From the crime (1986) to the arrest (June 2018)", "source": "[7] CNN"},
+      {"number": "36 years", "what_it_represents": "From the crime to the conviction (March 22, 2022)", "source": "derived from [17]"},
+      {"number": "about 1 p.m.", "what_it_represents": "When the sisters returned and found her gone", "source": "[6]"},
+      {"number": "more than a quarter mile", "what_it_represents": "Distance from the play area to where she was found", "source": "[6] police statement"},
+      {"number": "4 and a half months", "what_it_represents": "Time between Michella's murder and Jennifer Bastian's", "source": "[9] Newsweek"},
+      {"number": "about 2,300", "what_it_represents": "Men's names compiled from the case files by Det. Wade", "source": "[10][33]"},
+      {"number": "2013", "what_it_represents": "Year the Bastian swimsuit DNA proved two killers", "source": "[10]"},
+      {"number": "less than two miles", "what_it_represents": "Distance from Hartman's 1986 home to Puget Park", "source": "[6]"},
+      {"number": "June 19 / June 20, 2018", "what_it_represents": "DNA match / arrest", "source": "[4]"},
+      {"number": "$5 million", "what_it_represents": "Bail", "source": "[6]"},
+      {"number": "66 / 70", "what_it_represents": "Hartman's age at arrest / at sentencing", "source": "[1][17]"},
+      {"number": "under two hours", "what_it_represents": "Length of the bench trial", "source": "[17][22]"},
+      {"number": "26 years 6 months (318 months; Law&Crime: 320 months)", "what_it_represents": "Sentence", "source": "[17][19][20]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Contradictions.",
+    "details": [
+      "The two 1986 Tacoma cases everyone believed were one were solved within weeks of each other in 2018 and turned out to involve two unrelated men.",
+      "The man convicted spent his career as a nurse, a caring profession.",
+      "A paper napkin at a restaurant did what 32 years of files could not.",
+      "The killer's own cousins, by uploading DNA to find family, led police to him."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Only documented.",
+    "key_locations": [
+      {"location_name": "Puget Park, North Tacoma", "physical_description": "Neighborhood park with a play area and picnic table next to a wooded gulch.", "atmosphere": "Ordinary weekday in a residential neighborhood.", "relevant_details": "Michella's bike and lunch left at the table; a classmate later reportedly saw a man under the Proctor bridge watching the girls (single secondary source)."},
+      {"location_name": "The gulch", "physical_description": "Isolated wooded area more than a quarter mile from the play area; a makeshift fire pit among the trees.", "atmosphere": "Hidden, quiet.", "relevant_details": "Where the search dog found Michella just before 11 p.m."},
+      {"location_name": "Point Defiance Park", "physical_description": "Large wooded park on the Tacoma peninsula.", "atmosphere": "Popular family park.", "relevant_details": "Where Jennifer Bastian vanished on August 4, 1986."},
+      {"location_name": "Lakewood, Washington", "physical_description": "City south of Tacoma; home of Western State Hospital.", "atmosphere": "Suburban.", "relevant_details": "Site of the June 20, 2018 traffic-stop arrest."}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why care.",
+    "why_this_matters_to_viewer": "A child was taken in daylight from a neighborhood park; the case shows how long unanswered questions last and how science and persistent detectives can still answer them.",
+    "how_this_could_happen_to_them": "Every parent who lets an older child watch younger siblings at a local park.",
+    "lesson_or_warning": "Evidence preserved properly and assumptions re-tested can solve cases decades later; a wrong assumption (one killer) can cost years.",
+    "current_relevance": "Genetic genealogy and its privacy limits; Washington's 2019 DNA law named after Jennifer and Michella."
+  },
+  "sources": {
+    "_instructions": "Numbering matches investigacion.md section 13.",
+    "primary_sources": [
+      {"type": "Court opinion", "title": "State v. Hartman, Wash. Ct. App. Div. II, No. 56801-2-II (Aug. 22, 2023) [23]", "url_or_reference": "https://caselaw.findlaw.com/court/wa-court-of-appeals/114923296.html", "key_information_obtained": "Stipulated facts, felony murder with rape as predicate, GEDmatch cousins, Parabon trees, conviction affirmed"},
+      {"type": "Court filing", "title": "State's Answer to Petition for Review, Wash. Sup. Ct. No. 102409-6 [24]", "url_or_reference": "https://www.courts.wa.gov/content/petitions/102409-6%20Answer%20to%20Petition%20for%20Review.pdf", "key_information_obtained": "Petition for review filed"},
+      {"type": "Company release", "title": "Parabon Snapshot reveals two perpetrators (April 2016) [11]", "url_or_reference": "https://parabon-nanolabs.com/news-events/2016/04/tacoma-washington-cases.html", "key_information_obtained": "Two different men"},
+      {"type": "Legislation", "title": "HB 1326 digest, Jennifer and Michella's law [26]", "url_or_reference": "https://lawfilesext.leg.wa.gov/biennium/2019-20/Pdf/Digests/House/1326.DIG.pdf", "key_information_obtained": "DNA collection expansion"},
+      {"type": "Government article", "title": "NIJ, Notes From the Field: Expanding the DNA Database to Solve Cold Cases [27]", "url_or_reference": "https://nij.ojp.gov/topics/articles/notes-field-expanding-dna-database-solve-cold-cases", "key_information_obtained": "Law context; Washburn sentence"}
+    ],
+    "secondary_sources": [
+      {"type": "News", "title": "ABC News: How DNA on napkin led to arrest [6]", "url_or_reference": "https://abcnews.com/US/dna-napkin-led-arrest-cold-case-1986-rape/story?id=56139536", "key_information_obtained": "Timeline, police quote on search dog, Ramsdell quote, two miles, $5M bail"},
+      {"type": "News", "title": "KGW: Catching a killer [4]", "url_or_reference": "https://www.kgw.com/article/news/catching-a-killer-how-tacoma-police-used-genetic-genealogy-to-crack-1986-cold-case/283-566950670", "key_information_obtained": "June 19 match, June 20 arrest"},
+      {"type": "News", "title": "Seattle Times: DNA, used napkin lead police to suspect [3]", "url_or_reference": "https://www.seattletimes.com/seattle-news/law-justice/dna-used-napkin-lead-police-to-suspect-in-tacoma-girls-1986-killing/", "key_information_obtained": "Brothers, napkin"},
+      {"type": "News", "title": "Seattle Times / AP: Man who killed Tacoma girl in 1986 sentenced [17]", "url_or_reference": "https://www.seattletimes.com/seattle-news/law-justice/man-sentenced-to-more-than-26-years-in-prison-in-killing-of-tacoma-girl-in-1986/", "key_information_obtained": "Sentence, judge"},
+      {"type": "News", "title": "KOMO: 'I'm so sorry' [18]", "url_or_reference": "https://komonews.com/news/local/pierce-county-man-found-guilty-of-1986-cold-case", "key_information_obtained": "Verdict, apology"},
+      {"type": "News", "title": "KING 5: sentenced to 26 years [19]", "url_or_reference": "https://king5.com/amp/article/news/local/cold-case-1986-murder-rape-suspect-sentenced/281-7f7afe78-994d-4da5-9159-0b057b7a6654", "key_information_obtained": "Family statements"},
+      {"type": "News", "title": "NBC News: Tacoma detectives never gave up [10]", "url_or_reference": "https://www.nbcnews.com/news/us-news/michella-welch-jenni-bastian-killings-tacoma-detectives-never-gave-cold-n991556", "key_information_obtained": "Wade, Miller, 2,300 names, swimsuit 2013"},
+      {"type": "News", "title": "KIRO 7: Man who killed Jennifer Bastian pleads guilty [28]", "url_or_reference": "https://www.kiro7.com/news/local/man-who-killed-jennifer-bastian-in-1986-pleads-guilty/910038327/", "key_information_obtained": "Washburn plea"},
+      {"type": "News", "title": "See investigacion.md section 13 for the full list [1]-[39]", "url_or_reference": "investigacion.md", "key_information_obtained": "All"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease.",
+    "next_topic": "The Jennifer Bastian case (Point Defiance Park, August 1986) as a companion episode",
+    "connection_to_current_video": "Same city, same summer, long believed to be the same killer",
+    "teaser_line": "Four and a half months later, a second Tacoma girl rode her bike into a park and never came home. For 27 years, police believed it was the same man. It was not."
+  },
+  "notes_and_gaps": {
+    "_instructions": "To verify.",
+    "unverified_claims": [
+      "Exact sentence: 26 years 6 months (KING 5, KIRO, AP) vs 320 months (Law&Crime).",
+      "Exact time the body was found: 'just before 11 p.m.' (police via ABC) vs about 11:30 p.m. (other accounts).",
+      "Morning timeline: one account says she left the park around 10 a.m. to fetch lunch.",
+      "Witness under the Proctor bridge and suspect description: single secondary sources.",
+      "Airway Heights Corrections Center as current facility: single secondary source, possibly outdated.",
+      "Washburn arrest date (May 10 vs May 24, 2018) and exact sentence (26.5 vs 27 years).",
+      "Middle name 'Evon' and birth year 1973: Find a Grave only."
+    ],
+    "information_gaps": [
+      "Outcome of Washington Supreme Court petition No. 102409-6.",
+      "Names and ages of the two younger sisters on the day (only adult names Nicole Eby and Angela Velasquez known).",
+      "Name of the restaurant and the genealogist.",
+      "Whether the rape count was dismissed as a separate count at the stipulated trial (one report says dropped)."
+    ],
+    "questions_to_answer": [
+      "Did the case brief premise ('pleaded guilty in 2020') come from confusion with Washburn's January 2019 plea? Verified: Hartman did NOT plead guilty; he was convicted at a stipulated-facts bench trial on March 22, 2022."
+    ]
+  }
+}

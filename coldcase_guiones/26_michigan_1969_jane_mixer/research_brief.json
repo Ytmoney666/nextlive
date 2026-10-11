@@ -12,7 +12,7 @@
     "occupation_or_status": "First-year law student at the University of Michigan, living in the Law Quadrangle [1][10]",
     "location": "Ann Arbor, Michigan; family home in Muskegon, Michigan [1]",
     "physical_description": "Not used; real archival photo only.",
-    "background_brief": "Daughter of Muskegon dentist Dr. Dan C. Mixer [1]. She was heading home to Muskegon for spring break, and according to accounts of the family story she planned to announce her engagement [10]. She found a ride through a notice on a campus ride board [10][5].",
+    "background_brief": "Daughter of Muskegon dentist Dr. Dan C. Mixer [1]. She was heading home to Muskegon for spring break, and according to accounts of the family story she planned to announce her engagement [10]. She found a ride through a notice on a campus ride board [10][5]. Her niece Maggie Nelson's book 'Jane: A Murder' (2005) draws on Jane's own writings (background knowledge; verify).",
     "psychological_profile": "Not documented in verified sources; do not invent.",
     "mundane_humanizing_detail": "She used the ordinary student system of the time, a ride board, to get home to her parents [10][5].",
     "nickname_or_alias_if_any": "None documented"
@@ -20,59 +20,237 @@
   "victims_or_targets": {
     "_instructions": "People affected.",
     "individuals": [
-      {"name": "Jane Louise Mixer", "role_or_profession": "U-M law student, 23", "connection_to_protagonist": "Victim", "specific_impact_suffered": "Murdered on the night of March 20-21, 1969; shot twice in the head and strangled, according to later accounts [8][14]; found March 21, 1969 in Denton Cemetery [1]", "humanizing_detail": "Going home to Muskegon for spring break; planned to announce an engagement [10]", "any_quotes_from_them": "None verified"},
-      {"name": "Dr. Dan C. Mixer", "role_or_profession": "Dentist in Muskegon, Jane's father", "connection_to_protagonist": "Father", "specific_impact_suffered": "Waited for Jane that night; around 11 p.m. he set out in his car to look for her and drove around for several hours, per Maggie Nelson's account to CBS [5]", "humanizing_detail": "Described in 1969 as a prominent Muskegon dentist [1]", "any_quotes_from_them": "None verified"},
-      {"name": "Maggie Nelson", "role_or_profession": "Poet and author, Jane's niece (born after the murder)", "connection_to_protagonist": "Niece", "specific_impact_suffered": "Wrote 'Jane: A Murder' and the 2007 memoir 'The Red Parts' about the reopened case and the 2005 trial; she and her mother spent the summer of 2005 in Ann Arbor for the trial [10][11]", "humanizing_detail": "Interviewed the man Jane had been dating when she was killed, per reviews of The Red Parts [19]", "any_quotes_from_them": "Paraphrase only in script"},
-      {"name": "John Ruelas", "role_or_profession": "Man convicted of killing his mother in 2002", "connection_to_protagonist": "His DNA matched a blood spot on Jane's hand, although he was 4 years old in 1969 [7][8]", "specific_impact_suffered": "Ruled out because of his age; his match is the centre of the contamination debate [7]", "humanizing_detail": "N/A", "any_quotes_from_them": "None"}
+      {
+        "name": "Jane Louise Mixer",
+        "role_or_profession": "U-M law student, 23",
+        "connection_to_protagonist": "Victim",
+        "specific_impact_suffered": "Murdered on the night of March 20-21, 1969; shot twice in the head and strangled, according to later accounts [8][14]; found March 21, 1969 in Denton Cemetery [1]",
+        "humanizing_detail": "Going home to Muskegon for spring break; planned to announce an engagement [10]",
+        "any_quotes_from_them": "None verified"
+      },
+      {
+        "name": "Dr. Dan C. Mixer",
+        "role_or_profession": "Dentist in Muskegon, Jane's father",
+        "connection_to_protagonist": "Father",
+        "specific_impact_suffered": "Waited for Jane that night; around 11 p.m. he set out in his car to look for her and drove around for several hours, per Maggie Nelson's account to CBS [5]",
+        "humanizing_detail": "Described in 1969 as a prominent Muskegon dentist [1]",
+        "any_quotes_from_them": "None verified"
+      },
+      {
+        "name": "Maggie Nelson",
+        "role_or_profession": "Poet and author, Jane's niece (born after the murder)",
+        "connection_to_protagonist": "Niece",
+        "specific_impact_suffered": "Wrote 'Jane: A Murder' and the 2007 memoir 'The Red Parts' about the reopened case and the 2005 trial; she and her mother spent the summer of 2005 in Ann Arbor for the trial [10][11]",
+        "humanizing_detail": "Interviewed the man Jane had been dating when she was killed, per reviews of The Red Parts [19]",
+        "any_quotes_from_them": "Paraphrase only in script"
+      },
+      {
+        "name": "John Ruelas",
+        "role_or_profession": "Man convicted of killing his mother in 2002",
+        "connection_to_protagonist": "His DNA matched a blood spot on Jane's hand, although he was 4 years old in 1969 [7][8]",
+        "specific_impact_suffered": "Ruled out because of his age; his match is the centre of the contamination debate [7]",
+        "humanizing_detail": "N/A",
+        "any_quotes_from_them": "None"
+      }
     ],
-    "collective_victims_if_applicable": {"group_description": "Young women killed in Washtenaw County area 1967-1969 ('Michigan Murders')", "total_number_affected": "Seven young women found dead within about two years; Jane was the third [1][13]", "range_of_impacts": "Fear across Ann Arbor and Ypsilanti campuses; ages roughly 13 to 23 [13]"}
+    "collective_victims_if_applicable": {
+      "group_description": "Young women killed in Washtenaw County area 1967-1969 ('Michigan Murders')",
+      "total_number_affected": "Seven young women found dead within about two years; Jane was the third [1][13]",
+      "range_of_impacts": "Fear across Ann Arbor and Ypsilanti campuses; ages roughly 13 to 23 [13]"
+    }
   },
   "supporting_characters": {
     "_instructions": "Key people.",
     "characters": [
-      {"name": "Gary Earl Leiterman", "role_in_story": "Convicted killer; retired nurse, 62 at his 2004 arrest; lived in Ann Arbor at the time of the murder [3][4]", "key_actions_they_took": "DNA entered into the database after a 2001 arrest for forging prescriptions [9]; arrested November 2004 [3]; convicted of first-degree murder in 2005 after less than three hours of jury deliberation [8]; sentenced to life without parole [6]; maintains innocence [6]", "notable_quotes": "No verified direct quote used"},
-      {"name": "John Norman Collins", "role_in_story": "Eastern Michigan University student convicted in 1970 of the murder of Karen Sue Beineman, 18; long assumed to be Jane's killer but never charged in her death [10][13]", "key_actions_they_took": "Serving life without parole; held at Marquette Branch Prison per reports; now known as John Norman Chapman; maintains innocence [13]", "notable_quotes": "None"},
-      {"name": "Michigan State Police cold case detective (Det. Sgt. Eric Schroeder / Schroder; spelling varies)", "role_in_story": "Re-examined old evidence and had the stockings tested for DNA [9]", "key_actions_they_took": "Reopened the case around 2001 [15][9]", "notable_quotes": "None verified"},
-      {"name": "Gary Gabry", "role_in_story": "Leiterman's defense attorney [8]", "key_actions_they_took": "Argued lab contamination; sought testimony of DNA expert Dan Krane, which was limited by the court [8]", "notable_quotes": "None verified"},
-      {"name": "Dan Krane", "role_in_story": "Wright State University biology professor, defense DNA expert [8]", "key_actions_they_took": "Allowed only limited testimony [8]", "notable_quotes": "None"},
-      {"name": "John Wixted", "role_in_story": "UC San Diego psychologist [7]", "key_actions_they_took": "In 2016, after consulting six DNA experts, argued contaminated DNA evidence may have convicted the wrong man [7][16]", "notable_quotes": "Paraphrase only"},
-      {"name": "Maureen Maher", "role_in_story": "CBS 48 Hours correspondent, 'Deadly Ride' (2005) [5]", "key_actions_they_took": "Reported the case nationally", "notable_quotes": "None used"}
+      {
+        "name": "Gary Earl Leiterman",
+        "role_in_story": "Convicted killer; retired nurse, 62 at his 2004 arrest; lived in Ann Arbor at the time of the murder [3][4]",
+        "key_actions_they_took": "DNA entered into the database after a 2001 arrest for forging prescriptions [9]; arrested November 2004 [3]; convicted of first-degree murder in 2005 after less than three hours of jury deliberation [8]; sentenced to life without parole [6]; maintains innocence [6]",
+        "notable_quotes": "No verified direct quote used"
+      },
+      {
+        "name": "John Norman Collins",
+        "role_in_story": "Eastern Michigan University student convicted in 1970 of the murder of Karen Sue Beineman, 18; long assumed to be Jane's killer but never charged in her death [10][13]",
+        "key_actions_they_took": "Serving life without parole; held at Marquette Branch Prison per reports; now known as John Norman Chapman; maintains innocence [13]",
+        "notable_quotes": "None"
+      },
+      {
+        "name": "Michigan State Police cold case detective (Det. Sgt. Eric Schroeder / Schroder; spelling varies)",
+        "role_in_story": "Re-examined old evidence and had the stockings tested for DNA [9]",
+        "key_actions_they_took": "Reopened the case around 2001 [15][9]",
+        "notable_quotes": "None verified"
+      },
+      {
+        "name": "Gary Gabry",
+        "role_in_story": "Leiterman's defense attorney [8]",
+        "key_actions_they_took": "Argued lab contamination; sought testimony of DNA expert Dan Krane, which was limited by the court [8]",
+        "notable_quotes": "None verified"
+      },
+      {
+        "name": "Dan Krane",
+        "role_in_story": "Wright State University biology professor, defense DNA expert [8]",
+        "key_actions_they_took": "Allowed only limited testimony [8]",
+        "notable_quotes": "None"
+      },
+      {
+        "name": "John Wixted",
+        "role_in_story": "UC San Diego psychologist [7]",
+        "key_actions_they_took": "In 2016, after consulting six DNA experts, argued contaminated DNA evidence may have convicted the wrong man [7][16]",
+        "notable_quotes": "Paraphrase only"
+      },
+      {
+        "name": "Maureen Maher",
+        "role_in_story": "CBS 48 Hours correspondent, 'Deadly Ride' (2005) [5]",
+        "key_actions_they_took": "Reported the case nationally",
+        "notable_quotes": "None used"
+      }
     ]
   },
   "chronological_timeline": {
     "_instructions": "Backbone.",
     "events": [
-      {"date": "July 1967", "location": "Ypsilanti / Ann Arbor area", "what_happened": "Start of the series of killings of young women later called the Michigan Murders", "significance": "Context of fear in which Jane's case was filed", "source": "[13] WEMU"},
-      {"date": "March 20, 1969 (evening)", "location": "University of Michigan campus, Ann Arbor", "what_happened": "Jane Mixer left campus to go home to Muskegon with a ride arranged through a campus ride board", "significance": "Last movements", "source": "[1] Ann Arbor News 21 Mar 1969; [10]"},
-      {"date": "March 20, 1969, around 11 p.m.", "location": "Muskegon", "what_happened": "Jane's father, worried she had not arrived, set out in his car to look for her and drove for several hours", "significance": "Family's first night", "source": "[5] CBS 48 Hours, per Maggie Nelson"},
-      {"date": "March 21, 1969", "location": "Denton Cemetery, Cross St., about two miles east of Ypsilanti, Wayne County", "what_happened": "Jane's body found just inside a wire fence at an east entrance; first reports said beaten and strangled, a stocking around her neck", "significance": "Discovery; the stockings later yield the DNA", "source": "[1] Ann Arbor News 21 Mar 1969"},
-      {"date": "March 1969", "location": "Ann Arbor", "what_happened": "Police searched for the person Jane had arranged a ride with; it had not been determined whether that man ever picked her up", "significance": "The central lead of 1969", "source": "[2] Ann Arbor News follow-up"},
-      {"date": "July 1969", "location": "Ypsilanti", "what_happened": "Karen Sue Beineman, 18, last seen July 23, 1969; John Norman Collins arrested and later convicted (1970) of her murder only", "significance": "Jane's case folded into the 'Michigan Murders'; Collins never charged in her death", "source": "[13] WEMU; [10]"},
-      {"date": "2001", "location": "Michigan", "what_happened": "Michigan State Police reopen Jane's case for DNA testing of evidence collected more than 30 years earlier; same year Leiterman arrested for forging prescriptions and his DNA entered into the system", "significance": "The two threads that will meet", "source": "[15] Michigan Memories; [9] Eastern Echo"},
-      {"date": "2002", "location": "Michigan State Police lab", "what_happened": "Cold-case DNA analysis yields two male profiles matching the national database: Leiterman (pantyhose) and John Ruelas (blood spot on Jane's hand)", "significance": "The match and the anomaly", "source": "[7] APS 2016; [8] Crime Library"},
-      {"date": "Early 2002", "location": "Michigan", "what_happened": "John Ruelas killed his mother; his DNA entered the database; he was 4 years old in 1969", "significance": "Basis of the contamination argument", "source": "[7] APS 2016"},
-      {"date": "November 2004 (a Wednesday; AP story dated Nov. 26)", "location": "Michigan", "what_happened": "Gary E. Leiterman, 62, retired nurse, arrested and charged with one count of murder; held without bond", "significance": "35 years after the murder", "source": "[3] AP/Deseret News; [4] Seattle Times"},
-      {"date": "July 2005", "location": "Washtenaw County courthouse, Ann Arbor", "what_happened": "Trial; DNA analyst testifies samples tested same day but in separate parts of lab; handwriting witness calls phone-book writing 'highly probable' Leiterman's; jury convicts of first-degree murder after under three hours", "significance": "Conviction", "source": "[8] Crime Library; [14]"},
-      {"date": "2005", "location": "Ann Arbor", "what_happened": "Leiterman sentenced to life in prison without the possibility of parole", "significance": "Legal resolution", "source": "[6] CBS News; [9]"},
-      {"date": "2005 (Nov.)", "location": "National TV", "what_happened": "CBS 48 Hours airs 'Deadly Ride' on the case", "significance": "National attention", "source": "[5] CBS; [17]"},
-      {"date": "2007", "location": "USA", "what_happened": "Maggie Nelson publishes The Red Parts about the reopened case and trial", "significance": "Family's perspective", "source": "[10] Wikipedia; [12] PW"},
-      {"date": "2016", "location": "USA", "what_happened": "Psychologist John Wixted, after consulting six DNA experts, argues contamination may have convicted the wrong man; Leiterman seeks new trial, maintains innocence", "significance": "Contamination debate continues", "source": "[7] APS; [6] CBS"}
+      {
+        "date": "July 1967",
+        "location": "Ypsilanti / Ann Arbor area",
+        "what_happened": "Start of the series of killings of young women later called the Michigan Murders",
+        "significance": "Context of fear in which Jane's case was filed",
+        "source": "[13] WEMU"
+      },
+      {
+        "date": "March 20, 1969 (evening)",
+        "location": "University of Michigan campus, Ann Arbor",
+        "what_happened": "Jane Mixer left campus to go home to Muskegon with a ride arranged through a campus ride board",
+        "significance": "Last movements",
+        "source": "[1] Ann Arbor News 21 Mar 1969; [10]"
+      },
+      {
+        "date": "March 20, 1969, around 11 p.m.",
+        "location": "Muskegon",
+        "what_happened": "Jane's father, worried she had not arrived, set out in his car to look for her and drove for several hours",
+        "significance": "Family's first night",
+        "source": "[5] CBS 48 Hours, per Maggie Nelson"
+      },
+      {
+        "date": "March 21, 1969",
+        "location": "Denton Cemetery, Cross St., about two miles east of Ypsilanti, Wayne County",
+        "what_happened": "Jane's body found just inside a wire fence at an east entrance; first reports said beaten and strangled, a stocking around her neck",
+        "significance": "Discovery; the stockings later yield the DNA",
+        "source": "[1] Ann Arbor News 21 Mar 1969"
+      },
+      {
+        "date": "March 1969",
+        "location": "Ann Arbor",
+        "what_happened": "Police searched for the person Jane had arranged a ride with; it had not been determined whether that man ever picked her up",
+        "significance": "The central lead of 1969",
+        "source": "[2] Ann Arbor News follow-up"
+      },
+      {
+        "date": "July 1969",
+        "location": "Ypsilanti",
+        "what_happened": "Karen Sue Beineman, 18, last seen July 23, 1969; John Norman Collins arrested and later convicted (1970) of her murder only",
+        "significance": "Jane's case folded into the 'Michigan Murders'; Collins never charged in her death",
+        "source": "[13] WEMU; [10]"
+      },
+      {
+        "date": "2001",
+        "location": "Michigan",
+        "what_happened": "Michigan State Police reopen Jane's case for DNA testing of evidence collected more than 30 years earlier; same year Leiterman arrested for forging prescriptions and his DNA entered into the system",
+        "significance": "The two threads that will meet",
+        "source": "[15] Michigan Memories; [9] Eastern Echo"
+      },
+      {
+        "date": "2002",
+        "location": "Michigan State Police lab",
+        "what_happened": "Cold-case DNA analysis at a Michigan State Police lab develops two male profiles that are later matched in the national database: Leiterman (pantyhose) and John Ruelas (blood spot on Jane's hand). Analysis reported as 2002; the Leiterman database match and arrest reported in 2004",
+        "significance": "The match and the anomaly",
+        "source": "[7] APS 2016; [8] Crime Library"
+      },
+      {
+        "date": "Early 2002",
+        "location": "Michigan",
+        "what_happened": "John Ruelas killed his mother; his DNA entered the database; he was 4 years old in 1969",
+        "significance": "Basis of the contamination argument",
+        "source": "[7] APS 2016"
+      },
+      {
+        "date": "November 2004 (a Wednesday; AP story dated Nov. 26)",
+        "location": "Michigan",
+        "what_happened": "Gary E. Leiterman, 62, retired nurse, arrested and charged with one count of murder; held without bond",
+        "significance": "35 years after the murder",
+        "source": "[3] AP/Deseret News; [4] Seattle Times"
+      },
+      {
+        "date": "July 2005",
+        "location": "Washtenaw County courthouse, Ann Arbor",
+        "what_happened": "Trial; DNA analyst testifies samples tested same day but in separate parts of lab; handwriting witness calls phone-book writing 'highly probable' Leiterman's; jury convicts of first-degree murder after under three hours",
+        "significance": "Conviction",
+        "source": "[8] Crime Library; [14]"
+      },
+      {
+        "date": "2005",
+        "location": "Ann Arbor",
+        "what_happened": "Leiterman sentenced to life in prison without the possibility of parole",
+        "significance": "Legal resolution",
+        "source": "[6] CBS News; [9]"
+      },
+      {
+        "date": "2005 (Nov.)",
+        "location": "National TV",
+        "what_happened": "CBS 48 Hours airs 'Deadly Ride' on the case",
+        "significance": "National attention",
+        "source": "[5] CBS; [17]"
+      },
+      {
+        "date": "2007",
+        "location": "USA",
+        "what_happened": "Maggie Nelson publishes The Red Parts about the reopened case and trial",
+        "significance": "Family's perspective",
+        "source": "[10] Wikipedia; [12] PW"
+      },
+      {
+        "date": "2016",
+        "location": "USA",
+        "what_happened": "Psychologist John Wixted, after consulting six DNA experts, argues contamination may have convicted the wrong man; Leiterman seeks new trial, maintains innocence",
+        "significance": "Contamination debate continues",
+        "source": "[7] APS; [6] CBS"
+      }
     ]
   },
   "cold_open_material": {
     "_instructions": "Hook.",
-    "the_moment": {"exact_date": "March 21, 1969", "exact_location": "Denton Cemetery, Cross Street, about two miles east of Ypsilanti, Michigan", "what_is_happening": "The body of a 23-year-old law student is found just inside the cemetery fence, the morning after she set out for home with a ride from a campus ride board", "what_makes_it_shocking": "She had used the most ordinary student system of her day, and she was placed in the cemetery with her belongings", "ironic_twist": "In 2002 the DNA named two men: a retired nurse and a man who had been four years old in 1969"},
+    "the_moment": {
+      "exact_date": "March 21, 1969",
+      "exact_location": "Denton Cemetery, Cross Street, about two miles east of Ypsilanti, Michigan",
+      "what_is_happening": "The body of a 23-year-old law student is found just inside the cemetery fence, the morning after she set out for home with a ride from a campus ride board",
+      "what_makes_it_shocking": "She had used the most ordinary student system of her day, and she was placed in the cemetery with her belongings",
+      "ironic_twist": "In 2002 the DNA named two men: a retired nurse and a man who had been four years old in 1969"
+    },
     "central_mystery_question": "Who was the driver from the ride board, and can DNA be trusted when it names a four-year-old boy?"
   },
   "the_method": {
     "_instructions": "Forensic method.",
     "technique_name": "STR DNA profiling of preserved 1969 evidence searched against CODIS",
-    "step_by_step_explanation": ["Evidence (pantyhose/stockings, blood spot from hand) preserved since 1969 [7][9]", "Re-tested by Michigan State Police around 2001-2002 [15][7]", "Profiles uploaded to the national DNA database [7]", "Hits: Leiterman (entered after 2001 forgery arrest) and Ruelas (entered after 2002 killing) [9][7]", "Ruelas excluded because he was 4 in 1969 [7]"],
+    "step_by_step_explanation": [
+      "Evidence (pantyhose/stockings, blood spot from hand) preserved since 1969 [7][9]",
+      "Re-tested by Michigan State Police around 2001-2002 [15][7]",
+      "Profiles uploaded to the national DNA database [7]",
+      "Hits: Leiterman (entered after 2001 forgery arrest) and Ruelas (entered after 2002 killing) [9][7]",
+      "Ruelas excluded because he was 4 in 1969 [7]"
+    ],
     "why_it_worked": "The evidence was kept for more than 30 years and Leiterman's profile had entered the database for an unrelated non-violent offence [9]",
     "technical_terms_to_explain": [
-      {"term": "CODIS", "simple_explanation": "The FBI's national computer index of DNA profiles from crime scenes and from people arrested for or convicted of certain crimes"},
-      {"term": "Contamination", "simple_explanation": "DNA from one sample accidentally getting onto another, like a fingerprint left on a glass by the person who washed it"},
-      {"term": "Touch or trace DNA", "simple_explanation": "DNA from sweat or skin cells rather than blood or semen; the Leiterman DNA was reported as possibly from sweat, saliva or skin cells [8]"}
+      {
+        "term": "CODIS",
+        "simple_explanation": "The FBI's national computer index of DNA profiles from crime scenes and from people arrested for or convicted of certain crimes"
+      },
+      {
+        "term": "Contamination",
+        "simple_explanation": "DNA from one sample accidentally getting onto another, like a fingerprint left on a glass by the person who washed it"
+      },
+      {
+        "term": "Touch or trace DNA",
+        "simple_explanation": "DNA from sweat or skin cells rather than blood or semen; the Leiterman DNA was reported as possibly from sweat, saliva or skin cells [8]"
+      }
     ],
     "scale_of_operation": "Three samples of Leiterman's DNA reported on the pantyhose [8]"
   },
@@ -81,7 +259,11 @@
     "institution_that_failed": "1969 investigation (tunnel vision toward a serial-killer theory) and, per the defense, the 2002 crime lab",
     "how_they_were_supposed_to_protect": "Identify the ride-board driver; keep lab evidence uncontaminated",
     "why_they_failed": "Jane's death was grouped with the Michigan Murders though it differed (she was shot and placed with her belongings) [9][17]; in 2002 a 4-year-old's DNA appeared on her hand and was never explained [8]",
-    "specific_incompetence_examples": ["Case assumed to be Collins's for about three decades though he was never charged [10]", "Ruelas and Mixer samples processed in the same lab on the same day [8]", "Handwriting witness had examined only photos [14]"],
+    "specific_incompetence_examples": [
+      "Case assumed to be Collins's for about three decades though he was never charged [10]",
+      "Ruelas and Mixer samples processed in the same lab on the same day [8]",
+      "Handwriting witness had examined only photos [14]"
+    ],
     "ironic_details_about_the_failure": "The DNA that convicted Leiterman came from the same testing that produced a match to a man who was a small child in 1969"
   },
   "the_investigation": {
@@ -104,10 +286,18 @@
   },
   "legal_resolution": {
     "_instructions": "Court.",
-    "charges_filed": ["One count of murder (first-degree murder at trial) [3][8]"],
+    "charges_filed": [
+      "One count of murder (first-degree murder at trial) [3][8]"
+    ],
     "trial_date_if_applicable": "July 2005, Washtenaw County, Ann Arbor [8]",
     "notable_court_testimony": "DNA analyst: samples tested same day, technicians in separate parts of lab, quality controls made mix-up unlikely [8]; police lieutenant: phone-book writing 'highly probable' Leiterman's, but examined only photos [14]; defense expert Dan Krane allowed only limited testimony [8]",
-    "victim_impact_statements": [{"from_whom": "Mixer family", "key_quote": "Not verified; do not quote", "emotional_impact": "Family attended; Maggie Nelson and her mother spent the summer in Ann Arbor [10]"}],
+    "victim_impact_statements": [
+      {
+        "from_whom": "Mixer family",
+        "key_quote": "Not verified; do not quote",
+        "emotional_impact": "Family attended; Maggie Nelson and her mother spent the summer in Ann Arbor [10]"
+      }
+    ],
     "sentence_received": "Life in prison without the possibility of parole [6]",
     "protagonist_statement_in_court": "Not verified",
     "current_status": "Last public reports (2016) show Leiterman serving life and maintaining innocence, seeking a new trial [6][7]. No verified report of exoneration, new trial, or death was found. Verify on Michigan DOC OTIS before publishing."
@@ -115,23 +305,74 @@
   "verified_quotes": {
     "_instructions": "Only verified.",
     "quotes": [
-      {"speaker": "Ann Arbor News, March 21, 1969", "exact_quote": "reportedly beaten and strangled to death", "context": "First newspaper report on discovery", "source": "[1]"},
-      {"speaker": "Michigan State Police handwriting witness (police lieutenant) at 2005 trial", "exact_quote": "highly probable", "context": "Describing whether writing in a phone book was Leiterman's; admitted examining only photos", "source": "[14]"},
-      {"speaker": "Prosecution, 2005 (as reported)", "exact_quote": "a circumstance we need to explain", "context": "On the Ruelas DNA match", "source": "[8] Crime Library (secondary; verify wording)"}
+      {
+        "speaker": "Ann Arbor News, March 21, 1969",
+        "exact_quote": "reportedly beaten and strangled to death",
+        "context": "First newspaper report on discovery",
+        "source": "[1]"
+      },
+      {
+        "speaker": "Michigan State Police handwriting witness (police lieutenant) at 2005 trial",
+        "exact_quote": "highly probable",
+        "context": "Describing whether writing in a phone book was Leiterman's; admitted examining only photos",
+        "source": "[14]"
+      },
+      {
+        "speaker": "Prosecution, 2005 (as reported)",
+        "exact_quote": "a circumstance we need to explain",
+        "context": "On the Ruelas DNA match",
+        "source": "[8] Crime Library (secondary; verify wording)"
+      }
     ]
   },
   "statistics_and_numbers": {
     "_instructions": "Figures.",
     "figures": [
-      {"number": "23", "what_it_represents": "Jane's age", "source": "[1]"},
-      {"number": "2 miles", "what_it_represents": "Distance of Denton Cemetery east of Ypsilanti", "source": "[1]"},
-      {"number": "3rd of 7", "what_it_represents": "Jane's place among young women found dead in the area within two years", "source": "[1]/[13]"},
-      {"number": "4", "what_it_represents": "John Ruelas's age in 1969", "source": "[7]"},
-      {"number": "62", "what_it_represents": "Leiterman's age at arrest in 2004", "source": "[4]"},
-      {"number": "35", "what_it_represents": "Years from the murder to the arrest", "source": "[3]"},
-      {"number": "3", "what_it_represents": "Samples of Leiterman DNA reported on the pantyhose", "source": "[8]"},
-      {"number": "under 3 hours", "what_it_represents": "Jury deliberation", "source": "[8]"},
-      {"number": "6", "what_it_represents": "DNA experts consulted by Wixted (2016)", "source": "[7]"}
+      {
+        "number": "23",
+        "what_it_represents": "Jane's age",
+        "source": "[1]"
+      },
+      {
+        "number": "2 miles",
+        "what_it_represents": "Distance of Denton Cemetery east of Ypsilanti",
+        "source": "[1]"
+      },
+      {
+        "number": "3rd of 7",
+        "what_it_represents": "Jane's place among young women found dead in the area within two years",
+        "source": "[1]/[13]"
+      },
+      {
+        "number": "4",
+        "what_it_represents": "John Ruelas's age in 1969",
+        "source": "[7]"
+      },
+      {
+        "number": "62",
+        "what_it_represents": "Leiterman's age at arrest in 2004",
+        "source": "[4]"
+      },
+      {
+        "number": "35",
+        "what_it_represents": "Years from the murder to the arrest",
+        "source": "[3]"
+      },
+      {
+        "number": "3",
+        "what_it_represents": "Samples of Leiterman DNA reported on the pantyhose",
+        "source": "[8]"
+      },
+      {
+        "number": "under 3 hours",
+        "what_it_represents": "Jury deliberation",
+        "source": "[8]"
+      },
+      {
+        "number": "6",
+        "what_it_represents": "DNA experts consulted by Wixted (2016)",
+        "source": "[7]"
+      }
     ]
   },
   "ironic_and_absurd_details": {
@@ -145,9 +386,24 @@
   "sensory_and_environmental_details": {
     "_instructions": "Places.",
     "key_locations": [
-      {"location_name": "University of Michigan Law Quadrangle, Ann Arbor", "physical_description": "Jane's residence [1]", "atmosphere": "Campus in spring 1969", "relevant_details": "She left campus the evening of March 20 [1]"},
-      {"location_name": "Denton Cemetery, Cross St.", "physical_description": "Small cemetery about two miles east of Ypsilanti, Wayne County; body just inside a wire fence at an east entrance [1]", "atmosphere": "Rural edge of town", "relevant_details": "Placed with her belongings [17][9]"},
-      {"location_name": "Muskegon, Michigan", "physical_description": "Jane's hometown on Lake Michigan", "atmosphere": "Family home", "relevant_details": "Her father searched by car that night [5]"}
+      {
+        "location_name": "University of Michigan Law Quadrangle, Ann Arbor",
+        "physical_description": "Jane's residence [1]",
+        "atmosphere": "Campus in spring 1969",
+        "relevant_details": "She left campus the evening of March 20 [1]"
+      },
+      {
+        "location_name": "Denton Cemetery, Cross St.",
+        "physical_description": "Small cemetery about two miles east of Ypsilanti, Wayne County; body just inside a wire fence at an east entrance [1]",
+        "atmosphere": "Rural edge of town",
+        "relevant_details": "Placed with her belongings [17][9]"
+      },
+      {
+        "location_name": "Muskegon, Michigan",
+        "physical_description": "Jane's hometown on Lake Michigan",
+        "atmosphere": "Family home",
+        "relevant_details": "Her father searched by car that night [5]"
+      }
     ]
   },
   "universal_stakes": {
@@ -160,27 +416,134 @@
   "sources": {
     "_instructions": "All sources.",
     "primary_sources": [
-      {"type": "Newspaper 1969", "title": "University Coed Is Found Slain (Ann Arbor News, 21 Mar 1969)", "url_or_reference": "https://aadl.org/aa_news_19690321-university_coed_found_slain", "key_information_obtained": "Name, age, Law Quad, Muskegon, father Dr. Dan C. Mixer, location of body, early cause reports"},
-      {"type": "Newspaper 1969", "title": "Who Gave Murder Victim a Ride? (Ann Arbor News, March 1969)", "url_or_reference": "https://aadl.org/node/91015", "key_information_obtained": "Search for the ride; unknown whether the man picked her up"},
-      {"type": "Wire report", "title": "Man charged in slaying of woman 35 years ago (AP / Deseret News, 26 Nov 2004)", "url_or_reference": "https://www.deseret.com/2004/11/26/19863440/man-charged-in-slaying-of-woman-35-years-ago", "key_information_obtained": "Arrest, charge, held without bond"},
-      {"type": "Newspaper", "title": "Man charged in decades-old slaying (Seattle Times, 26 Nov 2004)", "url_or_reference": "https://archive.seattletimes.com/archive/20041126/arrest26/man-charged-in-decades-old-slaying", "key_information_obtained": "Leiterman 62, retired nurse, lived in Ann Arbor in 1969"}
+      {
+        "type": "Newspaper 1969",
+        "title": "University Coed Is Found Slain (Ann Arbor News, 21 Mar 1969)",
+        "url_or_reference": "https://aadl.org/aa_news_19690321-university_coed_found_slain",
+        "key_information_obtained": "Name, age, Law Quad, Muskegon, father Dr. Dan C. Mixer, location of body, early cause reports"
+      },
+      {
+        "type": "Newspaper 1969",
+        "title": "Who Gave Murder Victim a Ride? (Ann Arbor News, March 1969)",
+        "url_or_reference": "https://aadl.org/node/91015",
+        "key_information_obtained": "Search for the ride; unknown whether the man picked her up"
+      },
+      {
+        "type": "Wire report",
+        "title": "Man charged in slaying of woman 35 years ago (AP / Deseret News, 26 Nov 2004)",
+        "url_or_reference": "https://www.deseret.com/2004/11/26/19863440/man-charged-in-slaying-of-woman-35-years-ago",
+        "key_information_obtained": "Arrest, charge, held without bond"
+      },
+      {
+        "type": "Newspaper",
+        "title": "Man charged in decades-old slaying (Seattle Times, 26 Nov 2004)",
+        "url_or_reference": "https://archive.seattletimes.com/archive/20041126/arrest26/man-charged-in-decades-old-slaying",
+        "key_information_obtained": "Leiterman 62, retired nurse, lived in Ann Arbor in 1969"
+      }
     ],
     "secondary_sources": [
-      {"type": "TV", "title": "CBS 48 Hours, Deadly Ride", "url_or_reference": "https://cbsnews.com/news/deadly-ride", "key_information_obtained": "Father's search; ride board"},
-      {"type": "TV/News", "title": "CBS News, Man challenges DNA murder conviction", "url_or_reference": "https://www.cbsnews.com/news/man-challenges-dna-murder-conviction", "key_information_obtained": "Life without parole; innocence claim; contamination argument"},
-      {"type": "Article", "title": "APS: Whether Eyewitness Memory or DNA, Contaminated Forensic Evidence Is Unreliable (2016)", "url_or_reference": "https://psychologicalscience.org/?p=127318", "key_information_obtained": "2002 lab analysis; Ruelas; Wixted"},
-      {"type": "Article", "title": "Crime Library, John Norman Collins ch. 13-14", "url_or_reference": "https://crimelibrary.org/serial_killers/predators/collins/14.html", "key_information_obtained": "Trial, same-day testing, Krane, deliberation"},
-      {"type": "Student newspaper", "title": "Eastern Echo, Michigan Murders podcast part 4 (2020)", "url_or_reference": "https://easternecho.com/article/2020/01/eastern-echo-podcast-michigan-murders-part-4", "key_information_obtained": "2001 forgery arrest; detective re-test"},
-      {"type": "Encyclopedia", "title": "The Red Parts (Wikipedia)", "url_or_reference": "https://en.wikipedia.org/wiki/The_Red_Parts", "key_information_obtained": "Engagement, ride board, Collins never charged"},
-      {"type": "Review", "title": "Kirkus Reviews, The Red Parts", "url_or_reference": "https://www.kirkusreviews.com/book-reviews/maggie-nelson/the-red-parts/", "key_information_obtained": "Nelson and mother in Ann Arbor 2005"},
-      {"type": "Review", "title": "Publishers Weekly, The Red Parts", "url_or_reference": "https://publishersweekly.com/9781416532033", "key_information_obtained": "Retired nurse linked by DNA"},
-      {"type": "Radio", "title": "WEMU, Hidden in plain sight: terror in Ypsilanti", "url_or_reference": "https://www.wemu.org/post/hidden-plain-sight-terror-ypsilanti", "key_information_obtained": "Collins status, Beineman, 1967-1969 span"},
-      {"type": "Encyclopedia mirror", "title": "Michigan Murders: Belated data in the Mixer case", "url_or_reference": "https://www.liquisearch.com/michigan_murders/belated_data_in_the_mixer_case", "key_information_obtained": "Handwriting testimony"},
-      {"type": "Archive", "title": "Michigan Memories exhibit", "url_or_reference": "https://michmemories.org/exhibits/topics/catalog/81a8ed3bad8c4219e9a2be4dc3fe0d8e", "key_information_obtained": "Reopened 2001; conviction"},
-      {"type": "Blog", "title": "Gregory A. Fournier, Ambiguity Mars the Jane Mixer Case", "url_or_reference": "https://www.goodreads.com/author_blog_posts/14199578-ambiguity-mars-the-jane-mixer-case", "key_information_obtained": "Repost of Wixted material"},
-      {"type": "Podcast", "title": "48 Hours: The Mystery of Jane Mixer", "url_or_reference": "https://podscripts.co/podcasts/48-hours/the-mystery-of-jane-mixer", "key_information_obtained": "Placed with belongings; rainy night reference"},
-      {"type": "Radio", "title": "99WFMK: Six Michigan serial killers serving life", "url_or_reference": "https://99wfmk.com/six-michigan-serial-killers-serving-life-in-prison/", "key_information_obtained": "Collins serving life"},
-      {"type": "Review", "title": "Electric Literature on The Red Parts", "url_or_reference": "https://electricliterature.com/maggie-nelsons-the-red-parts-bends-the-true-crime-model-until-it-breaks/", "key_information_obtained": "Nelson interviews the man Jane was dating"}
+      {
+        "type": "TV",
+        "title": "CBS 48 Hours, Deadly Ride",
+        "url_or_reference": "https://cbsnews.com/news/deadly-ride",
+        "key_information_obtained": "Father's search; ride board"
+      },
+      {
+        "type": "TV/News",
+        "title": "CBS News, Man challenges DNA murder conviction",
+        "url_or_reference": "https://www.cbsnews.com/news/man-challenges-dna-murder-conviction",
+        "key_information_obtained": "Life without parole; innocence claim; contamination argument"
+      },
+      {
+        "type": "Article",
+        "title": "APS: Whether Eyewitness Memory or DNA, Contaminated Forensic Evidence Is Unreliable (2016)",
+        "url_or_reference": "https://psychologicalscience.org/?p=127318",
+        "key_information_obtained": "2002 lab analysis; Ruelas; Wixted"
+      },
+      {
+        "type": "Article",
+        "title": "Crime Library, John Norman Collins ch. 13-14",
+        "url_or_reference": "https://crimelibrary.org/serial_killers/predators/collins/14.html",
+        "key_information_obtained": "Trial, same-day testing, Krane, deliberation"
+      },
+      {
+        "type": "Student newspaper",
+        "title": "Eastern Echo, Michigan Murders podcast part 4 (2020)",
+        "url_or_reference": "https://easternecho.com/article/2020/01/eastern-echo-podcast-michigan-murders-part-4",
+        "key_information_obtained": "2001 forgery arrest; detective re-test"
+      },
+      {
+        "type": "Encyclopedia",
+        "title": "The Red Parts (Wikipedia)",
+        "url_or_reference": "https://en.wikipedia.org/wiki/The_Red_Parts",
+        "key_information_obtained": "Engagement, ride board, Collins never charged"
+      },
+      {
+        "type": "Review",
+        "title": "Kirkus Reviews, The Red Parts",
+        "url_or_reference": "https://www.kirkusreviews.com/book-reviews/maggie-nelson/the-red-parts/",
+        "key_information_obtained": "Nelson and mother in Ann Arbor 2005"
+      },
+      {
+        "type": "Review",
+        "title": "Publishers Weekly, The Red Parts",
+        "url_or_reference": "https://publishersweekly.com/9781416532033",
+        "key_information_obtained": "Retired nurse linked by DNA"
+      },
+      {
+        "type": "Radio",
+        "title": "WEMU, Hidden in plain sight: terror in Ypsilanti",
+        "url_or_reference": "https://www.wemu.org/post/hidden-plain-sight-terror-ypsilanti",
+        "key_information_obtained": "Collins status, Beineman, 1967-1969 span"
+      },
+      {
+        "type": "Encyclopedia mirror",
+        "title": "Michigan Murders: Belated data in the Mixer case",
+        "url_or_reference": "https://www.liquisearch.com/michigan_murders/belated_data_in_the_mixer_case",
+        "key_information_obtained": "Handwriting testimony"
+      },
+      {
+        "type": "Archive",
+        "title": "Michigan Memories exhibit",
+        "url_or_reference": "https://michmemories.org/exhibits/topics/catalog/81a8ed3bad8c4219e9a2be4dc3fe0d8e",
+        "key_information_obtained": "Reopened 2001; conviction"
+      },
+      {
+        "type": "Blog",
+        "title": "Gregory A. Fournier, Ambiguity Mars the Jane Mixer Case",
+        "url_or_reference": "https://www.goodreads.com/author_blog_posts/14199578-ambiguity-mars-the-jane-mixer-case",
+        "key_information_obtained": "Repost of Wixted material"
+      },
+      {
+        "type": "Podcast",
+        "title": "48 Hours: The Mystery of Jane Mixer",
+        "url_or_reference": "https://podscripts.co/podcasts/48-hours/the-mystery-of-jane-mixer",
+        "key_information_obtained": "Placed with belongings; rainy night reference"
+      },
+      {
+        "type": "Radio",
+        "title": "99WFMK: Six Michigan serial killers serving life",
+        "url_or_reference": "https://99wfmk.com/six-michigan-serial-killers-serving-life-in-prison/",
+        "key_information_obtained": "Collins serving life"
+      },
+      {
+        "type": "Review",
+        "title": "Electric Literature on The Red Parts",
+        "url_or_reference": "https://electricliterature.com/maggie-nelsons-the-red-parts-bends-the-true-crime-model-until-it-breaks/",
+        "key_information_obtained": "Nelson interviews the man Jane was dating"
+      },
+      {
+        "type": "Book (background knowledge, not searched)",
+        "title": "Edward Keyes, The Michigan Murders (1976)",
+        "url_or_reference": "Book, 1976 (publisher details to verify)",
+        "key_information_obtained": "Popular account that kept the series in public memory"
+      },
+      {
+        "type": "Background (well documented, not searched)",
+        "title": "Colin Pitchfork case, Leicestershire, England (murders 1983 and 1986; conviction 1988); FBI NDIS began operating October 1998",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Colin_Pitchfork ; https://www.fbi.gov/how-we-can-help-you/dna-fingerprint-act-of-2005-expungement-policy/codis-and-ndis-fact-sheet",
+        "key_information_obtained": "Context for DNA science history in Part 6-7"
+      }
     ]
   },
   "next_video_hook": {
@@ -197,9 +560,18 @@
       "Raincoat placed over the body (not confirmed; excluded)",
       "Exact verdict date (often given as July 2005) and sentencing date (often given as August 2005)",
       "Prosecutor name (Steven Hiller often cited; not confirmed; excluded)",
-      "Detective spelling: Schroeder vs Schroder"
+      "Detective spelling: Schroeder vs Schroder",
+      "Exact date of the CODIS hit to Leiterman (2002 analysis vs 2004 match; script says profiles 2002, name/arrest 2004)",
+      "Edward Keyes, The Michigan Murders (1976): background knowledge, verify publication details"
     ],
-    "information_gaps": ["Leiterman's status in 2026 (alive, appeals) - check MDOC OTIS", "Exact 2001 vs 2002 date of Leiterman's forgery conviction", "Verified family quotes"],
-    "questions_to_answer": ["How did Ruelas DNA reach the evidence", "Was Leiterman's reference sample ever in the same lab at the same time (not claimed in script)"]
+    "information_gaps": [
+      "Leiterman's status in 2026 (alive, appeals) - check MDOC OTIS",
+      "Exact 2001 vs 2002 date of Leiterman's forgery conviction",
+      "Verified family quotes"
+    ],
+    "questions_to_answer": [
+      "How did Ruelas DNA reach the evidence",
+      "Was Leiterman's reference sample ever in the same lab at the same time (not claimed in script)"
+    ]
   }
 }

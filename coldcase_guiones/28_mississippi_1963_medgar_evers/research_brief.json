@@ -1,0 +1,286 @@
+{
+  "video_metadata": {
+    "working_title": "MISSISSIPPI 1963 Cold Case Solved After 31 Years — Justice for Medgar Evers",
+    "topic_one_sentence": "Civil rights leader Medgar Evers, 37, was shot in the back in his Jackson, Mississippi driveway on June 12, 1963; the man whose fingerprint was on the rifle scope walked free after two hung juries in 1964, and only the persistence of his widow Myrlie, a reporter's discovery in secret state files and a prosecutor who rebuilt a lost case brought a conviction on February 5, 1994.",
+    "primary_emotion_to_evoke": "Dignified grief turning into quiet outrage at a system that protected a killer, then hard-won justice.",
+    "target_length_minutes": "70 (about 12,300-12,900 words at 170 wpm)"
+  },
+  "protagonist": {
+    "_instructions": "Narrative protagonist is the victim and his widow; the convicted killer is described in the suspect fields below.",
+    "full_name": "Medgar Wiley Evers",
+    "age_at_time_of_events": "37 (born July 2, 1925; killed June 12, 1963)",
+    "occupation_or_status": "First NAACP field secretary for Mississippi (from 1954); World War II Army veteran",
+    "location": "Family home on Guynes Street (today Margaret Walker Alexander Drive), Jackson, Mississippi",
+    "physical_description": "Not used in script beyond archival photos.",
+    "background_brief": "Born in Decatur, Mississippi, the son of farmer and sawmill worker James Evers and his wife Jesse. Left high school at 17 to enlist in the segregated U.S. Army; served in France and Germany after D-Day; honorably discharged 1946. Attended Alcorn A&M College, married classmate Myrlie Beasley on December 24, 1951, graduated 1952. Applied to the University of Mississippi law school in 1954 after Brown v. Board and was denied; the NAACP then made him its first Mississippi field secretary. Investigated racial violence (including the 1955 Emmett Till case), organized voter registration and boycotts, supported James Meredith's 1962 admission to Ole Miss, and led the 1963 Jackson Movement.",
+    "psychological_profile": "Described by contemporaries and the National Park Service as disciplined, determined and aware of the danger; the family practiced what to do if the house was attacked.",
+    "mundane_humanizing_detail": "He called Myrlie on June 11, 1963 and urged her to watch President Kennedy's civil rights speech on television; she and the children waited up for him that night.",
+    "nickname_or_alias_if_any": "None used",
+    "convicted_person": {
+      "full_name": "Byron De La Beckwith",
+      "born": "November 9, 1920, Sacramento, California; raised in Greenwood, Mississippi",
+      "age_at_crime": "42",
+      "age_at_conviction": "73",
+      "background": "U.S. Marine in World War II; fertilizer salesman in Greenwood; white segregationist and member of the White Citizens' Council (background knowledge, widely documented).",
+      "legal_status": "Convicted of murder by a Hinds County jury February 5, 1994; sentenced to life by Judge L. Breland Hilburn; conviction affirmed by the Mississippi Supreme Court on December 22, 1997; died in custody January 21, 2001, age 80, at the University Medical Center in Jackson.",
+      "position_on_guilt": "Denied the killing; in 1964 he testified the rifle could have been his but he was not sure [38]."
+    }
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected.",
+    "individuals": [
+      {"name": "Medgar Evers", "role_or_profession": "NAACP Mississippi field secretary", "connection_to_protagonist": "Victim", "specific_impact_suffered": "Shot in the back in his driveway just after midnight on June 12, 1963; died at University Hospital in Jackson less than an hour later from trauma and blood loss [1][6].", "humanizing_detail": "Arrived home carrying T-shirts reading 'Jim Crow Must Go' [29][43].", "any_quotes_from_them": "'You can kill a man, but you can't kill an idea.' (widely attributed; see notes)"},
+      {"name": "Myrlie Evers (later Myrlie Evers-Williams)", "role_or_profession": "Widow; later NAACP national chair 1995-1998", "connection_to_protagonist": "Wife since December 24, 1951", "specific_impact_suffered": "Found her husband collapsed in the carport; testified in both 1964 trials; spent three decades pressing for the case to be reopened [1][12][27].", "humanizing_detail": "She was 30 in June 1963 (born March 17, 1933).", "any_quotes_from_them": "'Yes, Medgar!' on hearing the verdict, February 5, 1994 [26][27]."},
+      {"name": "Darrell Kenyatta Evers", "role_or_profession": "Eldest son, age 9 in 1963", "connection_to_protagonist": "Son", "specific_impact_suffered": "Was in the house during the shooting; died in 2001 [36].", "humanizing_detail": "Spelled Darrell or Darryl in different sources.", "any_quotes_from_them": ""},
+      {"name": "Reena Denise Evers", "role_or_profession": "Daughter, age 8 in 1963", "connection_to_protagonist": "Daughter", "specific_impact_suffered": "In the house during the shooting; in court with her mother for the 1994 verdict (AP photo caption) [27].", "humanizing_detail": "", "any_quotes_from_them": ""},
+      {"name": "James Van Dyke Evers", "role_or_profession": "Youngest son, age 3 in 1963", "connection_to_protagonist": "Son", "specific_impact_suffered": "The older children helped the 3-year-old into the bathtub during the attack [1]; reported to have seen his father's body at the 1991 exhumation [24].", "humanizing_detail": "", "any_quotes_from_them": ""}
+    ],
+    "collective_victims_if_applicable": {"group_description": "Black Mississippians denied the vote and equal justice under Jim Crow", "total_number_affected": "Not quantified in script beyond the voter-registration figure", "range_of_impacts": "Disenfranchisement, intimidation, violence, all-white juries"}
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, witnesses, family.",
+    "characters": [
+      {"name": "Jerry Mitchell", "role_in_story": "Clarion-Ledger investigative reporter", "key_actions_they_took": "Obtained leaked Mississippi State Sovereignty Commission records and reported on October 1, 1989 that the state agency had screened prospective jurors for Beckwith's defense during the 1964 retrial [19][20][21].", "notable_quotes": "Said that when his story ran, 'the odds were literally more than a million to one' against the case being reopened [19]."},
+      {"name": "Bobby DeLaughter", "role_in_story": "Hinds County assistant district attorney who prosecuted the 1994 trial", "key_actions_they_took": "Agreed to reexamine the case at Myrlie Evers's request; recovered the 1964 transcripts, crime-scene photos and the missing murder weapon [12][17].", "notable_quotes": "None used verbatim."},
+      {"name": "Michael Baden", "role_in_story": "Forensic pathologist", "key_actions_they_took": "Performed the autopsy on Medgar Evers's exhumed body in 1991; said the body was still intact [24][25].", "notable_quotes": "None used verbatim."},
+      {"name": "L. Breland Hilburn", "role_in_story": "Hinds County Circuit Judge", "key_actions_they_took": "Presided over the 1994 trial and imposed the life sentence [13][42].", "notable_quotes": ""},
+      {"name": "Ross Barnett", "role_in_story": "Former Mississippi governor (1960-1964)", "key_actions_they_took": "Came into the courtroom during a 1964 trial and greeted Beckwith while Myrlie Evers was testifying, according to accounts; sources differ on handshake versus embrace [33][7].", "notable_quotes": ""},
+      {"name": "Mary Ann Adams, Peggy Morgan, Dan Prince, Elluard 'Dick' Davis (and others)", "role_in_story": "New witnesses at the 1994 trial", "key_actions_they_took": "Testified that Beckwith had spoken of the killing over the years; the defense attacked Prince as a drunk with a grudge over an eviction [10].", "notable_quotes": "Not used verbatim (offensive language)."},
+      {"name": "John F. Kennedy", "role_in_story": "President", "key_actions_they_took": "Delivered a televised civil rights address on the evening of June 11, 1963, hours before the shooting [28].", "notable_quotes": "'We are confronted primarily with a moral issue. It is as old as the scriptures and is as clear as the American Constitution.' [28]"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "Backbone.",
+    "events": [
+      {"date": "July 2, 1925", "location": "Decatur, Mississippi", "what_happened": "Medgar Wiley Evers is born.", "significance": "Victim's origin; the Civil Rights Act would be signed on his birthday in 1964.", "source": "[3][35]"},
+      {"date": "1943-1946", "location": "France and Germany", "what_happened": "Evers serves in the segregated U.S. Army after leaving high school at 17; honorable discharge 1946.", "significance": "Veteran denied rights at home; later buried at Arlington.", "source": "[5][35]"},
+      {"date": "December 24, 1951", "location": "Mississippi", "what_happened": "Evers marries Alcorn classmate Myrlie Beasley; he graduates in 1952.", "significance": "Family portrait.", "source": "[35][40]"},
+      {"date": "1954", "location": "Oxford, Mississippi", "what_happened": "After Brown v. Board of Education, Evers applies to the University of Mississippi law school and is denied; the NAACP hires him as its first Mississippi field secretary.", "significance": "Beginning of his public role.", "source": "[5][35]"},
+      {"date": "1956", "location": "Jackson", "what_happened": "Legislature creates the Mississippi State Sovereignty Commission to defend segregation (background, widely documented).", "significance": "The agency whose files would later reopen the case.", "source": "[20][background]"},
+      {"date": "May 20, 1963", "location": "Jackson television", "what_happened": "Evers delivers a televised address on segregation in Jackson (background; date per standard histories).", "significance": "Raised his profile and his danger.", "source": "[35][background]"},
+      {"date": "May 28, 1963", "location": "Evers home, Jackson", "what_happened": "A firebomb is thrown at the Evers carport (background; standard histories).", "significance": "Prior attack; family had rehearsed safety drills.", "source": "[35][background]"},
+      {"date": "June 11, 1963, evening", "location": "Washington, D.C.", "what_happened": "President Kennedy's televised address on civil rights; Evers had urged Myrlie to watch it while he attended meetings.", "significance": "Hours before the murder.", "source": "[28][29][43]"},
+      {"date": "June 12, 1963, just after midnight (about 12:40 a.m. per History.com)", "location": "Evers driveway and carport, Jackson", "what_happened": "Evers pulls into his driveway carrying 'Jim Crow Must Go' T-shirts and is shot in the back with a rifle fired from a thicket across the street. Myrlie and the children, waiting up watching TV, hear the shot; the children drop to the floor as practiced.", "significance": "The crime.", "source": "[1][4][29][43]"},
+      {"date": "June 12, 1963, about 1 a.m.", "location": "University Hospital, Jackson", "what_happened": "Evers dies less than an hour after the shooting from trauma and blood loss.", "significance": "Death.", "source": "[1][6]"},
+      {"date": "June 12, 1963, morning", "location": "Thicket near the Evers home", "what_happened": "Police recover a rifle (a 1917 Enfield .30-06 with a telescopic sight) in nearby brush, about 150 feet from the scene per one account; a fingerprint is on the scope.", "significance": "The evidence that named the suspect.", "source": "[8][12][40]"},
+      {"date": "June 1963", "location": "FBI", "what_happened": "The fingerprint on the scope is traced to Byron De La Beckwith of Greenwood; the rifle had been obtained in a 1960 trade with a friend; Beckwith is arrested and charged.", "significance": "Identity known within days.", "source": "[8][17][7]"},
+      {"date": "June 15 and June 19, 1963", "location": "Jackson; Arlington National Cemetery", "what_happened": "Funeral in Jackson; burial with full military honors at Arlington (June 19 date pending verification).", "significance": "National mourning.", "source": "[26][35]"},
+      {"date": "February 1964", "location": "Hinds County Courthouse, Jackson", "what_happened": "First trial; all-white, all-male jury deadlocks after deliberations reported at more than 30 hours; mistrial.", "significance": "First failure.", "source": "[9][12][33]"},
+      {"date": "Spring 1964 (April)", "location": "Jackson", "what_happened": "Second trial; again a hung jury. Two Greenwood police officers testify they saw Beckwith in Greenwood, more than 90 miles away. The Sovereignty Commission secretly screened prospective jurors for the defense.", "significance": "Second failure; tainted jury process.", "source": "[7][12][19][21]"},
+      {"date": "July 2, 1964", "location": "Washington", "what_happened": "Civil Rights Act signed, on what would have been Evers's 39th birthday (background).", "significance": "Irony.", "source": "[background]"},
+      {"date": "1969", "location": "Hinds County", "what_happened": "Prosecution of the 1963 charge is dropped (background; widely reported).", "significance": "Case goes cold legally.", "source": "[33]"},
+      {"date": "1973-1980", "location": "New Orleans; Louisiana", "what_happened": "Beckwith arrested in New Orleans with a bomb in his car in 1973; later convicted in Louisiana and imprisoned (background).", "significance": "Pattern; a prison guard from this period later testified (pending).", "source": "[7][33]"},
+      {"date": "February 1989", "location": "Jackson", "what_happened": "Some Sovereignty Commission records become public after the ACLU lawsuit; Jerry Mitchell obtains about 2,400 pages.", "significance": "The secret files.", "source": "[20][21]"},
+      {"date": "October 1, 1989", "location": "The Clarion-Ledger", "what_happened": "Mitchell reports that the Sovereignty Commission helped Beckwith's defense by investigating potential jurors in the second trial.", "significance": "Trigger for the reopening.", "source": "[19][21]"},
+      {"date": "1989-1990", "location": "Hinds County DA's office", "what_happened": "At Myrlie Evers's request, DeLaughter reexamines the case; the 1964 transcripts, crime-scene photos and the rifle, missing from the evidence room, are recovered.", "significance": "Rebuilding the case.", "source": "[12][17]"},
+      {"date": "December 1990", "location": "Hinds County", "what_happened": "A grand jury indicts Beckwith again for the murder of Medgar Evers.", "significance": "Case formally reopened.", "source": "[9][42]"},
+      {"date": "1991", "location": "Tennessee to Mississippi", "what_happened": "Beckwith, about 70 and living in Tennessee, fights extradition for about ten months before being returned to Mississippi.", "significance": "Delay.", "source": "[9][11]"},
+      {"date": "1991", "location": "Arlington National Cemetery; autopsy", "what_happened": "Medgar Evers's body is exhumed and autopsied by Dr. Michael Baden, nearly 30 years after his death; Baden said the body was still intact.", "significance": "Modern forensic record for the new trial.", "source": "[24][25]"},
+      {"date": "January-February 1994", "location": "Hinds County Courthouse, Jackson", "what_happened": "Third trial before Judge L. Breland Hilburn; jury of eight Black and four white jurors (seven women, five men); prosecution relies on the rifle, the fingerprint on the scope, the 1964 transcripts and new witnesses.", "significance": "Trial.", "source": "[9][10][12][27]"},
+      {"date": "February 5, 1994", "location": "Jackson", "what_happened": "Beckwith, 73, convicted of murder and sentenced to life in prison. Myrlie Evers-Williams: 'Yes, Medgar!'", "significance": "Justice after more than 30 years.", "source": "[4][12][13][26][27]"},
+      {"date": "December 22, 1997", "location": "Mississippi Supreme Court", "what_happened": "Conviction affirmed 4-2; the court rejects the speedy-trial claim. Opinion by Justice Mike Mills.", "significance": "Conviction final.", "source": "[16]"},
+      {"date": "January 21, 2001", "location": "University Medical Center, Jackson", "what_happened": "Beckwith dies in custody at 80.", "significance": "Died a convicted murderer.", "source": "[14][15]"},
+      {"date": "1993; March 2019; December 2020", "location": "Jackson", "what_happened": "Evers family gives the home to Tougaloo College (1993); law creating the Medgar and Myrlie Evers Home National Monument signed (2019); NPS takes ownership in 2020 and the monument is established.", "significance": "Legacy.", "source": "[30][31]"},
+      {"date": "May 3, 2024", "location": "White House", "what_happened": "Medgar Evers posthumously awarded the Presidential Medal of Freedom by President Biden.", "significance": "Legacy.", "source": "[32]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "Hook.",
+    "the_moment": {"exact_date": "June 12, 1963, just after midnight", "exact_location": "Driveway and carport of the Evers home, Jackson, Mississippi", "what_is_happening": "Medgar Evers, 37, steps out of his car carrying T-shirts that read 'Jim Crow Must Go'; inside, Myrlie and three children have waited up.", "what_makes_it_shocking": "Hours earlier the President had called civil rights a moral issue on national television; the rifle was found almost immediately with a fingerprint on the scope, and still Mississippi did not convict for 31 years.", "ironic_twist": "The mystery was never really who; it was whether a Mississippi jury would ever say it."},
+    "central_mystery_question": "How does a killer whose fingerprint is on the murder weapon stay free for thirty-one years, and what finally changed."
+  },
+  "the_method": {
+    "_instructions": "Adapted: legal and historical investigative methods rather than DNA.",
+    "technique_name": "Reopening a civil-rights-era case: archival investigation, evidence recovery, exhumation and new witnesses",
+    "step_by_step_explanation": [
+      "Fingerprint identification in 1963: the FBI compared the print on the telescopic sight with prints on file and traced it to Beckwith [8].",
+      "Tracing the weapon: the 1917 Enfield had come to Beckwith through a 1960 trade with a friend [38].",
+      "Secret state files: leaked Sovereignty Commission records showed the agency screened prospective jurors for the defense in 1964, giving a legal and moral reason to revisit the case [19][21].",
+      "Recovering lost evidence: transcripts of the 1964 trials, crime-scene photographs and the rifle itself, missing from the evidence room, were located [17].",
+      "Exhumation and autopsy: the body was exhumed and examined by Dr. Michael Baden in 1991 to create a modern medical record [24][25].",
+      "New witnesses: people who said Beckwith had talked about the killing in the years after 1964 testified in 1994 [10].",
+      "A representative jury: eight Black and four white jurors in 1994, unlike the all-white juries of 1964 [12][27]."
+    ],
+    "why_it_worked": "The physical evidence had always pointed one way; what changed was access to the evidence, proof of how the earlier juries had been manipulated, new testimony, and a jury drawn from the whole community.",
+    "technical_terms_to_explain": [
+      {"term": "Hung jury / mistrial", "simple_explanation": "Jurors cannot agree unanimously, so the trial ends with no verdict and the state may try again."},
+      {"term": "Nolle prosequi (dropping the charge)", "simple_explanation": "The prosecutor formally stops pursuing the case, without an acquittal."},
+      {"term": "Exhumation", "simple_explanation": "Lifting a buried body under court authority so it can be examined again."},
+      {"term": "Speedy trial claim", "simple_explanation": "A defendant's argument that delay itself made a fair trial impossible; rejected here in 1997."},
+      {"term": "Double jeopardy", "simple_explanation": "No one can be tried twice after a verdict; hung juries produce no verdict, so a new trial remained possible (background legal principle)."}
+    ],
+    "scale_of_operation": "About 2,400 pages of Sovereignty Commission records obtained by Mitchell; three trials over 30 years."
+  },
+  "systemic_failure": {
+    "_instructions": "System.",
+    "institution_that_failed": "Mississippi's Jim Crow justice system and the Mississippi State Sovereignty Commission",
+    "how_they_were_supposed_to_protect": "Investigate and prosecute murder fairly with impartial juries.",
+    "why_they_failed": "All-white juries in a state where few Black citizens could register to vote and serve; a state-funded agency secretly helped the defense; political leaders openly sided with the accused.",
+    "specific_incompetence_examples": [
+      "Two all-white juries deadlocked in 1964 despite the fingerprint on the scope [9][12].",
+      "The Sovereignty Commission screened prospective jurors for the defense [19][21].",
+      "Former governor Ross Barnett greeted the defendant in court during Myrlie Evers's testimony [33].",
+      "The murder weapon and records went missing from official custody for decades [17]."
+    ],
+    "ironic_details_about_the_failure": "The physical evidence was found within hours and the suspect arrested within about ten days; the delay was entirely institutional."
+  },
+  "the_investigation": {
+    "_instructions": "How caught.",
+    "investigating_agency": "Jackson Police Department and FBI (1963); Hinds County District Attorney's Office (1989-1994)",
+    "operation_code_name_if_any": "None",
+    "when_investigation_began": "June 12, 1963",
+    "initial_wrong_assumptions": "Not a case of wrong suspects; the obstacle was the defense alibi from two Greenwood police officers and all-white juries.",
+    "key_breakthrough": "Mitchell's October 1, 1989 story on the Sovereignty Commission's jury screening, followed by DeLaughter's recovery of the rifle and transcripts and the emergence of new witnesses.",
+    "the_fatal_mistake": "The fingerprint left on the telescopic sight, and Beckwith's later talk about the killing to others.",
+    "how_long_until_caught": "Arrested within about ten days in 1963; convicted 30 years and almost 8 months later."
+  },
+  "the_confrontation": {
+    "_instructions": "Climax.",
+    "date_and_time": "February 5, 1994",
+    "location": "Hinds County Courthouse, Jackson",
+    "scene_description": "The jury returns a guilty verdict; Myrlie Evers-Williams and her daughter Reena are photographed cheering.",
+    "protagonist_reaction": "Myrlie: 'Yes, Medgar!'",
+    "ironic_or_absurd_details": "Same courthouse city, same charge, same rifle as 1964; the difference was the jury."
+  },
+  "legal_resolution": {
+    "_instructions": "Court.",
+    "charges_filed": ["Murder of Medgar Evers (indicted 1963; reindicted December 1990)"],
+    "trial_date_if_applicable": "February 1964 and spring 1964 (hung juries); January-February 1994 (conviction)",
+    "notable_court_testimony": "New witnesses testified Beckwith had spoken of the killing; the prosecution read testimony from the 1964 transcripts and presented the rifle and fingerprint [9][10].",
+    "victim_impact_statements": [{"from_whom": "Myrlie Evers-Williams", "key_quote": "Yes, Medgar!", "emotional_impact": "Relief after three decades [26][27]."}],
+    "sentence_received": "Life in prison (some sources add without parole)",
+    "protagonist_statement_in_court": "Not used.",
+    "current_status": "Closed. Beckwith died in custody January 21, 2001; the conviction was affirmed in 1997. No pending proceedings as of October 2026."
+  },
+  "verified_quotes": {
+    "_instructions": "Only verified.",
+    "quotes": [
+      {"speaker": "Myrlie Evers-Williams", "exact_quote": "Yes, Medgar!", "context": "On hearing the guilty verdict, February 5, 1994", "source": "[26][27]"},
+      {"speaker": "John F. Kennedy", "exact_quote": "We are confronted primarily with a moral issue. It is as old as the scriptures and is as clear as the American Constitution.", "context": "Televised civil rights address, June 11, 1963", "source": "[28]"},
+      {"speaker": "Jerry Mitchell", "exact_quote": "the odds were literally more than a million to one", "context": "On the chances the case would be reopened when his story ran in 1989", "source": "[19]"},
+      {"speaker": "Jerry Mitchell", "exact_quote": "my story ran October 1st, 1989.", "context": "Democracy Now interview, 2014", "source": "[19]"},
+      {"speaker": "Medgar Evers (attributed)", "exact_quote": "You can kill a man, but you can't kill an idea.", "context": "Widely attributed in NPS and museum materials; exact original occasion not verified", "source": "[background; pending]"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Figures.",
+    "figures": [
+      {"number": "37", "what_it_represents": "Evers's age when killed", "source": "[3]"},
+      {"number": "3", "what_it_represents": "Children in the house: Darrell 9, Reena 8, Van 3", "source": "[1][36]"},
+      {"number": "less than an hour / about 50 minutes", "what_it_represents": "Time from shooting to death", "source": "[6][29]"},
+      {"number": "about 150 feet", "what_it_represents": "Distance from scene where the rifle was found (one account)", "source": "[40]"},
+      {"number": "more than 90 miles", "what_it_represents": "Distance to Greenwood claimed in the 1964 alibi", "source": "[7]"},
+      {"number": "more than 30 hours", "what_it_represents": "Deliberations of the first 1964 jury, per one account", "source": "[33]"},
+      {"number": "2", "what_it_represents": "Hung-jury trials in 1964", "source": "[12]"},
+      {"number": "2,400 pages", "what_it_represents": "Sovereignty Commission documents obtained by Mitchell", "source": "[20]"},
+      {"number": "about 10 months", "what_it_represents": "Beckwith's fight against extradition from Tennessee", "source": "[9]"},
+      {"number": "8 Black, 4 white", "what_it_represents": "1994 jury composition (7 women, 5 men)", "source": "[12][27]"},
+      {"number": "73", "what_it_represents": "Beckwith's age at conviction", "source": "[27]"},
+      {"number": "4-2", "what_it_represents": "Mississippi Supreme Court vote affirming, December 22, 1997", "source": "[16]"},
+      {"number": "80", "what_it_represents": "Beckwith's age at death, January 21, 2001", "source": "[14][15]"},
+      {"number": "31 years (30 years, 7 months, 24 days)", "what_it_represents": "June 12, 1963 to February 5, 1994", "source": "[calculated]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Contradictions.",
+    "details": [
+      "The President called civil rights a moral issue on television hours before the shot.",
+      "The weapon with the suspect's fingerprint was found almost immediately, yet two juries could not agree.",
+      "A state agency funded by taxpayers, including Black taxpayers, quietly helped vet jurors for the accused.",
+      "The Civil Rights Act was signed on July 2, 1964, Evers's birthday, less than three months after the second mistrial.",
+      "Beckwith died at the University Medical Center in Jackson, the medical center whose University Hospital is where Evers died in 1963 (pending verification of the explicit link)."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Scenes.",
+    "key_locations": [
+      {"location_name": "Evers home, Jackson", "physical_description": "Modest single-story ranch house with a carport in a Black middle-class neighborhood; now a national monument.", "atmosphere": "Family home under threat; drills rehearsed.", "relevant_details": "Address Guynes Street, renamed Margaret Walker Alexander Drive."},
+      {"location_name": "The thicket across the street", "physical_description": "Brush and vines where the rifle was found.", "atmosphere": "", "relevant_details": "Rifle about 150 feet away per one account."},
+      {"location_name": "Hinds County Courthouse, Jackson", "physical_description": "Site of all three trials.", "atmosphere": "", "relevant_details": ""},
+      {"location_name": "Greenwood, Mississippi", "physical_description": "Delta town, Beckwith's home in 1963.", "atmosphere": "", "relevant_details": "More than 90 miles from Jackson."},
+      {"location_name": "Arlington National Cemetery", "physical_description": "National military cemetery in Virginia.", "atmosphere": "", "relevant_details": "Burial with full military honors; site of the 1991 exhumation."}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why care.",
+    "why_this_matters_to_viewer": "Justice delayed by institutions, not by lack of evidence; shows that records, reporters and families can reopen what power closed.",
+    "how_this_could_happen_to_them": "Any case can be buried when the system protecting it is compromised.",
+    "lesson_or_warning": "Evidence keeps; memory keeps; the question is whether people keep asking.",
+    "current_relevance": "The case helped spark the reopening of other civil-rights-era killings; the Evers home is a national monument; Medal of Freedom 2024."
+  },
+  "sources": {
+    "_instructions": "Numbered as in investigacion.md.",
+    "primary_sources": [
+      {"type": "Government", "title": "[1] NPS, Assassination of Medgar Evers", "url_or_reference": "https://www.nps.gov/memy/learn/historyculture/assassination.htm", "key_information_obtained": "Night of the shooting, children's drill, University Hospital"},
+      {"type": "Government", "title": "[2] NPS, Long-Delayed Justice", "url_or_reference": "https://www.nps.gov/memy/learn/historyculture/long-delayed-justice.htm", "key_information_obtained": "Reopening overview"},
+      {"type": "Government", "title": "[3] NPS, Medgar Wiley Evers", "url_or_reference": "https://home.nps.gov/memy/learn/historyculture/medgar-evers.htm", "key_information_obtained": "Biography"},
+      {"type": "FBI records", "title": "[8] FBI FOIA file, Medgar Evers (Civil Rights Digital Library)", "url_or_reference": "https://crdl.usg.edu/record/fbi_foia_medgarevers", "key_information_obtained": "Fingerprint on telescopic sight traced to Beckwith"},
+      {"type": "Court/archive", "title": "[16] Mississippi Today, Dec. 22, 1997 Supreme Court upheld conviction", "url_or_reference": "https://mississippitoday.org/2023/12/22/on-thisday-in-1997-supreme-court-upheld-byron-de-la-beckwith-conviction/", "key_information_obtained": "4-2 affirmance, speedy trial"},
+      {"type": "Archive", "title": "[17] MDAH, Bobby DeLaughter Papers finding aid", "url_or_reference": "https://finding.mdah.ms.gov/manuscripts/z2301000-0", "key_information_obtained": "Recovered transcripts, photos, missing rifle"},
+      {"type": "Archive", "title": "[18] MDAH, Byron De La Beckwith Papers", "url_or_reference": "https://finding.mdah.ms.gov/manuscripts/z2306000", "key_information_obtained": "Death in custody"},
+      {"type": "Government speech", "title": "[28] JFK Library, Televised Address to the Nation on Civil Rights", "url_or_reference": "https://www.jfklibrary.org/learn/about-jfk/historic-speeches/televised-address-to-the-nation-on-civil-rights", "key_information_obtained": "Quote"}
+    ],
+    "secondary_sources": [
+      {"type": "Reference", "title": "[4] History.com, Beckwith convicted", "url_or_reference": "https://www.history.com/this-day-in-history/february-5/beckwith-convicted-of-killing-medgar-evers", "key_information_obtained": "12:40 a.m., Feb 5 1994"},
+      {"type": "Reference", "title": "[5] History.com, 7 things about Medgar Evers", "url_or_reference": "https://www.history.com/articles/7-things-you-should-know-about-medgar-evers", "key_information_obtained": "Army, law school"},
+      {"type": "Reference", "title": "[6] Biography.com, Medgar Evers", "url_or_reference": "https://www.biography.com/activists/medgar-evers", "key_information_obtained": "Died less than an hour later"},
+      {"type": "Reference", "title": "[7] Biography.com, Byron De La Beckwith", "url_or_reference": "https://www.biography.com/crime-figure/byron-de-la-beckwith", "key_information_obtained": "Alibi officers, 90 miles"},
+      {"type": "Magazine", "title": "[9] Southern Changes, Guilty as Charged (1994)", "url_or_reference": "https://southernchanges.digitalscholarship.emory.edu/sc16-1_001/sc16-1_003/", "key_information_obtained": "Reindictment Dec 1990, extradition fight, evidence used"},
+      {"type": "Magazine", "title": "[10] Southern Changes, The Six New Witnesses (1994)", "url_or_reference": "https://southernchanges.digitalscholarship.emory.edu/sc16-1_001/sc16-1_004/", "key_information_obtained": "New witnesses"},
+      {"type": "Newspaper", "title": "[11] Seattle Times, Feb 22 1991", "url_or_reference": "https://archive.seattletimes.com/archive/19910222/1267506/", "key_information_obtained": "Beckwith 70, third trial"},
+      {"type": "College", "title": "[12] Medgar Evers College, Justice for Medgar Evers", "url_or_reference": "https://www.mec.cuny.edu/about/history/justice-for-medgar-evers/", "key_information_obtained": "Myrlie's request, DeLaughter, jury of eight Black jurors"},
+      {"type": "TV", "title": "[13] WLBT, Flashback 1994", "url_or_reference": "https://www.wlbt.com/story/31150616/flashback-1994-beckwith-convicted-of-murdering-medgar-evers-in-1963", "key_information_obtained": "Conviction"},
+      {"type": "AP", "title": "[14] CBS News/AP, Medgar Evers assassin dies", "url_or_reference": "https://www.cbsnews.com/news/medgar-evers-assassin-dies", "key_information_obtained": "Death 2001"},
+      {"type": "AP", "title": "[15] News On 6/AP, Assassin of Medgar Evers dies", "url_or_reference": "https://newson6.com/story/5e3683a02f69d76f62098884/assassin-of-medgar-evers-dies", "key_information_obtained": "University Medical Center, age 80"},
+      {"type": "TV", "title": "[19] Democracy Now, Jerry Mitchell (Feb 25, 2014)", "url_or_reference": "https://www.democracynow.org/2014/2/25", "key_information_obtained": "Oct 1 1989 story, odds quote"},
+      {"type": "Magazine", "title": "[20] American Journalism Review, Mitchell profile", "url_or_reference": "https://ajrarchive.org/article.asp?id=3852", "key_information_obtained": "2,400 pages"},
+      {"type": "Newspaper", "title": "[21] SMU Daily Campus", "url_or_reference": "https://smudailycampus.com/?p=1063084", "key_information_obtained": "Feb 1989 records, Oct 1 1989"},
+      {"type": "Magazine", "title": "[22] NYRB, History Is Corrected: An Interview with Jerry Mitchell", "url_or_reference": "https://www.nybooks.com/online/2020/08/24/history-is-corrected-an-interview-with-jerry-mitchell/", "key_information_obtained": "Context"},
+      {"type": "Radio", "title": "[23] NPR, Mitchell on decades investigating civil-rights killings (2018)", "url_or_reference": "https://www.upr.org/2018-12-31/journalist-jerry-mitchell-discusses-decades-investigating-civil-rights-era-killings", "key_information_obtained": "Context"},
+      {"type": "Newspaper", "title": "[24] MTSU Sidelines, Baden talk (2014)", "url_or_reference": "https://mtsusidelines.com/2014/10/michael-browns-pathologist-science-behind-autopsies/", "key_information_obtained": "Exhumation, preserved body, son saw father"},
+      {"type": "Magazine", "title": "[25] ABA Journal, interview with Michael Baden", "url_or_reference": "https://www.abajournal.com/columns/article/even-death-can-be-political-an-interview-with-renowned-forensic-pathologist-michael-baden", "key_information_obtained": "1991 autopsy, body intact"},
+      {"type": "Magazine", "title": "[26] LIFE, Behind the Picture: Medgar Evers' Funeral", "url_or_reference": "https://www.life.com/history/behind-the-picture-medgar-evers-funeral-june-1963/", "key_information_obtained": "'Yes, Medgar!'"},
+      {"type": "Reference", "title": "[27] History.com, Medgar Evers' widow fought for justice", "url_or_reference": "https://www.history.com/news/medgar-evers-widow-justice", "key_information_obtained": "Verdict reaction, age 73, jury makeup"},
+      {"type": "TV", "title": "[29] CBS News, The death of Medgar Evers", "url_or_reference": "https://www.cbsnews.com/news/the-death-of-medgar-evers/", "key_information_obtained": "T-shirts, 50 minutes"},
+      {"type": "Magazine", "title": "[30] Smithsonian, Evers home now a national monument", "url_or_reference": "https://www.smithsonianmag.com/smart-news/home-civil-rights-hero-medgar-evers-now-national-monument-180971712/", "key_information_obtained": "Monument law 2019"},
+      {"type": "Magazine", "title": "[31] National Parks Traveler, Dec 2020", "url_or_reference": "https://www.nationalparkstraveler.org/2020/12/medgar-and-myrlie-evers-home-national-monument", "key_information_obtained": "Tougaloo 1993, NPS 2020"},
+      {"type": "Newspaper", "title": "[32] Vicksburg Post, Medal of Freedom (May 2024)", "url_or_reference": "https://vicksburgpost.com/?p=689661", "key_information_obtained": "Posthumous medal"},
+      {"type": "Encyclopedia", "title": "[33] Wikipedia, Byron De La Beckwith", "url_or_reference": "https://en.wikipedia.org/wiki/Byron_De_La_Beckwith", "key_information_obtained": "Trials, Barnett, deliberations"},
+      {"type": "Encyclopedia", "title": "[34] Wikipedia, Bobby DeLaughter", "url_or_reference": "https://en.wikipedia.org/wiki/Bobby_DeLaughter", "key_information_obtained": "Father-in-law Russel Moore"},
+      {"type": "Encyclopedia", "title": "[35] Wikipedia, Medgar Evers", "url_or_reference": "https://en.wikipedia.org/wiki/Medgar_Evers", "key_information_obtained": "Biography"},
+      {"type": "Reference", "title": "[36] Connexions, Medgar Evers", "url_or_reference": "https://www.connexions.org/CxLibrary/Docs/CxP-Evers_Medgar.htm", "key_information_obtained": "Children; Darrell died 2001"},
+      {"type": "Government", "title": "[37] Naval History and Heritage Command, USNS Medgar Evers", "url_or_reference": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/medgar-evers--t-ake-13-.html", "key_information_obtained": "Navy ship named for Evers"},
+      {"type": "Blog/archive", "title": "[38] Real Time 1960s, Beckwith testifies (1964)", "url_or_reference": "https://www.realtime1960s.com/post/beckwith-accused-killer-of-medgar-evers-testifies-in-mississippi", "key_information_obtained": "Rifle traded 1960; 'could have been his'"},
+      {"type": "Review", "title": "[39] Publishers Weekly, Of Long Memory (Nossiter)", "url_or_reference": "https://www.publishersweekly.com/9780201608441", "key_information_obtained": "Jury tampering evidence, reluctant witnesses"},
+      {"type": "Genealogy", "title": "[40] WikiTree, Myrlie Beasley", "url_or_reference": "https://wikitree.com/wiki/Beasley-4541", "key_information_obtained": ".30-06 rifle, 150 feet"},
+      {"type": "Government", "title": "[41] National Archives, Journalist shares civil rights cold case files", "url_or_reference": "https://www.archives.gov/news/articles/journalist-share-civil-rights-cold-case-files", "key_information_obtained": "Mitchell archive"},
+      {"type": "Newspaper", "title": "[42] AOL/Clarion-Ledger, Beckwith convicted on this date", "url_or_reference": "https://www.aol.com/byron-la-beckwith-convicted-date-190446824.html", "key_information_obtained": "Indicted 1990, Judge Hilburn"},
+      {"type": "Blog", "title": "[43] Tracing Center, Assassination 50 years later", "url_or_reference": "https://www.tracingcenter.org/blog/2013/06/the-assassination-of-medgar-evers-50-years-later/", "key_information_obtained": "Kennedy speech same night"},
+      {"type": "Book (background)", "title": "Bobby DeLaughter, Never Too Late (2001); Maryanne Vollers, Ghosts of Mississippi (1995); Adam Nossiter, Of Long Memory (1994); Myrlie Evers, For Us, the Living (1967); Jerry Mitchell, Race Against Time (2020)", "url_or_reference": "Print", "key_information_obtained": "Background for rifle recovery and trial details; not directly consulted"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease.",
+    "next_topic": "Another civil-rights-era cold case reopened decades later (e.g., the 1964 Mississippi Burning killings, Edgar Ray Killen convicted 2005)",
+    "connection_to_current_video": "Jerry Mitchell's reporting also helped reopen it.",
+    "teaser_line": "The reporter who reopened this case did not stop with one."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Pending.",
+    "unverified_claims": [
+      "Exact time: History.com gives 12:40 a.m.; other sources say just after midnight.",
+      "Exact exhumation date in 1991 and place of autopsy.",
+      "Exact date of Beckwith's 1963 arrest (June 22 vs. June 23).",
+      "Funeral June 15 and Arlington burial June 19, 1963.",
+      "Firebomb at the carport on May 28, 1963 and TV address on May 20, 1963.",
+      "Account that the rifle was found in the home of DeLaughter's father-in-law, Judge Russel Moore (DeLaughter memoir); script says only that it was missing from the evidence room and recovered.",
+      "Medgar Evers quote 'You can kill a man...' exact occasion (not used as a direct quote in the script).",
+      "Whether 'life without parole' or simply 'life'.",
+      "Whether Myrlie Evers-Williams is living as of October 2026 (script avoids present-tense claims).",
+      "Delmar Dennis and Mark Reiley as 1994 witnesses (not named in script).",
+      "Bobby DeLaughter's 2009 federal obstruction guilty plea in an unrelated judicial matter (background; not in script)."
+    ],
+    "information_gaps": ["1994 trial length in days and deliberation time", "1964 jury vote splits"],
+    "questions_to_answer": ["Was the bullet recovered in 1963 available in 1994 (Southern Changes says the 1994 trial lacked it)"]
+  }
+}

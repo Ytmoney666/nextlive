@@ -1,0 +1,767 @@
+{
+  "video_metadata": {
+    "working_title": "MICHIGAN 1987 Cold Case Solved After 35 Years — Justice for Roxanne Wood",
+    "topic_one_sentence": "Roxanne Leigh Wood, 30, was murdered in her Niles Township, Michigan kitchen in the early hours of 20 February 1987; her husband Terry, who found her, lived under suspicion for 35 years until genetic genealogy and a discarded cigarette identified Patrick Wayne Gilham, who pleaded no contest to second-degree murder in 2022.",
+    "primary_emotion_to_evoke": "grief and the slow injustice of lifelong suspicion, resolved by science and persistence",
+    "target_length_minutes": "70-75"
+  },
+  "protagonist": {
+    "_instructions": "Victim-centred: Roxanne Wood is the heart; Terry Wood's 35 years under suspicion is the emotional core.",
+    "full_name": "Roxanne Leigh Wood (born Roxanne Leigh Woods)",
+    "age_at_time_of_events": "30",
+    "occupation_or_status": "Customer service department, Automated Molded Plastics Co., South Bend, Indiana; member of Niles Junior Achievement [18] Obituary (1987) via Friends of Silverbrook Cemetery: https://friendsofsilverbrook.org/site5/obituaries/7271-wood-roxanne-leigh-woods-1956-1987",
+    "location": "Tam-O-Shanter Lane, Niles Township, Berrien County, Michigan [36] WZZM 13: https://www.wzzm13.com/article/news/crime/cold-cases/1987-niles-homicide-arrest/69-d04a1937-65c2-4935-a19a-d275694ffacb",
+    "physical_description": "Not documented in sources consulted; use real archival photos only.",
+    "background_brief": "Born 15 April 1956 in Niles; Niles High School class of 1974; parents Dale Woods and Patricia Chadwell were divorced and Roxanne took on a maternal role toward her siblings; married Terry Wood (CBS says 1982). [18] Obituary (1987) via Friends of Silverbrook Cemetery: https://friendsofsilverbrook.org/site5/obituaries/7271-wood-roxanne-leigh-woods-1956-1987; [32] Niles High School Class of 1974 site: https://www.nileshigh1974.org/class_profile.cfm?member_id=1126929; [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/",
+    "psychological_profile": "Sister Janet: 'very outgoing, friendly, loved to laugh'. Brother Brad: 'a very fun person to be around'. [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/",
+    "mundane_humanizing_detail": "On her last evening she met Terry at home after work, they drove separate cars to dinner at a restaurant and then went to a bowling alley where Terry bowled in a league. [1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/",
+    "nickname_or_alias_if_any": "Surname spelled Woods in obituary maiden name and some reports"
+  },
+  "victims_or_targets": {
+    "_instructions": "",
+    "individuals": [
+      {
+        "name": "Roxanne Leigh Wood",
+        "role_or_profession": "Customer service, Automated Molded Plastics Co.",
+        "connection_to_protagonist": "Victim",
+        "specific_impact_suffered": "Murdered in her kitchen; detectives say she was sexually assaulted and her throat was cut [3] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-genetic-genealogist-helps-solve-case-that-had-a-gnats-eyebrow-of-dna/; [20] Law&Crime: https://lawandcrime.com/crime/indiana-man-agrees-to-deal-that-effectively-means-hell-die-in-prison-for-35-year-old-cold-case-murder-of-woman-whose-throat-was-slit-in-her-own-kitchen/",
+        "humanizing_detail": "Took a maternal role with her siblings after her parents divorced [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/",
+        "any_quotes_from_them": "None documented"
+      },
+      {
+        "name": "Terry Wood",
+        "role_or_profession": "Husband",
+        "connection_to_protagonist": "Found her body shortly after 1 a.m.",
+        "specific_impact_suffered": "Treated as prime suspect / person of interest for 35 years; never charged; cleared by Gilham's identification [1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/; [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/; [15] WSBT 22 (2013): https://wsbt.com/news/local/cold-case-files-police-have-a-suspect-in-26-year-old-murder-casebut-did-he-do-it",
+        "humanizing_detail": "Detective Lt. Chuck Christensen said Terry was very emotional, started crying, bewildered and in shock when told of the arrest [19] Law&Crime: https://lawandcrime.com/crime/husband-feels-vindicated-after-michigan-police-arrest-out-of-state-man-in-1987-cold-case-of-wife-found-murdered-in-her-own-kitchen/",
+        "any_quotes_from_them": "'I didn't murder Roxanne.' (2013, to WSBT, declining on-camera interview) [15] WSBT 22 (2013): https://wsbt.com/news/local/cold-case-files-police-have-a-suspect-in-26-year-old-murder-casebut-did-he-do-it"
+      },
+      {
+        "name": "Janet Wood (born Woods)",
+        "role_or_profession": "Roxanne's sister; later married Terry's brother Rob",
+        "connection_to_protagonist": "Sister",
+        "specific_impact_suffered": "Lifelong grief",
+        "humanizing_detail": "Always believed Terry was innocent [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/",
+        "any_quotes_from_them": "'very outgoing, friendly, loved to laugh' [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/ | 'His actions gave all of us a life sentence while he got to live most of his as a free man.' [14] WSBT 22: https://wsbt.com/news/local/mans-sentenced-in-niles-35-year-old-murder; [22] Oxygen: https://www.oxygen.com/patrick-gilham-sentenced-1987-murder-roxanne-wood-cold-case"
+      },
+      {
+        "name": "Brad Woods",
+        "role_or_profession": "Roxanne's (half-)brother",
+        "connection_to_protagonist": "Brother",
+        "specific_impact_suffered": "Gave victim impact statement",
+        "humanizing_detail": "",
+        "any_quotes_from_them": "'a very fun person to be around' [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/ | 'It seems people like him tend to find Jesus in prison.' [14] WSBT 22: https://wsbt.com/news/local/mans-sentenced-in-niles-35-year-old-murder; [22] Oxygen: https://www.oxygen.com/patrick-gilham-sentenced-1987-murder-roxanne-wood-cold-case"
+      }
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "Woods and Wood families",
+      "total_number_affected": "Parents, 6 siblings/half-siblings listed in obituary, husband",
+      "range_of_impacts": "Grief; 35 years of suspicion on Terry"
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "",
+    "characters": [
+      {
+        "name": "Patrick Wayne Gilham",
+        "role_in_story": "Convicted killer (no contest plea to second-degree murder, 2022)",
+        "key_actions_they_took": "Indiana parolee (1980 guilty plea to burglary and criminal deviate conduct, 14-year sentence, released after about six years, months before the murder); lived in South Bend about 10 miles south of Niles; denied knowing the street in 2021 interview [8] WOOD-TV 8: https://www.woodtv.com/news/michigan/suspect-in-1987-murder-on-parole-at-time-of-crime/; [7] Leader Publications (Niles Daily Star): https://www.leaderpub.com/2022/03/16/roxanne-wood-murder-police-report-details-interview-with-suspect-evidence/; [20] Law&Crime: https://lawandcrime.com/crime/indiana-man-agrees-to-deal-that-effectively-means-hell-die-in-prison-for-35-year-old-cold-case-murder-of-woman-whose-throat-was-slit-in-her-own-kitchen/",
+        "notable_quotes": "At sentencing said he was very sorry and hoped 'with God's help' the family could forgive him [21] Law&Crime: https://lawandcrime.com/crime/man-sentenced-in-michigan-court-after-pleading-no-contest-to-slitting-womans-throat-in-her-kitchen/; [22] Oxygen: https://www.oxygen.com/patrick-gilham-sentenced-1987-murder-roxanne-wood-cold-case"
+      },
+      {
+        "name": "Gabriella Vargas",
+        "role_in_story": "Investigative genetic genealogist, Identifinders consultant",
+        "key_actions_they_took": "Built family tree in about four days (April 2021) leading to three brothers and then Gilham [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/; [3] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-genetic-genealogist-helps-solve-case-that-had-a-gnats-eyebrow-of-dna/; [10] WOOD-TV 8: https://www.woodtv.com/news/michigan/woman-who-helped-solve-roxanne-wood-case-shares-story/",
+        "notable_quotes": "'it was deemed unsolvable prior to my involvement' [3] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-genetic-genealogist-helps-solve-case-that-had-a-gnats-eyebrow-of-dna/"
+      },
+      {
+        "name": "Colleen Fitzpatrick",
+        "role_in_story": "President of Identifinders International",
+        "key_actions_they_took": "Firm began working the unknown DNA in 2020; about 10 months without result before Vargas [1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/; [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/",
+        "notable_quotes": "'a gnat's eyebrow of DNA left, about 3% of what we normally use' [3] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-genetic-genealogist-helps-solve-case-that-had-a-gnats-eyebrow-of-dna/"
+      },
+      {
+        "name": "Det. Sgts John Moore, Jason Bailey (MSP Niles Post), Kyle Gorham",
+        "role_in_story": "Michigan State Police investigators",
+        "key_actions_they_took": "Worked the case about a year and a half; surveillance by undercover units; interviewed Gilham twice [5] Michigan State Police press release: https://content.govdelivery.com/attachments/MIMSP/2022/03/18/file_attachments/2108015/Gilham%20No%20Contest%20Plea%203-18-22.pdf",
+        "notable_quotes": ""
+      },
+      {
+        "name": "Det. Lt. Chuck Christensen",
+        "role_in_story": "MSP spokesman/lead",
+        "key_actions_they_took": "Announced arrest; told Terry",
+        "notable_quotes": "'There's relief that we have an individual arrested for this, but I can tell you there's a lot of investigative work that will continue from this point.' [9] WOOD-TV 8: https://www.woodtv.com/news/michigan/arrest-made-35-years-after-niles-area-murder/"
+      },
+      {
+        "name": "Detective Suarez (MSP, 2013)",
+        "role_in_story": "Cold case detective in 2013",
+        "key_actions_they_took": "Told WSBT Terry was the main person of interest",
+        "notable_quotes": "Paraphrased only (Terry 'has always been the main suspect, the main person of interest') [15] WSBT 22 (2013): https://wsbt.com/news/local/cold-case-files-police-have-a-suspect-in-26-year-old-murder-casebut-did-he-do-it"
+      },
+      {
+        "name": "Steve Pierangeli",
+        "role_in_story": "Berrien County Prosecutor",
+        "key_actions_they_took": "Charged open murder and breaking and entering; plea deal with family input including Terry",
+        "notable_quotes": "Office said deal effectively keeps Gilham in prison for the rest of his life (paraphrase) [28] The Indiana Lawyer (AP): https://www.theindianalawyer.com/articles/south-bend-man-pleads-no-contest-in-michigan-womans-1987-slaying; [20] Law&Crime: https://lawandcrime.com/crime/indiana-man-agrees-to-deal-that-effectively-means-hell-die-in-prison-for-35-year-old-cold-case-murder-of-woman-whose-throat-was-slit-in-her-own-kitchen/"
+      },
+      {
+        "name": "Scott Sanford",
+        "role_in_story": "Gilham's attorney",
+        "key_actions_they_took": "Spoke at sentencing",
+        "notable_quotes": "'He can't recall the events which is no excuse, but he is genuinely remorseful.' [21] Law&Crime: https://lawandcrime.com/crime/man-sentenced-in-michigan-court-after-pleading-no-contest-to-slitting-womans-throat-in-her-kitchen/"
+      },
+      {
+        "name": "WMU Cold Case Program students",
+        "role_in_story": "Digitized and organised ~3,000-3,500 pages of the case file into a searchable database; attended sentencing [6] Western Michigan University Cold Case Program: https://wmich.edu/coldcase/cases/roxanne-wood; [23] ClickOnDetroit / WDIV: https://www.clickondetroit.com/news/michigan/2022/04/01/western-michigan-university-students-help-crack-1987-berrien-county-murder-cold-case/; [24] NBC News: https://www.nbcnews.com/news/us-news/western-michigan-university-students-help-police-crack-1987-murder-col-rcna22368",
+        "key_actions_they_took": "",
+        "notable_quotes": ""
+      }
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "",
+    "events": [
+      {
+        "date": "15 April 1956",
+        "location": "Niles, Michigan",
+        "what_happened": "Roxanne Leigh Woods born",
+        "significance": "Victim portrait",
+        "source": "[18] Obituary (1987) via Friends of Silverbrook Cemetery: https://friendsofsilverbrook.org/site5/obituaries/7271-wood-roxanne-leigh-woods-1956-1987"
+      },
+      {
+        "date": "1974",
+        "location": "Niles High School",
+        "what_happened": "Roxanne graduates",
+        "significance": "",
+        "source": "[32] Niles High School Class of 1974 site: https://www.nileshigh1974.org/class_profile.cfm?member_id=1126929"
+      },
+      {
+        "date": "1980",
+        "location": "Indiana",
+        "what_happened": "Patrick Gilham pleads guilty to burglary and criminal deviate conduct; sentenced to 14 years",
+        "significance": "Prior record",
+        "source": "[8] WOOD-TV 8: https://www.woodtv.com/news/michigan/suspect-in-1987-murder-on-parole-at-time-of-crime/"
+      },
+      {
+        "date": "1982 (per CBS; another bio says shortly after 1974)",
+        "location": "Niles",
+        "what_happened": "Roxanne marries Terry Wood; they met when Janet worked at Terry's father's company",
+        "significance": "",
+        "source": "[2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/"
+      },
+      {
+        "date": "1986 (months before the murder; reports say four or six months)",
+        "location": "Indiana",
+        "what_happened": "Gilham released on parole after about six years",
+        "significance": "On parole at time of murder",
+        "source": "[8] WOOD-TV 8: https://www.woodtv.com/news/michigan/suspect-in-1987-murder-on-parole-at-time-of-crime/; [20] Law&Crime: https://lawandcrime.com/crime/indiana-man-agrees-to-deal-that-effectively-means-hell-die-in-prison-for-35-year-old-cold-case-murder-of-woman-whose-throat-was-slit-in-her-own-kitchen/"
+      },
+      {
+        "date": "19 February 1987, evening",
+        "location": "Niles area",
+        "what_happened": "Roxanne and Terry meet at home after work, drive separate cars to dinner, then go to a bowling alley where Terry bowls in a league",
+        "significance": "Last evening",
+        "source": "[1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/"
+      },
+      {
+        "date": "20 February 1987, early morning",
+        "location": "Tam-O-Shanter Lane, Niles Township",
+        "what_happened": "Roxanne heads home about 45 minutes before Terry; Terry arrives shortly after 1 a.m. and finds her dead on the kitchen floor; calls police",
+        "significance": "Discovery",
+        "source": "[1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/; [36] WZZM 13: https://www.wzzm13.com/article/news/crime/cold-cases/1987-niles-homicide-arrest/69-d04a1937-65c2-4935-a19a-d275694ffacb"
+      },
+      {
+        "date": "20 February 1987",
+        "location": "Home / police",
+        "what_happened": "No sign of forced entry; open kitchen drawer where the knife thought to be the weapon was kept; investigators say Terry was belligerent with first responders and asked for an attorney when brought in for questioning",
+        "significance": "Suspicion on Terry begins",
+        "source": "[1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/"
+      },
+      {
+        "date": "1987 onward",
+        "location": "",
+        "what_happened": "DNA preserved but not enough evidence to charge anyone; prosecutors did not believe there was enough to charge Terry",
+        "significance": "Case goes cold",
+        "source": "[1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/"
+      },
+      {
+        "date": "2013",
+        "location": "Niles",
+        "what_happened": "WSBT 'Cold Case Files': MSP Det. Suarez calls Terry the main person of interest; Terry declines on camera, says 'I didn't murder Roxanne.'",
+        "significance": "26 years of suspicion",
+        "source": "[15] WSBT 22 (2013): https://wsbt.com/news/local/cold-case-files-police-have-a-suspect-in-26-year-old-murder-casebut-did-he-do-it"
+      },
+      {
+        "date": "2020",
+        "location": "",
+        "what_happened": "Identifinders International begins examining the unknown DNA; WMU Cold Case Program students digitize ~3,500 pages",
+        "significance": "Revival",
+        "source": "[1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/; [23] ClickOnDetroit / WDIV: https://www.clickondetroit.com/news/michigan/2022/04/01/western-michigan-university-students-help-crack-1987-berrien-county-murder-cold-case/; [6] Western Michigan University Cold Case Program: https://wmich.edu/coldcase/cases/roxanne-wood"
+      },
+      {
+        "date": "April 2021",
+        "location": "",
+        "what_happened": "Gabriella Vargas builds the family tree in about four days, after ~10 months without results; narrows to three brothers and Gilham",
+        "significance": "Breakthrough",
+        "source": "[1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/; [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/; [10] WOOD-TV 8: https://www.woodtv.com/news/michigan/woman-who-helped-solve-roxanne-wood-case-shares-story/"
+      },
+      {
+        "date": "3 June 2021",
+        "location": "South Bend area",
+        "what_happened": "Investigators collect a publicly discarded cigarette butt; lab reports match to crime-scene DNA (1 in 958.8 trillion)",
+        "significance": "Confirmation",
+        "source": "[7] Leader Publications (Niles Daily Star): https://www.leaderpub.com/2022/03/16/roxanne-wood-murder-police-report-details-interview-with-suspect-evidence/; [16] WSBT 22: https://wsbt.com/news/local/dna-from-a-cigarette-butt-leads-to-arrest-in-a-35-year-old-niles-cold-case"
+      },
+      {
+        "date": "29 July 2021",
+        "location": "South Bend Police Department",
+        "what_happened": "MSP interviews Gilham; he denies going to Michigan except for work, having friends in Niles, knowing the Woods' street, or dating women in Niles",
+        "significance": "Denial",
+        "source": "[7] Leader Publications (Niles Daily Star): https://www.leaderpub.com/2022/03/16/roxanne-wood-murder-police-report-details-interview-with-suspect-evidence/; [16] WSBT 22: https://wsbt.com/news/local/dna-from-a-cigarette-butt-leads-to-arrest-in-a-35-year-old-niles-cold-case"
+      },
+      {
+        "date": "17 February 2022 (Thursday)",
+        "location": "South Bend, Indiana",
+        "what_happened": "Gilham, 67, arrested at his home; charged with open murder and breaking and entering; held in St. Joseph County pending extradition",
+        "significance": "Arrest",
+        "source": "[4] CBS News: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-arrested-1987-slaying-michigan/; [13] WNDU 16: https://www.wndu.com/2022/02/19/south-bend-man-arrested-35-year-old-cold-case-murder/; [9] WOOD-TV 8: https://www.woodtv.com/news/michigan/arrest-made-35-years-after-niles-area-murder/"
+      },
+      {
+        "date": "18 March 2022",
+        "location": "Berrien County",
+        "what_happened": "Gilham pleads no contest to second-degree murder; deal includes minimum 23 years; offered with family input including Terry",
+        "significance": "Conviction",
+        "source": "[5] Michigan State Police press release: https://content.govdelivery.com/attachments/MIMSP/2022/03/18/file_attachments/2108015/Gilham%20No%20Contest%20Plea%203-18-22.pdf; [12] WNDU 16: https://www.wndu.com/2022/03/18/suspect-niles-twp-cold-case-pleads-no-contest-second-degree-murder/; [28] The Indiana Lawyer (AP): https://www.theindianalawyer.com/articles/south-bend-man-pleads-no-contest-in-michigan-womans-1987-slaying"
+      },
+      {
+        "date": "25 April 2022",
+        "location": "Berrien County courthouse, Niles",
+        "what_happened": "Sentenced to 23 to 50 years; victim impact statements by Janet and Brad; WMU students attend",
+        "significance": "Sentence",
+        "source": "[11] WNDU 16: https://www.wndu.com/2022/04/25/patrick-gilham-sentenced-minimum-23-years-prison-murder-roxanne-wood/; [14] WSBT 22: https://wsbt.com/news/local/mans-sentenced-in-niles-35-year-old-murder; [29] ABC57: https://www.abc57.com/news/patrick-gilham-sentenced-for-1987-murder-of-roxanne-leigh-wood; [6] Western Michigan University Cold Case Program: https://wmich.edu/coldcase/cases/roxanne-wood"
+      },
+      {
+        "date": "November 2022",
+        "location": "CBS",
+        "what_happened": "48 Hours airs 'The Unsolvable Murder of Roxanne Wood'; Terry declined interview",
+        "significance": "National attention",
+        "source": "[30] Paramount Press Express: https://www.paramountpressexpress.com/cbs-entertainment/releases/?view=108341-48-hours-the-unsolvable-murder-of-roxanne-wood; [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/"
+      }
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "",
+    "the_moment": {
+      "exact_date": "20 February 1987, shortly after 1 a.m.",
+      "exact_location": "Tam-O-Shanter Lane, Niles Township, Michigan",
+      "what_is_happening": "Terry Wood comes home about 45 minutes after Roxanne and finds her dead on the kitchen floor",
+      "what_makes_it_shocking": "The man who found her would be suspected for 35 years",
+      "ironic_twist": "The killer lived about 10 miles away in South Bend, on parole, and was never on the list"
+    },
+    "central_mystery_question": "Who killed Roxanne Wood in those 45 minutes, and what did 35 years of suspicion cost the man who found her"
+  },
+  "the_method": {
+    "_instructions": "",
+    "technique_name": "Investigative genetic genealogy from trace DNA, confirmed by a discarded cigarette butt",
+    "step_by_step_explanation": [
+      "Crime-scene DNA preserved since 1987 [1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/",
+      "Identifinders generates a genetic profile from very little DNA (about 3 percent of normal) [3] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-genetic-genealogist-helps-solve-case-that-had-a-gnats-eyebrow-of-dna/",
+      "Profile compared with relatives in public genealogy databases [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/",
+      "Vargas builds family tree in about four days, reaching three brothers [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/; [10] WOOD-TV 8: https://www.woodtv.com/news/michigan/woman-who-helped-solve-roxanne-wood-case-shares-story/",
+      "MSP surveillance; cigarette butt collected 3 June 2021 [5] Michigan State Police press release: https://content.govdelivery.com/attachments/MIMSP/2022/03/18/file_attachments/2108015/Gilham%20No%20Contest%20Plea%203-18-22.pdf; [7] Leader Publications (Niles Daily Star): https://www.leaderpub.com/2022/03/16/roxanne-wood-murder-police-report-details-interview-with-suspect-evidence/",
+      "Lab match 1 in 958.8 trillion [7] Leader Publications (Niles Daily Star): https://www.leaderpub.com/2022/03/16/roxanne-wood-murder-police-report-details-interview-with-suspect-evidence/"
+    ],
+    "why_it_worked": "Public genealogy databases contained relatives; the WMU digitized file let detectives check the name against 3,500 pages",
+    "technical_terms_to_explain": [
+      {
+        "term": "SNP profile",
+        "simple_explanation": "hundreds of thousands of genetic letters compared with cousins, unlike the 13-20 markers of a police profile"
+      },
+      {
+        "term": "no contest plea",
+        "simple_explanation": "defendant does not admit guilt but does not contest; court enters a conviction"
+      },
+      {
+        "term": "open murder",
+        "simple_explanation": "Michigan charge letting the jury/court decide first or second degree"
+      }
+    ],
+    "scale_of_operation": "~3,500 pages, several thousand student hours, ~10 months lab work, 4 days of genealogy, about 18 months MSP work"
+  },
+  "systemic_failure": {
+    "_instructions": "",
+    "institution_that_failed": "1987 investigation focus (tunnel vision on husband) and parole supervision context",
+    "how_they_were_supposed_to_protect": "",
+    "why_they_failed": "No forced entry and Terry's behaviour and request for a lawyer were read as guilt; DNA technology insufficient",
+    "specific_incompetence_examples": [
+      "Terry treated as main suspect even though witnesses placed him at the bowling alley [1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/",
+      "Still described as main person of interest in 2013 [15] WSBT 22 (2013): https://wsbt.com/news/local/cold-case-files-police-have-a-suspect-in-26-year-old-murder-casebut-did-he-do-it",
+      "Gilham on parole for a sex-related offence months earlier [8] WOOD-TV 8: https://www.woodtv.com/news/michigan/suspect-in-1987-murder-on-parole-at-time-of-crime/"
+    ],
+    "ironic_details_about_the_failure": "The DNA preserved in 1987 had always excluded the man people suspected (reported later)."
+  },
+  "the_investigation": {
+    "_instructions": "",
+    "investigating_agency": "Michigan State Police, Niles Post",
+    "operation_code_name_if_any": "",
+    "when_investigation_began": "20 Feb 1987",
+    "initial_wrong_assumptions": "Husband did it",
+    "key_breakthrough": "Genetic genealogy April 2021",
+    "the_fatal_mistake": "Discarding a cigarette butt in public",
+    "how_long_until_caught": "35 years (arrest Feb 2022)"
+  },
+  "the_confrontation": {
+    "date_and_time": "17 February 2022",
+    "location": "Gilham's home, South Bend, Indiana, about 10 miles south of the crime scene [20] Law&Crime: https://lawandcrime.com/crime/indiana-man-agrees-to-deal-that-effectively-means-hell-die-in-prison-for-35-year-old-cold-case-murder-of-woman-whose-throat-was-slit-in-her-own-kitchen/",
+    "scene_description": "Arrested and held in St. Joseph County jail pending extradition [4] CBS News: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-arrested-1987-slaying-michigan/; [19] Law&Crime: https://lawandcrime.com/crime/husband-feels-vindicated-after-michigan-police-arrest-out-of-state-man-in-1987-cold-case-of-wife-found-murdered-in-her-own-kitchen/",
+    "protagonist_reaction": "Earlier (July 2021) had denied any Niles connection [7] Leader Publications (Niles Daily Star): https://www.leaderpub.com/2022/03/16/roxanne-wood-murder-police-report-details-interview-with-suspect-evidence/",
+    "ironic_or_absurd_details": "Arrest came three days before the 35th anniversary"
+  },
+  "legal_resolution": {
+    "_instructions": "",
+    "charges_filed": [
+      "Open murder",
+      "Breaking and entering [4] CBS News: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-arrested-1987-slaying-michigan/"
+    ],
+    "trial_date_if_applicable": "No trial; no contest plea 18 March 2022",
+    "notable_court_testimony": "Attorney: drug use meant he did not recall the events [21] Law&Crime: https://lawandcrime.com/crime/man-sentenced-in-michigan-court-after-pleading-no-contest-to-slitting-womans-throat-in-her-kitchen/",
+    "victim_impact_statements": [
+      {
+        "from_whom": "Janet Wood",
+        "key_quote": "His actions gave all of us a life sentence while he got to live most of his as a free man.",
+        "emotional_impact": "Decades lost [14] WSBT 22: https://wsbt.com/news/local/mans-sentenced-in-niles-35-year-old-murder"
+      },
+      {
+        "from_whom": "Brad Woods",
+        "key_quote": "It seems people like him tend to find Jesus in prison.",
+        "emotional_impact": "Unmoved by apology [14] WSBT 22: https://wsbt.com/news/local/mans-sentenced-in-niles-35-year-old-murder"
+      }
+    ],
+    "sentence_received": "23 to 50 years in prison, 25 April 2022 [11] WNDU 16: https://www.wndu.com/2022/04/25/patrick-gilham-sentenced-minimum-23-years-prison-murder-roxanne-wood/; [29] ABC57: https://www.abc57.com/news/patrick-gilham-sentenced-for-1987-murder-of-roxanne-leigh-wood",
+    "protagonist_statement_in_court": "Very sorry; hoped 'with God's help' the family could forgive him [21] Law&Crime: https://lawandcrime.com/crime/man-sentenced-in-michigan-court-after-pleading-no-contest-to-slitting-womans-throat-in-her-kitchen/; [22] Oxygen: https://www.oxygen.com/patrick-gilham-sentenced-1987-murder-roxanne-wood-cold-case",
+    "current_status": "As of Oct 2026, no reports of appeal, release or death found; serving sentence in Michigan (MDOC); earliest release only after 23-year minimum (about 2045, aged about 90). Verify MDOC OTIS."
+  },
+  "verified_quotes": {
+    "_instructions": "",
+    "quotes": [
+      {
+        "speaker": "Terry Wood",
+        "exact_quote": "I didn't murder Roxanne.",
+        "context": "2013, declining on-camera interview",
+        "source": "[15] WSBT 22 (2013): https://wsbt.com/news/local/cold-case-files-police-have-a-suspect-in-26-year-old-murder-casebut-did-he-do-it"
+      },
+      {
+        "speaker": "Janet Wood",
+        "exact_quote": "very outgoing, friendly, loved to laugh",
+        "context": "Describing Roxanne to 48 Hours",
+        "source": "[2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/"
+      },
+      {
+        "speaker": "Brad Woods",
+        "exact_quote": "a very fun person to be around",
+        "context": "Describing Roxanne",
+        "source": "[2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/"
+      },
+      {
+        "speaker": "Investigator (as recounted by Janet Wood to 48 Hours)",
+        "exact_quote": "I believe you're the killer and I will not rest until you're behind bars.",
+        "context": "Said to Terry, per Janet's account (secondhand)",
+        "source": "[2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/"
+      },
+      {
+        "speaker": "Colleen Fitzpatrick",
+        "exact_quote": "a gnat's eyebrow of DNA left, about 3% of what we normally use",
+        "context": "On the trace DNA",
+        "source": "[3] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-genetic-genealogist-helps-solve-case-that-had-a-gnats-eyebrow-of-dna/"
+      },
+      {
+        "speaker": "Gabriella Vargas",
+        "exact_quote": "it was deemed unsolvable prior to my involvement",
+        "context": "On the case",
+        "source": "[3] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-genetic-genealogist-helps-solve-case-that-had-a-gnats-eyebrow-of-dna/"
+      },
+      {
+        "speaker": "Det. Lt. Chuck Christensen",
+        "exact_quote": "There's relief that we have an individual arrested for this, but I can tell you there's a lot of investigative work that will continue from this point.",
+        "context": "Feb 2022 arrest",
+        "source": "[9] WOOD-TV 8: https://www.woodtv.com/news/michigan/arrest-made-35-years-after-niles-area-murder/"
+      },
+      {
+        "speaker": "Scott Sanford",
+        "exact_quote": "He can't recall the events which is no excuse, but he is genuinely remorseful.",
+        "context": "Sentencing",
+        "source": "[21] Law&Crime: https://lawandcrime.com/crime/man-sentenced-in-michigan-court-after-pleading-no-contest-to-slitting-womans-throat-in-her-kitchen/"
+      },
+      {
+        "speaker": "Janet Wood",
+        "exact_quote": "His actions gave all of us a life sentence while he got to live most of his as a free man.",
+        "context": "Victim impact statement",
+        "source": "[14] WSBT 22: https://wsbt.com/news/local/mans-sentenced-in-niles-35-year-old-murder; [22] Oxygen: https://www.oxygen.com/patrick-gilham-sentenced-1987-murder-roxanne-wood-cold-case"
+      },
+      {
+        "speaker": "Brad Woods",
+        "exact_quote": "It seems people like him tend to find Jesus in prison.",
+        "context": "Victim impact statement",
+        "source": "[14] WSBT 22: https://wsbt.com/news/local/mans-sentenced-in-niles-35-year-old-murder; [22] Oxygen: https://www.oxygen.com/patrick-gilham-sentenced-1987-murder-roxanne-wood-cold-case"
+      }
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "",
+    "figures": [
+      {
+        "number": "30",
+        "what_it_represents": "Roxanne's age",
+        "source": "[4] CBS News: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-arrested-1987-slaying-michigan/"
+      },
+      {
+        "number": "45 minutes",
+        "what_it_represents": "Time Roxanne was home before Terry",
+        "source": "[1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/"
+      },
+      {
+        "number": "shortly after 1 a.m.",
+        "what_it_represents": "Terry's arrival",
+        "source": "[36] WZZM 13: https://www.wzzm13.com/article/news/crime/cold-cases/1987-niles-homicide-arrest/69-d04a1937-65c2-4935-a19a-d275694ffacb"
+      },
+      {
+        "number": "35 years",
+        "what_it_represents": "Years to arrest / Terry under suspicion",
+        "source": "[4] CBS News: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-arrested-1987-slaying-michigan/; [2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/"
+      },
+      {
+        "number": "~3,000-3,500 pages",
+        "what_it_represents": "Case file digitized by WMU students",
+        "source": "[23] ClickOnDetroit / WDIV: https://www.clickondetroit.com/news/michigan/2022/04/01/western-michigan-university-students-help-crack-1987-berrien-county-murder-cold-case/; [6] Western Michigan University Cold Case Program: https://wmich.edu/coldcase/cases/roxanne-wood"
+      },
+      {
+        "number": "about 3%",
+        "what_it_represents": "DNA quantity relative to normal",
+        "source": "[3] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-genetic-genealogist-helps-solve-case-that-had-a-gnats-eyebrow-of-dna/"
+      },
+      {
+        "number": "10 months",
+        "what_it_represents": "Identifinders work without result",
+        "source": "[2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/"
+      },
+      {
+        "number": "4 days",
+        "what_it_represents": "Vargas's tree",
+        "source": "[2] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/; [10] WOOD-TV 8: https://www.woodtv.com/news/michigan/woman-who-helped-solve-roxanne-wood-case-shares-story/"
+      },
+      {
+        "number": "1 in 958.8 trillion",
+        "what_it_represents": "Match statistic",
+        "source": "[7] Leader Publications (Niles Daily Star): https://www.leaderpub.com/2022/03/16/roxanne-wood-murder-police-report-details-interview-with-suspect-evidence/"
+      },
+      {
+        "number": "67",
+        "what_it_represents": "Gilham's age at arrest",
+        "source": "[4] CBS News: https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-arrested-1987-slaying-michigan/"
+      },
+      {
+        "number": "10 miles",
+        "what_it_represents": "Gilham's South Bend home to the crime scene",
+        "source": "[20] Law&Crime: https://lawandcrime.com/crime/indiana-man-agrees-to-deal-that-effectively-means-hell-die-in-prison-for-35-year-old-cold-case-murder-of-woman-whose-throat-was-slit-in-her-own-kitchen/"
+      },
+      {
+        "number": "14 years / about 6 served",
+        "what_it_represents": "Gilham's 1980 Indiana sentence",
+        "source": "[8] WOOD-TV 8: https://www.woodtv.com/news/michigan/suspect-in-1987-murder-on-parole-at-time-of-crime/"
+      },
+      {
+        "number": "23 to 50 years",
+        "what_it_represents": "Sentence",
+        "source": "[11] WNDU 16: https://www.wndu.com/2022/04/25/patrick-gilham-sentenced-minimum-23-years-prison-murder-roxanne-wood/; [29] ABC57: https://www.abc57.com/news/patrick-gilham-sentenced-for-1987-murder-of-roxanne-leigh-wood"
+      }
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "",
+    "details": [
+      "The man who called police was suspected for 35 years; the man who did it was 10 miles away and never on the list.",
+      "Gilham was arrested days before the 35th anniversary.",
+      "A bowling league, a cigarette butt and a student database decided a murder case.",
+      "Gilham, convicted in 1980 of criminal deviate conduct, was on parole when Roxanne was killed."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "",
+    "key_locations": [
+      {
+        "location_name": "Tam-O-Shanter Lane, Niles Township",
+        "physical_description": "Residential street outside the city of Niles",
+        "atmosphere": "February night; no weather documented",
+        "relevant_details": "Kitchen; open drawer where knife was kept [1] CBS News / 48 Hours: https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/"
+      },
+      {
+        "location_name": "Niles, Michigan",
+        "physical_description": "Small city on the St. Joseph River near the Indiana line, nicknamed City of Four Flags",
+        "atmosphere": "",
+        "relevant_details": "[35] Background reference: https://en.wikipedia.org/wiki/Niles,_Michigan"
+      },
+      {
+        "location_name": "South Bend, Indiana",
+        "physical_description": "About 10 miles south",
+        "atmosphere": "",
+        "relevant_details": "Roxanne worked there; Gilham lived there [18] Obituary (1987) via Friends of Silverbrook Cemetery: https://friendsofsilverbrook.org/site5/obituaries/7271-wood-roxanne-leigh-woods-1956-1987; [20] Law&Crime: https://lawandcrime.com/crime/indiana-man-agrees-to-deal-that-effectively-means-hell-die-in-prison-for-35-year-old-cold-case-murder-of-woman-whose-throat-was-slit-in-her-own-kitchen/"
+      }
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "",
+    "why_this_matters_to_viewer": "Anyone can be the person who finds a loved one and becomes the suspect",
+    "how_this_could_happen_to_them": "Spousal suspicion is the default in homicide investigations",
+    "lesson_or_warning": "Asking for a lawyer is a right, not a confession; evidence, not instinct",
+    "current_relevance": "Genetic genealogy and university cold case programs"
+  },
+  "sources": {
+    "_instructions": "",
+    "primary_sources": [
+      {
+        "type": "press release",
+        "title": "Gilham No Contest Plea 3-18-22",
+        "url_or_reference": "https://content.govdelivery.com/attachments/MIMSP/2022/03/18/file_attachments/2108015/Gilham%20No%20Contest%20Plea%203-18-22.pdf",
+        "key_information_obtained": "Plea, detectives, surveillance"
+      },
+      {
+        "type": "university case page",
+        "title": "Roxanne Wood case page",
+        "url_or_reference": "https://wmich.edu/coldcase/cases/roxanne-wood",
+        "key_information_obtained": "Student role"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "type": "CBS News / 48 Hours",
+        "title": "Roxanne Wood murder case timeline",
+        "url_or_reference": "https://www.cbsnews.com/news/roxanne-wood-murder-timeline-48-hours/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "CBS News / 48 Hours",
+        "title": "Roxanne Wood murder: How a DNA 'detective' helped solve an 'unsolvable' Michigan cold case in four days",
+        "url_or_reference": "https://www.cbsnews.com/news/roxanne-wood-murder-patrick-wayne-gilham-dna-detective-helped-solve-michigan-cold-case/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "CBS News / 48 Hours",
+        "title": "Genetic genealogist Gabriella Vargas helps solve a case that had 'a gnat's eyebrow of DNA'",
+        "url_or_reference": "https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-genetic-genealogist-helps-solve-case-that-had-a-gnats-eyebrow-of-dna/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "CBS News",
+        "title": "Indiana man arrested 35 years after Michigan woman found dead by her husband",
+        "url_or_reference": "https://www.cbsnews.com/news/roxanne-wood-murder-patrick-gilham-arrested-1987-slaying-michigan/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "Leader Publications (Niles Daily Star)",
+        "title": "Police report details interview with suspect, evidence (16 Mar 2022)",
+        "url_or_reference": "https://www.leaderpub.com/2022/03/16/roxanne-wood-murder-police-report-details-interview-with-suspect-evidence/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WOOD-TV 8",
+        "title": "Suspect in 1987 murder on parole at time of crime",
+        "url_or_reference": "https://www.woodtv.com/news/michigan/suspect-in-1987-murder-on-parole-at-time-of-crime/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WOOD-TV 8",
+        "title": "Arrest made 35 years after Roxanne Wood's murder",
+        "url_or_reference": "https://www.woodtv.com/news/michigan/arrest-made-35-years-after-niles-area-murder/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WOOD-TV 8",
+        "title": "Genealogist: 'Four days to solve' 1987 murder",
+        "url_or_reference": "https://www.woodtv.com/news/michigan/woman-who-helped-solve-roxanne-wood-case-shares-story/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WNDU 16",
+        "title": "Patrick Gilham sentenced to minimum 23 years (25 Apr 2022)",
+        "url_or_reference": "https://www.wndu.com/2022/04/25/patrick-gilham-sentenced-minimum-23-years-prison-murder-roxanne-wood/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WNDU 16",
+        "title": "Suspect pleads no contest to second-degree murder (18 Mar 2022)",
+        "url_or_reference": "https://www.wndu.com/2022/03/18/suspect-niles-twp-cold-case-pleads-no-contest-second-degree-murder/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WNDU 16",
+        "title": "South Bend man arrested in 35-year-old cold case murder (19 Feb 2022)",
+        "url_or_reference": "https://www.wndu.com/2022/02/19/south-bend-man-arrested-35-year-old-cold-case-murder/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WSBT 22",
+        "title": "Family of woman in 35-year-old cold case murder speaks after sentencing",
+        "url_or_reference": "https://wsbt.com/news/local/mans-sentenced-in-niles-35-year-old-murder",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WSBT 22 (2013)",
+        "title": "COLD CASE FILES: Police have a suspect in 26-year-old murder case....but did he do it?",
+        "url_or_reference": "https://wsbt.com/news/local/cold-case-files-police-have-a-suspect-in-26-year-old-murder-casebut-did-he-do-it",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WSBT 22",
+        "title": "DNA from a cigarette butt leads to arrest in a 35-year-old Niles cold case",
+        "url_or_reference": "https://wsbt.com/news/local/dna-from-a-cigarette-butt-leads-to-arrest-in-a-35-year-old-niles-cold-case",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WSBT 22",
+        "title": "Special Report: How Roxanne Wood's murder was solved 35 years later",
+        "url_or_reference": "https://wsbt.com/news/local/special-report-how-roxanne-woods-murder-was-solved-35-years-later",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "Obituary (1987) via Friends of Silverbrook Cemetery",
+        "title": "Wood, Roxanne Leigh (Woods) 1956-1987",
+        "url_or_reference": "https://friendsofsilverbrook.org/site5/obituaries/7271-wood-roxanne-leigh-woods-1956-1987",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "Law&Crime",
+        "title": "Husband feels vindicated after Michigan police arrest out-of-state man",
+        "url_or_reference": "https://lawandcrime.com/crime/husband-feels-vindicated-after-michigan-police-arrest-out-of-state-man-in-1987-cold-case-of-wife-found-murdered-in-her-own-kitchen/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "Law&Crime",
+        "title": "Indiana man agrees to deal that effectively means he'll die in prison",
+        "url_or_reference": "https://lawandcrime.com/crime/indiana-man-agrees-to-deal-that-effectively-means-hell-die-in-prison-for-35-year-old-cold-case-murder-of-woman-whose-throat-was-slit-in-her-own-kitchen/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "Law&Crime",
+        "title": "Man sentenced in Michigan court after pleading no contest",
+        "url_or_reference": "https://lawandcrime.com/crime/man-sentenced-in-michigan-court-after-pleading-no-contest-to-slitting-womans-throat-in-her-kitchen/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "Oxygen",
+        "title": "Patrick Gilham sentenced for Roxanne Wood's cold case murder",
+        "url_or_reference": "https://www.oxygen.com/patrick-gilham-sentenced-1987-murder-roxanne-wood-cold-case",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "ClickOnDetroit / WDIV",
+        "title": "WMU students help crack 1987 Berrien County cold case",
+        "url_or_reference": "https://www.clickondetroit.com/news/michigan/2022/04/01/western-michigan-university-students-help-crack-1987-berrien-county-murder-cold-case/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "NBC News",
+        "title": "Western Michigan University students help police crack 1987 murder cold case",
+        "url_or_reference": "https://www.nbcnews.com/news/us-news/western-michigan-university-students-help-police-crack-1987-murder-col-rcna22368",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "The Herald-Palladium",
+        "title": "Police arrest suspect in 35-year-old Niles homicide",
+        "url_or_reference": "https://www.heraldpalladium.com/news/police-arrest-suspect-in-35-year-old-niles-homicide/article_8d06a3b6-377f-5a9b-8508-d239043b8499.html",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "The Herald-Palladium",
+        "title": "South Bend man pleads in Berrien County cold case murder",
+        "url_or_reference": "https://www.heraldpalladium.com/news/south-bend-man-pleads-in-berrien-county-cold-case-murder/article_416c1ea5-73a0-554d-8885-c6daff8735df.html",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "The Detroit News",
+        "title": "Roxanne Wood was found dead in her home in 1987. Police say they have cracked the case (20 Mar 2022)",
+        "url_or_reference": "https://www.detroitnews.com/story/news/local/michigan/2022/03/20/michigan-state-police-cold-case-roxanne-wood-patrick-wayne-gilham/7116717001/",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "The Indiana Lawyer (AP)",
+        "title": "South Bend man pleads no contest in Michigan woman's 1987 slaying",
+        "url_or_reference": "https://www.theindianalawyer.com/articles/south-bend-man-pleads-no-contest-in-michigan-womans-1987-slaying",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "ABC57",
+        "title": "Patrick Gilham sentenced for 1987 murder of Roxanne Leigh Wood",
+        "url_or_reference": "https://www.abc57.com/news/patrick-gilham-sentenced-for-1987-murder-of-roxanne-leigh-wood",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "Paramount Press Express",
+        "title": "48 Hours: The 'Unsolvable' Murder of Roxanne Wood",
+        "url_or_reference": "https://www.paramountpressexpress.com/cbs-entertainment/releases/?view=108341-48-hours-the-unsolvable-murder-of-roxanne-wood",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WWMT 3",
+        "title": "WMU students help solve 1987 Niles murder case",
+        "url_or_reference": "https://wwmt.com/news/local/wmu-students-help-solve-1987-niles-murder-case-patrick-gilman-roxanne-woods-dna-body",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "Niles High School Class of 1974 site",
+        "title": "Roxanne Woods class profile",
+        "url_or_reference": "https://www.nileshigh1974.org/class_profile.cfm?member_id=1126929",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "Background reference",
+        "title": "FBI CODIS and NDIS fact sheet (national DNA index since 1998)",
+        "url_or_reference": "https://www.fbi.gov/how-we-can-help-you/dna-fingerprint-act-of-2005-expungement-policy/codis-and-ndis-fact-sheet",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "Background reference",
+        "title": "Golden State Killer arrest via genetic genealogy, April 2018 (Joseph James DeAngelo)",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "Background reference",
+        "title": "Niles, Michigan (City of Four Flags; Berrien County; near Indiana line)",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Niles,_Michigan",
+        "key_information_obtained": ""
+      },
+      {
+        "type": "WZZM 13",
+        "title": "Arrest made in Niles cold case homicide from 1987",
+        "url_or_reference": "https://www.wzzm13.com/article/news/crime/cold-cases/1987-niles-homicide-arrest/69-d04a1937-65c2-4935-a19a-d275694ffacb",
+        "key_information_obtained": ""
+      }
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "",
+    "next_topic": "Another genetic-genealogy solved case",
+    "connection_to_current_video": "Trace DNA and a discarded object",
+    "teaser_line": "Next, another case where the answer was hiding in a family tree."
+  },
+  "notes_and_gaps": {
+    "_instructions": "",
+    "unverified_claims": [
+      "Marriage year 1982 (CBS) vs shortly after 1974 (Conan Daily)",
+      "Release four vs six months before murder",
+      "Exact date Terry's DNA was excluded",
+      "Weapon sheath detail (WOOD-TV, single source)",
+      "Frying pan detail (single unclear source) - not used",
+      "Gilham quote 'I can't believe I did what I did' (single search summary) - not used",
+      "Arrest date 17 Feb 2022 inferred from 'Thursday' in 19 Feb reports"
+    ],
+    "information_gaps": [
+      "Name of bowling alley and restaurant",
+      "Name of sentencing judge",
+      "Gilham's current MDOC status"
+    ],
+    "questions_to_answer": [
+      "Did Terry ever speak publicly after 2022"
+    ]
+  }
+}
