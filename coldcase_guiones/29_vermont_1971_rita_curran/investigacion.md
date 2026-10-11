@@ -124,7 +124,8 @@ William DeRoos nunca fue detenido, acusado ni condenado; murió el 7 de agosto d
 - Si 15 y 17 Brookes Ave son el mismo edificio (prensa: "mismo edificio, dos pisos arriba"); el guion explica las dos numeraciones.
 - Nombre del motel (Colonial Motor Inn) y su cercanía al Lund Home (fuente única) — en el guion solo "según un relato posterior".
 - Datos familiares (orden de hermanos, edades, Trinity College): fuente principal un pódcast [16]; confirmar con necrológicas o prensa de 1971.
-- Que los padres de Rita murieran antes de 2023 (inferido de la paráfrasis de Tom) — el guion lo afirma; confirmar.
+- Si los padres de Rita vivían en 2023 (Tom dijo que reza a sus padres y a Rita; se infiere que habían muerto). Corregido: el guion ya NO lo afirma; solo dice que Tom habló de ellos junto a su hermana.
+- Edades de Tom (~21) y Mary (~19) en 1971: derivadas del pódcast [16]; en el guion van atribuidas ("if that family account is right", "according to one account of the family").
 - Año exacto de la muestra del medio hermano, del ADN de la bata y de la reentrevista a la exesposa (2022–2023).
 - Fecha en que DeRoos salió hacia Tailandia y duración allí.
 - Supuesta violencia posterior de DeRoos contra una esposa posterior (fuente única) — NO usada en el guion como hecho.
@@ -159,10 +160,10 @@ William DeRoos nunca fue detenido, acusado ni condenado; murió el 7 de agosto d
 
 ## 14. Verificación del guion
 
-- **Palabras por parte:** 1.437 / 1.317 / 1.237 / 1.238 / 1.296 / 1.265 / 1.225 / 1.225 / 1.224 / 1.214 (todas ≥ 1.200).
-- **Total:** 12.678 palabras, 10 párrafos, 7 signos de interrogación (máximo 12).
-- **Duración estimada a 170 ppm:** ≈ 74,6 minutos.
-- **Revisión aplicada:** se eliminaron o matizaron detalles no documentados (forma de entrada, reacciones de vecinos, motivos de la esposa, detalles de la vida en Tailandia, violencia posterior de fuente única, afirmación Bundy–Keppel). DeRoos se describe siempre como "identified by DNA", "according to Burlington police", "never charged", "never convicted". La identidad se reserva hasta la parte 8.
+- **Palabras por parte:** 1.438 / 1.335 / 1.237 / 1.238 / 1.296 / 1.278 / 1.225 / 1.225 / 1.247 / 1.225 (todas ≥ 1.200).
+- **Total:** 12.744 palabras, 10 párrafos, 7 signos de interrogación (máximo 12).
+- **Duración estimada a 170 ppm:** ≈ 75,0 minutos.
+- **Revisión aplicada:** se eliminaron o matizaron detalles no documentados (forma de entrada, reacciones de vecinos, motivos de la esposa, detalles de la vida en Tailandia, violencia posterior de fuente única, afirmación Bundy–Keppel). Segunda pasada: se reescribieron las frases que daban inferencias como hechos (muerte de los padres antes de 2023, edades de los hermanos, lo que sintió Mary en la rueda de prensa, "come home to Chittenden County"). DeRoos se describe siempre como "identified by DNA", "according to Burlington police", "never charged", "never convicted". La identidad se reserva hasta la parte 8.
 
 **10 afirmaciones clave y sus fuentes:**
 1. Rita Curran, 24, maestra de segundo grado en Milton, hallada muerta en su dormitorio de Brookes Ave en la madrugada del 20 jul 1971 — [1][2][19][21]
