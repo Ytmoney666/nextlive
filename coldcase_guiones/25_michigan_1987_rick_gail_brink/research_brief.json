@@ -1,0 +1,215 @@
+{
+  "video_metadata": {
+    "working_title": "MICHIGAN 1987 Cold Case Solved After 26 Years — Justice for Rick & Gail Brink",
+    "topic_one_sentence": "Rick Brink, 28, and his wife Gail, 22, married about 18 months, were shot to death at their Park Township ranch house near Holland, Michigan, in November 1987; in January 2013 Gail's brother Ryan Wyngarden was arrested after his wife told cold-case detectives he had admitted the killings, and in 2014 a jury convicted him of two counts of first-degree premeditated murder.",
+    "primary_emotion_to_evoke": "betrayal inside a family; grief stretched over 26 years; quiet respect for the detectives who reread the file",
+    "target_length_minutes": "70 (about 12,000+ words at 170 wpm)"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Ryan Wyngarden (convicted)",
+    "age_at_time_of_events": "Not verified in available sources; described as having had 'sexual encounters' with his sister when both were teenagers (police/prosecution claim). Age deliberately not stated in the script.",
+    "occupation_or_status": "Gail Brink's brother; in 2013 described as a Zeeland (Ottawa County) man; since 2014 serving two life sentences without parole; in the federal habeas record he was confined at the Thumb Correctional Facility, Lapeer, Michigan.",
+    "location": "Holland / Zeeland area, Ottawa County, Michigan",
+    "physical_description": "Not used (no verified description needed).",
+    "background_brief": "Interviewed within days of the 1987 killings and not considered a suspect; his alibi (doing laundry and babysitting at a friend's home with his then-girlfriend Pam Maracchini) was confirmed by her. He later married Pam. Arrested January 2013, convicted March 28, 2014, sentenced April 21, 2014. Maintains his innocence. [1][10][5][13]",
+    "psychological_profile": "Only documented behaviour: prosecutors and police said he was jealous of the couple's success and wanted to keep secret sexual encounters he and his sister had as teenagers [4][6]; at sentencing he spoke for more than an hour, criticised investigators and called the judge a liar [13][24].",
+    "mundane_humanizing_detail": "His 1987 alibi was an ordinary chore: doing laundry and babysitting at a friend's house [10][1].",
+    "nickname_or_alias_if_any": "None"
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {"name": "Gail Brink (née Wyngarden)", "role_or_profession": "Young wife, 22; employed (employer not verified)", "connection_to_protagonist": "His sister", "specific_impact_suffered": "Shot to death; found lying on the couple's waterbed on Monday, November 23, 1987 [3][23]", "humanizing_detail": "Married to Rick about 18 months; the couple had only recently bought their ranch house in Park Township [3]", "any_quotes_from_them": "None verified"},
+      {"name": "Rick Brink", "role_or_profession": "Husband, 28; employed (employer not verified)", "connection_to_protagonist": "Brother-in-law", "specific_impact_suffered": "Shot twice in the head; found in the driver's seat of his Chevy Blazer in the driveway [14][23]", "humanizing_detail": "Failure to show up for work on Monday morning raised the alarm [3]", "any_quotes_from_them": "None verified"},
+      {"name": "Budd Brink (spelling varies: Bud/Budd)", "role_or_profession": "Rick's brother", "connection_to_protagonist": "Family of victim", "specific_impact_suffered": "Holidays and shared family times 'wiped away' by Ryan's anger and jealousy, per his sentencing statement (paraphrase) [24]", "humanizing_detail": "Asked the judge for the life sentence; recalled the priest's words at the funeral [24]", "any_quotes_from_them": "Recounted the priest's words: \"This is not the work of the Lord, this is the work of the Devil.\" [24]"},
+      {"name": "Pam Wyngarden (née Maracchini)", "role_or_profession": "Ryan's girlfriend in 1987, later his wife", "connection_to_protagonist": "Wife; prosecution's key witness", "specific_impact_suffered": "Gave the 1987 alibi; decades later told detectives Ryan admitted the killings and had taken her to the house, where she saw Gail, before the bodies were discovered [10][8]", "humanizing_detail": "The defence argued she was manipulated by police; appeals courts rejected that [18][17]", "any_quotes_from_them": "No exact quote verified"}
+    ],
+    "collective_victims_if_applicable": {"group_description": "The Brink and Wyngarden families", "total_number_affected": "Two families", "range_of_impacts": "26 years without answers; a killer inside the family circle at holidays [24]"}
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Det. Venus Repper", "role_in_story": "Ottawa County Sheriff's Office cold case detective", "key_actions_they_took": "From 2011, with Det. David Blakely, reread thousands of documents, conducted 200+ interviews across state lines, spotted a discrepancy in interview transcripts and re-interviewed Pam [10][5]", "notable_quotes": "None verified verbatim"},
+      {"name": "Det. David Blakely", "role_in_story": "Cold case detective", "key_actions_they_took": "Same as above [10]", "notable_quotes": "None verified verbatim"},
+      {"name": "Daryl Cain", "role_in_story": "Jailhouse informant", "key_actions_they_took": "Testified that Ryan admitted to him in jail that he murdered his sister and her husband [2]", "notable_quotes": "None"},
+      {"name": "David Hall", "role_in_story": "Defence attorney at the preliminary examination", "key_actions_they_took": "Argued some testimony was hearsay [1]", "notable_quotes": "None verbatim"},
+      {"name": "Judge Jon Hulsing", "role_in_story": "Ottawa County Circuit Judge", "key_actions_they_took": "Imposed two life sentences without parole on April 21, 2014; warned Ryan during his statement [24][25]", "notable_quotes": "Fox 17 headline: 'Do I Need To Bind You And Gag You' (headline wording; treat as reported)"},
+      {"name": "Dr. Deborah Davis", "role_in_story": "Proposed defence expert on memory and interrogation", "key_actions_they_took": "Trial judge did not allow her to testify about interrogation techniques as used on Pam; this became an appellate/habeas claim [27]", "notable_quotes": "Presentation title: 'Memory on Trial: Clues to Witness Accuracy' [27]"},
+      {"name": "Judge Arthur J. Tarnow", "role_in_story": "U.S. District Judge, E.D. Michigan", "key_actions_they_took": "Denied Ryan's federal habeas petition (No. 2:18-cv-13390) and granted a certificate of appealability [27]", "notable_quotes": "None"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "c. spring 1986", "location": "Ottawa County area", "what_happened": "Rick and Gail marry (about 18 months before their deaths)", "significance": "'Newlyweds' in press coverage", "source": "[3] Casefile Case 175; [4] CBS Detroit"},
+      {"date": "1987", "location": "Park Township", "what_happened": "The couple had only recently bought a ranch house", "significance": "Crime scene", "source": "[3]"},
+      {"date": "Saturday, November 21, 1987 (reported date of the killings)", "location": "Brink home, Park Township", "what_happened": "Rick and Gail are shot to death with a .22-caliber pistol; reported that they had been at a wedding that evening (NOT verified in retrieved sources)", "significance": "Start of the cold case", "source": "Date per case brief and Fox 17 (which misprints 'Saturday, Nov. 23') [10]; weapon type [5][10]"},
+      {"date": "Weekend of Nov. 21-22, 1987", "location": "Friend's home", "what_happened": "Ryan and girlfriend Pam Maracchini later say they were doing laundry and babysitting at a friend's home", "significance": "The alibi", "source": "[10][1][21]"},
+      {"date": "Before the bodies were found", "location": "Brink home", "what_happened": "Per Pam's 2014 testimony, Ryan admitted the killings to her, took her to the house, grabbed her wrists and walked her to the bedroom, where she saw Gail", "significance": "Secret she kept for 25 years", "source": "[8] Fox 17, 13 Mar 2014; [10]"},
+      {"date": "Monday, November 23, 1987", "location": "Brink home", "what_happened": "Couple fail to show up at their jobs; alarm raised; Rick found in driver's seat of his Chevy Blazer in the driveway, shot twice in the head; Gail found on the waterbed, shot", "significance": "Discovery", "source": "[3][23][14]"},
+      {"date": "Within days, Nov. 1987", "location": "Ottawa County", "what_happened": "Ryan interviewed; not considered a suspect; alibi confirmed by Pam", "significance": "Missed chance", "source": "[1][21]"},
+      {"date": "Thursday, November 26, 1987", "location": "-", "what_happened": "Thanksgiving Day, three days after the discovery (calendar fact)", "significance": "Context", "source": "Calendar"},
+      {"date": "2009", "location": "Ottawa County Sheriff's Office", "what_happened": "Cold case team created", "significance": "Institutional change", "source": "[10][5]"},
+      {"date": "2011", "location": "Ottawa County", "what_happened": "Detectives Venus Repper and David Blakely assigned the Brink case; read thousands of documents; 200+ interviews, some across state lines", "significance": "Re-examination of the file", "source": "[10][5]"},
+      {"date": "2012 or January 2013 (sources conflict)", "location": "Ottawa County", "what_happened": "After noticing a discrepancy in transcripts, detectives re-interview Pam, who says Ryan told her he killed the Brinks", "significance": "Breakthrough", "source": "[10][4]"},
+      {"date": "January 2013", "location": "Zeeland / Ottawa County", "what_happened": "Ryan Wyngarden arrested and charged with two counts of first-degree premeditated murder", "significance": "Arrest after ~25 years", "source": "[1][11][10]"},
+      {"date": "February 2013 (Fox 17 article 28 Feb 2013)", "location": "Holland District Court", "what_happened": "Preliminary examination; Pam testifies he admitted the killings; defence attorney David Hall calls some testimony hearsay; Ryan bound over for trial; secret relationship allegation aired", "significance": "Family secret made public", "source": "[7][1]"},
+      {"date": "March 2014", "location": "Ottawa County Circuit Court", "what_happened": "Trial; Pam is key witness; jailhouse informant Daryl Cain testifies; defence highlights discrepancies; Ryan testifies; memory expert Dr. Deborah Davis barred from testifying on interrogation techniques", "significance": "Trial", "source": "[20][8][2][27]; Holland Sentinel headlines via search"},
+      {"date": "March 27, 2014", "location": "Ottawa County Circuit Court", "what_happened": "Closing arguments", "significance": "-", "source": "[9]"},
+      {"date": "Friday, March 28, 2014", "location": "Ottawa County Circuit Court", "what_happened": "Jury convicts on two counts of first-degree premeditated murder after about four hours of deliberation", "significance": "Verdict, 26 years later", "source": "[2][23][5]"},
+      {"date": "Monday, April 21, 2014", "location": "Ottawa County Circuit Court", "what_happened": "Judge Jon Hulsing imposes two life sentences without parole; Ryan speaks more than an hour, maintains innocence, calls judge a liar; Budd Brink's statement", "significance": "Sentence", "source": "[24][25][13]"},
+      {"date": "August 2015", "location": "Michigan Court of Appeals", "what_happened": "Conviction upheld; court found no errors warranting reversal; defence had argued wife was manipulated by police", "significance": "Direct appeal lost", "source": "[15][17][18][19]"},
+      {"date": "Feb. 20, 2018 / Sept. 2018", "location": "Michigan Court of Appeals / Michigan Supreme Court", "what_happened": "Post-conviction motion (relief from judgment) rejected by Ottawa circuit court, Court of Appeals (No. 339743) and Michigan Supreme Court; AP: 'three courts have rejected the effort'", "significance": "Bid to reopen fails", "source": "[16][12][27]"},
+      {"date": "2018 filing; decision date not verified", "location": "U.S. District Court, E.D. Michigan", "what_happened": "Federal habeas petition No. 2:18-cv-13390 denied with prejudice by Judge Arthur Tarnow; certificate of appealability granted", "significance": "Federal review lost; any Sixth Circuit result not found", "source": "[27]"},
+      {"date": "October 2026", "location": "-", "what_happened": "No report found of release, retrial or reversal; he is presumed still serving life without parole (verify MDOC OTIS)", "significance": "Current status", "source": "Absence of reports in searches; [27]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {"exact_date": "Monday, November 23, 1987", "exact_location": "Brink ranch house, Park Township, Ottawa County, Michigan", "what_is_happening": "Two young people miss work; family drive to the house; Rick is in his Blazer in the driveway; Gail is inside on the waterbed", "what_makes_it_shocking": "A newly married couple executed in a quiet lakeshore township three days before Thanksgiving", "ironic_twist": "According to his wife's testimony, the killer had already shown her the scene before anyone found it, and she gave him his alibi."},
+    "central_mystery_question": "Who would kill a young couple who had just bought their first house, and why did it take 25 years for anyone to say his name?"
+  },
+  "the_method": {
+    "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+    "technique_name": "Cold-case file review and re-interview (no DNA or genealogy). A fingerprint is mentioned in the case request but NOT found in any retrieved source.",
+    "step_by_step_explanation": ["2009 cold case team created", "2011 two detectives assigned", "read thousands of documents, compare old transcripts", "200+ interviews, across state lines", "notice a discrepancy in an interview transcript", "re-interview the alibi witness, now married to the man she alibied", "she changes her account", "arrest and charge in January 2013", "jailhouse informant adds an alleged admission"],
+    "why_it_worked": "Relationships change over 25 years; the alibi was a single witness; transcripts preserved the original story so differences could be seen.",
+    "technical_terms_to_explain": [
+      {"term": "Alibi", "simple_explanation": "Someone's account that a person was somewhere else when a crime happened; only as strong as the person who confirms it."},
+      {"term": "Hearsay", "simple_explanation": "Repeating in court what someone else said outside court; the defence argued some testimony was hearsay."},
+      {"term": "First-degree premeditated murder (Michigan)", "simple_explanation": "Killing planned in advance; carries mandatory life without parole in Michigan."},
+      {"term": "Motion for relief from judgment", "simple_explanation": "Michigan's post-appeal request to reopen a conviction."},
+      {"term": "Habeas corpus", "simple_explanation": "A federal court review of whether a state conviction violated the Constitution."}
+    ],
+    "scale_of_operation": "Thousands of documents; more than 200 interviews [10]"
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "1987 investigation (Ottawa County Sheriff's Department)",
+    "how_they_were_supposed_to_protect": "Test every alibi of people close to the victims",
+    "why_they_failed": "Ryan's alibi rested on one witness, his girlfriend; he was not considered a suspect [1][10]",
+    "specific_incompetence_examples": ["Alibi accepted from a single interested witness [10]", "Case unsolved ~22 years before a dedicated cold case team existed (2009) [10]"],
+    "ironic_details_about_the_failure": "The discrepancy that reopened the case was in the investigators' own transcripts [10]."
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Ottawa County Sheriff's Office cold case team",
+    "operation_code_name_if_any": "None",
+    "when_investigation_began": "November 23, 1987; cold case review 2011",
+    "initial_wrong_assumptions": "That the brother was not a suspect and the alibi was solid [1]",
+    "key_breakthrough": "Re-interview of Pam Wyngarden after a transcript discrepancy [10]",
+    "the_fatal_mistake": "Confiding in, and taking to the scene, the one person who later testified against him (per her testimony) [8]",
+    "how_long_until_caught": "About 25 years and 2 months (Nov 1987 to Jan 2013)"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "January 2013 (exact day not verified)",
+    "location": "Ottawa County",
+    "scene_description": "Arrest and charge on two counts of first-degree premeditated murder [1][11]",
+    "protagonist_reaction": "Has maintained his innocence [13]",
+    "ironic_or_absurd_details": "At sentencing he called the judge a liar [13][24]"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["Two counts of first-degree premeditated murder"],
+    "trial_date_if_applicable": "March 2014, Ottawa County Circuit Court; verdict March 28, 2014",
+    "notable_court_testimony": "Pam: Ryan admitted the killings and took her to the house before discovery; motive included not wanting his sister to reveal their teenage sexual relationship [6][8]. Daryl Cain: jail admission [2]. Ryan took the stand (Holland Sentinel headline).",
+    "victim_impact_statements": [{"from_whom": "Budd Brink, Rick's brother", "key_quote": "Recounted the priest's words: \"This is not the work of the Lord, this is the work of the Devil.\"", "emotional_impact": "Said holidays and shared times had been wiped away by Ryan's anger and jealousy (paraphrase) [24]"}],
+    "sentence_received": "Two life sentences without parole (April 21, 2014) [24]",
+    "protagonist_statement_in_court": "Spoke for more than an hour, criticised investigators, maintained innocence; said \"You're lying now, you are flat out lying.\" [13][24]",
+    "current_status": "Serving life without parole; direct appeal lost (2015); post-conviction bid rejected by three courts (2018); federal habeas denied (E.D. Mich.). No release or reversal found as of October 2026."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Ryan Wyngarden, at sentencing", "exact_quote": "You're lying now, you are flat out lying.", "context": "Addressed to the judge, per AP/WZZM", "source": "[13] CBS News/AP; [24] WZZM"},
+      {"speaker": "Priest at the Brinks' funeral, as recounted by Budd Brink", "exact_quote": "This is not the work of the Lord, this is the work of the Devil.", "context": "Victim impact statement, April 21, 2014", "source": "[24] WZZM"},
+      {"speaker": "Fox 17 headline (Judge Hulsing's warning, as reported)", "exact_quote": "Do I Need To Bind You And Gag You", "context": "Sentencing; other reports paraphrase that he threatened to tape Ryan's mouth shut", "source": "[25] Fox 17, 21 Apr 2014"},
+      {"speaker": "Dr. Deborah Davis (presentation title)", "exact_quote": "Memory on Trial: Clues to Witness Accuracy", "context": "Defence expert presentation described in habeas opinion", "source": "[27]"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "22 / 28", "what_it_represents": "Ages of Gail and Rick", "source": "[1][24]"},
+      {"number": "18 months", "what_it_represents": "Length of the marriage", "source": "[3][4]"},
+      {"number": "2", "what_it_represents": "Gunshots to Rick's head", "source": "[14]"},
+      {"number": ".22", "what_it_represents": "Caliber of pistol used", "source": "[5][10]"},
+      {"number": "2009 / 2011", "what_it_represents": "Cold case team formed / detectives assigned", "source": "[10]"},
+      {"number": "200+", "what_it_represents": "Interviews in the cold-case review", "source": "[10]"},
+      {"number": "~25 years", "what_it_represents": "Crime to arrest", "source": "calculated"},
+      {"number": "26 years", "what_it_represents": "Crime to conviction (AP framing)", "source": "[17][16]"},
+      {"number": "4 hours", "what_it_represents": "Jury deliberation", "source": "[23]"},
+      {"number": "1 hour+", "what_it_represents": "Length of Ryan's sentencing statement", "source": "[24]"},
+      {"number": "3", "what_it_represents": "Courts rejecting the 2018 bid to reopen", "source": "[16][12]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": ["His alibi witness became his wife, and then the witness who convicted him [10][1]", "The alibi was laundry and babysitting [10]", "The man who stood in court for an hour calling others liars had been interviewed and cleared within days in 1987 [1][24]", "The killings came days before Thanksgiving; the family later said holidays were wiped away [24]"]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "Brink ranch house, Park Township", "physical_description": "Single-story ranch house the couple had recently bought; driveway where the Blazer was parked", "atmosphere": "Quiet lakeshore township north and west of Holland", "relevant_details": "Gail found on waterbed [23]"},
+      {"location_name": "Holland, Michigan", "physical_description": "City founded 1847 by Dutch immigrants; Tulip Time festival; near Lake Michigan and Lake Macatawa", "atmosphere": "Church-centred, family-centred", "relevant_details": "General knowledge"},
+      {"location_name": "Ottawa County Courthouse, Grand Haven", "physical_description": "County seat on Lake Michigan", "atmosphere": "-", "relevant_details": "Trial and sentencing"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "Most killers are known to their victims; the answer can sit at the family table for decades.",
+    "how_this_could_happen_to_them": "An alibi from one loyal person can bury the truth.",
+    "lesson_or_warning": "Secrets do not stay buried; witnesses change, and old files can be read again.",
+    "current_relevance": "Cold case teams across the US now reread files and re-interview witnesses."
+  },
+  "sources": {
+    "_instructions": "List ALL sources.",
+    "primary_sources": [
+      {"type": "Federal court opinion", "title": "Wyngarden v. (warden), E.D. Mich. No. 2:18-cv-13390, opinion denying habeas", "url_or_reference": "https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_18-cv-13390/pdf/USCOURTS-mied-2_18-cv-13390-0.pdf", "key_information_obtained": "Claims, expert Deborah Davis, state procedural history, Thumb CF"}
+    ],
+    "secondary_sources": [
+      {"type": "News/AP", "title": "[1] CBS Detroit: Brother charged with couple's 1987 death", "url_or_reference": "https://cbsnews.com/detroit/news/brother-charged-with-couples-1987-death", "key_information_obtained": "Charge, interviewed and not a suspect, wife's statement, David Hall"},
+      {"type": "TV", "title": "[2] Fox 17: Man convicted in cold case slayings along lakeshore (28 Mar 2014)", "url_or_reference": "https://fox17online.com/2014/03/28/man-convicted-in-cold-case-slayings-along-lakeshore", "key_information_obtained": "Verdict, Daryl Cain"},
+      {"type": "Podcast", "title": "[3] Casefile Case 175: Gail & Rick Brink", "url_or_reference": "https://casefilepodcast.com/case-175-gail-rick-brink/", "key_information_obtained": "Missed work Nov 23, ranch house, 18 months married"},
+      {"type": "News/AP", "title": "[4] CBS Detroit: MI man faces sentencing... secret incest past", "url_or_reference": "https://www.cbsnews.com/detroit/news/mi-man-faces-sentencing-for-1987-murder-of-sister-her-husband-allegedly-tried-to-hide-secret-incest-past/", "key_information_obtained": "Motive, Pam's statements"},
+      {"type": "TV", "title": "[5] Oxygen: A Wedding and a Murder", "url_or_reference": "https://www.oxygen.com/a-wedding-and-a-murder/man-murders-sister-husband-cover-up-incestuous-relationship", "key_information_obtained": "Cold case team, .22 pistol, verdict date"},
+      {"type": "News/AP", "title": "[6] CBS Detroit: Testimony: man killed sister to keep incest under wraps", "url_or_reference": "https://www.cbsnews.com/detroit/news/testimony-man-killed-sister-to-keep-incest-under-wraps/", "key_information_obtained": "Pam's testimony on motive"},
+      {"type": "TV", "title": "[7] Fox 17 (28 Feb 2013)", "url_or_reference": "https://fox17online.com/2013/02/28/zeeland-man-accused-of-murdering-sister-accused-of-sexual-relationship-with-her", "key_information_obtained": "Preliminary exam"},
+      {"type": "TV", "title": "[8] Fox 17: Intense testimony (13 Mar 2014)", "url_or_reference": "https://fox17online.com/2014/03/13/intense-testimony-in-cold-case-murder-trial/", "key_information_obtained": "Pam's account of being taken to the house"},
+      {"type": "TV", "title": "[9] Fox 17: Closing arguments (27 Mar 2014)", "url_or_reference": "https://fox17online.com/2014/03/27/closing-arguments-underway-in-double-murder-cold-case", "key_information_obtained": "Closing date"},
+      {"type": "TV", "title": "[10] Fox 17: How detectives cracked the case (2 May 2014)", "url_or_reference": "https://fox17online.com/2014/05/02/justice-for-newlywed-couple-shot-to-death-in-87-how-detectives-cracked-the-case", "key_information_obtained": "Repper, Blakely, 200+ interviews, transcript discrepancy, alibi"},
+      {"type": "TV", "title": "[11] WZZM: Zeeland man arrested in 1987 double murder", "url_or_reference": "https://www.wzzm13.com/article/news/local/lakeshore/zeeland-man-arrested-in-1987-double-murder/69-322840457", "key_information_obtained": "Arrest"},
+      {"type": "News/AP", "title": "[12] Legal News: Court rejects bid to reopen conviction", "url_or_reference": "https://www.legalnews.com/Home/Articles?DataId=1464399", "key_information_obtained": "MSC rejection"},
+      {"type": "News/AP", "title": "[13] CBS News: Convicted killer calls judge a liar", "url_or_reference": "https://www.cbsnews.com/news/report-murder-convict-calls-judge-a-liar-at-sentencing/", "key_information_obtained": "Sentencing quote"},
+      {"type": "Blog", "title": "[14] Michigan Criminal Lawyers blog", "url_or_reference": "https://www.michigancriminallawyers-blog.com/holland-man-accused-in-cold-case-killings-of-sister-and-brother-in-law-25-years-ago/", "key_information_obtained": "Shot twice in head, Blazer"},
+      {"type": "Radio", "title": "[15] WHTC: appeal denied (12 Aug 2015)", "url_or_reference": "https://whtc.com/2015/08/12/wyngarden-appeal-denied-by-state-appeals-court/", "key_information_obtained": "2015 appeal"},
+      {"type": "Radio/AP", "title": "[16] WKAR (15 Sep 2018)", "url_or_reference": "https://www.wkar.org/around-michigan/2018-09-15/court-rejects-bid-to-reopen-conviction-tied-to-87-cold-case", "key_information_obtained": "Three courts rejected"},
+      {"type": "News/AP", "title": "[17] CBS Detroit: Convictions stand", "url_or_reference": "https://www.cbsnews.com/detroit/news/convictions-stand-for-man-in-1987-murders-of-sister-her-husband/", "key_information_obtained": "No errors justifying reversal"},
+      {"type": "TV", "title": "[18] WWMT: appeals court upholds", "url_or_reference": "https://wwmt.com/news/local/state-appeals-court-upholds-conviction-of-ryan-wyngarden-for-1987-killings", "key_information_obtained": "Wife manipulated argument"},
+      {"type": "Newspaper", "title": "[19] Grand Haven Tribune", "url_or_reference": "https://www.grandhaventribune.com/state-appeals-court-upholds-ryan-wyngarden-s-double-murder-conviction/article_ae3914c7-cbe2-50c3-a958-f6be6a3caf9d.html", "key_information_obtained": "2015 appeal"},
+      {"type": "TV", "title": "[20] WZZM: trial begins", "url_or_reference": "https://www.wzzm13.com/article/news/local/lakeshore/1987-cold-case-double-murder-trial-begins/69-415987846", "key_information_obtained": "Trial start"},
+      {"type": "Web", "title": "[21] Daily Crime / The Last 24", "url_or_reference": "https://www.dailycrime.com/rick-and-gail-brink-were-murdered-by-her-brother-ryan-wyngarden-in-a-case-of-incest-and-anger/", "key_information_obtained": "Alibi summary"},
+      {"type": "Web", "title": "[22] Medium: Lessons from History", "url_or_reference": "https://medium.com/lessons-from-history/jealous-brother-killed-his-sister-and-brother-in-law-to-hide-a-sexual-secret-a3aae92ce122", "key_information_obtained": "Secondary summary"},
+      {"type": "TV", "title": "[23] WZZM: Wyngarden guilty", "url_or_reference": "https://www.wzzm13.com/article/news/local/grand-haven/wyngarden-guilty-in-1987-slayings-of-sister-brother-in-law/69-415988075", "key_information_obtained": "Waterbed, 4 hours"},
+      {"type": "TV", "title": "[24] WZZM: Wyngarden calls judge a liar, given two life sentences", "url_or_reference": "https://www.wzzm13.com/article/news/local/lakeshore/wyngarden-calls-judge-a-liar-given-two-life-sentences/69-271521924", "key_information_obtained": "Sentence, Budd Brink"},
+      {"type": "TV", "title": "[25] Fox 17 (21 Apr 2014)", "url_or_reference": "https://www.fox17online.com/2014/04/21/judge-during-wyngarden-sentencing-do-you-want-me-to-bound-you-and-gag-you", "key_information_obtained": "Judge warning"},
+      {"type": "Web", "title": "[26] HNGN", "url_or_reference": "https://www.hngn.com/articles/29428/20140422/ryan-wyngarden-trial-ryan-wyngarden-mlive-ryan-wyngarden-zeeland-mi-ryan-wyngarden-zeeland-michigan-pam-wyngarden-pamela-wyngarden-gail-brink-obituary.htm", "key_information_obtained": "Sentencing summary"},
+      {"type": "Court", "title": "[27] U.S. District Court E.D. Mich. No. 2:18-cv-13390", "url_or_reference": "https://www.govinfo.gov/content/pkg/USCOURTS-mied-2_18-cv-13390/pdf/USCOURTS-mied-2_18-cv-13390-0.pdf", "key_information_obtained": "Habeas"},
+      {"type": "TV", "title": "[28] Oxygen episode 'A Secret to Kill For'", "url_or_reference": "https://www.oxygen.com/a-wedding-and-a-murder/season-1/a-secret-to-kill-for", "key_information_obtained": "S1E3"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "Another solved Midwestern cold case broken by a witness who finally spoke",
+    "connection_to_current_video": "Alibis and silence",
+    "teaser_line": "Sometimes the evidence is not in a lab. It is in someone's memory."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": ["A fingerprint linking Ryan Wyngarden: NOT found in any retrieved source; not used in script", "That the couple had attended a wedding that Saturday evening: not found in retrieved sources; used only with hedging", "Exact date of the killings (Nov 21 vs 22); found Monday Nov 23", "Re-interview date: 2012 vs January 2013", "Spelling Bud/Budd Brink"],
+    "information_gaps": ["Victims' employers and personal biographies", "Ryan's age", "Prosecutor's name at trial", "Whether the gun was recovered", "Sixth Circuit outcome after the certificate of appealability", "Exact arrest date"],
+    "questions_to_answer": ["Check MDOC OTIS for current status", "Holland Sentinel archive for 'Witnesses describe Gail and Rick Brink's last day alive'"]
+  }
+}
