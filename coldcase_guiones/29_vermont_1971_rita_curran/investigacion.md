@@ -159,8 +159,8 @@ William DeRoos nunca fue detenido, acusado ni condenado; murió el 7 de agosto d
 
 ## 14. Verificación del guion
 
-- **Palabras por parte:** 1.437 / 1.317 / 1.238 / 1.238 / 1.296 / 1.265 / 1.225 / 1.225 / 1.224 / 1.214 (todas ≥ 1.200).
-- **Total:** 12.679 palabras, 10 párrafos, 7 signos de interrogación (máximo 12).
+- **Palabras por parte:** 1.437 / 1.317 / 1.237 / 1.238 / 1.296 / 1.265 / 1.225 / 1.225 / 1.224 / 1.214 (todas ≥ 1.200).
+- **Total:** 12.678 palabras, 10 párrafos, 7 signos de interrogación (máximo 12).
 - **Duración estimada a 170 ppm:** ≈ 74,6 minutos.
 - **Revisión aplicada:** se eliminaron o matizaron detalles no documentados (forma de entrada, reacciones de vecinos, motivos de la esposa, detalles de la vida en Tailandia, violencia posterior de fuente única, afirmación Bundy–Keppel). DeRoos se describe siempre como "identified by DNA", "according to Burlington police", "never charged", "never convicted". La identidad se reserva hasta la parte 8.
 

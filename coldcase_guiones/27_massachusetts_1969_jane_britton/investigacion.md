@@ -56,7 +56,7 @@ El 7 de enero de 1969, Jane Sanders Britton, de 23 años, estudiante de doctorad
 
 ## 6. Personas
 - **Jane Sanders Britton** (23): víctima. Radcliffe '67, posgrado en antropología, excavadora en Tepe Yahya 1968; descrita como independiente y franca.
-- **J. Boyd Britton**: padre, vicepresidente administrativo de Radcliffe. **Boyd Britton**: hermano menor, portavoz en 2018. Madre: Ruth (sin confirmar).
+- **J. Boyd Britton**: padre, vicepresidente administrativo de Radcliffe. **Boyd Britton**: hermano ("surviving brother"), portavoz en 2018. Madre: Ruth (sin confirmar).
 - **James Humphries**: novio y compañero; la encontró con Donald Mitchell. Nunca acusado.
 - **Donald (y Jill) Mitchell**: vecinos; Donald, estudiante de antropología.
 - **Karl Lamberg-Karlovsky**: profesor de arqueología, director de Tepe Yahya; objeto de un rumor infundado; nunca acusado; el ADN apuntó a otra persona.
@@ -106,7 +106,9 @@ Caso cerrado por la Fiscalía de Middlesex desde el 20 de noviembre de 2018. Mic
 - Origen del ocre rojo (posible material de pintura de Jane): fuente secundaria; el guion dice "may have".
 - Que Jane pintaba: fuente secundaria (Mental Floss/reseñas).
 - Nombre de la madre (Ruth) y de Jill Mitchell: no usados en el guion salvo "his wife".
-- Que los padres murieron antes de 2018: inferido de "surviving brother"; el guion lo afirma ("did not live to see it end").
+- Que los padres murieron antes de 2018: inferido de "surviving brother"; CORREGIDO: el guion ya no lo afirma, solo dice que su hermano Boyd habló por la familia y que la prensa lo llamó "surviving brother".
+- Que Boyd fuera el hermano menor: no confirmado; CORREGIDO: el guion dice solo "brother".
+- Reacciones o vivencias de terceros (padre ante la prensa, recuerdos de Humphries): CORREGIDAS para no afirmar estados internos.
 - Circunstancias de la muerte de Sumpter (hospicio en libertad condicional vs. unidad penitenciaria): el guion presenta ambas versiones.
 - Fecha exacta del asesinato de Rutchick (5 o 6 de enero de 1972): el guion dice "January 1972".
 - Que Jane también tenía examen el 7 de enero: implícito en Boston Globe 2020; confirmar.
@@ -146,11 +148,11 @@ Caso cerrado por la Fiscalía de Middlesex desde el 20 de noviembre de 2018. Mic
 27. Bookreporter, reseña: https://www.bookreporter.com/reviews/we-keep-the-dead-close-a-murder-at-harvard-and-a-half-century-of-silence
 
 ## 14. Verificación del guion
-- Partes: 10. Palabras por parte: 1331, 1256, 1259, 1240, 1247, 1227, 1227, 1225, 1224, 1223. Total: 12.459 palabras.
-- Duración estimada a 170 ppm: ~73,3 minutos.
+- Partes: 10. Palabras por parte: 1335, 1255, 1259, 1246, 1247, 1231, 1227, 1225, 1220, 1233. Total: 12.478 palabras.
+- Duración estimada a 170 ppm: ~73,4 minutos.
 - Signos de interrogación: 4 (máx. 12).
 - Lenguaje legal: Sumpter siempre "identified by DNA, according to the Middlesex District Attorney"; se repite que nunca fue acusado, juzgado ni condenado; Lamberg-Karlovsky solo aparece como objeto de un rumor, con exculpación explícita (nunca acusado; el ADN apuntó a otra persona).
-- Correcciones hechas en la revisión: eliminados rasgos de personalidad no documentados, "catorce horas" (sustituido por "a few hours"), afirmación sobre lo que oyeron los vecinos, testigo en la escalera, "found on Jane's swabs" (sustituido por coincidencia según la Fiscalía), "asked a single question" y "woman he loves".
+- Correcciones hechas en la revisión: eliminados rasgos de personalidad no documentados, "catorce horas" (sustituido por "a few hours"), afirmación sobre lo que oyeron los vecinos, testigo en la escalera, "found on Jane's swabs" (sustituido por coincidencia según la Fiscalía), "asked a single question" y "woman he loves"; en una segunda revisión, las frases sobre la muerte de los padres antes de 2018, "younger brother" y estados internos del padre y de Humphries.
 
 10 afirmaciones clave y sus fuentes:
 1. Jane, 23, estudiante de antropología de Harvard, hallada el 7 ene 1969 en el cuarto piso de 6 University Road. [1][13][9]
