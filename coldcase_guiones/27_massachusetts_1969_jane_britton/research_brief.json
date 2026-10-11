@@ -1,0 +1,229 @@
+{
+  "video_metadata": {
+    "working_title": "MASSACHUSETTS 1969 Cold Case — DNA Identified Her Killer After 49 Years | Jane Britton",
+    "topic_one_sentence": "In January 1969 Harvard anthropology graduate student Jane Sanders Britton, 23, was raped and killed in her Cambridge apartment; a red-ochre detail fed a campus rumor about a professor for decades, until in November 2018 the Middlesex District Attorney announced that DNA had identified Michael Sumpter, a career criminal who died in 2001 and was never charged in her death.",
+    "primary_emotion_to_evoke": "grief, unease at how rumor replaced fact for 49 years, then sober relief",
+    "target_length_minutes": "70"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Jane Sanders Britton (victim, heart of the story)",
+    "age_at_time_of_events": "23",
+    "occupation_or_status": "Graduate student in anthropology at Harvard University; Radcliffe College alumna (class of 1967)",
+    "location": "Fourth-floor apartment, 6 University Road, Cambridge, Massachusetts, near Harvard Square",
+    "physical_description": "Not used in the script beyond real archival photos.",
+    "background_brief": "Born in 1945 in Boston and raised in Needham, Massachusetts. Her father, J. Boyd Britton, was administrative vice president of Radcliffe College (Harvard Crimson 1969 article quoted on Websleuths; secondary). She had a younger brother, Boyd. She was part of the Harvard Peabody Museum team excavating Tepe Yahya in southeastern Iran in 1968. She was due to sit her general examinations in anthropology on January 7, 1969, the day she was found.",
+    "psychological_profile": "Described by reviewers of Becky Cooper's book as independent, strong, outspoken and outgoing; Cooper wrote that she was hard to pin down in a simple description (paraphrase, Harvard Crimson review).",
+    "mundane_humanizing_detail": "On her last evening she had dinner with anthropology classmates and went ice skating on the Common with her boyfriend; after midnight she stopped in at her neighbors' for a glass of sherry.",
+    "nickname_or_alias_if_any": "None documented"
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {"name": "Jane Sanders Britton", "role_or_profession": "Harvard anthropology graduate student", "connection_to_protagonist": "Victim", "specific_impact_suffered": "Raped and struck repeatedly on the head in her bed; died January 7, 1969", "humanizing_detail": "Radcliffe '67, field season in Iran in 1968, about to take her general exams", "any_quotes_from_them": "None verified"},
+      {"name": "Boyd Britton", "role_or_profession": "Jane's younger brother", "connection_to_protagonist": "Surviving family member in 2018", "specific_impact_suffered": "Waited almost 50 years; said the DNA match may be all the family ever gets as a conclusion", "humanizing_detail": "Thanked State Police Sgt. Peter Sennott and the friends, officials and press who kept the case active", "any_quotes_from_them": "Statement paraphrased only (CBS Boston, NBC Boston, Nov 20, 2018)"},
+      {"name": "J. Boyd Britton and Ruth Britton", "role_or_profession": "Jane's parents; father was administrative vice president of Radcliffe", "connection_to_protagonist": "Parents", "specific_impact_suffered": "Did not live to see the 2018 identification (inferred from coverage calling Boyd the surviving brother)", "humanizing_detail": "Mother's first name single-sourced from background knowledge; verify", "any_quotes_from_them": "None verified"},
+      {"name": "Ellen Rutchick", "role_or_profession": "Woman killed in her Beacon Street, Boston, apartment in January 1972, age 23", "connection_to_protagonist": "Another case DNA-linked to Michael Sumpter by the Suffolk DA", "specific_impact_suffered": "Raped and killed", "humanizing_detail": "Her family asked Boston Police's Cold Case Squad to review the case in 2005", "any_quotes_from_them": "None"},
+      {"name": "Mary Lee McClain", "role_or_profession": "Woman killed in her Beacon Hill apartment on December 12, 1973, age 24", "connection_to_protagonist": "Another case DNA-linked to Sumpter (announced October 18, 2012)", "specific_impact_suffered": "Sexually assaulted and killed", "humanizing_detail": "Case reopened through a grant-funded cold case program", "any_quotes_from_them": "None"},
+      {"name": "Karl Lamberg-Karlovsky", "role_or_profession": "Harvard archaeology professor who led the Tepe Yahya excavation", "connection_to_protagonist": "Subject of an unfounded campus rumor for decades", "specific_impact_suffered": "Named in rumor; never charged; the DNA identified a stranger with no connection to the department. DO NOT insinuate guilt.", "humanizing_detail": "Cooper audited his class in 2012 while researching", "any_quotes_from_them": "None used"}
+    ],
+    "collective_victims_if_applicable": {"group_description": "Women in Greater Boston assaulted by Michael Sumpter according to DNA links announced by two district attorneys", "total_number_affected": "Britton plus four other sexual assaults, two of which ended in death, per reports of the Middlesex DA announcement (WBUR/CBS); Inside Edition reports Ryan said five women raped, three killed", "range_of_impacts": "Rape, murder"}
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "James Humphries", "role_in_story": "Jane's boyfriend and anthropology classmate", "key_actions_they_took": "Spent the evening of January 6 with her (dinner, skating), left her apartment at about 11:30 p.m.; took his general exam at the Peabody on January 7; went to her apartment just after noon and found her with neighbor Donald Mitchell", "notable_quotes": "None used"},
+      {"name": "Donald Mitchell (and Jill Mitchell)", "role_in_story": "Neighbors; Donald was a fellow anthropology student", "key_actions_they_took": "Jane visited them for sherry about 12:30 a.m.; Donald entered the unlocked apartment with Humphries on January 7", "notable_quotes": "None used. Jill's name single-sourced."},
+      {"name": "Marian T. Ryan", "role_in_story": "Middlesex District Attorney", "key_actions_they_took": "Announced on November 20, 2018 that DNA identified Michael Sumpter; closed the case", "notable_quotes": "See verified_quotes"},
+      {"name": "Sgt. Peter Sennott", "role_in_story": "Massachusetts State Police sergeant assigned to the case", "key_actions_they_took": "Thanked by Boyd Britton for keeping the investigation active", "notable_quotes": "None"},
+      {"name": "Becky Cooper", "role_in_story": "Author of We Keep the Dead Close (Grand Central, November 2020)", "key_actions_they_took": "Heard the rumor as a Harvard undergraduate in 2009; returned in 2012; audited Lamberg-Karlovsky's class; interviewed friends, family, Humphries and surviving investigators; fought for public records with Michael Widmer", "notable_quotes": "Paraphrase only: she said the DA's office had to test the evidence to argue the case was still active and that the last round of testing exhausted the crime-scene DNA (Boston Globe/Boston.com)"},
+      {"name": "Michael Widmer", "role_in_story": "Joined Cooper in the public records fight", "key_actions_they_took": "Continued to press for release of files (Boston Globe 2017)", "notable_quotes": "None. His relationship to Jane not verified."},
+      {"name": "Michael Eugene Sumpter", "role_in_story": "Man identified by DNA, according to the Middlesex DA", "key_actions_they_took": "Born September 26, 1947, Boston; lived in Cambridge as a child; worked on Arrow Street in Cambridge in 1967; serving sentence for a 1975 rape; died of cancer in 2001 at 54. Never charged, tried or convicted in Britton's death.", "notable_quotes": "None"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "1945", "location": "Boston, Massachusetts", "what_happened": "Jane Sanders Britton born; grows up in Needham", "significance": "Victim portrait", "source": "[9] Wikipedia; [13] Cambridge Day"},
+      {"date": "September 26, 1947", "location": "Boston", "what_happened": "Michael Eugene Sumpter born", "significance": "He was 21 in January 1969", "source": "[10] Wikipedia Michael Sumpter"},
+      {"date": "1967", "location": "Radcliffe College, Cambridge", "what_happened": "Jane graduates (Radcliffe class of 1967) and continues as a Harvard anthropology graduate student", "significance": "Victim portrait", "source": "[9]; [13]"},
+      {"date": "1967", "location": "Arrow Street, Cambridge", "what_happened": "Sumpter works on Arrow Street, about a mile from Jane's later apartment", "significance": "Ties to Cambridge", "source": "[1] Middlesex DA release"},
+      {"date": "Summer 1968", "location": "Tepe Yahya, southeastern Iran", "what_happened": "Jane is among the excavators on the Harvard Peabody Museum dig directed by Karl Lamberg-Karlovsky", "significance": "Root of later campus rumor", "source": "[21] Wikipedia Tepe Yahya; [22] Peabody publication"},
+      {"date": "January 6, 1969 (Monday evening)", "location": "Cambridge", "what_happened": "Jane and Humphries have dinner with anthropology classmates, then go ice skating on the Common; they return to her apartment around 10:30 p.m.; he leaves around 11:30 p.m.", "significance": "Last evening", "source": "[9] Wikipedia (drawing on Cooper)"},
+      {"date": "January 7, 1969, about 12:30 a.m.", "location": "6 University Road", "what_happened": "Jane visits neighbors the Mitchells for sherry; time-of-death window later put at roughly 12:30 to 1:30 a.m. per Wikipedia infobox (window not officially confirmed)", "significance": "Last sighting", "source": "[9]"},
+      {"date": "January 7, 1969, morning", "location": "Peabody Museum, Harvard", "what_happened": "Anthropology general exams held; Humphries takes his; Jane does not appear", "significance": "Her absence triggers the visit", "source": "[8] Boston Globe Magazine 2020; [9]"},
+      {"date": "January 7, 1969, just after noon", "location": "6 University Road, fourth floor", "what_happened": "Humphries knocks; no answer; with neighbor Donald Mitchell he enters the unlocked apartment and finds Jane dead, face down on her bed, partly covered by blankets and a fur coat", "significance": "Discovery", "source": "[19] Mental Floss; [9]"},
+      {"date": "January 1969", "location": "Cambridge", "what_happened": "Autopsy: sexual assault and multiple blows to the head with a blunt object; weapon never identified. Red ochre powder found on her body and in the apartment; press speculation about a 'primitive rite' rejected by police and Harvard anthropologists. Swabs taken at autopsy are preserved.", "significance": "Evidence that matters decades later", "source": "[9]; [19]; [6] ABC News; [24] Boston Globe 2018"},
+      {"date": "1969 onward", "location": "Cambridge", "what_happened": "Investigation focuses on people around her (students, faculty); no charges; a campus rumor about a professor grows for decades", "significance": "Tunnel vision and rumor", "source": "[9]; [15]; [16] Harvard Crimson"},
+      {"date": "1972", "location": "Harvard Square MBTA station / Boston", "what_happened": "Sumpter arrested and later convicted of assaulting a woman he met at the Harvard Square MBTA station", "significance": "Pattern; near Jane's apartment", "source": "[1]; [14] Inside Edition"},
+      {"date": "January 1972", "location": "Beacon Street, Boston", "what_happened": "Ellen Rutchick, 23, raped and killed (DA release says January 6; Wikipedia January 5)", "significance": "Later DNA-linked to Sumpter", "source": "[11] Suffolk DA"},
+      {"date": "December 12, 1973", "location": "Beacon Hill, Boston", "what_happened": "Mary Lee McClain, 24, sexually assaulted and killed", "significance": "Later DNA-linked to Sumpter", "source": "[12] Suffolk DA"},
+      {"date": "1975", "location": "Boston", "what_happened": "Sumpter commits a rape for which he receives a 15-to-20-year sentence", "significance": "Why his DNA ended up in CODIS", "source": "[2] WBUR; [4] CBS; [10]"},
+      {"date": "August 10, 2001", "location": "Boston (Lemuel Shattuck Hospital correctional unit per Wikipedia; other reports say paroled into hospice)", "what_happened": "Sumpter dies of cancer, age 54", "significance": "Never tried for any of the murders", "source": "[10]; [2]; [9]"},
+      {"date": "2005", "location": "Boston", "what_happened": "Rutchick family asks Boston Police Cold Case Squad to review her case", "significance": "Path to Sumpter's name", "source": "[11]"},
+      {"date": "July 2009 / 2010", "location": "Boston", "what_happened": "Profile from old slides in Rutchick case hits Sumpter's CODIS profile; Suffolk DA told in 2010 and announces him as prime suspect", "significance": "Sumpter's name enters cold-case files", "source": "[11]"},
+      {"date": "October 18, 2012", "location": "Boston", "what_happened": "Suffolk DA Daniel Conley and Commissioner Edward Davis announce Sumpter as the assailant in the McClain case", "significance": "Second link", "source": "[12]"},
+      {"date": "2009 and 2012", "location": "Harvard", "what_happened": "Becky Cooper first hears the rumor as an undergraduate (2009); returns in 2012 and audits Lamberg-Karlovsky's class", "significance": "The writer who would not let go", "source": "[15]; [27] reviews"},
+      {"date": "June 17, 2017", "location": "Boston", "what_happened": "Boston Globe reports Middlesex DA refuses to release files citing an active investigation; state supervisor of records repeatedly orders release or better explanation; Cooper and Michael Widmer keep pressing", "significance": "System friction", "source": "[7] Boston Globe/Boston.com"},
+      {"date": "October 2017", "location": "Massachusetts State Police Crime Lab", "what_happened": "Lab obtains, for the first time, a Y-STR (male-specific) profile from the remaining DNA on the original autopsy swabs", "significance": "The breakthrough", "source": "[1]; [2]; [3]"},
+      {"date": "July 2018", "location": "MSP Crime Lab", "what_happened": "Lab notifies investigators of a match between the Y-STR profile and Sumpter's CODIS sample", "significance": "The name", "source": "[1]; [3]"},
+      {"date": "2018", "location": "", "what_happened": "Investigators locate Sumpter's brother through Ancestry.com; the brother cooperates and gives a fresh DNA sample that further confirms the match; the brother is excluded as contributor", "significance": "Confirmation", "source": "[2]; [3]; [5] NBC"},
+      {"date": "November 20, 2018", "location": "Woburn/Middlesex DA's office", "what_happened": "DA Marian Ryan announces DNA identified Sumpter; describes window entry; calls it the oldest case her office has solved; case closed", "significance": "Resolution without trial", "source": "[1]; [2]; [3]; [4]"},
+      {"date": "November 2020", "location": "New York (Grand Central Publishing)", "what_happened": "Becky Cooper publishes We Keep the Dead Close; reviewers note the rumor proves false", "significance": "The book that tells Jane's life", "source": "[17] NPR; [23] Hachette; [15]"},
+      {"date": "As of October 2026", "location": "", "what_happened": "No reported developments; case remains closed by the Middlesex DA; Sumpter was never charged or convicted", "significance": "Current status", "source": "Searches Oct 2026 (no new results); [1]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {"exact_date": "January 7, 1969, just after noon", "exact_location": "6 University Road, Cambridge, Massachusetts", "what_is_happening": "Jane's boyfriend knocks at her fourth-floor door after she misses the general exams; no answer; he and a neighbor go in", "what_makes_it_shocking": "A 23-year-old Harvard scholar killed in her bed a few blocks from Harvard Square; red ochre powder on her body", "ironic_twist": "For 49 years the story people told was about a professor and an ancient ritual; the DNA pointed to a stranger who had worked about a mile away"},
+    "central_mystery_question": "Who killed Jane Britton, and why did a rumor outlive the truth for almost half a century?"
+  },
+  "the_method": {
+    "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+    "technique_name": "Y-STR DNA profiling plus CODIS search, confirmed with a relative located through Ancestry.com",
+    "step_by_step_explanation": [
+      "Swabs collected at the 1969 autopsy were preserved.",
+      "In October 2017 the Massachusetts State Police Crime Lab developed a Y-STR profile, which reads markers only on the male Y chromosome, from the remaining DNA.",
+      "The profile was compared with offender profiles in CODIS; in July 2018 it matched Sumpter's stored sample (described as a 'soft hit').",
+      "Because a Y-STR profile is shared by men in the same paternal line, investigators found Sumpter's brother via Ancestry.com; his fresh sample further confirmed the match and he was excluded as the contributor.",
+      "The DA announced the identification and closed the case."
+    ],
+    "why_it_worked": "Sumpter's profile was already in CODIS from his rape conviction; the new Y-STR test could read a male profile in a tiny, old, mixed sample.",
+    "technical_terms_to_explain": [
+      {"term": "Y-STR", "simple_explanation": "A DNA test that reads only the Y chromosome, passed father to son almost unchanged, like a family surname."},
+      {"term": "CODIS", "simple_explanation": "The FBI-run national index of DNA profiles from convicted offenders and crime scenes."},
+      {"term": "Soft hit", "simple_explanation": "A lead-level match that must be confirmed before being called an identification."}
+    ],
+    "scale_of_operation": "One set of 49-year-old swabs; per Cooper, the testing used up the remaining crime-scene DNA"
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "Investigation and record keeping across agencies; campus culture of rumor",
+    "how_they_were_supposed_to_protect": "Investigate, inform the family and public",
+    "why_they_failed": "1969 science could not read the evidence; focus on the anthropology circle; rumor filled the silence; files withheld for decades",
+    "specific_incompetence_examples": [
+      "Weapon never identified",
+      "Sumpter's DNA linked to a 1972 Boston murder in 2009 and a 1973 murder in 2012, but the Britton swabs produced no usable profile until October 2017",
+      "State supervisor of records repeatedly ordered the DA's office to release portions or explain the withholding (2017)"
+    ],
+    "ironic_details_about_the_failure": "The 'ritual' red ochre fed half a century of gossip; reporting later suggested it may have come from Jane's own art supplies (secondary source, uncertain)"
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Cambridge Police (1969), Massachusetts State Police assigned to the Middlesex DA; MSP Crime Lab",
+    "operation_code_name_if_any": "None",
+    "when_investigation_began": "January 7, 1969",
+    "initial_wrong_assumptions": "That the killer came from Jane's academic circle; ritual theory",
+    "key_breakthrough": "October 2017 Y-STR profile; July 2018 CODIS match",
+    "the_fatal_mistake": "Sumpter's later 1975 rape conviction put his DNA in the offender database",
+    "how_long_until_caught": "Never caught; identified 49 years after the crime, 17 years after his death"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "November 20, 2018",
+    "location": "Middlesex District Attorney's press conference",
+    "scene_description": "DA Ryan announces the identification and closes the case; Boyd Britton issues a statement",
+    "protagonist_reaction": "Sumpter had died in 2001; no reaction possible",
+    "ironic_or_absurd_details": "No arrest, no trial, no defense; an identification, not a conviction"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["None in the Britton case; Sumpter died in 2001"],
+    "trial_date_if_applicable": "None",
+    "notable_court_testimony": "None",
+    "victim_impact_statements": [{"from_whom": "Boyd Britton (statement, paraphrased)", "key_quote": "Paraphrase: the DNA match may be all the family ever gets as a conclusion; learning to understand and forgive remains a challenge", "emotional_impact": "Relief mixed with grief"}],
+    "sentence_received": "None",
+    "protagonist_statement_in_court": "None",
+    "current_status": "Case closed by the Middlesex DA (Nov 20, 2018). Sumpter was identified by DNA according to the DA but was never charged, tried or convicted; he is legally presumed innocent. No developments found as of October 2026."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Marian Ryan, Middlesex District Attorney", "exact_quote": "As a result of their perseverance and the utilization of the latest advances in forensic technology by the Massachusetts State Police Crime Lab, today I am confident that we are able to say that the mystery of who killed Jane Britton has finally been solved.", "context": "Press conference, November 20, 2018", "source": "[3] Boston.com; [2] WBUR"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "23", "what_it_represents": "Jane's age", "source": "[1]"},
+      {"number": "21", "what_it_represents": "Sumpter's age in January 1969 (born Sept 26, 1947)", "source": "[10]"},
+      {"number": "49 years", "what_it_represents": "Jan 1969 to Nov 2018", "source": "[1]"},
+      {"number": "17 years", "what_it_represents": "Between Sumpter's death (2001) and the announcement (2018)", "source": "[1]; [10]"},
+      {"number": "54", "what_it_represents": "Sumpter's age at death", "source": "[2]; [4]"},
+      {"number": "About 1 mile", "what_it_represents": "Distance from Arrow Street job (1967) to Jane's apartment", "source": "[1]"},
+      {"number": "15 to 20 years", "what_it_represents": "Sumpter's sentence for 1975 rape", "source": "[2]"},
+      {"number": "4", "what_it_represents": "Other sexual assaults DNA-linked to Sumpter, two fatal (per WBUR/CBS)", "source": "[2]; [4]"},
+      {"number": "Fourth floor", "what_it_represents": "Jane's apartment, 6 University Road", "source": "[9]; [13]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "A rumor about a professor and a ritual outlived the facts; the man identified had no tie to the anthropology department.",
+      "Sumpter's name surfaced in Boston cold cases in 2009 and 2012, years before the Britton swabs yielded a profile.",
+      "The case was officially called solved without a courtroom."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "6 University Road", "physical_description": "Apartment building near Harvard Square; Jane on the fourth floor, neighbors the Mitchells across the hall", "atmosphere": "Graduate-student Cambridge", "relevant_details": "Windows including one to a fire escape (secondary source)"},
+      {"location_name": "Peabody Museum of Archaeology and Ethnology", "physical_description": "Harvard's anthropology museum and department home", "atmosphere": "Where exams were held Jan 7, 1969", "relevant_details": "Rumor falsely claimed her body was found there"},
+      {"location_name": "Tepe Yahya, Iran", "physical_description": "Archaeological mound in southeastern Iran excavated 1967-1975", "atmosphere": "Field season 1968", "relevant_details": "Jane among excavators"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "Rumor can bury a real person and wrongly shadow innocent ones for decades.",
+    "how_this_could_happen_to_them": "A stranger with ties to the neighborhood, an unlocked door, a window.",
+    "lesson_or_warning": "Evidence, not stories, decides; preserved evidence waits for science.",
+    "current_relevance": "Preserved swabs + new DNA methods continue to close 1960s-70s cases."
+  },
+  "sources": {
+    "_instructions": "List ALL sources.",
+    "primary_sources": [
+      {"type": "Prosecutor release", "title": "[1] DNA Used to Identify Man Responsible for 1969 Murder of Jane Britton (Middlesex DA, Nov 20, 2018)", "url_or_reference": "https://www.middlesexda.com/press-releases/news/dna-used-identify-man-responsible-1969-murder-jane-britton", "key_information_obtained": "Sumpter ties to Cambridge, Arrow Street 1967, window entry, Y-STR Oct 2017, CODIS July 2018"},
+      {"type": "Prosecutor release", "title": "[11] Suspect, now deceased, identified in '72 murder (Suffolk DA)", "url_or_reference": "https://archive.suffolkdistrictattorney.com/suspect-now-deceased-identified-in-%e2%80%9972-murder/", "key_information_obtained": "Rutchick case"},
+      {"type": "Prosecutor release", "title": "[12] DNA Links Dead Man to Second Cold-Case Murder (Suffolk DA, Oct 18, 2012)", "url_or_reference": "https://archive.suffolkdistrictattorney.com/dna-links-dead-man-to-second-cold-case-murder/", "key_information_obtained": "McClain case"}
+    ],
+    "secondary_sources": [
+      {"type": "News", "title": "[2] WBUR, Killer Identified By DNA In Unsolved 1969 Cambridge Murder, DA Says (Nov 20, 2018)", "url_or_reference": "https://www.wbur.org/news/2018/11/20/jane-britton-michael-sumpter-cold-case", "key_information_obtained": "Quote, Y-STR, brother, sentence"},
+      {"type": "News", "title": "[3] Boston.com (Nov 20, 2018)", "url_or_reference": "https://www.boston.com/news/crime/2018/11/20/jane-britton-harvard-cold-case-solved", "key_information_obtained": "Ryan quote, timeline"},
+      {"type": "News", "title": "[4] CBS News", "url_or_reference": "https://www.cbsnews.com/news/jane-britton-murder-harvard-students-killer-id-michael-sumpter-prosecutor-says/", "key_information_obtained": "Age at death, other assaults"},
+      {"type": "News", "title": "[5] NBC News", "url_or_reference": "https://www.nbcnews.com/news/us-news/dna-ancestry-data-used-solve-50-year-old-murder-case-n938561", "key_information_obtained": "Ancestry.com brother"},
+      {"type": "News", "title": "[6] ABC News", "url_or_reference": "https://abcnews.com/US/investigators-announce-significant-break-decades-cold-case-murder/story?id=59314962", "key_information_obtained": "Persons of interest excluded by DNA; blunt object"},
+      {"type": "News", "title": "[7] Boston Globe, Half-century later, murder evidence still under wraps (June 17, 2017)", "url_or_reference": "https://www.bostonglobe.com/metro/2017/06/17/unsolved-cambridge-murder-raises-question-when-should-outside-investigators-get-chance/PY1xtN0QyBavie7wYPNeKO/story.html", "key_information_obtained": "Records fight"},
+      {"type": "Magazine", "title": "[8] Boston Globe Magazine, Becky Cooper (Oct 22, 2020)", "url_or_reference": "https://www.bostonglobe.com/2020/10/22/magazine/an-unsolved-1969-murder-harvard-grad-student-my-decade-long-quest-answers/", "key_information_obtained": "Exams Jan 7 at the Peabody"},
+      {"type": "Encyclopedia", "title": "[9] Wikipedia, Murder of Jane Britton", "url_or_reference": "https://en.wikipedia.org/wiki/Murder_of_Jane_Britton", "key_information_obtained": "Last evening timeline"},
+      {"type": "Encyclopedia", "title": "[10] Wikipedia, Michael Sumpter", "url_or_reference": "https://en.wikipedia.org/wiki/Michael_Sumpter", "key_information_obtained": "Birth/death dates"},
+      {"type": "News", "title": "[13] Cambridge Day (Nov 20, 2018)", "url_or_reference": "https://www.cambridgeday.com/2018/11/20/investigators-announce-end-to-69-cold-case-when-harvard-student-was-raped-murdered/", "key_information_obtained": "Needham, 6 University Road"},
+      {"type": "News", "title": "[14] Inside Edition", "url_or_reference": "https://www.insideedition.com/dna-technology-links-career-criminal-1969-cold-case-rape-and-killing-harvard-student-48670", "key_information_obtained": "Harvard Square MBTA assault"},
+      {"type": "Newspaper", "title": "[15] Harvard Crimson, Becky Cooper (Dec 23, 2020)", "url_or_reference": "https://www.thecrimson.com/article/2020/12/23/becky-cooper/", "key_information_obtained": "Rumor, 2012 audit"},
+      {"type": "Newspaper", "title": "[16] Harvard Crimson review (Dec 29, 2020)", "url_or_reference": "https://www.thecrimson.com/article/2020/12/29/keep-dead-close-review/", "key_information_obtained": "Rumor details"},
+      {"type": "Radio", "title": "[17] NPR Fresh Air review (Nov 9, 2020)", "url_or_reference": "https://www.npr.org/2020/11/09/931687065/how-a-1969-murder-at-harvard-turned-into-a-cold-case-and-a-cautionary-tale", "key_information_obtained": "Book context"},
+      {"type": "Interview", "title": "[18] Publishers Weekly interview with Becky Cooper (2020)", "url_or_reference": "https://www.publishersweekly.com/pw/print/20200907/84251-taking-it-to-the-limit-pw-talks-with-becky-cooper.html", "key_information_obtained": "Narratives fell apart under scrutiny"},
+      {"type": "Magazine", "title": "[19] Mental Floss, Jane Britton murder", "url_or_reference": "https://www.mentalfloss.com/article/611486/jane-britton-murder", "key_information_obtained": "Discovery, red ochre"},
+      {"type": "News", "title": "[20] Boston 25 News", "url_or_reference": "https://www.boston25news.com/news/who-killed-jane-britton-50-year-murder-investigation-finally-closed/875994868/", "key_information_obtained": "Case closed"},
+      {"type": "Encyclopedia", "title": "[21] Wikipedia, Tepe Yahya", "url_or_reference": "https://en.wikipedia.org/wiki/Tepe_Yahya", "key_information_obtained": "Jane on 1968 dig"},
+      {"type": "Publication", "title": "[22] Peabody Museum, Excavations at Tepe Yahya, Iran, 1967-1969 Progress Report I", "url_or_reference": "https://peabody.harvard.edu/publication/excavations-tepe-yahya-iran-1967-1969-progress-report-i", "key_information_obtained": "Dig dates"},
+      {"type": "Publisher", "title": "[23] Hachette, We Keep the Dead Close", "url_or_reference": "https://www.hachettebookgroup.com/titles/becky-cooper/we-keep-the-dead-close/9781538746844/", "key_information_obtained": "Book"},
+      {"type": "News", "title": "[24] Boston Globe, DNA testing yields new clues (Nov 19, 2018)", "url_or_reference": "https://www.bostonglobe.com/metro/2018/11/19/dna-testing-yields-new-clues-year-old-cold-case/DjlroxIbBM0najjgkGaPVL/story.html", "key_information_obtained": "Swabs from autopsy"},
+      {"type": "News", "title": "[25] UPI (Nov 20, 2018)", "url_or_reference": "https://www.upi.com/Top_News/US/2018/11/20/DNA-test-cracks-cold-case-death-of-Harvard-student-Jane-Britton/2931542753845/", "key_information_obtained": "Corroboration"},
+      {"type": "News", "title": "[26] CBS Boston (Nov 20, 2018)", "url_or_reference": "https://www.cbsnews.com/boston/news/cambridge-jane-britton-cold-case-murder-solved/", "key_information_obtained": "Boyd Britton statement"},
+      {"type": "Review", "title": "[27] Bookreporter review", "url_or_reference": "https://www.bookreporter.com/reviews/we-keep-the-dead-close-a-murder-at-harvard-and-a-half-century-of-silence", "key_information_obtained": "Jane as independent; rumor false"}
+    ]
+  },
+  "next_video_hook": {"_instructions": "Tease for your next video.", "next_topic": "Another Boston-area cold case closed by preserved DNA", "connection_to_current_video": "Old swabs, new science", "teaser_line": "The evidence waited. So did the family."},
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Red ochre came from Jane's own art supplies (secondary, Mental Floss/other); script says 'may have'",
+      "Jill Mitchell's name; mother's name Ruth",
+      "Exact sentence of Sumpter's 1972 conviction",
+      "Whether Sumpter died in custody (Wikipedia: Shattuck correctional unit) or on hospice parole (Globe/Wikipedia Britton article)",
+      "Exact wording of Boyd Britton's statement"
+    ],
+    "information_gaps": ["Polygraph details of 1969 investigation", "Names of 1969 detectives", "Michael Widmer's connection to Jane"],
+    "questions_to_answer": ["Did Lamberg-Karlovsky ever comment publicly after 2018? (not used)"]
+  }
+}

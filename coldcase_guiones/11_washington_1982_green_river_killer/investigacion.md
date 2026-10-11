@@ -194,3 +194,23 @@ Gary Leon Ridgway, condenado, cumple 49 cadenas perpetuas consecutivas sin liber
 37. Seattle Times, "I'm gonna get this guy": The Green River murders, 10 years removed (1992) — https://archive.seattletimes.com/archive/19920715/1502256/im-gonna-get-this-guy-the-green-river-murders-10-years-removed
 38. Seattle Times, Former suspect reports feeling a sense of vindication (2001) — https://archive.seattletimes.com/archive/20011203/suspects03m/former-suspect-reports-feeling-a-sense-of-vindication
 39. Christian Science Monitor, Green River Killer wants to help police find other victims (2013) — https://www.csmonitor.com/USA/Latest-News-Wires/2013/0918/Green-River-Killer-wants-to-help-police-find-other-victims
+
+## 14. Verificación del guion
+
+**Recuento (python3):** 10 párrafos; palabras por parte: 1.291 / 1.273 / 1.261 / 1.242 / 1.253 / 1.247 / 1.245 / 1.260 / 1.246 / 1.258. Total: **12.576 palabras**. Signos de interrogación: 5 (máximo 12). Sin encabezados, corchetes, viñetas ni indicaciones visuales.
+
+**Duración estimada:** 12.576 / 170 ppm ≈ **74 minutos**.
+
+**Revisión factual:** se eliminaron o suavizaron frases sin fuente (una negación del sospechoso en 1983, "miles de pistas", un detalle sobre restos "junto a una carretera", detalles sensoriales inventados, la idea de que las familias "veían" a Ridgway, la edad de Reichert en 1982). Lo que el guion dice con cautela: el balsero del 15 de agosto (fuente única [29]); el interrogatorio de Mullinax "in the mid-1980s" y el polígrafo "in 1984" [27]; "three of the four" coincidencias de ADN sin decir cuál fue circunstancial [7][5]; el taxista sospechoso de 1982 sin nombre [38]. CONTEXTO usado sin fragmento propio: edades de Debra Estes (15), hallazgo de los restos de Marrero a finales de 2010 en Auburn, que el asesinato agravado en Washington tenía solo dos penas posibles (cadena perpetua sin libertad o muerte), Othram con sede en Texas, la novela gráfica de Jeff Jensen en Dark Horse, Reichert en el Congreso, fecha de inicio nacional de CODIS (octubre de 1998) y origen inglés de la huella genética a mediados de los ochenta.
+
+**Las 10 afirmaciones clave y sus fuentes:**
+1. El 15 de agosto de 1982 se halló a Marcia Chapman (31) y Cynthia Hinds (17) en el agua y a Opal Mills (16) en la orilla; Reichert fue de los primeros en llegar [29][28][2].
+2. Wendy Coffield (16), vista el 8 de julio en Tacoma, fue hallada el 15 de julio de 1982; Debra Bonner (23), el 12 de agosto [2][3].
+3. La task force se creó el 16 de agosto de 1982 con 25 agentes bajo Richard Kraske y se disolvió a finales de año [6][33][28].
+4. El 30 de abril de 1983 Robert Woods siguió la camioneta en la que subió Marie Malvar y la perdió en un semáforo; la familia y él llevaron a la policía hasta Ridgway [26].
+5. Ridgway pasó un polígrafo en 1984 [27].
+6. En abril de 1987, durante un registro con orden judicial, Ridgway masticó una gasa para dar saliva [5][6].
+7. En 1990 se disolvió la task force y Tom Jensen se ofreció a seguir solo con el caso [35][36]; Reichert, sheriff desde 1997, volvió a llamar a los detectives [34].
+8. En 2001 Beverly Himick ("a last-ditch effort") obtuvo perfiles de tres víctimas tempranas que coincidieron con la gasa; detención el 30 de noviembre de 2001 en Kenworth, Renton, donde trabajaba desde 1969 [5][7].
+9. El 5 de noviembre de 2003, Ridgway se declaró culpable de 48 asesinatos agravados; el 18 de diciembre, 48 segundos de silencio, 48 cadenas perpetuas, multa de 480.000 dólares; citas de Robert Rule y Sarah King [15][12][13][10].
+10. Condena número 49 en 2011 (Becky Marrero); Bones 17 = Lori Anne Razpotnik (diciembre de 2023); Bones 20 = Tammie Liles (22 de enero de 2024); traslado del 9 al 13 de septiembre de 2024; casos abiertos [16][17][21][19][23].
