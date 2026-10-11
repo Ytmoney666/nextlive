@@ -153,10 +153,10 @@ Ryan Wyngarden está CONDENADO (no "presunto") por dos asesinatos en primer grad
 Nota metodológica: WebFetch bloqueado; datos tomados de fragmentos de búsqueda (15 búsquedas) cruzados entre sí. Contexto general (Holland, 1987, leyes de Michigan, AEDPA) de conocimiento general bien documentado.
 
 ## 14. Verificación del guion
-- Palabras por parte: 1.260 / 1.272 / 1.242 / 1.229 / 1.231 / 1.222 / 1.220 / 1.237 / 1.222 / 1.204.
-- Total: 12.339 palabras → ~72,6 minutos a 170 ppm.
+- Palabras por parte: 1.260 / 1.272 / 1.242 / 1.229 / 1.231 / 1.222 / 1.220 / 1.237 / 1.222 / 1.205.
+- Total: 12.340 palabras → ~72,6 minutos a 170 ppm.
 - Signos de interrogación: 6. Sin encabezados, corchetes ni acotaciones. 10 párrafos.
-- Correcciones hechas en la verificación: eliminado "at close range" (no documentado); suavizadas especulaciones sobre los motivos del silencio de Pam; corregido el número de Navidades (26); edad de Rick en 2013 expresada como "early fifties"; la boda y la huella tratadas como no verificadas; el móvil atribuido a la fiscalía (no al jurado).
+- Correcciones hechas en la verificación: eliminado "at close range" (no documentado); suavizadas especulaciones sobre los motivos del silencio de Pam; corregido el número de Navidades (26); edad de Rick en 2013 expresada como "early fifties"; la boda y la huella tratadas como no verificadas; el móvil atribuido a la fiscalía (no al jurado); "three days before Thanksgiving" reservado al hallazgo (el crimen fue el último fin de semana antes de la fiesta).
 
 10 afirmaciones clave y sus fuentes:
 1. Rick (28) y Gail (22), casados ~18 meses, casa recién comprada en Park Township — [1][3][24]

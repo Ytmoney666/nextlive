@@ -179,3 +179,25 @@ Steven John Carlson está **condenado por asesinato en segundo grado** (sentenci
 40. Wikipedia, 2016 California Proposition 57 — https://en.wikipedia.org/wiki/2016_California_Proposition_57
 41. Wikipedia, 1984 (advertisement) — https://en.wikipedia.org/wiki/1984_(advertisement)
 42. Wikipedia, Polymerase chain reaction — https://en.wikipedia.org/wiki/Polymerase_chain_reaction
+
+## 14. Verificación del guion
+
+- Palabras totales: **12440**
+- Palabras por parte: P1: 1351, P2: 1245, P3: 1232, P4: 1259, P5: 1233, P6: 1204, P7: 1236, P8: 1224, P9: 1237, P10: 1219
+- Duración estimada a 170 ppm: **73,2 minutos** (~73 min 11 s)
+- Formato: 10 párrafos separados por una línea en blanco; sin encabezados, corchetes ni acotaciones; 2 CTA (tras el gancho y al final, "this channel"); 11 signos de interrogación; el nombre del asesino no se revela hasta la parte 8; motivo recurrente: "Lemonwood Way" y "the quiet way home"; mantra final "no case stays cold forever".
+- Seguridad (víctima menor): una sola frase sobria sobre la causa de muerte ("stabbed, many times"; "multiple stab wounds"); no se menciona el número de puñaladas ni ninguna herida; los alumnos que la encontraron no se nombran.
+- Repaso de hechos: se revisó el guion frase por frase contra research_brief.json. Se suavizaron o eliminaron afirmaciones no documentadas (que los padres prohibieran atajos, consejeros escolares, "few weeks", que Carlson negara ante la policía, que la madre se enterara "within the hour", tiempo de testimonio "weeks", la atribución de los antecedentes al fiscal en lugar de a la prensa). Las discrepancias (2007 vs. 2011, jueza Burgess vs. Thompson, padrastro) se narran como tales.
+- Contexto de época (Macintosh/Super Bowl, cartones de leche y NCMEC, distancia a Oakland, población, hipódromo, Foothill en los 70) procede de conocimiento general bien documentado [33]–[42]; verificar cifras de población antes de publicar.
+
+**Las 10 afirmaciones clave del guion y su fuente:**
+1. Tina Faelz, 14 años, freshman de Foothill High, volvía a pie el jueves 05/04/1984 por un atajo (Aster Court, Lemonwood Way, alcantarilla bajo la I-680) hacia Valley Trails, porque había empezado a caminar para evitar burlas en el autobús — [1][18]
+2. Última vez vista hacia las 14:35; compañeros la encontraron hacia las 15:00; murió de múltiples puñaladas — [1][15][18]
+3. Su bolso apareció colgado de un árbol cerca de la escena — [13][3]
+4. Jeffreys descubrió la huella genética el 10/09/1984; NDIS desde 1998; Proposición 69 en 2004 — [33][34][37]
+5. A finales de 2007 la policía reexaminó la evidencia en dos laboratorios; la sangre del bolso no era de Tina y en 2011 se vinculó a Steven Carlson (crédito al laboratorio del FBI) — [3][4][18][31]
+6. Carlson tenía 16 años, iba a Foothill y vivía en Lemonwood Way; detenido el domingo 07/08/2011 en la cárcel de Santa Cruz (cargos de drogas) con 43 años; antecedentes por actos lascivos con menor de 14 y agresión — [2][4][12][16][26]
+7. Imputado en tribunal de menores; "I didn't do it"; transferido a tribunal de adultos por sofisticación, gravedad y fracaso de rehabilitación — [5][7][8][10]
+8. Shirley Faelz Orosco murió el 13/02/2014, día previsto de inicio del juicio; cita de Karin Reiff — [24][29]
+9. Culpable de asesinato en primer grado el 30/10/2014 tras un día; 1 entre 5 cuatrillones; defensa: ADN "flimsy", sin móvil, huellas ni arma; 26 años a perpetua el 09/01/2015 (juez C. Don Clay) — [13][16][17][19][20]
+10. Apelación 2017: segundo grado (premeditación no probada), 16 a perpetua según CBS; confesión escrita de octubre de 2020 (9 páginas, cartas a la familia y a Tina, cuchillo de la cocina), cancelación de la audiencia, "There's no remorse"; sin libertad condicional conocida a octubre de 2026 — [22][23][24][25]

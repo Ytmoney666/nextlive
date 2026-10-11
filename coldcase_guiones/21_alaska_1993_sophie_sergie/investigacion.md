@@ -52,7 +52,7 @@ El ADN del agresor se convirtió en perfil a finales de los 90 y se cargó en CO
 - **10 feb. 2022** — jurado de 12 lo declara culpable de asesinato en primer grado y agresión sexual en primer grado (deliberación de 2–3 días según la fuente) [19][20][21].
 - **26 sep. 2022 (publicado el 27)** — sentencia: 67 años (asesinato) + 8 (agresión sexual) = 75; la fiscalía pedía 99 + 8; la llamada de Alexi Sergie se corta [1][2][3][21].
 - **24 oct. 2022** — apelación ante el Tribunal de Apelaciones de Alaska [21].
-- **8 mar. 2022 (aprox.) / 2022** — audiencia legislativa en Alaska sobre MMIW cita la condena como "an exception, and not the rule" [28].
+- **3 mar. 2022 (según la referencia del documento)** — audiencia legislativa en Alaska sobre MMIW cita la condena como "an exception, and not the rule" [28].
 
 ## 6. Personas
 - **Sophie Sergie** (20) — víctima; yup'ik de Pitkas Point; estudiante de la UAF en excedencia.
@@ -156,8 +156,8 @@ Steven Harris Downs está **condenado** por asesinato en primer grado y agresió
 35. KIRO7 (Cox Media), condena (2022): https://www.kiro7.com/news/trending/man-convicted-brutal-1993-rape-murder-woman-university-alaska-dorm-shower-room/FGH55NX4RZBKPNCG37NRCU4JXE/
 
 ## 14. Verificación del guion
-- **Palabras por parte:** 1.260 · 1.219 · 1.251 · 1.268 · 1.258 · 1.243 · 1.226 · 1.231 · 1.299 · 1.240
-- **Total:** 12.495 palabras · 10 párrafos · 6 signos de interrogación
+- **Palabras por parte:** 1.261 · 1.219 · 1.251 · 1.268 · 1.258 · 1.243 · 1.226 · 1.231 · 1.299 · 1.240
+- **Total:** 12.496 palabras · 10 párrafos · 6 signos de interrogación
 - **Duración estimada a 170 ppm:** ≈ 73,5 minutos
 - **Comprobación:** se eliminaron del borrador detalles no documentados (fotos "sonrientes", carteles retirados, alarma no dada, funeral, "mejor amiga", años de enfermería, etc.). Toda frase sobre Downs anterior al veredicto usa lenguaje de presunción de inocencia; la agresión sexual se menciona solo como hecho legal.
 
