@@ -12,7 +12,7 @@
     "occupation_or_status": "Graduate of the University of Texas at Arlington (1997, Bachelor in Business, marketing concentration, per her obituary); wife of Blake Ruff from January 2004; mother of one daughter born in 2008; lived in Longview, Texas.",
     "location": "Philadelphia area, Pennsylvania (childhood); Dallas area, Texas (from 1988); Longview, Texas (married life and death).",
     "physical_description": "Not used beyond what her real published photos show (driver's license and family photos released by the Seattle Times).",
-    "background_brief": "Born in Philadelphia to James and Deanne McLean (nee Cassidy). After her parents divorced, her mother gained custody of Kimberly and her sister, married a second husband, Robert Becker, and moved the family (Wikipedia names Wyncote; Fox News/Seattle Times say her mother's King of Prussia home). Kimberly left home in 1986. In 1988 she obtained the birth certificate of Becky Sue Turner, a toddler who died in a 1971 house fire in Fife, Washington, used it to get an Idaho ID card (June 16, 1988), and changed that name in a Dallas court to Lori Erica Kennedy (July 5, 1988), then obtained a Social Security number and Texas documents as Lori Kennedy.",
+    "background_brief": "Born in Philadelphia to James and Deanne McLean (nee Cassidy). After her parents divorced, her mother gained custody of Kimberly and her sister, married a second husband, Robert Becker, and moved the family (Wikipedia names Wyncote; Fox News/Seattle Times say her mother's King of Prussia home). Kimberly left home in 1986. In 1988 she obtained the birth certificate of Becky Sue Turner, a toddler who died in a 1971 house fire in Fife, Washington, used it to get an Idaho ID card (June 16, 1988), and changed that name in a Dallas court to Lori Erica Kennedy (July 5, 1988), then obtained a Social Security number and Texas documents as Lori Kennedy. Wikipedia places the McLean-Cassidy family on the Philadelphia Main Line.",
     "psychological_profile": "Documented only through behaviour reported by the Seattle Times and secondary outlets: guarded and evasive about her past; told her husband's family her parents were dead and she had no siblings; after her daughter's birth in 2008 sometimes kept the girl away from Blake's family; the marriage broke down in 2010. No diagnosis is public; the script must not speculate about mental illness.",
     "mundane_humanizing_detail": "She went back to school and earned a business degree with a marketing concentration at the University of Texas at Arlington in 1997, nine years after taking her new name.",
     "nickname_or_alias_if_any": "Becky Sue Turner (stolen identity, 1988); Lori Erica Kennedy (legal name from July 5, 1988); Lori Erica Ruff (married name); 'Jane Doe' (how investigator Joe Velling referred to her)."
@@ -105,33 +105,195 @@
   "chronological_timeline": {
     "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
     "events": [
-      {"date": "late 1960s", "location": "Bakersfield, California", "what_happened": "Becky Sue Turner is born.", "significance": "Her birth certificate will later be requested in Bakersfield.", "source": "[4] Fox News 2013 / [6] Houston Chronicle (snippet: certificate requested in Bakersfield, her birthplace)"},
-      {"date": "1971", "location": "Fife, Washington", "what_happened": "Becky Sue Turner, age 2, dies in a house fire.", "significance": "The child whose identity will be taken.", "source": "[4] Fox News 2013; [2] Seattle Times timeline"},
-      {"date": "late 1960s", "location": "Philadelphia, Pennsylvania", "what_happened": "Kimberly Maria McLean is born to James and Deanne McLean (nee Cassidy).", "significance": "Her true identity.", "source": "[1] Wikipedia"},
-      {"date": "early-mid 1980s", "location": "Philadelphia suburbs", "what_happened": "Her parents divorce; her mother gains custody of Kimberly and her sister, marries Robert Becker and moves the family (Wyncote per Wikipedia; King of Prussia per Fox/Seattle Times).", "significance": "Relatives say she was upset by the divorce and the move.", "source": "[1] Wikipedia; [5] Fox News 2016; [7] Mental Floss"},
-      {"date": "1986", "location": "Pennsylvania", "what_happened": "Kimberly, 17 or 18, leaves her mother's home, telling her family she is going away.", "significance": "Last time her family knowingly saw her.", "source": "[5] Fox News 2016; [11] Marie Claire; [15] Historic Mysteries"},
-      {"date": "1988", "location": "Bakersfield, California (records)", "what_happened": "She obtains Becky Sue Turner's birth certificate.", "significance": "Start of the new identity.", "source": "[2] Seattle Times timeline; [6] Houston Chronicle"},
-      {"date": "June 16, 1988", "location": "Idaho", "what_happened": "Obtains an Idaho ID card with her photo and Becky Sue Turner's name.", "significance": "First photo ID under the stolen name.", "source": "[2] Seattle Times timeline"},
-      {"date": "July 5, 1988", "location": "Dallas, Texas", "what_happened": "Legally changes her name in a Dallas court from Becky Sue Turner to Lori Erica Kennedy.", "significance": "The dead child's name disappears from her paperwork.", "source": "[2] Seattle Times timeline; [6] Houston Chronicle"},
-      {"date": "July 12, 1988", "location": "Texas", "what_happened": "Obtains a Social Security number as Lori Kennedy.", "significance": "Federal identity established; the reason the SSA investigator later took the case.", "source": "[2] Seattle Times timeline"},
-      {"date": "July 13, 1988", "location": "Texas", "what_happened": "Obtains a Texas ID card.", "significance": "Completes the new identity in under a month.", "source": "[2] Seattle Times timeline"},
-      {"date": "April 1989", "location": "Texas", "what_happened": "Obtains a Texas driver's license.", "significance": "The license photo will later be shown to the Cassidy family.", "source": "[2] Seattle Times timeline"},
-      {"date": "1997", "location": "Arlington, Texas", "what_happened": "Graduates from the University of Texas at Arlington, Bachelor in Business with a marketing concentration.", "significance": "Built a full adult life under the new name.", "source": "[10] Rader Funeral Home obituary (single source)"},
-      {"date": "January 2004", "location": "Texas", "what_happened": "Marries Blake Ruff.", "significance": "Becomes Lori Erica Ruff; tells his family her parents are dead and she has no siblings.", "source": "[2] Seattle Times timeline; [1] Wikipedia; [11] Marie Claire"},
-      {"date": "2008", "location": "Longview, Texas", "what_happened": "Daughter is born.", "significance": "Tensions with Blake's family grow; she sometimes keeps the child from them.", "source": "[11] Marie Claire; [10] obituary"},
-      {"date": "2010 (summer)", "location": "Longview, Texas", "what_happened": "After counseling, Blake moves back to his parents' home and files for divorce.", "significance": "The marriage ends in 2010.", "source": "[11] Marie Claire; [1] Wikipedia"},
-      {"date": "December 24, 2010", "location": "Longview, Texas", "what_happened": "Lori Ruff dies by suicide (self-inflicted gunshot) in her vehicle in the driveway of her former in-laws' home; she leaves notes to her husband and daughter that say nothing about her identity.", "significance": "The secret goes with her.", "source": "[1] Wikipedia; [5] Fox News 2016; [11] Marie Claire"},
-      {"date": "January 3, 2011", "location": "First Christian Church, Longview, Texas", "what_happened": "Memorial service listed in her obituary.", "significance": "She is mourned as Lori Erica Ruff.", "source": "[10] Rader Funeral Home obituary"},
-      {"date": "after December 24, 2010", "location": "Longview, Texas", "what_happened": "Blake and his family find a locked box in her closet, pry it open with a screwdriver, and find Becky Sue Turner's birth certificate, the name-change papers and other puzzling documents.", "significance": "Proof she was not who she said she was.", "source": "[9] WNYC On the Media (O'Hagan interview); [1] Wikipedia; [7] Mental Floss"},
-      {"date": "2011", "location": "Seattle, Washington", "what_happened": "A congressman's aide brings the case to SSA investigator Joe Velling.", "significance": "A federal investigator takes on a case with no crime to prosecute.", "source": "[9] WNYC; [18] Ranker"},
-      {"date": "2011-2013", "location": "Seattle / nationwide records", "what_happened": "Velling reconstructs the 1988 paper trail but cannot find who she was after about a year and a half to two years.", "significance": "Records end where the identity begins.", "source": "[9] WNYC; [4] Fox News 2013"},
-      {"date": "June 2013", "location": "Seattle", "what_happened": "The Seattle Times publishes Maureen O'Hagan's feature 'She stole another's identity, and took her secret to the grave. Who was she?' with photos of clues, asking readers for help; it spreads worldwide.", "significance": "Crowdsourcing begins.", "source": "[3] Seattle Times 2013; [8] Poynter; [1] Wikipedia"},
-      {"date": "June 2013", "location": "California / Seattle", "what_happened": "Forensic genealogist Colleen Fitzpatrick talks with Velling.", "significance": "Genetic genealogy enters the case.", "source": "[2] Seattle Times timeline; [7] Mental Floss"},
-      {"date": "December 2015", "location": "", "what_happened": "Using DNA submitted by the Ruff family, Fitzpatrick identifies Lori as a member of the Cassidy family of Philadelphia (a first-cousin match).", "significance": "The breakthrough.", "source": "[2] Seattle Times timeline; [7] Mental Floss; [12] AAFS 2017"},
-      {"date": "March 2016", "location": "Philadelphia area", "what_happened": "Velling flies to Philadelphia; a Cassidy relative looks at Lori's driver's license photo and says 'My God, that's Kimberly!'; further DNA tests confirm the match.", "significance": "Identification of Kimberly McLean.", "source": "[2] Seattle Times timeline; [5] Fox News 2016; [7] Mental Floss"},
-      {"date": "September 19, 2016", "location": "NamUs", "what_happened": "Lori Ruff's entry is removed from the national missing and unidentified persons database.", "significance": "Official end of her status as unidentified.", "source": "[2] Seattle Times timeline; [7] Mental Floss"},
-      {"date": "September 2016", "location": "", "what_happened": "The Seattle Times, then Fox News (Sept. 22), the Houston Chronicle, KUOW and others report she was Kimberly McLean.", "significance": "Public resolution, nearly six years after her death.", "source": "[5] Fox News 2016; [6] Houston Chronicle; [14] KUOW"},
-      {"date": "2017", "location": "American Academy of Forensic Sciences meeting", "what_happened": "Fitzpatrick presents the case (high-density SNP testing borrowed from genetic genealogy).", "significance": "The case becomes a professional reference.", "source": "[12] AAFS 2017 LW6"}
+      {
+        "date": "late 1960s",
+        "location": "Bakersfield, California",
+        "what_happened": "Becky Sue Turner is born.",
+        "significance": "Her birth certificate will later be requested in Bakersfield.",
+        "source": "[4] Fox News 2013 / [6] Houston Chronicle (snippet: certificate requested in Bakersfield, her birthplace)"
+      },
+      {
+        "date": "1971",
+        "location": "Fife, Washington",
+        "what_happened": "Becky Sue Turner, age 2, dies in a house fire.",
+        "significance": "The child whose identity will be taken.",
+        "source": "[4] Fox News 2013; [2] Seattle Times timeline"
+      },
+      {
+        "date": "late 1960s",
+        "location": "Philadelphia, Pennsylvania",
+        "what_happened": "Kimberly Maria McLean is born to James and Deanne McLean (nee Cassidy).",
+        "significance": "Her true identity.",
+        "source": "[1] Wikipedia"
+      },
+      {
+        "date": "early-mid 1980s",
+        "location": "Philadelphia suburbs",
+        "what_happened": "Her parents divorce; her mother gains custody of Kimberly and her sister, marries Robert Becker and moves the family (Wyncote per Wikipedia; King of Prussia per Fox/Seattle Times).",
+        "significance": "Relatives say she was upset by the divorce and the move.",
+        "source": "[1] Wikipedia; [5] Fox News 2016; [7] Mental Floss"
+      },
+      {
+        "date": "1986",
+        "location": "Pennsylvania",
+        "what_happened": "Kimberly, 17 or 18, leaves her mother's home, telling her family she is going away.",
+        "significance": "Last time her family knowingly saw her.",
+        "source": "[5] Fox News 2016; [11] Marie Claire; [15] Historic Mysteries"
+      },
+      {
+        "date": "1988",
+        "location": "Bakersfield, California (records)",
+        "what_happened": "She obtains Becky Sue Turner's birth certificate.",
+        "significance": "Start of the new identity.",
+        "source": "[2] Seattle Times timeline; [6] Houston Chronicle"
+      },
+      {
+        "date": "June 16, 1988",
+        "location": "Idaho",
+        "what_happened": "Obtains an Idaho ID card with her photo and Becky Sue Turner's name.",
+        "significance": "First photo ID under the stolen name.",
+        "source": "[2] Seattle Times timeline"
+      },
+      {
+        "date": "July 5, 1988",
+        "location": "Dallas, Texas",
+        "what_happened": "Legally changes her name in a Dallas court from Becky Sue Turner to Lori Erica Kennedy.",
+        "significance": "The dead child's name disappears from her paperwork.",
+        "source": "[2] Seattle Times timeline; [6] Houston Chronicle"
+      },
+      {
+        "date": "July 12, 1988",
+        "location": "Texas",
+        "what_happened": "Obtains a Social Security number as Lori Kennedy.",
+        "significance": "Federal identity established; the reason the SSA investigator later took the case.",
+        "source": "[2] Seattle Times timeline"
+      },
+      {
+        "date": "July 13, 1988",
+        "location": "Texas",
+        "what_happened": "Obtains a Texas ID card.",
+        "significance": "Completes the new identity in under a month.",
+        "source": "[2] Seattle Times timeline"
+      },
+      {
+        "date": "April 1989",
+        "location": "Texas",
+        "what_happened": "Obtains a Texas driver's license.",
+        "significance": "The license photo will later be shown to the Cassidy family.",
+        "source": "[2] Seattle Times timeline"
+      },
+      {
+        "date": "1997",
+        "location": "Arlington, Texas",
+        "what_happened": "Graduates from the University of Texas at Arlington, Bachelor in Business with a marketing concentration.",
+        "significance": "Built a full adult life under the new name.",
+        "source": "[10] Rader Funeral Home obituary (single source)"
+      },
+      {
+        "date": "January 2004",
+        "location": "Texas",
+        "what_happened": "Marries Blake Ruff.",
+        "significance": "Becomes Lori Erica Ruff; tells his family her parents are dead and she has no siblings.",
+        "source": "[2] Seattle Times timeline; [1] Wikipedia; [11] Marie Claire"
+      },
+      {
+        "date": "2008",
+        "location": "Longview, Texas",
+        "what_happened": "Daughter is born.",
+        "significance": "Tensions with Blake's family grow; she sometimes keeps the child from them.",
+        "source": "[11] Marie Claire; [10] obituary"
+      },
+      {
+        "date": "2010 (summer)",
+        "location": "Longview, Texas",
+        "what_happened": "After counseling, Blake moves back to his parents' home and files for divorce.",
+        "significance": "The marriage ends in 2010.",
+        "source": "[11] Marie Claire; [1] Wikipedia"
+      },
+      {
+        "date": "December 24, 2010",
+        "location": "Longview, Texas",
+        "what_happened": "Lori Ruff dies by suicide (self-inflicted gunshot) in her vehicle in the driveway of her former in-laws' home; she leaves notes to her husband and daughter that say nothing about her identity.",
+        "significance": "The secret goes with her.",
+        "source": "[1] Wikipedia; [5] Fox News 2016; [11] Marie Claire"
+      },
+      {
+        "date": "January 3, 2011",
+        "location": "First Christian Church, Longview, Texas",
+        "what_happened": "Memorial service listed in her obituary.",
+        "significance": "She is mourned as Lori Erica Ruff.",
+        "source": "[10] Rader Funeral Home obituary"
+      },
+      {
+        "date": "after December 24, 2010",
+        "location": "Longview, Texas",
+        "what_happened": "Blake and his family find a locked box in her closet, pry it open with a screwdriver, and find Becky Sue Turner's birth certificate, the name-change papers and other puzzling documents.",
+        "significance": "Proof she was not who she said she was.",
+        "source": "[9] WNYC On the Media (O'Hagan interview); [1] Wikipedia; [7] Mental Floss"
+      },
+      {
+        "date": "2011",
+        "location": "Seattle, Washington",
+        "what_happened": "A congressman's aide brings the case to SSA investigator Joe Velling.",
+        "significance": "A federal investigator takes on a case with no crime to prosecute.",
+        "source": "[9] WNYC; [18] Ranker"
+      },
+      {
+        "date": "2011-2013",
+        "location": "Seattle / nationwide records",
+        "what_happened": "Velling reconstructs the 1988 paper trail but cannot find who she was after about a year and a half to two years.",
+        "significance": "Records end where the identity begins.",
+        "source": "[9] WNYC; [4] Fox News 2013"
+      },
+      {
+        "date": "June 2013",
+        "location": "Seattle",
+        "what_happened": "The Seattle Times publishes Maureen O'Hagan's feature 'She stole another's identity, and took her secret to the grave. Who was she?' with photos of clues, asking readers for help; it spreads worldwide.",
+        "significance": "Crowdsourcing begins.",
+        "source": "[3] Seattle Times 2013; [8] Poynter; [1] Wikipedia"
+      },
+      {
+        "date": "June 2013",
+        "location": "California / Seattle",
+        "what_happened": "Forensic genealogist Colleen Fitzpatrick talks with Velling.",
+        "significance": "Genetic genealogy enters the case.",
+        "source": "[2] Seattle Times timeline; [7] Mental Floss"
+      },
+      {
+        "date": "December 2015",
+        "location": "",
+        "what_happened": "Using DNA submitted by the Ruff family, Fitzpatrick identifies Lori as a member of the Cassidy family of Philadelphia (a first-cousin match).",
+        "significance": "The breakthrough.",
+        "source": "[2] Seattle Times timeline; [7] Mental Floss; [12] AAFS 2017"
+      },
+      {
+        "date": "March 2016",
+        "location": "Philadelphia area",
+        "what_happened": "Velling flies to Philadelphia; a Cassidy relative looks at Lori's driver's license photo and says 'My God, that's Kimberly!'; further DNA tests confirm the match.",
+        "significance": "Identification of Kimberly McLean.",
+        "source": "[2] Seattle Times timeline; [5] Fox News 2016; [7] Mental Floss"
+      },
+      {
+        "date": "September 19, 2016",
+        "location": "NamUs",
+        "what_happened": "Lori Ruff's entry is removed from the national missing and unidentified persons database.",
+        "significance": "Official end of her status as unidentified.",
+        "source": "[2] Seattle Times timeline; [7] Mental Floss"
+      },
+      {
+        "date": "September 2016",
+        "location": "",
+        "what_happened": "The Seattle Times, then Fox News (Sept. 22), the Houston Chronicle, KUOW and others report she was Kimberly McLean.",
+        "significance": "Public resolution, nearly six years after her death.",
+        "source": "[5] Fox News 2016; [6] Houston Chronicle; [14] KUOW"
+      },
+      {
+        "date": "2017",
+        "location": "American Academy of Forensic Sciences meeting",
+        "what_happened": "Fitzpatrick presents the case (high-density SNP testing borrowed from genetic genealogy).",
+        "significance": "The case becomes a professional reference.",
+        "source": "[12] AAFS 2017 LW6"
+      }
     ]
   },
   "cold_open_material": {
@@ -157,10 +319,22 @@
     ],
     "why_it_worked": "In that era a birth certificate could be obtained for a child who had died in another state, because birth and death records were not systematically cross-checked across state lines (general context, stated as such). Once the name was changed in court, the dead child's name vanished from her later records.",
     "technical_terms_to_explain": [
-      {"term": "Autosomal DNA", "simple_explanation": "The DNA we inherit from both parents, about half from each, which can reveal cousins as well as parents and siblings."},
-      {"term": "SNP testing", "simple_explanation": "Reading hundreds of thousands of tiny single-letter spelling variations in the DNA, the same kind of test sold by consumer ancestry companies."},
-      {"term": "First-cousin match", "simple_explanation": "Two people sharing roughly the amount of DNA expected from sharing a set of grandparents."},
-      {"term": "NamUs", "simple_explanation": "The National Missing and Unidentified Persons System, a federal database where missing and unidentified cases are listed."}
+      {
+        "term": "Autosomal DNA",
+        "simple_explanation": "The DNA we inherit from both parents, about half from each, which can reveal cousins as well as parents and siblings."
+      },
+      {
+        "term": "SNP testing",
+        "simple_explanation": "Reading hundreds of thousands of tiny single-letter spelling variations in the DNA, the same kind of test sold by consumer ancestry companies."
+      },
+      {
+        "term": "First-cousin match",
+        "simple_explanation": "Two people sharing roughly the amount of DNA expected from sharing a set of grandparents."
+      },
+      {
+        "term": "NamUs",
+        "simple_explanation": "The National Missing and Unidentified Persons System, a federal database where missing and unidentified cases are listed."
+      }
     ],
     "scale_of_operation": "One person, one identity, held for 22 years (1988-2010)."
   },
@@ -206,26 +380,93 @@
   "verified_quotes": {
     "_instructions": "ONLY include quotes you can verify from reliable sources.",
     "quotes": [
-      {"speaker": "A member of the Cassidy family", "exact_quote": "My God, that's Kimberly!", "context": "On seeing Lori Ruff's Texas driver's license photo shown by Joe Velling, March 2016.", "source": "Seattle Times 2016, as relayed by [5] Fox News 2016 and [7] Mental Floss"},
-      {"speaker": "Maureen O'Hagan, Seattle Times reporter", "exact_quote": "So far, we've gotten a lot of response, but they haven't cracked the case yet.", "context": "Email to Poynter after the June 2013 story asked readers for help.", "source": "[8] Poynter, June 24, 2013"},
-      {"speaker": "Seattle Times headline (2013)", "exact_quote": "She stole another's identity, and took her secret to the grave. Who was she?", "context": "Title of the June 2013 feature.", "source": "[3] Seattle Times"},
-      {"speaker": "Fox News headline (2013)", "exact_quote": "Three years after Texas woman's suicide, a question lingers: Who was she?", "context": "Syndicated coverage of the Seattle Times story.", "source": "[4] Fox News 2013"},
-      {"speaker": "Fox News headline (2016)", "exact_quote": "Case cracked: A Texas mother's identity is revealed six years after her suicide", "context": "Report of the identification, Sept. 22, 2016.", "source": "[5] Fox News 2016"},
-      {"speaker": "Houston Chronicle headline (2016)", "exact_quote": "Mystery woman: After 30 years and a suicide, Lori Ruff's real identity emerges", "context": "Report of the identification.", "source": "[6] Houston Chronicle"},
-      {"speaker": "Authorities, as reported secondhand", "exact_quote": "ramblings from a clearly disturbed person", "context": "Description of the notes she left; secondary source only. NOT used in the script out of respect.", "source": "[11] Marie Claire / [18] Ranker (secondary)"}
+      {
+        "speaker": "A member of the Cassidy family",
+        "exact_quote": "My God, that's Kimberly!",
+        "context": "On seeing Lori Ruff's Texas driver's license photo shown by Joe Velling, March 2016.",
+        "source": "Seattle Times 2016, as relayed by [5] Fox News 2016 and [7] Mental Floss"
+      },
+      {
+        "speaker": "Maureen O'Hagan, Seattle Times reporter",
+        "exact_quote": "So far, we've gotten a lot of response, but they haven't cracked the case yet.",
+        "context": "Email to Poynter after the June 2013 story asked readers for help.",
+        "source": "[8] Poynter, June 24, 2013"
+      },
+      {
+        "speaker": "Seattle Times headline (2013)",
+        "exact_quote": "She stole another's identity, and took her secret to the grave. Who was she?",
+        "context": "Title of the June 2013 feature.",
+        "source": "[3] Seattle Times"
+      },
+      {
+        "speaker": "Fox News headline (2013)",
+        "exact_quote": "Three years after Texas woman's suicide, a question lingers: Who was she?",
+        "context": "Syndicated coverage of the Seattle Times story.",
+        "source": "[4] Fox News 2013"
+      },
+      {
+        "speaker": "Fox News headline (2016)",
+        "exact_quote": "Case cracked: A Texas mother's identity is revealed six years after her suicide",
+        "context": "Report of the identification, Sept. 22, 2016.",
+        "source": "[5] Fox News 2016"
+      },
+      {
+        "speaker": "Houston Chronicle headline (2016)",
+        "exact_quote": "Mystery woman: After 30 years and a suicide, Lori Ruff's real identity emerges",
+        "context": "Report of the identification.",
+        "source": "[6] Houston Chronicle"
+      },
+      {
+        "speaker": "Authorities, as reported secondhand",
+        "exact_quote": "ramblings from a clearly disturbed person",
+        "context": "Description of the notes she left; secondary source only. NOT used in the script out of respect.",
+        "source": "[11] Marie Claire / [18] Ranker (secondary)"
+      }
     ]
   },
   "statistics_and_numbers": {
     "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
     "figures": [
-      {"number": "2", "what_it_represents": "Becky Sue Turner's age when she died in 1971", "source": "[4] Fox News 2013"},
-      {"number": "27 days", "what_it_represents": "June 16 to July 13, 1988: Idaho ID, Dallas name change, SSN, Texas ID", "source": "[2] Seattle Times timeline"},
-      {"number": "22 years", "what_it_represents": "Time she lived as Lori (1988-2010)", "source": "[2] Seattle Times timeline (computed)"},
-      {"number": "about 30 years", "what_it_represents": "From leaving home (1986) to identification (2016)", "source": "[6] Houston Chronicle; [2] Seattle Times timeline"},
-      {"number": "nearly 6 years", "what_it_represents": "From her death (Dec. 24, 2010) to identification (Sept. 2016)", "source": "[5] Fox News 2016"},
-      {"number": "1 and a half to 2 years", "what_it_represents": "Velling's initial work without solving it", "source": "[9] WNYC; [4] Fox News 2013"},
-      {"number": "1997", "what_it_represents": "UT Arlington business degree", "source": "[10] obituary"},
-      {"number": "September 19, 2016", "what_it_represents": "Removal from NamUs", "source": "[2] Seattle Times timeline"}
+      {
+        "number": "2",
+        "what_it_represents": "Becky Sue Turner's age when she died in 1971",
+        "source": "[4] Fox News 2013"
+      },
+      {
+        "number": "27 days",
+        "what_it_represents": "June 16 to July 13, 1988: Idaho ID, Dallas name change, SSN, Texas ID",
+        "source": "[2] Seattle Times timeline"
+      },
+      {
+        "number": "22 years",
+        "what_it_represents": "Time she lived as Lori (1988-2010)",
+        "source": "[2] Seattle Times timeline (computed)"
+      },
+      {
+        "number": "about 30 years",
+        "what_it_represents": "From leaving home (1986) to identification (2016)",
+        "source": "[6] Houston Chronicle; [2] Seattle Times timeline"
+      },
+      {
+        "number": "nearly 6 years",
+        "what_it_represents": "From her death (Dec. 24, 2010) to identification (Sept. 2016)",
+        "source": "[5] Fox News 2016"
+      },
+      {
+        "number": "1 and a half to 2 years",
+        "what_it_represents": "Velling's initial work without solving it",
+        "source": "[9] WNYC; [4] Fox News 2013"
+      },
+      {
+        "number": "1997",
+        "what_it_represents": "UT Arlington business degree",
+        "source": "[10] obituary"
+      },
+      {
+        "number": "September 19, 2016",
+        "what_it_represents": "Removal from NamUs",
+        "source": "[2] Seattle Times timeline"
+      }
     ]
   },
   "ironic_and_absurd_details": {
@@ -240,10 +481,36 @@
   "sensory_and_environmental_details": {
     "_instructions": "Details that help viewers visualize scenes.",
     "key_locations": [
-      {"location_name": "Longview, Texas", "physical_description": "City in the Piney Woods of East Texas, about two hours east of Dallas (general geography).", "atmosphere": "Christmas Eve 2010.", "relevant_details": "Her in-laws' home; First Christian Church, 720 North 6th Street (memorial, Jan. 3, 2011)."},
-      {"location_name": "Fife, Washington", "physical_description": "Small city near Tacoma, south of Seattle (general geography).", "atmosphere": "1971.", "relevant_details": "Where Becky Sue Turner died in a house fire."},
-      {"location_name": "Dallas County court", "physical_description": "", "atmosphere": "July 5, 1988.", "relevant_details": "Name change from Becky Sue Turner to Lori Erica Kennedy."},
-      {"location_name": "Philadelphia suburbs (Wyncote / King of Prussia)", "physical_description": "", "atmosphere": "Mid-1980s.", "relevant_details": "Kimberly McLean's family home before 1986."}
+      {
+        "location_name": "Longview, Texas",
+        "physical_description": "City in the Piney Woods of East Texas, about two hours east of Dallas (general geography).",
+        "atmosphere": "Christmas Eve 2010.",
+        "relevant_details": "Her in-laws' home; First Christian Church, 720 North 6th Street (memorial, Jan. 3, 2011)."
+      },
+      {
+        "location_name": "Fife, Washington",
+        "physical_description": "Small city near Tacoma, south of Seattle (general geography).",
+        "atmosphere": "1971.",
+        "relevant_details": "Where Becky Sue Turner died in a house fire."
+      },
+      {
+        "location_name": "Dallas County court",
+        "physical_description": "",
+        "atmosphere": "July 5, 1988.",
+        "relevant_details": "Name change from Becky Sue Turner to Lori Erica Kennedy."
+      },
+      {
+        "location_name": "Philadelphia suburbs (Wyncote / King of Prussia)",
+        "physical_description": "",
+        "atmosphere": "Mid-1980s.",
+        "relevant_details": "Kimberly McLean's family home before 1986."
+      },
+      {
+        "location_name": "Bakersfield, California",
+        "physical_description": "Southern San Joaquin Valley city (general geography).",
+        "atmosphere": "late 1960s",
+        "relevant_details": "Becky Sue Turner's birthplace; the birth certificate was requested here."
+      }
     ]
   },
   "universal_stakes": {
@@ -256,26 +523,122 @@
   "sources": {
     "_instructions": "List ALL sources.",
     "primary_sources": [
-      {"type": "Newspaper timeline", "title": "Timeline: Becoming Jane Doe (Seattle Times, 2016)", "url_or_reference": "https://projects.seattletimes.com/2016/local/ruff-timeline/", "key_information_obtained": "All 1988 document dates, marriage Jan. 2004, death, 2013-2016 investigation, NamUs removal."},
-      {"type": "Newspaper feature", "title": "She stole another's identity, and took her secret to the grave. Who was she? (Seattle Times, June 2013)", "url_or_reference": "https://www.seattletimes.com/seattle-news/special-reports/she-stole-anothers-identity-and-took-her-secret-to-the-grave-who-was-she/", "key_information_obtained": "Original reporting by Maureen O'Hagan."},
-      {"type": "Obituary", "title": "Lori Erica Ruff obituary (Rader Funeral Home)", "url_or_reference": "https://www.raderfh.com/obituaries/lori-erica-ruff-877739/obituary", "key_information_obtained": "UT Arlington 1997 degree; family in Longview; memorial Jan. 3, 2011."},
-      {"type": "Conference abstract", "title": "AAFS 2017 LW6 (Colleen Fitzpatrick)", "url_or_reference": "https://www.aafs.org/sites/default/files/media/documents/AAFS-2017-LW6.pdf", "key_information_obtained": "High-density SNP testing borrowed from genetic genealogy."},
-      {"type": "Radio interview", "title": "Help Solve a Mystery (WNYC On the Media, 2013)", "url_or_reference": "https://www.wnyc.org/story/303719-help-solve-mystery/", "key_information_obtained": "Screwdriver, box contents, Velling and the congressman's aide, year and a half."}
+      {
+        "type": "Newspaper timeline",
+        "title": "Timeline: Becoming Jane Doe (Seattle Times, 2016)",
+        "url_or_reference": "https://projects.seattletimes.com/2016/local/ruff-timeline/",
+        "key_information_obtained": "All 1988 document dates, marriage Jan. 2004, death, 2013-2016 investigation, NamUs removal."
+      },
+      {
+        "type": "Newspaper feature",
+        "title": "She stole another's identity, and took her secret to the grave. Who was she? (Seattle Times, June 2013)",
+        "url_or_reference": "https://www.seattletimes.com/seattle-news/special-reports/she-stole-anothers-identity-and-took-her-secret-to-the-grave-who-was-she/",
+        "key_information_obtained": "Original reporting by Maureen O'Hagan."
+      },
+      {
+        "type": "Obituary",
+        "title": "Lori Erica Ruff obituary (Rader Funeral Home)",
+        "url_or_reference": "https://www.raderfh.com/obituaries/lori-erica-ruff-877739/obituary",
+        "key_information_obtained": "UT Arlington 1997 degree; family in Longview; memorial Jan. 3, 2011."
+      },
+      {
+        "type": "Conference abstract",
+        "title": "AAFS 2017 LW6 (Colleen Fitzpatrick)",
+        "url_or_reference": "https://www.aafs.org/sites/default/files/media/documents/AAFS-2017-LW6.pdf",
+        "key_information_obtained": "High-density SNP testing borrowed from genetic genealogy."
+      },
+      {
+        "type": "Radio interview",
+        "title": "Help Solve a Mystery (WNYC On the Media, 2013)",
+        "url_or_reference": "https://www.wnyc.org/story/303719-help-solve-mystery/",
+        "key_information_obtained": "Screwdriver, box contents, Velling and the congressman's aide, year and a half."
+      }
     ],
     "secondary_sources": [
-      {"type": "News", "title": "Three years after Texas woman's suicide, a question lingers: Who was she? (Fox News, 2013)", "url_or_reference": "https://www.foxnews.com/us/three-years-after-texas-womans-suicide-a-question-lingers-who-was-she", "key_information_obtained": "Becky Sue Turner died at 2 in 1971 fire in Fife; Velling two years on the case."},
-      {"type": "News", "title": "Case cracked: A Texas mother's identity is revealed six years after her suicide (Fox News, Sept. 22, 2016)", "url_or_reference": "http://www.foxnews.com/us/2016/09/22/case-cracked-texas-mothers-identity-is-revealed-six-years-after-her-suicide.html", "key_information_obtained": "Kimberly McLean, 18, left mother's King of Prussia home in 1986; DNA confirmation."},
-      {"type": "News", "title": "Mystery woman: After 30 years and a suicide, Lori Ruff's real identity emerges (Houston Chronicle)", "url_or_reference": "https://www.chron.com/news/houston-texas/texas/article/Mystery-woman-After-30-years-and-a-suicide-Lori-9239232.php", "key_information_obtained": "Birth certificate requested in Bakersfield; Dallas name change July 5, 1988."},
-      {"type": "Magazine", "title": "Solved: The mystery of identity thief Lori Erica Ruff (Mental Floss, 2016)", "url_or_reference": "https://www.mentalfloss.com/article/86527/solved-mystery-identity-thief-lori-erica-ruff", "key_information_obtained": "Fitzpatrick, first-cousin match, quote 'My God, that's Kimberly!', uncle Tom's account."},
-      {"type": "Journalism trade", "title": "Seattle Times asks readers to help with a mystery (Poynter, June 24, 2013)", "url_or_reference": "https://www.poynter.org/reporting-editing/2013/seattle-times-asks-readers-to-help-with-a-mystery/", "key_information_obtained": "O'Hagan quote; Velling named."},
-      {"type": "Encyclopedia", "title": "Lori Erica Ruff (Wikipedia)", "url_or_reference": "https://en.wikipedia.org/wiki/Lori_Erica_Ruff", "key_information_obtained": "Parents James and Deanne McLean (nee Cassidy), stepfather Robert Becker, Wyncote, death details, autosomal SNP identification."},
-      {"type": "Magazine", "title": "After Her Death, Lori Ruff's Family Discovered She Was a Complete Stranger (Marie Claire)", "url_or_reference": "https://www.marieclaire.com/culture/a25777/lori-ruff", "key_information_obtained": "Claims parents dead, no siblings; 2008 daughter; counseling and divorce; notes."},
-      {"type": "Encyclopedia", "title": "Colleen M. Fitzpatrick (Wikipedia)", "url_or_reference": "https://en.wikipedia.org/wiki/Colleen_M._Fitzpatrick", "key_information_obtained": "Background; Benjamin Kyle case with CeCe Moore (2015)."},
-      {"type": "Radio", "title": "Who was Lori Ruff? Identity of mystery woman with Washington connection finally solved (KUOW, Sept. 26, 2016)", "url_or_reference": "https://kuow.org/stories/who-was-lori-ruff-identity-mystery-woman-washington-connection-finally-solved", "key_information_obtained": "Regional coverage of the solution (headline only seen)."},
-      {"type": "Blog", "title": "Lori Erica Ruff (Historic Mysteries)", "url_or_reference": "https://www.historicmysteries.com/lori-erica-ruff/", "key_information_obtained": "Fitzpatrick described as physicist-turned-forensic genealogist; Kimberly left in 1986."},
-      {"type": "Audiobook", "title": "The Woman in the Strongbox (Maureen O'Hagan, Audible)", "url_or_reference": "https://www.audible.de/pd/The-Woman-in-the-Strongbox-Hoerbuch/B07F6LNBKT", "key_information_obtained": "Book-length account exists (publication year not verified)."},
-      {"type": "TV", "title": "People Magazine Presents: Crimes of the 2010s, '2010: Who Is Lori Ruff?' (IMDb news)", "url_or_reference": "https://m.imdb.com/news/ni64771761", "key_information_obtained": "Later TV treatment of the case."},
-      {"type": "List article", "title": "Lori Ruff's True Identity Was A Secret (Ranker)", "url_or_reference": "https://www.ranker.com/list/lori-ruff/matthew-lavelle", "key_information_obtained": "Velling had a hunch, crowdsourced support and a photo (low-reliability source)."}
+      {
+        "type": "News",
+        "title": "Three years after Texas woman's suicide, a question lingers: Who was she? (Fox News, 2013)",
+        "url_or_reference": "https://www.foxnews.com/us/three-years-after-texas-womans-suicide-a-question-lingers-who-was-she",
+        "key_information_obtained": "Becky Sue Turner died at 2 in 1971 fire in Fife; Velling two years on the case."
+      },
+      {
+        "type": "News",
+        "title": "Case cracked: A Texas mother's identity is revealed six years after her suicide (Fox News, Sept. 22, 2016)",
+        "url_or_reference": "http://www.foxnews.com/us/2016/09/22/case-cracked-texas-mothers-identity-is-revealed-six-years-after-her-suicide.html",
+        "key_information_obtained": "Kimberly McLean, 18, left mother's King of Prussia home in 1986; DNA confirmation."
+      },
+      {
+        "type": "News",
+        "title": "Mystery woman: After 30 years and a suicide, Lori Ruff's real identity emerges (Houston Chronicle)",
+        "url_or_reference": "https://www.chron.com/news/houston-texas/texas/article/Mystery-woman-After-30-years-and-a-suicide-Lori-9239232.php",
+        "key_information_obtained": "Birth certificate requested in Bakersfield; Dallas name change July 5, 1988."
+      },
+      {
+        "type": "Magazine",
+        "title": "Solved: The mystery of identity thief Lori Erica Ruff (Mental Floss, 2016)",
+        "url_or_reference": "https://www.mentalfloss.com/article/86527/solved-mystery-identity-thief-lori-erica-ruff",
+        "key_information_obtained": "Fitzpatrick, first-cousin match, quote 'My God, that's Kimberly!', uncle Tom's account."
+      },
+      {
+        "type": "Journalism trade",
+        "title": "Seattle Times asks readers to help with a mystery (Poynter, June 24, 2013)",
+        "url_or_reference": "https://www.poynter.org/reporting-editing/2013/seattle-times-asks-readers-to-help-with-a-mystery/",
+        "key_information_obtained": "O'Hagan quote; Velling named."
+      },
+      {
+        "type": "Encyclopedia",
+        "title": "Lori Erica Ruff (Wikipedia)",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Lori_Erica_Ruff",
+        "key_information_obtained": "Parents James and Deanne McLean (nee Cassidy), stepfather Robert Becker, Wyncote, death details, autosomal SNP identification."
+      },
+      {
+        "type": "Magazine",
+        "title": "After Her Death, Lori Ruff's Family Discovered She Was a Complete Stranger (Marie Claire)",
+        "url_or_reference": "https://www.marieclaire.com/culture/a25777/lori-ruff",
+        "key_information_obtained": "Claims parents dead, no siblings; 2008 daughter; counseling and divorce; notes."
+      },
+      {
+        "type": "Encyclopedia",
+        "title": "Colleen M. Fitzpatrick (Wikipedia)",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Colleen_M._Fitzpatrick",
+        "key_information_obtained": "Background; Benjamin Kyle case with CeCe Moore (2015)."
+      },
+      {
+        "type": "Radio",
+        "title": "Who was Lori Ruff? Identity of mystery woman with Washington connection finally solved (KUOW, Sept. 26, 2016)",
+        "url_or_reference": "https://kuow.org/stories/who-was-lori-ruff-identity-mystery-woman-washington-connection-finally-solved",
+        "key_information_obtained": "Regional coverage of the solution (headline only seen)."
+      },
+      {
+        "type": "Blog",
+        "title": "Lori Erica Ruff (Historic Mysteries)",
+        "url_or_reference": "https://www.historicmysteries.com/lori-erica-ruff/",
+        "key_information_obtained": "Fitzpatrick described as physicist-turned-forensic genealogist; Kimberly left in 1986."
+      },
+      {
+        "type": "Audiobook",
+        "title": "The Woman in the Strongbox (Maureen O'Hagan, Audible)",
+        "url_or_reference": "https://www.audible.de/pd/The-Woman-in-the-Strongbox-Hoerbuch/B07F6LNBKT",
+        "key_information_obtained": "Book-length account exists (publication year not verified)."
+      },
+      {
+        "type": "TV",
+        "title": "People Magazine Presents: Crimes of the 2010s, '2010: Who Is Lori Ruff?' (IMDb news)",
+        "url_or_reference": "https://m.imdb.com/news/ni64771761",
+        "key_information_obtained": "Later TV treatment of the case."
+      },
+      {
+        "type": "List article",
+        "title": "Lori Ruff's True Identity Was A Secret (Ranker)",
+        "url_or_reference": "https://www.ranker.com/list/lori-ruff/matthew-lavelle",
+        "key_information_obtained": "Velling had a hunch, crowdsourced support and a photo (low-reliability source)."
+      },
+      {
+        "type": "Public service",
+        "title": "988 Suicide & Crisis Lifeline",
+        "url_or_reference": "https://988lifeline.org",
+        "key_information_obtained": "US crisis line (call or text 988), cited in script and description as a safety resource."
+      }
     ]
   },
   "next_video_hook": {
