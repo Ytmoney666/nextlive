@@ -1,0 +1,256 @@
+{
+  "video_metadata": {
+    "working_title": "ALASKA 1993 Cold Case Solved After 26 Years — Justice for Sophie Sergie",
+    "topic_one_sentence": "Sophie Sergie, a 20-year-old Yup'ik woman from Pitkas Point, was sexually assaulted and murdered in a Bartlett Hall bathroom at the University of Alaska Fairbanks in April 1993; nearly 26 years later genetic genealogy, through a DNA profile uploaded by his aunt, led Alaska State Troopers to Steven Harris Downs, a nurse in Auburn, Maine, who was convicted in 2022 and sentenced to 75 years.",
+    "primary_emotion_to_evoke": "grief turning into dignified, hard-won justice; quiet outrage at how long Alaska Native families wait",
+    "target_length_minutes": "70"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Sophie Sergie (victim, heart of the story)",
+    "age_at_time_of_events": "20",
+    "occupation_or_status": "University of Alaska Fairbanks student on leave that semester; she had taken time off from college to save money for orthodontic work [12][18]",
+    "location": "Home: Pitkas Point, a small Yup'ik community near St. Mary's in western Alaska (Kusilvak Census Area, population 120 in 2020) [31]. Killed in Bartlett Hall, UAF, Fairbanks [1][5].",
+    "physical_description": "Not used beyond the public photo released by Alaska State Troopers [19]",
+    "background_brief": "Yup'ik woman from Pitkas Point [27]; former UAF student; when in Fairbanks she stayed with her friend and former roommate Shirley Akelkok [12]. Mother: Elena Sergie [22]. Brother: Alexi Sergie [1].",
+    "psychological_profile": "Described by her friend Shirley Akelkok at trial as a responsible student who was not a partier [12]. Prosecutors at sentencing called her a 'young vibrant woman' [2].",
+    "mundane_humanizing_detail": "She flew to Fairbanks on April 24, 1993 for an orthodontic appointment and to visit friends; she stepped out to smoke a cigarette shortly after midnight [12][34].",
+    "nickname_or_alias_if_any": ""
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {"name": "Sophie Sergie", "role_or_profession": "UAF student on leave, 20", "connection_to_protagonist": "Victim; had no known connection to Downs, who told police he never knew her [7][18]", "specific_impact_suffered": "Sexually assaulted, stabbed and shot in the back of the head with a .22-caliber gun; found in a bathtub in a second-floor women's bathroom of Bartlett Hall on April 26, 1993 [5][7][24]", "humanizing_detail": "Saving money for orthodontic work; not a partier, according to her friend [12]", "any_quotes_from_them": ""},
+      {"name": "Elena Sergie", "role_or_profession": "Sophie's mother", "connection_to_protagonist": "Mother", "specific_impact_suffered": "Waited about 26 years for an arrest; took part in the 2019 arraignment by telephone with the help of a Yup'ik language interpreter [22]", "humanizing_detail": "Yup'ik speaker", "any_quotes_from_them": "None verified"},
+      {"name": "Alexi Sergie", "role_or_profession": "Sophie's brother", "connection_to_protagonist": "Brother", "specific_impact_suffered": "Tried to deliver the family impact statement by phone from Western Alaska at the September 2022 sentencing; the call dropped and he did not rejoin [1]", "humanizing_detail": "", "any_quotes_from_them": "None verified"}
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "Missing and murdered Indigenous women and girls (MMIW/MMIWG) in Alaska",
+      "total_number_affected": "Urban Indian Health Institute 2018 report: Alaska had 52 MMIWG cases in its data, the fourth-highest state [26]; Alaska DPS 2022 legislative testimony: about 1,300 missing persons on record going back to the 1960s, 203 female, 55 identified as Alaska Native [28]",
+      "range_of_impacts": "Long waits, data gaps, unsolved cases; advocates cited Sophie's case as an exception rather than the rule [28]"
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Steven Harris Downs", "role_in_story": "Convicted killer; 18-year-old UAF freshman living in Bartlett Hall in 1993; later a nurse living in Auburn, Maine [1][5][9]", "key_actions_they_took": "Denied knowing Sergie; said he recognized her only from posters after her death; denied owning a gun as a freshman [18][6]. Convicted February 2022; sentenced to 75 years; maintains his innocence; appealed [1][21]", "notable_quotes": "'There has to be a mistake' (2019 recorded police interview, played at trial) [18]"},
+      {"name": "Randel (Randy) McPherron", "role_in_story": "Alaska State Troopers cold case investigator and lead detective [6][11]", "key_actions_they_took": "Led the cold case work that sent the profile to Parabon NanoLabs; acknowledged in 2021 that some information in sworn search-warrant affidavits was erroneous [11]", "notable_quotes": ""},
+      {"name": "CeCe Moore", "role_in_story": "Chief genetic genealogist, Parabon NanoLabs [6]", "key_actions_they_took": "Connected the crime-scene DNA to the GEDmatch profile of Downs' aunt [6]", "notable_quotes": ""},
+      {"name": "Shirley Akelkok", "role_in_story": "Sophie's friend and former roommate; Sophie stayed with her in Bartlett Hall [12][13]", "key_actions_they_took": "Testified on the first day of trial in January 2022 [13]", "notable_quotes": "Paraphrase only: there were basically two groups at UAF, heavy partiers or not, and Sophie was not a partier [12]"},
+      {"name": "Nicholas Dazer", "role_in_story": "Downs' 1993 roommate and best friend [14]", "key_actions_they_took": "Re-interviewed by cold case investigators around 2010 after they learned he had been fired as a dorm security guard for having a firearm; troopers collected his DNA at his Portland, Oregon law office; told investigators Downs owned a .22 in 1993 [24][15]. At trial recalled an H&R .22 and a derringer, said he could not imagine Downs connected to the crime, and said he might be misremembering details of the gun [14]", "notable_quotes": ""},
+      {"name": "James (Jim) Howaniec", "role_in_story": "Defense attorney from Maine [14][17]", "key_actions_they_took": "Argued alternate male DNA (hairs and saliva) did not match Downs, no fingerprints, gun seized in 2019 not the murder weapon, and that the roommate deflected suspicion; presented alternative suspects [14][17][25]", "notable_quotes": ""},
+      {"name": "Jenna Gruenstein", "role_in_story": "Prosecutor, Alaska Office of Special Prosecutions (single-source on role; KUAC tag) [3]", "key_actions_they_took": "Prosecuted the case at trial and sentencing", "notable_quotes": ""},
+      {"name": "Judge Thomas Temple", "role_in_story": "Alaska Superior Court judge, Fairbanks [1][2]", "key_actions_they_took": "Presided over trial and sentencing; imposed 67 years for murder plus 8 for sexual assault [1][2]", "notable_quotes": "Paraphrase: no sentence the court could impose would adequately restore Ms. Sergie's surviving family or her extended support network [2]"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "Saturday, April 24, 1993", "location": "Fairbanks, Alaska", "what_happened": "Sophie Sergie, 20, flew to Fairbanks for an orthodontic appointment and to visit friends, staying with friend Shirley Akelkok in Bartlett Hall", "significance": "Puts her in the dorm", "source": "[12][34]"},
+      {"date": "Shortly after midnight, early Monday, April 26, 1993", "location": "Bartlett Hall, UAF", "what_happened": "Sophie went out to smoke; her friend suggested the women's tub room with its exhaust vents to avoid the cold outside; she was last seen alive", "significance": "Last sighting", "source": "[34][35]"},
+      {"date": "Afternoon of April 26, 1993", "location": "Second-floor women's bathroom, Bartlett Hall", "what_happened": "Janitorial staff found her body in a bathtub; she had been sexually assaulted, stabbed and shot in the back of the head with a .22-caliber gun", "significance": "Discovery; biological evidence and a .22 bullet collected; no weapon found", "source": "[5][12][24]"},
+      {"date": "Late 1990s", "location": "Alaska", "what_happened": "Investigators developed a DNA profile of the unknown suspect from biological evidence collected in 1993", "significance": "The evidence that would solve the case", "source": "[24]"},
+      {"date": "2000", "location": "Alaska / FBI", "what_happened": "Profile reprocessed with more advanced technology and entered into the FBI's national DNA database (CODIS); no identification resulted", "significance": "The database could only find people already in it", "source": "[24]"},
+      {"date": "About 2010", "location": "Portland, Oregon", "what_happened": "Cold case investigators re-interviewed Downs' former roommate after learning he had been fired as a dorm security guard for having a firearm; they collected his DNA at his law office; he said Downs had owned a .22 in 1993", "significance": "First documented pointer toward Downs' gun, but no DNA link yet", "source": "[24][15]"},
+      {"date": "April 2018", "location": "California", "what_happened": "Arrest of Joseph DeAngelo in the Golden State Killer case through genetic genealogy", "significance": "Inspired Alaska troopers to try the technique", "source": "[24][8]"},
+      {"date": "July 2018", "location": "Alaska / Reston, Virginia", "what_happened": "AST cold case unit sent the unknown profile to Parabon NanoLabs", "significance": "Start of the genealogy work", "source": "[8]"},
+      {"date": "2018–early 2019", "location": "GEDmatch", "what_happened": "CeCe Moore linked the crime-scene DNA to a GEDmatch profile uploaded by Downs' aunt (reported as living in Vermont); family-tree work pointed to her nephew Steven H. Downs", "significance": "Breakthrough", "source": "[6][9]"},
+      {"date": "February 13–14, 2019", "location": "Auburn, Maine", "what_happened": "Investigators searched Downs' home and obtained a DNA sample sent to the Maine State Police Crime Laboratory; it matched the crime-scene DNA", "significance": "Confirmation", "source": "[6][7]"},
+      {"date": "February 15, 2019", "location": "Near the Auburn Fireside Inn, Auburn, Maine", "what_happened": "Downs, 44, a nurse, arrested by Maine State Police with Alaska State Troopers; charged with first-degree murder and sexual assault", "significance": "Arrest after nearly 26 years", "source": "[5][8][23]"},
+      {"date": "2019 (recorded interviews)", "location": "Maine", "what_happened": "Downs told investigators he recalled the murder but never knew Sergie, recognized her from posters, denied owning a gun as a freshman, and said 'there has to be a mistake'", "significance": "Denial", "source": "[6][18]"},
+      {"date": "May 2019", "location": "Maine", "what_happened": "Downs dropped his fight against extradition to Alaska", "significance": "Case moves to Fairbanks", "source": "[23]"},
+      {"date": "August 2019", "location": "Fairbanks", "what_happened": "Downs pleaded not guilty; bail set at $1 million; Sophie's mother Elena took part by phone with a Yup'ik interpreter", "significance": "Family present at the start of the court process", "source": "[22]"},
+      {"date": "February 2021", "location": "Fairbanks", "what_happened": "Trooper McPherron acknowledged erroneous information in search-warrant affidavits; the case proceeded despite the pandemic; defense motions challenging the DNA evidence were denied", "significance": "Legal fights before trial", "source": "[10][11][21]"},
+      {"date": "2021", "location": "Fairbanks", "what_happened": "Judge ruled the defense could present evidence about three alternative suspects", "significance": "Shapes the trial", "source": "[25]"},
+      {"date": "January 12, 2022", "location": "Fairbanks courthouse", "what_happened": "Trial opened; Shirley Akelkok testified", "significance": "Trial begins nearly 29 years after the murder", "source": "[12][13]"},
+      {"date": "January 25–26, 2022", "location": "Fairbanks", "what_happened": "Former roommate Nicholas Dazer and Downs' college girlfriend testified", "significance": "Gun evidence contested", "source": "[14][16]"},
+      {"date": "February 3, 2022", "location": "Fairbanks", "what_happened": "Recordings of three 2019 interviews with Downs played for the jury", "significance": "'There has to be a mistake'", "source": "[18]"},
+      {"date": "February 4, 2022", "location": "Fairbanks", "what_happened": "Defense presented witnesses and alternate-suspect theories, including that a gun seized in 2019 was not the murder weapon", "significance": "Defense case", "source": "[17]"},
+      {"date": "February 10, 2022", "location": "Fairbanks", "what_happened": "Twelve-person jury convicted Downs, 47, of first-degree murder and first-degree sexual assault (deliberations reported as two to three days)", "significance": "Conviction", "source": "[19][20][21]"},
+      {"date": "Monday, September 26, 2022 (reported September 27)", "location": "Fairbanks Superior Court", "what_happened": "Judge Thomas Temple sentenced Downs to 67 years for murder and 8 for sexual assault, 75 total; prosecutors had sought 99 plus 8; Alexi Sergie's phone call dropped before his statement", "significance": "Sentence", "source": "[1][2][3][21]"},
+      {"date": "October 24, 2022", "location": "Alaska Court of Appeals", "what_happened": "Downs appealed his convictions and sentence, citing among other things the denial of a joint COVID-era continuance; sought a public defender", "significance": "Current legal status: appeal filed; outcome not found as of October 2026", "source": "[21]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {
+      "exact_date": "Shortly after midnight, April 26, 1993",
+      "exact_location": "Bartlett Hall, University of Alaska Fairbanks",
+      "what_is_happening": "A 20-year-old Yup'ik woman visiting a friend steps out of the room to smoke a cigarette, toward the women's tub room, to stay out of the cold",
+      "what_makes_it_shocking": "She was found that afternoon in a bathtub; the man convicted lived in the same dormitory and walked free for almost 26 years",
+      "ironic_twist": "He became a nurse in Maine; the DNA that named him came not from him but from his aunt's genealogy upload"
+    },
+    "central_mystery_question": "Who killed Sophie Sergie in a dormitory full of students, and why did it take nearly 26 years to answer?"
+  },
+  "the_method": {
+    "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+    "technique_name": "Investigative genetic genealogy (IGG)",
+    "step_by_step_explanation": [
+      "Biological evidence collected in 1993 yielded a DNA profile in the late 1990s [24]",
+      "In 2000 the profile was entered into CODIS, which only finds people already in the criminal database [24]",
+      "In July 2018 troopers sent the sample data to Parabon NanoLabs [8]",
+      "Parabon produced a SNP profile and uploaded it to GEDmatch, a public genealogy database [8][6]",
+      "A match to a profile uploaded by Downs' aunt pointed to a family; genealogists built family trees to narrow to her nephew [6][9]",
+      "Investigators obtained Downs' DNA in Maine in February 2019 and the state lab confirmed the match [6][7]"
+    ],
+    "why_it_worked": "A relative had voluntarily uploaded DNA to a public site that, in 2018, police could search [9]",
+    "technical_terms_to_explain": [
+      {"term": "CODIS", "simple_explanation": "The FBI's national DNA index: it can only recognize a person already in it, like a phone book that lists only people who have been arrested or convicted"},
+      {"term": "SNP profile", "simple_explanation": "A much larger read of the DNA, hundreds of thousands of markers, that can be compared with consumer genealogy tests to find cousins"},
+      {"term": "GEDmatch", "simple_explanation": "A free website, launched in 2010, where people upload consumer DNA results to find relatives"}
+    ],
+    "scale_of_operation": "One aunt's upload, months of family-tree work, one confirming sample"
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "Not a single failure; time and technology. Also a broader systemic pattern of unsolved cases of Alaska Native women",
+    "how_they_were_supposed_to_protect": "Campus residence safety; criminal investigation",
+    "why_they_failed": "DNA could not identify a person with no criminal record; the dorm canvass did not produce the killer",
+    "specific_incompetence_examples": ["In 2021 the lead trooper acknowledged erroneous information in sworn search-warrant affidavits [11]"],
+    "ironic_details_about_the_failure": "The answer had been in the evidence since 1993; the man lived in the same building"
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Alaska State Troopers (Alaska Bureau of Investigation cold case unit), with Maine State Police",
+    "operation_code_name_if_any": "",
+    "when_investigation_began": "April 26, 1993",
+    "initial_wrong_assumptions": "Defense presented three alternative suspects at trial; no person was wrongly charged [25]",
+    "key_breakthrough": "Genetic genealogy match to Downs' aunt on GEDmatch [6][9]",
+    "the_fatal_mistake": "Leaving his DNA at the scene",
+    "how_long_until_caught": "Nearly 26 years (April 1993 to February 2019)"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "February 15, 2019",
+    "location": "Near the Auburn Fireside Inn, Auburn, Maine [23]",
+    "scene_description": "Maine State Police, working with Alaska State Troopers, arrested Downs, 44, near his home [5][23]",
+    "protagonist_reaction": "In recorded interviews he denied knowing Sergie and said 'there has to be a mistake' [18]",
+    "ironic_or_absurd_details": "He had become a nurse, a caregiver [1][9]"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["First-degree murder", "First-degree sexual assault"],
+    "trial_date_if_applicable": "January 12 – February 10, 2022, Fairbanks",
+    "notable_court_testimony": "Friend Shirley Akelkok; roommate Nicholas Dazer on the .22; recordings of Downs' 2019 interviews [12][14][18]",
+    "victim_impact_statements": [
+      {"from_whom": "Alexi Sergie (brother)", "key_quote": "Not delivered; the phone call dropped [1]", "emotional_impact": "The family's voice was nearly absent from the final hearing"}
+    ],
+    "sentence_received": "75 years: 67 for murder, 8 for sexual assault; reported eligible for discretionary parole after 25 years (single-sourced) [1][2]",
+    "protagonist_statement_in_court": "Maintains his innocence (details of any allocution not verified) [2]",
+    "current_status": "Serving his sentence in Alaska custody (facility not verified); appeal filed with the Alaska Court of Appeals in October 2022; no decision found as of October 2026 [21]"
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Steven Downs", "exact_quote": "There has to be a mistake", "context": "2019 recorded police interview played at trial", "source": "[18] Sun Journal / CBS News, Feb 2022"},
+      {"speaker": "Steven Downs", "exact_quote": "never knew or saw anything to begin with", "context": "Statement to investigators, reported from court documents", "source": "[6][7]"},
+      {"speaker": "Prosecutors", "exact_quote": "young vibrant woman", "context": "Describing Sophie at sentencing", "source": "[2] Alaska's News Source, Sept 27, 2022"},
+      {"speaker": "Advocate at 2022 Alaska legislative hearing", "exact_quote": "an exception, and not the rule", "context": "Calling the Sergie conviction an exception because too many cases remain unsolved (fragment)", "source": "[28]"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "20", "what_it_represents": "Sophie's age", "source": "[5]"},
+      {"number": "18", "what_it_represents": "Downs' age in 1993 (freshman)", "source": "[1][5]"},
+      {"number": "44", "what_it_represents": "Downs' age at arrest", "source": "[23]"},
+      {"number": "47", "what_it_represents": "Downs' age at verdict", "source": "[19][20]"},
+      {"number": "nearly 26 years", "what_it_represents": "April 1993 to February 2019", "source": "[6]"},
+      {"number": "nearly 29 years", "what_it_represents": "Until the 2022 verdict", "source": "[30]"},
+      {"number": "75 years", "what_it_represents": "Total sentence (67 + 8)", "source": "[1][2]"},
+      {"number": "99 + 8 years", "what_it_represents": "What prosecutors sought", "source": "[2]"},
+      {"number": "$1 million", "what_it_represents": "Bail set in August 2019", "source": "[22]"},
+      {"number": "120", "what_it_represents": "Population of Pitkas Point, 2020 census", "source": "[31]"},
+      {"number": "52", "what_it_represents": "Alaska MMIWG cases in UIHI 2018 report, fourth-highest state", "source": "[26]"},
+      {"number": "1,300 / 203 / 55", "what_it_represents": "Missing persons in Alaska DPS database since 1960s / females / identified Alaska Native (2022 testimony)", "source": "[28]"},
+      {"number": "3", "what_it_represents": "Alternative suspects the defense was allowed to present", "source": "[25]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "The convicted man became a nurse",
+      "The DNA that named him came from his aunt's hobby genealogy upload",
+      "Sophie went to the tub room to stay out of the cold",
+      "Her mother followed the arraignment through a Yup'ik interpreter; her brother's phone line dropped at sentencing"
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "Pitkas Point", "physical_description": "Small Yup'ik village near St. Mary's, near the Yukon River in western Alaska, not connected to Fairbanks by road", "atmosphere": "Small, close-knit", "relevant_details": "Population 120 (2020) [31]"},
+      {"location_name": "Bartlett Hall, UAF", "physical_description": "Multi-storey co-ed residence hall on the Fairbanks campus", "atmosphere": "Late April, end of the academic year, cold nights", "relevant_details": "Second-floor women's bathroom with tub room [18][34]"},
+      {"location_name": "Auburn, Maine", "physical_description": "Small city in Androscoggin County", "atmosphere": "Ordinary life", "relevant_details": "Downs worked as a nurse there [9]"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "A young woman was killed in a place that should have been safe, and her family waited decades",
+    "how_this_could_happen_to_them": "A dorm, a cigarette break, a neighbor down the hall",
+    "lesson_or_warning": "Evidence kept properly can speak decades later; Indigenous victims deserve the same persistence",
+    "current_relevance": "MMIW movement, Savanna's Act and Not Invisible Act (both signed October 2020), debate over genetic genealogy privacy"
+  },
+  "sources": {
+    "_instructions": "List ALL sources.",
+    "primary_sources": [
+      {"type": "Police release", "title": "Alaska DPS release 19-005, Cold Case Sophie Sergie", "url_or_reference": "https://dps.alaska.gov/getmedia/938c43ed-b4a2-45f7-b9c3-a96bdb7589d0/19-005-Cold-Case-Sophie-Sergie", "key_information_obtained": "[4] Arrest announcement"},
+      {"type": "Legislative record", "title": "Alaska House Tribal Affairs hearing, March 2022", "url_or_reference": "https://www.akleg.gov/pdf/32/M/HTRB2022-03-030803.pdf", "key_information_obtained": "[28] MMIW figures and comments on Sergie conviction"},
+      {"type": "Senate release", "title": "Murkowski highlights findings of new report on MMIWG", "url_or_reference": "https://www.murkowski.senate.gov/press/release/murkowski-highlights-findings-of-new-report-on-missing-and-murdered-indigenous-women-and-girls", "key_information_obtained": "[26] UIHI 2018 figures"}
+    ],
+    "secondary_sources": [
+      {"type": "News", "title": "Alaska Public Media, sentencing, 2022-09-27", "url_or_reference": "https://alaskapublic.org/news/2022-09-27/man-sentenced-to-75-years-in-prison-for-1993-murder-and-sexual-assault-of-sophie-sergie-at-uaf", "key_information_obtained": "[1]"},
+      {"type": "News", "title": "Alaska's News Source, sentencing, 2022-09-27", "url_or_reference": "https://www.alaskasnewssource.com/2022/09/27/downs-sentenced-75-years-murder-assault-sophie-sergie", "key_information_obtained": "[2]"},
+      {"type": "News", "title": "KUAC, sentencing", "url_or_reference": "https://fm.kuac.org/local-news/2022-09-27/sophie-sergie-murderer-sentenced-to-75-years", "key_information_obtained": "[3]"},
+      {"type": "News", "title": "ADN, arrest, 2019-02-16", "url_or_reference": "https://adn.com/alaska-news/crime-courts/2019/02/16/25-years-after-a-woman-was-found-dead-in-a-uaf-bathtub-alaska-state-troopers-make-an-arrest", "key_information_obtained": "[5]"},
+      {"type": "News", "title": "ADN, how genealogists helped, 2019-02-17", "url_or_reference": "https://www.adn.com/alaska-news/crime-courts/2019/02/17/how-genealogists-helped-track-down-the-maine-man-accused-of-killing-sophie-sergie-nearly-26-years-ago", "key_information_obtained": "[6]"},
+      {"type": "News", "title": "CBS News, emerging DNA technique", "url_or_reference": "https://www.cbsnews.com/news/sophie-sergie-emerging-dna-technique-leads-to-arrest-steven-downs-in-1993-murder-of-woman-found-in-dorm-bathtub", "key_information_obtained": "[7]"},
+      {"type": "News", "title": "Alaska Public Media, suspect arrested, 2019-02-18", "url_or_reference": "https://alaskapublic.org/2019-02-18/suspect-arrested-in-25-year-old-murder-of-uaf-student", "key_information_obtained": "[8]"},
+      {"type": "News", "title": "Portland Press Herald, 2019", "url_or_reference": "https://www.pressherald.com/?p=1828004", "key_information_obtained": "[9]"},
+      {"type": "News", "title": "Alaska Public Media, case proceeds despite pandemic, 2021-02-04", "url_or_reference": "https://www.alaskapublic.org/2021/02/04/decades-old-sophie-sergie-murder-case-proceeds-in-fairbanks-despite-pandemic/", "key_information_obtained": "[10]"},
+      {"type": "News", "title": "ADN, troopers admit errors in affidavits, 2021-02-05", "url_or_reference": "https://www.adn.com/alaska-news/crime-courts/2021/02/05/troopers-admit-errors-in-affidavits-for-search-warrants-of-maine-man-in-fairbanks-cold-case/", "key_information_obtained": "[11]"},
+      {"type": "News", "title": "Alaska's News Source, opening statements, 2022-01-13", "url_or_reference": "https://www.alaskasnewssource.com/2022/01/13/steven-downs-jury-trial-begins-with-opening-statements", "key_information_obtained": "[12]"},
+      {"type": "News", "title": "ADN, trial begins with testimony from victim's friend, 2022-01-13", "url_or_reference": "https://www.adn.com/alaska-news/crime-courts/2022/01/13/murder-trial-of-maine-man-begins-in-fairbanks-with-testimony-from-victims-friend/", "key_information_obtained": "[13]"},
+      {"type": "News", "title": "Alaska Public Media, roommate testifies, 2022-01-25", "url_or_reference": "https://alaskapublic.org/news/2022-01-25/defendants-former-uaf-roommate-takes-the-stand-in-sophie-sergie-murder-trial", "key_information_obtained": "[14]"},
+      {"type": "News", "title": "ADN, former roommate says defendant had gun, 2022-01-25", "url_or_reference": "https://www.adn.com/alaska-news/crime-courts/2022/01/25/former-roommate-says-defendant-in-uaf-slaying-had-gun-at-time-of-1993-murder", "key_information_obtained": "[15]"},
+      {"type": "News", "title": "KUAC, college girlfriend testifies, 2022-01-26", "url_or_reference": "https://fm.kuac.org/2022-01-26/suspects-college-girlfriend-testifies-in-sophie-sergie-murder-trial", "key_information_obtained": "[16]"},
+      {"type": "News", "title": "KUAC, defense alternate suspect theories, 2022-02-04", "url_or_reference": "https://fm.kuac.org/2022-02-04/defense-gives-alternate-suspect-theories-in-sophie-sergie-murder-trial", "key_information_obtained": "[17]"},
+      {"type": "News", "title": "ADN / CBS News, interview audio played at trial, 2022-02-03", "url_or_reference": "https://www.adn.com/alaska-news/crime-courts/2022/02/03/uaf-murder-suspect-denies-involvement-in-police-audio-played-at-cold-case-trial", "key_information_obtained": "[18]"},
+      {"type": "News", "title": "KTOO, jury finds Downs guilty, 2022-02-10", "url_or_reference": "https://www.ktoo.org/2022/02/10/fairbanks-jury-finds-steven-downs-guilty-in-sophie-sergies-1993-murder-sexual-assault-at-uaf-dorm/", "key_information_obtained": "[19]"},
+      {"type": "News", "title": "WABI, convicted, 2022-02-11", "url_or_reference": "https://www.wabi.tv/2022/02/11/steven-downs-auburn-convicted-1993-killing-woman-alaska", "key_information_obtained": "[20]"},
+      {"type": "News", "title": "Bangor Daily News, appeal, 2022-10-26", "url_or_reference": "https://www.bangordailynews.com/2022/10/26/news/downs-alaska-cold-case-appeal/", "key_information_obtained": "[21]"},
+      {"type": "News", "title": "Juneau Empire (AP), pleads not guilty, 2019-08-15", "url_or_reference": "https://www.juneauempire.com/2019/08/15/man-charged-in-alaska-cold-case-killing-pleads-not-guilty/", "key_information_obtained": "[22]"},
+      {"type": "News", "title": "Bangor Daily News, drops extradition fight / arrest, 2019", "url_or_reference": "https://www.bangordailynews.com/2019/05/16/news/maine-man-charged-in-alaska-cold-case-drops-extradition-fight/", "key_information_obtained": "[23]"},
+      {"type": "News", "title": "Oxygen, DNA leads to arrest, 2019", "url_or_reference": "https://www.oxygen.com/crime-time/steven-downs-arrested-1993-cold-case-murder-sophie-sergie-alaska", "key_information_obtained": "[24]"},
+      {"type": "News", "title": "CBS News, judge allows alternative suspects evidence", "url_or_reference": "https://www.cbsnews.com/amp/news/steven-downs-trial-1993-murder-sophie-sergie-evidence-other-suspects", "key_information_obtained": "[25]"},
+      {"type": "News", "title": "Arctic Today, breakthrough shines light on violence against Indigenous women, 2019", "url_or_reference": "https://www.arctictoday.com/a-breakthrough-in-alaska-cold-case-murder-shines-a-light-on-violence-against-indigenous-women-in-the-arctic/", "key_information_obtained": "[27]"},
+      {"type": "News", "title": "KUAC, MMIWG rally Fairbanks, 2019-05-06", "url_or_reference": "https://fm.kuac.org/local-news/2019-05-06/rally-for-missing-and-murdered-indigenous-women-and-girls", "key_information_obtained": "[29]"},
+      {"type": "Advocacy", "title": "Alaska Native Women's Resource Center, In Memory of Sophie Sergie", "url_or_reference": "https://www.aknwrc.org/in-memory-of-sophie-sergie/", "key_information_obtained": "[30]"},
+      {"type": "Reference", "title": "Pitkas Point, Alaska", "url_or_reference": "https://en.wikipedia.org/wiki/Pitkas_Point,_Alaska", "key_information_obtained": "[31]"},
+      {"type": "University", "title": "UAF Cornerstone, Troopers arrest suspect in Sophie Sergie case, 2019", "url_or_reference": "https://uaf.edu/email/cornerstone/archives-employees/2019/Troopers-arrest-suspect-in-Sophie-Sergie-case.html", "key_information_obtained": "[32]"},
+      {"type": "News", "title": "Court TV, trial underway, 2022", "url_or_reference": "https://www.courttv.com/news/trial-of-maine-man-in-alaska-womans-death-underway/", "key_information_obtained": "[34]"},
+      {"type": "News", "title": "KIRO7 (Cox), man convicted, 2022", "url_or_reference": "https://www.kiro7.com/news/trending/man-convicted-brutal-1993-rape-murder-woman-university-alaska-dorm-shower-room/FGH55NX4RZBKPNCG37NRCU4JXE/", "key_information_obtained": "[35]"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "Another genetic genealogy case from this channel's list",
+    "connection_to_current_video": "Genetic genealogy after the Golden State Killer arrest",
+    "teaser_line": "The next case is waiting."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Sentencing date: hearing was Monday, September 26, 2022 (reported September 27) [1][21]",
+      "Parole eligibility after 25 years (single-sourced)",
+      "Aunt's state of residence (Vermont, single-sourced via ADN snippet)",
+      "Exact CODIS search result in 2000 (no identification is implied by events, not explicitly reported in snippets)"
+    ],
+    "information_gaps": [
+      "Outcome of Downs' appeal as of October 2026",
+      "Direct quotes from Elena or Alexi Sergie",
+      "Sophie's course of study and personal interests",
+      "Downs' floor in Bartlett Hall"
+    ],
+    "questions_to_answer": ["Has the Alaska Court of Appeals ruled?", "Has the family made any public statement since 2022?"]
+  }
+}

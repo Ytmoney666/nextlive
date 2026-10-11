@@ -191,3 +191,23 @@ El 4 de enero de 1964, Mary Sullivan, de 19 años, recién llegada de Cape Cod, 
 29. CNN transcript, 07/12/2001: https://www.cnn.com/TRANSCRIPTS/0112/07/lt.07.html
 30. WBUR (12/07/2013): https://www.wbur.org/news/2013/07/12/desalvo-boston-strangler
 31. Philadelphia Inquirer (21/07/2013): https://www.inquirer.com/philly/news/nation_world/20130721_DNA_confirms_link_in_Boston_Strangler_case.html
+
+## 14. Verificación del guion
+
+- **Párrafos:** 10. **Palabras por parte:** 1.289 / 1.252 / 1.232 / 1.245 / 1.228 / 1.240 / 1.233 / 1.218 / 1.225 / 1.235. **Total:** 12.397 palabras.
+- **Duración estimada a 170 ppm:** ≈ 72,9 minutos.
+- **Signos de interrogación:** 5 (máximo 12).
+- Sin encabezados, corchetes, viñetas ni indicaciones visuales. Dos CTA con "this channel" (tras el gancho y al final) y mantra final.
+- Correcciones hechas durante la verificación: se eliminó "third-floor" (no verificado); el recuento de víctimas previas pasó a "ten or twelve" según el criterio de recuento; se quitó "plainclothes" y la afirmación de que el equipo de 2001 analizó "ropa de historia incierta" (se sustituyó por la cita de las autoridades: evidencia privada "questionable"); se retiró la frase sobre un "perfil completo" en la prueba de 2013 (no consta en las fuentes); la tarjeta "Happy New Year" se menciona solo como objeto hallado en la escena; Hyannis solo se usa para el nacimiento de Casey Sherman.
+
+**10 afirmaciones clave y sus fuentes:**
+1. Mary Sullivan, 19, agredida sexualmente y estrangulada en su apartamento de Charles Street el 4/1/1964, última muerte atribuida al Strangler — [9][13][14]
+2. Se había mudado días antes (uno o cuatro, según la fuente) a un piso compartido por tres jóvenes — [8][14]
+3. Primera muerte atribuida: Anna Slesers, 55, el 14/6/1962; víctimas de 85 a 19 años; 11 oficiales / 13 confesadas — [13][16][15]
+4. Brooke creó la Strangler Bureau con Bottomly; el psíquico Hurkos dañó su credibilidad — [16]
+5. DeSalvo confesó en 1965 (vía Nassar y F. Lee Bailey), nunca fue acusado de asesinato y fue condenado a perpetua por los delitos del Green Man (enero de 1967) — [13][15][27]
+6. DeSalvo murió apuñalado en Walpole el 26/11/1973; autor no identificado — [13][10]
+7. Exhumaciones de 2000 (Mary) y 2001 (DeSalvo); Starrs: "does not and cannot be associated with Albert DeSalvo" — [9][11]
+8. Becas NIJ 2009 y 2012; botella de agua del sobrino; coincidencia Y-STR que excluye al 99,9 % — [2][6]
+9. Exhumación del 12/7/2013 en Peabody; fémur y tres dientes; 1 entre 220.000 millones; cita de Coakley — [1][2][3][4][7]
+10. Sherman aceptó el resultado en 2013 ("full justice", "I only go where the evidence leads") y en noviembre de 2025 volvió a expresar dudas en el documental de Oxygen — [5][21][23][24]
