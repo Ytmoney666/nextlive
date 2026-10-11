@@ -159,3 +159,23 @@ Patrick Wayne Gilham está condenado (plea de no contest, que equivale a condena
 38. Background (secundaria) — Conan Daily, Roxanne Leigh Wood biography — https://conandaily.com/2023/08/18/roxanne-leigh-wood-biography-13-things-about-niles-township-michigan-woman/
 39. Background — Colin Pitchfork (primer cribado masivo de ADN, Leicestershire 1987) — https://en.wikipedia.org/wiki/Colin_Pitchfork
 40. Background — GEDmatch (lanzado 2010; opt-in policial desde 2019) — https://en.wikipedia.org/wiki/GEDmatch
+
+## 14. Verificación del guion
+- **Párrafos:** 10 (uno por parte, separados por una línea en blanco).
+- **Palabras por parte:** 1.258 / 1.247 / 1.263 / 1.236 / 1.230 / 1.251 / 1.226 / 1.253 / 1.259 / 1.254 → **total 12.477** (todas ≥1.200).
+- **Duración estimada a 170 ppm:** ≈73,4 minutos.
+- **Signos de interrogación:** 8 (máx. 12).
+- **CTA:** 2 ("this channel" tras el hook; cierre con "No case stays cold forever").
+- **Correcciones aplicadas en el fact-check:** "five words" → "four words" ("I didn't murder Roxanne"); eliminadas edades de Terry (no documentadas), "llamada telefónica" del aviso a Terry (no consta el medio), "vivía a 10 millas todo el tiempo" (solo consta su domicilio en 2022), "nadie en Niles lo relacionó" → "as far as any public record shows"; exclusión de Terry por ADN atribuida a "later reporting" sin fecha; año de boda presentado como dato de CBS con discrepancia; estado en MDOC presentado como "most recent public information".
+
+**10 afirmaciones clave y sus fuentes**
+1. Cena en dos coches y bolera con liga de Terry el 19/02/1987 — [1]
+2. Roxanne se fue ~45 minutos antes; Terry llegó poco después de la 1 a.m. y la encontró en la cocina — [1][36]
+3. Sin entrada forzada; cajón abierto con el cuchillo; Terry beligerante y pidió abogado — [1]
+4. Testigos situaban a Terry en la bolera; la fiscalía no vio pruebas para acusarlo — [1]
+5. 2013: Det. Suarez lo llama principal persona de interés; Terry: "I didn't murder Roxanne." — [15]
+6. ADN ≈3 % ("a gnat's eyebrow"); Identifinders 10 meses sin resultado; estudiantes de WMU digitalizan ~3.000–3.500 páginas — [2][3][6][23]
+7. Vargas, abril de 2021, cuatro días, tres hermanos → Gilham — [2][10]
+8. Gilham: condena de 1980 en Indiana (burglary, criminal deviate conduct), 14 años, en libertad condicional en 1987 — [8]
+9. Colilla 03/06/2021, 1 en 958,8 billones; entrevista 29/07/2021 con negaciones — [7][16]
+10. Arresto (67 años), "no contest" a homicidio en segundo grado el 18/03/2022, condena 23–50 años el 25/04/2022; citas de Janet, Brad y Sanford — [5][11][14][21][29]
