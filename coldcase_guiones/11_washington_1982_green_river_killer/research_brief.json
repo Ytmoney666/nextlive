@@ -97,7 +97,7 @@
   },
   "cold_open_material": {
     "_instructions": "The most dramatic moment of your story - this will be your hook.",
-    "the_moment": {"exact_date": "August 15, 1982", "exact_location": "Green River near Kent, King County, Washington", "what_is_happening": "Three more victims are found in and beside the river; a 33-year-old detective, Dave Reichert, is among the first to arrive", "what_makes_it_shocking": "Five girls and women found in one month; three of them teenagers", "ironic_twist": "The man responsible gave police a saliva sample in 1987 that sat in storage until 2001; he painted trucks at the same plant the whole time."},
+    "the_moment": {"exact_date": "August 15, 1982", "exact_location": "Green River near Kent, King County, Washington", "what_is_happening": "Three more victims are found in and beside the river; a young King County detective, Dave Reichert, is among the first to arrive", "what_makes_it_shocking": "Five girls and women found in one month; three of them teenagers", "ironic_twist": "The man responsible gave police a saliva sample in 1987 that sat in storage until 2001; he painted trucks at the same plant the whole time."},
     "central_mystery_question": "How could someone take dozens of girls and young women from one highway for years and stay free for nearly two decades?"
   },
   "the_method": {
