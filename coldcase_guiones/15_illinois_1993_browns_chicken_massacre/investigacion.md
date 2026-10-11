@@ -150,3 +150,25 @@ Juan Luna y James Degorski cumplen cadena perpetua sin libertad condicional en I
 34. Forensic Files, Brown's Chicken Massacre — https://forensicfiles.com/episodes/brown-s-chicken-massacre-part-1-640
 35. Daily Herald, Luna's confession contradicts evidence, expert says (2007-04-30) — https://www.dailyherald.com/20070430/news/lunas-confession-contradicts-evidence-expert-says/
 36. ABC7 Chicago, Family members of Palatine victims speak out (2007) — https://abc7chicago.com/archive/7074976/
+
+## 14. Verificación del guion
+
+- Párrafos: 10. Palabras por parte: 1242, 1253, 1262, 1265, 1243, 1252, 1270, 1252, 1248, 1251. Total: **12.538 palabras**.
+- Duración estimada a 170 ppm: **~73 min 45 s**.
+- Signos de interrogación: 4 (máx. 12). Sin encabezados, corchetes ni marcas visuales. 2 CTA con "this channel" (tras el gancho y al cierre).
+- Identidad de los asesinos retenida hasta la Parte 8 (se mencionan como "two young men").
+- Correcciones del fact-check: se eliminó "one police chief's tenure" (no verificado); "disaster" se atribuye solo al laboratorio policial (informe BGA); se sustituyó "one of the largest investigations" por "at least one hundred people"; se suavizó la respuesta policial a la primera llamada (versiones distintas); no se afirma que Luna "pidiera" la comida ni que trabajara en ese local; no se nombra al exempleado detenido y liberado en 1993; causa de muerte en una sola frase, sin detalles.
+
+**10 afirmaciones clave y sus fuentes:**
+1. 7 víctimas, nombres y edades (Ehlenfeldt 50 y 49, Maldonado 46, Mennes 32, Nellsen 31, Castro 16, Solis 17) [1][6][32]
+2. Cierre a las 21:00; cuerpos hallados en cámara y congelador más de 5,5 h después, tras la llamada de los padres de Castro y el aviso del coche en el aparcamiento [4][1]
+3. Jane Homeyer recogió la comida de la basura y la congeló unos cinco días después en el Northern Illinois Crime Lab [8][23]
+4. Exempleado detenido el 9 ene 1993 y liberado dos días después sin cargos; recompensa de 100.000 $ el 25 ene 1993 [2][24]
+5. Henry Lee (~feb 1994) predijo que la cena sería la clave; informe BGA de 1997 ("disaster", Lead 80) [8][24][25]
+6. 1998: dos perfiles de ADN en la comida; hisopos perdidos después; perfil menor nunca identificado; Degorski excluido [9][23]
+7. Finales de marzo de 2002: Lockett se lo cuenta a una amiga que llama a la policía; "I can't live with this anymore"; llamada al Forest Hospital ("something big") y amenaza de muerte [1][7]
+8. Bakalla: reparto de ~1.600 $ en Elgin; Wzientek: revólver .38 vendido por 15 $ [20]
+9. Coincidencia de ADN con Luna (1 entre 2,8 billones); detenciones el 16 may 2002; vídeos de 43 min (Luna) y ~5 min (Degorski, 17 may) [9][2][10][21]
+10. Luna condenado en mayo de 2007 (jurado 11-1 contra la muerte, perpetua sin libertad condicional); Degorski condenado el 29 sep 2009 (10-2 el 20 oct 2009, perpetua); nuevo juicio denegado en ene 2018 y en apelación el 13 jun 2022 [11][12][14][15][16][17][18][26][1]
+
+**Pendiente antes de publicar:** ver sección 12 (hora exacta del hallazgo, edad exacta de Degorski, redacción literal de citas, estado en el IDOC en 2026, fecha de abolición de la pena de muerte).
