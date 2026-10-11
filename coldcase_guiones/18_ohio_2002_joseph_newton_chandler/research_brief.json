@@ -1,0 +1,276 @@
+{
+  "video_metadata": {
+    "working_title": "OHIO 2002 Mystery Man Identified After 16 Years — He Lived as a Dead 8-Year-Old Boy",
+    "topic_one_sentence": "A quiet engineer who died by suicide in Eastlake, Ohio, in 2002 turned out to have lived since 1978 under the name of an 8-year-old boy killed in a 1945 Texas car crash, and 16 years later genetic genealogy and a hospital tissue sample identified him as Robert Ivan Nichols, a Navy veteran from Indiana who left his family in the mid-1960s.",
+    "primary_emotion_to_evoke": "unease and quiet sorrow turning into bittersweet resolution",
+    "target_length_minutes": "70-75"
+  },
+  "protagonist": {
+    "_instructions": "Filled with verified facts only.",
+    "full_name": "Robert Ivan Nichols (lived from 1978 until 2002 as 'Joseph Newton Chandler III')",
+    "age_at_time_of_events": "Born 1926; about 52 when he took the Chandler identity in 1978; 75 at his death in July 2002 (Fox News headline: 'WWII vet, 75'). On paper, as Chandler, he claimed the dead boy's birth year, roughly a decade younger.",
+    "occupation_or_status": "In Ohio: electrical engineer at Edko Co. in Cleveland and later at Lubrizol in Wickliffe. Before 1965: worked at General Electric (son Phil Nichols). World War II U.S. Navy veteran and Purple Heart recipient.",
+    "location": "Born and raised in New Albany, Indiana; left his family in the mid-1960s; reportedly mailed a penny to his son from Napa, California, in 1965; obtained a Social Security number as Chandler in Rapid City, South Dakota, in 1978; lived and worked in Northeast Ohio (Lake County / Cleveland area) until his death in an Eastlake apartment in July 2002.",
+    "physical_description": "Not reliably documented in the sources consulted beyond photos released by the U.S. Marshals; not described in the script.",
+    "background_brief": "Navy veteran of World War II who received a Purple Heart; married with children; worked at General Electric; gave his wife and children two days' notice before packing up and leaving (son Phil); reported missing in 1965 after mailing his son a penny from Napa, California; reappeared on paper in 1978 as Joseph Newton Chandler III, a boy who had died at age 8 in a 1945 car crash near Sherman, Texas.",
+    "psychological_profile": "Described by police as a loner who lived a hermit-like life, going out only to work and to eat (AP, 2002); by coworkers as quiet, reserved and eccentric (The News-Herald); by his son as 'a loner' and an inventive builder. No documented motive for the identity switch; no professional diagnosis is public. Not speculated on in the script.",
+    "mundane_humanizing_detail": "He mailed his young son a single penny from Napa, California, in 1965 (Fox News). His son remembered him as someone who liked to invent and build things (Scripps/WMAR).",
+    "nickname_or_alias_if_any": "Joseph Newton Chandler III; Joseph Chandler"
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected.",
+    "individuals": [
+      {
+        "name": "Joseph Newton Chandler III [MINOR]",
+        "role_or_profession": "8-year-old boy (one outlet says 9)",
+        "connection_to_protagonist": "His name and birth record were used by Nichols from 1978 to 2002.",
+        "specific_impact_suffered": "Died with his parents in a car crash near Sherman, Texas, in December 1945 (one account gives December 21, 1945); 33 years later his identity was taken and used for 24 years.",
+        "humanizing_detail": "He carried a name passed down three generations ('the Third'). Few personal details are public; the script does not invent any.",
+        "any_quotes_from_them": ""
+      },
+      {
+        "name": "Phil (Phillip / Philip) Nichols",
+        "role_or_profession": "Son of Robert Ivan Nichols",
+        "connection_to_protagonist": "Son left behind in the mid-1960s; provided the DNA that confirmed the identification in 2018.",
+        "specific_impact_suffered": "Grew up without his father, who left with two days' notice; learned in 2018 that his father had lived as Joseph Newton Chandler III and had died in 2002.",
+        "humanizing_detail": "Said he always hoped his father had a happy life and held no animosity.",
+        "any_quotes_from_them": "\"This has put to rest a mystery within our family.\" / \"I hold no animosity. I always hoped he'd had a happy life out there.\" (Scripps/WMAR, June 2018)"
+      },
+      {
+        "name": "The Nichols family (wife and sons of Robert Ivan Nichols)",
+        "role_or_profession": "Family abandoned in Indiana in the mid-1960s",
+        "connection_to_protagonist": "Wife and children",
+        "specific_impact_suffered": "Given two days' notice before he left; he was reported missing in 1965; they did not learn his fate for 53 years.",
+        "humanizing_detail": "The son said he always thought the departure had to do with child support.",
+        "any_quotes_from_them": "\"I've always thought it had to do with child support.\" / \"We hold no animosity toward him for what took place.\" (Phil Nichols, Scripps/WMAR)"
+      }
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "The family of the real Joseph Newton Chandler III, whose identity was used; the Nichols family; investigators and the Eastlake community left with an unanswered question.",
+      "total_number_affected": "Not quantifiable",
+      "range_of_impacts": "Identity misuse of a dead child; a family left without answers for five decades; 16 years of investigative work."
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, genealogists, family.",
+    "characters": [
+      {"name": "Peter (Pete) Elliott", "role_in_story": "U.S. Marshal for the Northern District of Ohio", "key_actions_they_took": "Marshals adopted the case in 2014 at Eastlake police's request; Elliott announced the identification at a press conference in Cleveland on June 21, 2018, and declined to confirm or deny online Zodiac speculation.", "notable_quotes": "\"There is a reason he went missing in 1965 and adopted the identity of a dead boy. Someone out there may hold the key as to why. We need the public's help as to why.\" (AP via WCBE / Columbus Dispatch, June 22, 2018)"},
+      {"name": "Dr. Colleen M. Fitzpatrick", "role_in_story": "Forensic genealogist, IdentiFinders International; co-founder of the DNA Doe Project", "key_actions_they_took": "In 2016 compared the man's Y-STR profile to public Y-DNA genealogy databases, suggesting the surname Nicholas or a variant; in March 2018, with Dr. Margaret Press and volunteers, identified him through autosomal SNP analysis.", "notable_quotes": ""},
+      {"name": "Dr. Margaret Press", "role_in_story": "Co-founder of the DNA Doe Project", "key_actions_they_took": "Led genealogy work; said the effort took about 1,500 hours of genetic genealogy research.", "notable_quotes": "Paraphrased only (about 1,500 hours of research)."},
+      {"name": "Det. Lt. Michael Cardilli Jr.", "role_in_story": "Eastlake Police Department investigator on the case (name supplied in the assignment; NOT confirmed by the searches run)", "key_actions_they_took": "Part of the Eastlake police side of the investigation that asked the U.S. Marshals to take the case (role details pending verification).", "notable_quotes": ""},
+      {"name": "Unnamed private investigator", "role_in_story": "Hired in the estate process to find heirs", "key_actions_they_took": "Discovered that the real Joseph Newton Chandler III had died as a child in 1945.", "notable_quotes": ""},
+      {"name": "Cuyahoga County Medical Examiner's Office", "role_in_story": "Forensic lab", "key_actions_they_took": "Obtained a DNA profile from the 2000 hospital tissue sample; it produced no matches in the databases searched.", "notable_quotes": ""}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "Every significant event with source numbers as listed in sources.",
+    "events": [
+      {"date": "1926", "location": "Indiana (New Albany)", "what_happened": "Robert Ivan Nichols is born.", "significance": "Real identity of the man later known as Chandler.", "source": "[1] Wikipedia; [20] Patch; [10] Mental Floss"},
+      {"date": "World War II (1940s)", "location": "U.S. Navy", "what_happened": "Nichols serves in the Navy and receives a Purple Heart.", "significance": "Veteran with a documented service record.", "source": "[7] Scripps/WMAR; [12] Cleveland19; [8] Fox News"},
+      {"date": "December 1945 (one account: December 21, 1945)", "location": "Near Sherman, Texas", "what_happened": "Joseph Newton Chandler III, 8, and his parents die in a car crash.", "significance": "The identity that would later be taken.", "source": "[1] Wikipedia; [5] News-Herald; [13] THV11"},
+      {"date": "Before 1965", "location": "Indiana", "what_happened": "Nichols, married with children, works at General Electric; son describes him as an inventive builder.", "significance": "Ordinary family life before the disappearance.", "source": "[7] Scripps/WMAR"},
+      {"date": "1964-1965", "location": "Indiana", "what_happened": "Nichols gives his wife and children two days' notice, packs up and leaves (son says 1964; others say 1965).", "significance": "Start of the disappearance.", "source": "[7] Scripps/WMAR; [8] Fox News"},
+      {"date": "1965", "location": "Napa, California", "what_happened": "Nichols mails his son a penny from Napa; he is reported missing the same year.", "significance": "Last known contact with his family.", "source": "[8] Fox News"},
+      {"date": "1978", "location": "Rapid City, South Dakota", "what_happened": "Using the dead boy's birth certificate, Nichols obtains a Social Security number in the name Joseph Newton Chandler III.", "significance": "Start of the 24-year false identity.", "source": "[13] THV11; [1] Wikipedia; [7] Scripps/WMAR"},
+      {"date": "1978-2002", "location": "Northeast Ohio", "what_happened": "As Chandler, he works as an electrical engineer at Edko Co. in Cleveland and later at Lubrizol in Wickliffe; coworkers describe him as quiet, reserved, eccentric.", "significance": "A public, salaried life under a stolen name.", "source": "[5] News-Herald"},
+      {"date": "2000", "location": "Northeast Ohio hospital", "what_happened": "A hospital visit (reported as colon cancer surgery) leaves a pathology tissue sample.", "significance": "The sample that would yield his DNA.", "source": "[2] WKYC; [10] Mental Floss"},
+      {"date": "Late July 2002 (body found about a week after death; reports give July 30-31)", "location": "His apartment, Eastlake, Ohio", "what_happened": "He dies by suicide in his apartment; police find him about a week later; no note.", "significance": "The death that opens the mystery.", "source": "[4] WKYC; [5] News-Herald; [16] AP 2002 via forum"},
+      {"date": "2002", "location": "Lake County, Ohio", "what_happened": "About $82,000 is found in his bank account; a private investigator searching for heirs finds the real Chandler died in 1945.", "significance": "The identity theft is discovered.", "source": "[21] News5 Cleveland; [2] WKYC; [1] Wikipedia"},
+      {"date": "2002-2014", "location": "Eastlake, Ohio", "what_happened": "Eastlake police cannot identify him; witness protection is considered and ruled out.", "significance": "Twelve cold years.", "source": "[13] THV11; [4] WKYC"},
+      {"date": "2014", "location": "Cleveland, Ohio", "what_happened": "The U.S. Marshals Service adopts the case at the request of Eastlake police.", "significance": "Federal resources join.", "source": "[2] WKYC"},
+      {"date": "Before/around 2016", "location": "Cuyahoga County, Ohio", "what_happened": "The Cuyahoga County Medical Examiner obtains a DNA profile from the tissue sample; no database matches.", "significance": "Traditional DNA search fails.", "source": "[2] WKYC"},
+      {"date": "2016", "location": "Remote analysis", "what_happened": "Colleen Fitzpatrick (IdentiFinders) compares his Y-STR profile to public Y-DNA databases; surname possibly Nicholas or a variant.", "significance": "First genealogical lead.", "source": "[2] WKYC; [10] Mental Floss"},
+      {"date": "March 2018", "location": "DNA Doe Project", "what_happened": "Fitzpatrick, Press and volunteers identify him as Robert Ivan Nichols through autosomal SNP analysis of degraded DNA (about 7% of the genome usable), after about 1,500 hours of research.", "significance": "The breakthrough.", "source": "[9] DNA Doe Project; [2] WKYC"},
+      {"date": "2018 (reported as March)", "location": "Ohio", "what_happened": "His son Phillip provides DNA that matches.", "significance": "Confirmation.", "source": "[2] WKYC; [7] Scripps/WMAR"},
+      {"date": "June 21, 2018", "location": "Cleveland, Ohio", "what_happened": "U.S. Marshal Peter Elliott publicly names Robert Ivan Nichols and asks the public for help understanding why he disappeared; declines to confirm or deny Zodiac speculation.", "significance": "Public resolution of the identity, not the motive.", "source": "[11] WCBE/AP; [12] Cleveland19; [14] Columbus Dispatch"},
+      {"date": "As of October 2026", "location": "-", "what_happened": "No public explanation of the motive or of the 1965-1978 gap has been reported; no one was ever charged (Nichols died in 2002).", "significance": "Current status.", "source": "[1] Wikipedia; [19] Investigation Discovery (status to re-check before publishing)"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "Hook.",
+    "the_moment": {
+      "exact_date": "Late July 2002 (found about a week after death; reports say July 30-31, 2002)",
+      "exact_location": "An apartment in Eastlake, Lake County, Ohio",
+      "what_is_happening": "Police find a 75-year-old man who had died by suicide about a week earlier; he left no note, had about $82,000 in the bank and no known relatives.",
+      "what_makes_it_shocking": "When an investigator went looking for his heirs, he learned that Joseph Newton Chandler III had died as an 8-year-old boy in a Texas car crash in 1945.",
+      "ironic_twist": "On paper, the dead man was about ten years younger than he really was, because he had borrowed the birth date of a child."
+    },
+    "central_mystery_question": "Who was the man who lived for 24 years as a boy who died in 1945, and why did he need to disappear?"
+  },
+  "the_method": {
+    "_instructions": "How the identity was taken (general level) and how it was solved.",
+    "technique_name": "Identity assumption using a dead child's birth certificate; resolved by Y-STR surname analysis and autosomal SNP genetic genealogy",
+    "step_by_step_explanation": [
+      "A copy of a dead child's birth certificate was obtained (Rapid City, South Dakota, 1978).",
+      "It was used to obtain a Social Security number; in 1978 offices asked few questions of applicants (Scripps/WMAR summary of investigators).",
+      "Decades later, a hospital tissue sample from 2000 provided DNA; the Medical Examiner's profile had no matches.",
+      "2016: Y-STR comparison with surname projects pointed to Nicholas or a variant.",
+      "2018: autosomal SNP data from degraded DNA (about 7% usable) was compared with genealogy databases and family trees were built (about 1,500 hours).",
+      "A son's DNA confirmed the identification."
+    ],
+    "why_it_worked": "Birth and death records were not cross-checked in 1978; DNA from a preserved pathology sample survived the man's death and could be read with new methods.",
+    "technical_terms_to_explain": [
+      {"term": "Y-STR", "simple_explanation": "Markers on the Y chromosome passed from father to son, usually alongside the surname."},
+      {"term": "Autosomal SNP", "simple_explanation": "Hundreds of thousands of single-letter DNA positions inherited from both parents, used to find cousins on every branch."},
+      {"term": "Pathology sample", "simple_explanation": "Tissue removed in surgery and preserved by the hospital, often in chemicals and wax."},
+      {"term": "CODIS", "simple_explanation": "The FBI-run DNA index that only contains profiles of people already in the criminal justice system."}
+    ],
+    "scale_of_operation": "One man, one stolen identity, 24 years of use, 16 years to identify."
+  },
+  "systemic_failure": {
+    "_instructions": "Where the system failed.",
+    "institution_that_failed": "Identity-verification system of the 1970s (birth certificates and Social Security issuance not cross-checked with death records)",
+    "how_they_were_supposed_to_protect": "Prevent one person from obtaining a dead person's identity.",
+    "why_they_failed": "Birth and death records were held separately; Social Security offices in 1978 asked few questions (as summarized in 2018 coverage).",
+    "specific_incompetence_examples": [
+      "A birth certificate for a boy dead 33 years was issued and used in 1978.",
+      "The identity was used for employment for about 24 years without detection.",
+      "The deception was only discovered after his death, while searching for heirs."
+    ],
+    "ironic_details_about_the_failure": "The theft was not discovered by any agency but by a private investigator hired to find heirs for his $82,000."
+  },
+  "the_investigation": {
+    "_instructions": "How he was identified.",
+    "investigating_agency": "Eastlake Police Department; U.S. Marshals Service, Northern District of Ohio (from 2014); Cuyahoga County Medical Examiner; IdentiFinders International; DNA Doe Project",
+    "operation_code_name_if_any": "None known",
+    "when_investigation_began": "2002",
+    "initial_wrong_assumptions": "Witness protection was considered and ruled out.",
+    "key_breakthrough": "Autosomal SNP genetic genealogy on degraded DNA from a 2000 pathology sample, after a 2016 Y-STR lead to the surname Nicholas.",
+    "the_fatal_mistake": "Not applicable (no crime prosecuted); the preserved hospital tissue made identification possible.",
+    "how_long_until_caught": "16 years after his death (2002-2018); 53 years after he left his family."
+  },
+  "the_confrontation": {
+    "_instructions": "Climactic moment.",
+    "date_and_time": "June 21, 2018",
+    "location": "Press conference in Cleveland, Ohio",
+    "scene_description": "U.S. Marshal Peter Elliott named Robert Ivan Nichols as the man who lived as Joseph Newton Chandler III and asked the public for help.",
+    "protagonist_reaction": "Not applicable (he died in 2002).",
+    "ironic_or_absurd_details": "The answer to who he was raised a bigger question, why, which remains open."
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings.",
+    "charges_filed": [],
+    "trial_date_if_applicable": "None",
+    "notable_court_testimony": "None",
+    "victim_impact_statements": [
+      {"from_whom": "Phil Nichols (son), in media interviews, not in court", "key_quote": "\"I hold no animosity. I always hoped he'd had a happy life out there.\"", "emotional_impact": "Forgiveness and closure."}
+    ],
+    "sentence_received": "None. Nichols died in 2002 and was never charged or convicted of any crime.",
+    "protagonist_statement_in_court": "None",
+    "current_status": "Identity resolved in 2018. Motive and whereabouts 1965-1978 unknown publicly. No evidence ever presented linking him to the Zodiac case; he was never charged with any crime."
+  },
+  "verified_quotes": {
+    "_instructions": "Verified only.",
+    "quotes": [
+      {"speaker": "Peter Elliott, U.S. Marshal", "exact_quote": "There is a reason he went missing in 1965 and adopted the identity of a dead boy. Someone out there may hold the key as to why. We need the public's help as to why.", "context": "Press conference, Cleveland, June 21, 2018", "source": "[11] WCBE/AP; [14] Columbus Dispatch"},
+      {"speaker": "Phil Nichols, son", "exact_quote": "This has put to rest a mystery within our family.", "context": "Interview after identification, June 2018", "source": "[7] Scripps/WMAR"},
+      {"speaker": "Phil Nichols, son", "exact_quote": "I hold no animosity. I always hoped he'd had a happy life out there.", "context": "Same interview", "source": "[7] Scripps/WMAR"},
+      {"speaker": "Phil Nichols, son", "exact_quote": "I've always thought it had to do with child support.", "context": "On his father's disappearance", "source": "[7] Scripps/WMAR"},
+      {"speaker": "Phil Nichols, son", "exact_quote": "We hold no animosity toward him for what took place.", "context": "Same interview", "source": "[7] Scripps/WMAR"},
+      {"speaker": "Phil Nichols, son", "exact_quote": "He was a loner.", "context": "On why the disappearance did not surprise him", "source": "[7] Scripps/WMAR"},
+      {"speaker": "Police (as quoted in 2018 coverage; individual speaker not confirmed)", "exact_quote": "We thought at first maybe he was in the witness protection program, but that has been ruled out.", "context": "On early theories; used only as paraphrase in the script", "source": "[13] THV11 / [4] WKYC (attribution uncertain)"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Verified figures.",
+    "figures": [
+      {"number": "8", "what_it_represents": "Age of the real Joseph Newton Chandler III at death (one outlet says 9)", "source": "[1][13][21]"},
+      {"number": "1945", "what_it_represents": "Year of the fatal Texas car crash", "source": "[1][5]"},
+      {"number": "1926", "what_it_represents": "Nichols's birth year", "source": "[1]"},
+      {"number": "1965", "what_it_represents": "Year Nichols was reported missing (son says he left in 1964)", "source": "[7][8]"},
+      {"number": "1978", "what_it_represents": "Year he obtained a Social Security number as Chandler in Rapid City, South Dakota", "source": "[13][1]"},
+      {"number": "24", "what_it_represents": "Years he lived as Chandler (1978-2002)", "source": "derived from [1]"},
+      {"number": "$82,000", "what_it_represents": "Money in his bank account at death", "source": "[21][4]"},
+      {"number": "75", "what_it_represents": "His age at death", "source": "[8]"},
+      {"number": "about 1 week", "what_it_represents": "Time before his body was found", "source": "[5]"},
+      {"number": "2014", "what_it_represents": "U.S. Marshals adopt the case", "source": "[2]"},
+      {"number": "7%", "what_it_represents": "Share of the genome usable from the degraded sample", "source": "[9]"},
+      {"number": "about 1,500", "what_it_represents": "Hours of genetic genealogy research", "source": "[9][2]"},
+      {"number": "16", "what_it_represents": "Years from death (2002) to identification (2018)", "source": "derived"},
+      {"number": "53", "what_it_represents": "Years from his 1965 disappearance to the 2018 identification", "source": "derived"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Contradictions.",
+    "details": [
+      "On paper he was about ten years younger than his real age because he used a child's birth date.",
+      "A man who left his family over, his son believes, child support, died with $82,000 and no heirs anyone knew of.",
+      "The theft was uncovered only because someone tried to give his money to his relatives.",
+      "The man who hid for decades was identified by a piece of tissue he left at a hospital."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Documented settings only.",
+    "key_locations": [
+      {"location_name": "Eastlake, Ohio", "physical_description": "Small city in Lake County on the shore of Lake Erie, northeast of Cleveland.", "atmosphere": "Suburban, working city", "relevant_details": "Site of his apartment and death."},
+      {"location_name": "Sherman, Texas", "physical_description": "Seat of Grayson County in North Texas, near the Oklahoma line.", "atmosphere": "Small city", "relevant_details": "Crash killed the Chandler family nearby in 1945."},
+      {"location_name": "Rapid City, South Dakota", "physical_description": "City at the edge of the Black Hills.", "atmosphere": "-", "relevant_details": "Where the Social Security number was obtained in 1978."},
+      {"location_name": "New Albany, Indiana", "physical_description": "City on the Ohio River across from Louisville, Kentucky.", "atmosphere": "-", "relevant_details": "Nichols's hometown."},
+      {"location_name": "Napa, California", "physical_description": "City north of San Francisco Bay.", "atmosphere": "-", "relevant_details": "Postmark of the penny sent in 1965."}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why viewers care.",
+    "why_this_matters_to_viewer": "Any family can lose someone who chooses to disappear; DNA can now return a name to the nameless.",
+    "how_this_could_happen_to_them": "A dead relative's identity can be misused; a parent can vanish.",
+    "lesson_or_warning": "Names matter; the dead deserve to keep theirs, and the living deserve answers.",
+    "current_relevance": "Genetic genealogy now identifies unidentified people routinely; the DNA Doe Project grew from cases like this."
+  },
+  "sources": {
+    "_instructions": "Numbered as in investigacion.md.",
+    "primary_sources": [
+      {"type": "Press release", "title": "[9] DNA Doe Project press release for Joseph Newton Chandler III", "url_or_reference": "https://dnadoeproject.org/press-release-for-joseph-newton-chandler-iii/", "key_information_obtained": "March 2018 ID, autosomal SNP, 7% of genome, team"},
+      {"type": "AP via public radio", "title": "[11] Feds won't say if newly identified Ohio mystery man was Zodiac killer (WCBE, June 22, 2018)", "url_or_reference": "https://www.wcbe.org/news/2018-06-22/feds-wont-say-if-newly-identified-ohio-mystery-man-was-zodiac-killer?_amp=true", "key_information_obtained": "Elliott quote, Zodiac non-confirmation"},
+      {"type": "Local TV", "title": "[2] How did authorities solve the true identity of Joseph Newton Chandler III (WKYC)", "url_or_reference": "https://wkyc.com/article/news/crime/how-did-authorities-solve-the-true-identity-of-joseph-newton-chandler-iii/95-566345556", "key_information_obtained": "2000 tissue, ME profile, 2014 Marshals, 2016 Y-STR, son DNA"},
+      {"type": "Local newspaper", "title": "[5] The News-Herald (Willoughby), June 22, 2018", "url_or_reference": "https://www.pressreader.com/usa/the-news-herald-willoughby-oh/20180622/281496457009765", "key_information_obtained": "Employers, coworkers, body found a week later, 1945 crash"},
+      {"type": "National wire (Scripps)", "title": "[7] Son of WWII vet who stole dead 8-year-old boy's identity always wished his father had found peace", "url_or_reference": "https://www.wmar2news.com/news/national/son-of-wwii-vet-who-stole-dead-8-year-old-boy-s-identity-always-wished-his-father-had-found-peace", "key_information_obtained": "Phil Nichols quotes, GE, two days' notice"}
+    ],
+    "secondary_sources": [
+      {"type": "Encyclopedia", "title": "[1] Joseph Newton Chandler III (Wikipedia)", "url_or_reference": "https://en.wikipedia.org/wiki/Joseph_Newton_Chandler_III", "key_information_obtained": "Overview, dates"},
+      {"type": "Local TV", "title": "[3] Authorities reveal true identity of Joseph Newton Chandler (WKYC)", "url_or_reference": "https://wkyc.com/article/news/crime/authorities-reveal-true-identity-of-joseph-newton-chandler/95-565963729", "key_information_obtained": "Announcement"},
+      {"type": "Local TV", "title": "[4] Cold case: Why did dead Eastlake man steal young boy's identity (WKYC)", "url_or_reference": "https://wkyc.com/article/news/local/lake-county/cold-case-why-did-dead-eastlake-man-steal-young-boys-identity/95-109509918", "key_information_obtained": "Suicide in apartment, $82,000"},
+      {"type": "Local newspaper", "title": "[6] The News-Herald, June 21, 2018", "url_or_reference": "https://www.pressreader.com/usa/the-news-herald-willoughby-oh/20180621/281522226811157", "key_information_obtained": "Announcement coverage"},
+      {"type": "National news", "title": "[8] Fox News: Ohio man who used dead boy's ID revealed as WWII vet, 75, who vanished in 1965", "url_or_reference": "https://www.foxnews.com/us/ohio-man-who-used-dead-boys-id-revealed-as-wwii-vet-75-who-vanished-in-1965.print", "key_information_obtained": "Penny from Napa, reported missing 1965, age 75"},
+      {"type": "Magazine", "title": "[10] Mental Floss", "url_or_reference": "https://www.mentalfloss.com/article/548757/authorities-crack-joseph-newton-chandler-mystery-zodiac-killer", "key_information_obtained": "Colon cancer surgery 2000, New Albany, Nicholas lead"},
+      {"type": "Local TV", "title": "[12] Cleveland19: U.S. Marshals release name", "url_or_reference": "https://www.cleveland19.com/story/38477481/us-marshals-release-name-of-man-who-stole-joseph-newton-chandlers-identity", "key_information_obtained": "WWII veteran, 1978"},
+      {"type": "TV (Tegna)", "title": "[13] THV11: With his true identity revealed, what was Robert Nichols hiding", "url_or_reference": "https://www.thv11.com/article/news/crime/with-his-true-identity-revealed-what-was-robert-nichols-hiding/91-566731191", "key_information_obtained": "Sherman crash, Rapid City 1978, witness protection ruled out"},
+      {"type": "Newspaper (AP)", "title": "[14] Columbus Dispatch, June 22, 2018", "url_or_reference": "https://www.pressreader.com/usa/the-columbus-dispatch/20180622/281775629884181", "key_information_obtained": "AP announcement story"},
+      {"type": "Newspaper", "title": "[15] Morning Journal: Real name of mystery man revealed", "url_or_reference": "https://www.morningjournalnews.com/news/local-news/2018/06/real-name-of-mystery-man-revealed/", "key_information_obtained": "Announcement"},
+      {"type": "AP 2002 story reposted on forum (secondary copy)", "title": "[16] AP 2002 via Porchlight forum", "url_or_reference": "https://www.tapatalk.com/groups/porchlightusa/ohm020730-nichols-robert-t8528.html", "key_information_obtained": "Loner, hermit-like life"},
+      {"type": "Magazine", "title": "[17] MEL Magazine: The man who woke up as an 8-year-old boy", "url_or_reference": "https://melmagazine.com/en-us/story/the-man-who-woke-up-as-an-8-year-old-boy", "key_information_obtained": "Background"},
+      {"type": "Encyclopedia", "title": "[18] DNA Doe Project (Wikipedia)", "url_or_reference": "https://en.wikipedia.org/wiki/DNA_Doe_Project", "key_information_obtained": "Founders, timing"},
+      {"type": "TV network site", "title": "[19] Investigation Discovery Crimefeed update", "url_or_reference": "https://investigationdiscovery.com/crimefeed/missing/update--real-id-of--joseph-chandler--revealed--but-his-life-rema", "key_information_obtained": "Motive unknown, public appeal"},
+      {"type": "Local news site", "title": "[20] Patch: Who was man claiming to be Joseph Newton Chandler III", "url_or_reference": "https://patch.com/ohio/cleveland/who-was-man-claiming-be-joseph-newton-chandler-iii", "key_information_obtained": "New Albany, body found July 31, 2002, no note, more than $80,000"},
+      {"type": "Local TV", "title": "[21] News5 Cleveland: Cold case cracked", "url_or_reference": "https://www.news5cleveland.com/news/local-news/cleveland-metro/cold-case-cracked-the-man-who-lived-with-the-identity-of-a-dead-9-year-old-boy-for-decades", "key_information_obtained": "Private investigator for heirs, $82,000"},
+      {"type": "Alt-weekly", "title": "[22] Cleveland Scene feature", "url_or_reference": "https://www.clevescene.com/?p=302283", "key_information_obtained": "Background"},
+      {"type": "Encyclopedia (context)", "title": "[23] Murder of Marcia King (Buckskin Girl), Wikipedia", "url_or_reference": "https://en.wikipedia.org/wiki/Murder_of_Marcia_King", "key_information_obtained": "DNA Doe Project's first public ID, April 2018"},
+      {"type": "Encyclopedia (context)", "title": "[24] Joseph James DeAngelo, Wikipedia", "url_or_reference": "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo", "key_information_obtained": "April 2018 Golden State Killer arrest via genetic genealogy"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease.",
+    "next_topic": "Another genetic-genealogy identification of a person who lived or died without a name",
+    "connection_to_current_video": "DNA Doe Project and IdentiFinders casework",
+    "teaser_line": "Some people vanish. Some are hidden. And some are simply waiting for someone to say their name."
+  },
+  "notes_and_gaps": {
+    "_instructions": "To verify.",
+    "unverified_claims": [
+      "Role and exact rank of Det. Lt. Michael Cardilli Jr. (supplied in the assignment; not found in searches).",
+      "Exact date of death (reports: about a week before July 30-31, 2002).",
+      "Exact date of the 1945 crash (one account: December 21, 1945) and purpose of the trip (Christmas travel, sources differ).",
+      "Whether the 2000 hospital visit was colon cancer surgery (single source: Mental Floss).",
+      "Number of Nichols's sons and the wife's name.",
+      "Whether Nichols left in 1964 or 1965.",
+      "Navy ship and circumstances of the Purple Heart (not used in script)."
+    ],
+    "information_gaps": [
+      "Where Nichols lived and what he did between 1965 and 1978.",
+      "How exactly the 1978 birth certificate copy was obtained.",
+      "The real Chandler family's surviving relatives."
+    ],
+    "questions_to_answer": [
+      "Has any new information on the motive been released since 2018 (check before publishing)?"
+    ]
+  }
+}

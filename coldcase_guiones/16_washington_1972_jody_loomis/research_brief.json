@@ -1,0 +1,235 @@
+{
+  "video_metadata": {
+    "working_title": "WASHINGTON 1972 Cold Case Solved After 48 Years — Justice for Jody Loomis",
+    "topic_one_sentence": "In August 1972, 20-year-old Jody Loomis was shot in the woods near what is now Mill Creek, Washington, while riding her bike toward the stable where she kept her horse; a microscopic semen stain on a boot she had borrowed from her 12-year-old sister was profiled in 2008, traced by genetic genealogy in 2018 to Terrence Miller of Edmonds, who was arrested in April 2019 and found guilty of first-degree murder on November 9, 2020, hours after he took his own life.",
+    "primary_emotion_to_evoke": "grief turning into quiet vindication: a borrowed boot and a little sister who waited 48 years to see the truth written into the court record",
+    "target_length_minutes": "70-75 (about 12,300-12,900 words at 170 wpm)"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Jody Gwen Loomis (victim; the story's centre). Convicted killer: Terrence (Terry) Miller of Edmonds, Washington.",
+    "age_at_time_of_events": "Jody: 20 (she had turned 20 in June 1972). Some national outlets wrongly say 19. Miller: about 30 in August 1972 (77 at his April 2019 arrest, 78 at the November 2020 verdict); ABC News reported 33, which does not fit his reported ages.",
+    "occupation_or_status": "Jody: young woman living at home with her parents, her fiance and her 12-year-old sister; horse lover. Miller (2019): retired heavy-equipment operator running a ceramics shop with his wife.",
+    "location": "Jody: single-story family home on Winesap Road, between Mill Creek and Bothell, Snohomish County, Washington. Miller: Edmonds area, about five miles from where Jody was found.",
+    "physical_description": "Not documented in the sources consulted beyond archival photos; do not describe.",
+    "background_brief": "Jody Gwen Loomis was born in 1952 and celebrated her 20th birthday in June 1972. She lived with her parents, her fiance and her younger sister Jana (12) on Winesap Road. She loved horses and kept a horse, reported as named Saudi, at a stable (reported as on Strumme Road). She also had a brother, John Loomis.",
+    "psychological_profile": "Not documented. Do not speculate.",
+    "mundane_humanizing_detail": "On the day she died she was wearing a pair of St. Moritz 'waffle-stomper' boots, size 5 and a half, that she had borrowed from her 12-year-old sister Jana.",
+    "nickname_or_alias_if_any": "None documented for Jody. Miller was sometimes called Terry."
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {"name": "Jody Gwen Loomis", "role_or_profession": "Victim, 20", "connection_to_protagonist": "Stranger to Miller; police and press said they did not know each other", "specific_impact_suffered": "Raped and shot in the head with a .22-caliber pistol on August 23, 1972, in woods near 164th Street SW, near what is now Mill Creek", "humanizing_detail": "Loved horses; was riding her bicycle to the stable to ride her horse; wore her little sister's borrowed boots", "any_quotes_from_them": "None documented"},
+      {"name": "Jana Loomis-Smith", "role_or_profession": "Jody's younger sister, 12 in 1972", "connection_to_protagonist": "Lent Jody the boots that carried the DNA", "specific_impact_suffered": "Waited 48 years; testified at the 2020 trial and saw her old boots for the first time in 48 years", "humanizing_detail": "Said she did not want vengeance, only that the court record state Miller murdered her sister", "any_quotes_from_them": "At a bail hearing (Herald, single source): 'On that day the murderer stole Jody's life.'"},
+      {"name": "Jody's parents", "role_or_profession": "Parents", "connection_to_protagonist": "Parents of the victim", "specific_impact_suffered": "Both died without ever learning who killed their daughter (per Jana, December 2020)", "humanizing_detail": "Names not confirmed in sources consulted", "any_quotes_from_them": "None found"},
+      {"name": "John Loomis", "role_or_profession": "Jody's brother", "connection_to_protagonist": "Family", "specific_impact_suffered": "Watched the verdict by livestream; told reporters he would have preferred Miller go to prison", "humanizing_detail": "Single-source paraphrase; no exact quote verified", "any_quotes_from_them": "None verified verbatim"}
+    ],
+    "collective_victims_if_applicable": {"group_description": "The Loomis family and the community of south Snohomish County", "total_number_affected": "Not quantifiable", "range_of_impacts": "48 years without an answer; two parents who died without knowing"}
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Jim Scharf", "role_in_story": "Snohomish County Sheriff's Office cold case detective, lead detective on the Loomis case", "key_actions_they_took": "Pursued the boot DNA through genetic genealogy; same office used genealogy to make an arrest in the 1987 Jay Cook and Tanya Van Cuylenborg killings in 2018", "notable_quotes": "On the family hearing the verdict: 'I think that was good for the (Loomis) family.' [Fox News]"},
+      {"name": "Ty Trenary", "role_in_story": "Snohomish County Sheriff in 2019", "key_actions_they_took": "Announced the arrest on April 11, 2019", "notable_quotes": "'Thanks to the relentless persistence of our cold case team and new DNA technology, we are one step closer to justice for Jody.' [KOMO]"},
+      {"name": "Deb Stone", "role_in_story": "Oregon genetic genealogist (working with Parabon NanoLabs' results)", "key_actions_they_took": "Built family trees from GEDmatch relative matches; concluded the source was one of six sons of Jacquette and Albert Miller of Edmonds", "notable_quotes": "None verified"},
+      {"name": "Parabon NanoLabs", "role_in_story": "Virginia DNA technology company", "key_actions_they_took": "Received the boot profile in 2018 and produced the genealogy-ready DNA data; its genetic genealogy unit was led by CeCe Moore (some reports credit Moore, most credit Deb Stone for the Loomis tree)", "notable_quotes": "None"},
+      {"name": "Craig Matheson", "role_in_story": "Snohomish County deputy prosecutor who tried the case", "key_actions_they_took": "Presented the DNA case at trial in October-November 2020", "notable_quotes": "'It does not diminish the verdict.' Described the family's reaction as 'stoic.' [Herald]"},
+      {"name": "Laura Martin", "role_in_story": "Miller's defense attorney", "key_actions_they_took": "Argued the DNA evidence was tainted and the forensic work sloppy; asked the court not to announce, then to vacate, the verdict", "notable_quotes": "Only partial phrases reported: 'frankly no public benefit' (on announcing the verdict), 'sloppy', 'miscarriage of justice'"},
+      {"name": "Judge David Kurtz", "role_in_story": "Snohomish County Superior Court judge", "key_actions_they_took": "On December 18, 2020, refused to vacate the verdict and signed a document affirming Miller's guilt had been proven beyond a reasonable doubt", "notable_quotes": "'somewhat unprecedented'; 'truly an extraordinary situation' [Herald]"},
+      {"name": "The two people who found Jody", "role_in_story": "Young target shooters who drove up the dirt road around 5:30 p.m.", "key_actions_they_took": "Stopped to move a tree from the road and found her", "notable_quotes": "The man died before trial; his deposition was recorded and used"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "1952", "location": "Washington (birthplace not confirmed)", "what_happened": "Jody Gwen Loomis is born", "significance": "Memorial dates 1952-1972", "source": "Find a Grave memorial 281383323 [25]; Herald 2020 [3]"},
+      {"date": "1968", "location": "Not specified", "what_happened": "Terrence Miller is convicted of lewd conduct (reported also as a 1968 arrest for indecent exposure to a young girl)", "significance": "Prior record; jurors did not hear about it", "source": "Herald via search summary [6][3]; Spokesman-Review/AP [23]"},
+      {"date": "June 1972", "location": "Winesap Road, between Mill Creek and Bothell", "what_happened": "Jody celebrates her 20th birthday; she lives with her parents, her fiance and her 12-year-old sister", "significance": "Establishes her age (20, not 19)", "source": "Herald, Sept. 18, 2020 [3]"},
+      {"date": "August 23, 1972, afternoon", "location": "Winesap Road toward Penny Creek Road (now Mill Creek Road)", "what_happened": "Jody rides her bicycle from home toward the stable to ride her horse; she is last seen around 5 p.m. riding toward Penny Creek Road", "significance": "The last sighting", "source": "Herald [3]; Seattle Times [11]; CNN [17]"},
+      {"date": "August 23, 1972, about 5:30 p.m.", "location": "Dirt road in woods near 164th Street SW, near what is now Mill Creek", "what_happened": "Two target shooters driving up the road stop to move a tree and find Jody, shot above her right ear with a .22-caliber pistol, wearing almost nothing but knee-high socks and dark waffle-soled boots", "significance": "Discovery within about half an hour of the last sighting", "source": "Herald, trial opening [2]"},
+      {"date": "August 1972", "location": "Near the scene", "what_happened": "Her bicycle is found discarded down an embankment", "significance": "Shows she was taken off her route", "source": "Primetimer/People coverage [24][31] (secondary)"},
+      {"date": "1972-2007", "location": "Snohomish County", "what_happened": "The case goes cold; it becomes the county's oldest cold case; the boots are preserved in evidence", "significance": "Decades without a name", "source": "CBS News [26]; Herald [1]"},
+      {"date": "January 2008", "location": "Washington State Patrol Crime Lab", "what_happened": "Cold case detectives send evidence from the case to the crime lab for DNA testing", "significance": "First modern DNA attempt", "source": "Patch [14]"},
+      {"date": "May 2008", "location": "Washington State Patrol Crime Lab", "what_happened": "Technicians report spermatozoa on one of Jody's boots (the left boot); a male profile is developed and uploaded to CODIS with no match", "significance": "The boot becomes the case", "source": "Patch [14]; KING 5 [15]; Herald [1]"},
+      {"date": "2018", "location": "Parabon NanoLabs (Virginia) / GEDmatch", "what_happened": "The profile is sent to Parabon; genealogist Deb Stone builds family trees from GEDmatch matches and concludes the source is one of six sons of Jacquette and Albert Miller of Edmonds", "significance": "Turns an anonymous profile into a family and then a short list", "source": "Herald [1]; CNN [16]; Seattle Times [11]"},
+      {"date": "August 2018", "location": "Tulalip Resort Casino", "what_happened": "Undercover detectives watch Terrence Miller drink coffee and recover the cup(s) he throws away", "significance": "Discarded-object confirmation sample", "source": "Herald [1]; KING 5 [15]; Fox News [18]"},
+      {"date": "2018-2019", "location": "Washington State Patrol Crime Lab", "what_happened": "The lab confirms the DNA on the coffee cup matches the profile from the sperm on Jody's left boot", "significance": "Legal confirmation", "source": "KING 5 [15]; Herald [1]"},
+      {"date": "April 10, 2019", "location": "Miller's home, Edmonds", "what_happened": "Detectives arrest Terrence Miller, 77; he is booked for first-degree murder, bail set at $1 million", "significance": "Arrest after more than 46 years", "source": "Patch [14]; Herald [1]; KING 5 [15]"},
+      {"date": "April 11, 2019", "location": "Snohomish County Sheriff's Office", "what_happened": "The arrest is announced; Sheriff Ty Trenary credits the cold case team's 'relentless persistence'", "significance": "Public announcement; second Snohomish County cold homicide arrest using genetic genealogy", "source": "KOMO [13]; CNN [16]"},
+      {"date": "2019", "location": "Snohomish County Superior Court", "what_happened": "Miller pleads not guilty to first-degree murder; Jana speaks at a bail hearing; bail is later lowered to $750,000", "significance": "Case enters court", "source": "Herald [10][9]"},
+      {"date": "June 14, 2019", "location": "Edmonds", "what_happened": "Miller posts bond and is released to live at home under private electronic home monitoring", "significance": "He awaits trial at home", "source": "My Edmonds News [22]; Herald [6]"},
+      {"date": "October 2020", "location": "Snohomish County Superior Court, Everett", "what_happened": "Trial opens with statements on a Monday afternoon; prosecutors list 27 witnesses; the man who found Jody has died and his recorded deposition is used; Jana testifies and sees her boots for the first time in 48 years", "significance": "Trial after 48 years", "source": "Herald [2][4]; KING 5 trial coverage"},
+      {"date": "Early November 2020", "location": "Everett", "what_happened": "Closing arguments; the defense argues the DNA evidence was tainted; jury begins deliberating (reported Friday, November 6)", "significance": "Deliberations", "source": "Herald [5]; AOL/People [31]"},
+      {"date": "November 9, 2020, about 10 a.m.", "location": "Miller's Edmonds home", "what_happened": "Miller is found unresponsive by a family member; the medical examiner rules it a suicide (gunshot)", "significance": "He died before hearing the verdict", "source": "Herald [6][7]; CNN [17]; NBC News [21]"},
+      {"date": "November 9, 2020, afternoon", "location": "Snohomish County Superior Court", "what_happened": "After about two weeks of testimony, the jury finds Miller guilty of first-degree murder; the family shows no outward reaction and embraces at the recess", "significance": "Guilty verdict 48 years after the murder", "source": "Herald [6]; CNN [17]; Washington Post [20]"},
+      {"date": "December 18, 2020", "location": "Snohomish County Superior Court", "what_happened": "On what should have been sentencing day, Judge David Kurtz rejects the defense motion to vacate and signs a document affirming guilt beyond a reasonable doubt; Jana Loomis-Smith addresses the court", "significance": "Conviction upheld; no sentence possible", "source": "Herald [8]"},
+      {"date": "2022", "location": "A&E", "what_happened": "'Cold Case Files' airs the episode 'Woman in the Woods' about the case", "significance": "Wider public awareness", "source": "IMDb [28]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {
+      "exact_date": "August 23, 1972, around 5 p.m.",
+      "exact_location": "Penny Creek Road (now Mill Creek Road), between Bothell and Mill Creek, Snohomish County, Washington",
+      "what_is_happening": "A 20-year-old rides her bike toward the stable where she keeps her horse, wearing her 12-year-old sister's borrowed boots",
+      "what_makes_it_shocking": "Within about half an hour she is found shot in the woods; the man who did it leaves a microscopic stain on her left boot",
+      "ironic_twist": "The boots belonged to a 12-year-old girl who would grow up, testify at 60, and see them again for the first time in 48 years; the killer died by his own hand hours before the jury said 'guilty'."
+    },
+    "central_mystery_question": "Who killed Jody Loomis, and how could a stain on a borrowed boot name him almost half a century later?"
+  },
+  "the_method": {
+    "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+    "technique_name": "Investigative (forensic) genetic genealogy plus discarded-object confirmation",
+    "step_by_step_explanation": [
+      "1972: the boots are collected and preserved in evidence.",
+      "2008: Washington State Patrol Crime Lab finds sperm on the left boot and develops a male DNA profile; CODIS search finds no match.",
+      "2018: the sample goes to Parabon NanoLabs, which produces genealogy-type DNA data (SNPs).",
+      "The data is compared on GEDmatch with people who had voluntarily uploaded their own DNA; distant relatives appear.",
+      "Genealogist Deb Stone builds family trees back to a couple, Jacquette and Albert Miller of Edmonds, whose six sons became the candidate pool.",
+      "Detectives focus on Terrence Miller, who had prior sex offenses and lived about five miles from the scene.",
+      "August 2018: undercover detectives retrieve a coffee cup he discarded at the Tulalip Resort Casino.",
+      "The state crime lab matches the cup DNA to the boot profile; arrest April 10, 2019."
+    ],
+    "why_it_worked": "The stain on the boot had been preserved for 46 years, and by 2018 enough ordinary people had uploaded DNA to GEDmatch for distant cousins to point to one family.",
+    "technical_terms_to_explain": [
+      {"term": "CODIS", "simple_explanation": "The FBI-run database of DNA profiles from offenders and crime scenes; it only finds people already in it."},
+      {"term": "SNP profile", "simple_explanation": "A much larger read-out of DNA letters, the kind consumer ancestry tests use, that can find distant cousins."},
+      {"term": "GEDmatch", "simple_explanation": "A free website where people upload their own DNA results to find relatives; launched in 2010."},
+      {"term": "Discarded-object sample", "simple_explanation": "DNA collected from something a person throws away in public, like a coffee cup, used to confirm or rule out a match."}
+    ],
+    "scale_of_operation": "Six brothers in one family; one coffee cup; one stain."
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "Not a failure of misconduct so much as of time and technology: 1972 forensics could not read the stain; 2008 CODIS had no matching profile.",
+    "how_they_were_supposed_to_protect": "Identify and prosecute the killer",
+    "why_they_failed": "DNA technology did not exist in 1972; Miller was not in CODIS in 2008 despite a 1968 lewd conduct conviction (pre-DNA-database era)",
+    "specific_incompetence_examples": ["No documented misconduct found; defense alleged sloppy forensic handling of the boots, which the jury did not accept"],
+    "ironic_details_about_the_failure": "The evidence that solved the case sat in storage the whole time; the killer lived about five miles away; Jody's parents both died without knowing."
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Snohomish County Sheriff's Office (cold case unit), Washington State Patrol Crime Lab, Parabon NanoLabs",
+    "operation_code_name_if_any": "None known",
+    "when_investigation_began": "August 23, 1972",
+    "initial_wrong_assumptions": "Not documented in detail in sources consulted; do not speculate about early suspects",
+    "key_breakthrough": "2018 genetic genealogy pointing to the six sons of Jacquette and Albert Miller",
+    "the_fatal_mistake": "Throwing away a coffee cup at the Tulalip Resort Casino in August 2018",
+    "how_long_until_caught": "Arrest April 10, 2019: 46 years, 7 and a half months after the murder; verdict November 9, 2020: about 48 years and 2.5 months"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "April 10, 2019",
+    "location": "Miller's home in Edmonds",
+    "scene_description": "Detectives arrested Miller at his home; he was booked for first-degree murder with bail at $1 million",
+    "protagonist_reaction": "Pleaded not guilty; no confession documented",
+    "ironic_or_absurd_details": "He was 77, retired, running a ceramics shop with his wife; he had lived about five miles from the scene in 1972"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["First-degree (premeditated) murder"],
+    "trial_date_if_applicable": "October 2020 to November 9, 2020, Snohomish County Superior Court",
+    "notable_court_testimony": "Jana Loomis-Smith identified the boots she had lent her sister; the deposition of the man who found Jody (since deceased) was used; forensic scientists described the boot DNA and coffee cup match; the defense argued contamination",
+    "victim_impact_statements": [
+      {"from_whom": "Jana Loomis-Smith (December 18, 2020)", "key_quote": "Paraphrase only: she did not want vengeance, she wanted the court record to say Miller murdered her sister; both parents died without knowing; she hoped the outcome would give hope to other families", "emotional_impact": "Quiet, dignified closure"}
+    ],
+    "sentence_received": "None: Miller died by suicide hours before the verdict; on December 18, 2020, Judge Kurtz upheld the conviction and signed a document affirming guilt beyond a reasonable doubt instead of sentencing",
+    "protagonist_statement_in_court": "None documented",
+    "current_status": "Terrence Miller is dead (November 9, 2020). His first-degree murder conviction was upheld by the trial judge on December 18, 2020. No appeal or later change reported in sources found (as of October 2026). Case closed."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Sheriff Ty Trenary", "exact_quote": "Thanks to the relentless persistence of our cold case team and new DNA technology, we are one step closer to justice for Jody.", "context": "Arrest announcement, April 11, 2019", "source": "KOMO News [13]"},
+      {"speaker": "Deputy prosecutor Craig Matheson", "exact_quote": "It does not diminish the verdict.", "context": "On Miller's death hours before the verdict, November 9, 2020", "source": "The Herald [6]"},
+      {"speaker": "Deputy prosecutor Craig Matheson", "exact_quote": "stoic", "context": "Describing the family's reaction to the verdict", "source": "The Herald [6]"},
+      {"speaker": "Detective Jim Scharf", "exact_quote": "I think that was good for the (Loomis) family.", "context": "On the family hearing the verdict", "source": "Fox News [18]"},
+      {"speaker": "Judge David Kurtz", "exact_quote": "somewhat unprecedented", "context": "December 18, 2020 hearing", "source": "The Herald [8]"},
+      {"speaker": "Judge David Kurtz", "exact_quote": "truly an extraordinary situation", "context": "December 18, 2020 hearing", "source": "The Herald [8]"},
+      {"speaker": "Jana Loomis-Smith", "exact_quote": "On that day the murderer stole Jody's life.", "context": "Statement at a 2019 bail hearing (single source, verify wording)", "source": "The Herald, bail article [9]"},
+      {"speaker": "Laura Martin (defense)", "exact_quote": "frankly no public benefit", "context": "Arguing against announcing the verdict after Miller's death (partial quote, secondary relay)", "source": "Herald [6] as relayed by secondary outlets"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "20", "what_it_represents": "Jody's age (turned 20 in June 1972)", "source": "Herald [3]"},
+      {"number": "12", "what_it_represents": "Jana's age when she lent the boots", "source": "Herald [2][3]"},
+      {"number": "5 and a half", "what_it_represents": "Size of the St. Moritz waffle-stomper boots", "source": "Herald [2]"},
+      {"number": "about 5 p.m. / about 5:30 p.m.", "what_it_represents": "Last sighting / discovery", "source": "Herald [3][2]"},
+      {"number": ".22 caliber", "what_it_represents": "Pistol used", "source": "Herald [2]"},
+      {"number": "about 5 miles", "what_it_represents": "Distance between Miller's 1972 home area and the scene", "source": "Patch [14]; Herald"},
+      {"number": "36 years", "what_it_represents": "1972 to the 2008 lab discovery of sperm on the boot", "source": "Patch [14] (calculated)"},
+      {"number": "6", "what_it_represents": "Sons of Jacquette and Albert Miller in the genealogy candidate pool", "source": "Herald [1]"},
+      {"number": "46 years, about 7.5 months", "what_it_represents": "Murder to arrest (Aug 23, 1972 to Apr 10, 2019)", "source": "calculated from [14]"},
+      {"number": "$1,000,000 then $750,000", "what_it_represents": "Bail amounts", "source": "Herald [1][9]"},
+      {"number": "27", "what_it_represents": "Witnesses listed by prosecutors", "source": "Herald [4]"},
+      {"number": "48 years", "what_it_represents": "Time until Jana saw her boots again and until the verdict", "source": "Herald [4][6]"},
+      {"number": "77 / 78", "what_it_represents": "Miller's age at arrest / at verdict", "source": "Herald [1][6]"},
+      {"number": "3", "what_it_represents": "Divorces before Miller's last marriage", "source": "Herald via search summary [6]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "The evidence that solved the case was a 12-year-old's boot.",
+      "Miller lived about five miles away for decades.",
+      "He was caught by a coffee cup at a casino.",
+      "He died hours before the verdict was read; he never heard it.",
+      "Jody's parents died without ever knowing; her little sister lived to testify.",
+      "Jurors never heard of his 1968 lewd conduct conviction or the abuse allegations."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "Winesap Road home", "physical_description": "Single-story family home between Mill Creek and Bothell", "atmosphere": "Rural-suburban south Snohomish County, 1972", "relevant_details": "Jody lived there with parents, fiance and sister"},
+      {"location_name": "Penny Creek Road (now Mill Creek Road)", "physical_description": "Road she rode toward the stable", "atmosphere": "Mill Creek did not yet exist as a city (incorporated 1983, background knowledge)", "relevant_details": "Last seen there around 5 p.m."},
+      {"location_name": "Wooded dirt road near 164th Street SW", "physical_description": "Woods off a dirt road, used by target shooters", "atmosphere": "Now part of the Mill Creek area", "relevant_details": "A fallen tree on the road; found about 5:30 p.m."},
+      {"location_name": "Tulalip Resort Casino", "physical_description": "Casino north of Everett", "atmosphere": "Ordinary public place", "relevant_details": "Where the coffee cup was recovered in August 2018"},
+      {"location_name": "Snohomish County Superior Court, Everett", "physical_description": "County courthouse", "atmosphere": "2020 pandemic-era trial; family watched, brother by livestream", "relevant_details": "Verdict November 9, 2020"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "A daylight bike ride on a country road ended a life; the answer waited 48 years in a box of evidence.",
+    "how_this_could_happen_to_them": "Stranger attacks in familiar places; the killer was an ordinary neighbor in the next town.",
+    "lesson_or_warning": "Preserve evidence; never let a family's question expire.",
+    "current_relevance": "Investigative genetic genealogy continues to solve decades-old cases and raises privacy debates."
+  },
+  "sources": {
+    "_instructions": "List ALL sources.",
+    "primary_sources": [
+      {"type": "Sheriff statement (via news)", "title": "'Relentless persistence' leads to arrest in 1972 murder of young Bothell woman", "url_or_reference": "https://komonews.com/news/local/relentless-persistence-leads-to-arrest-in-1972-murder-of-young-bothell-woman", "key_information_obtained": "Trenary quote; arrest announcement"},
+      {"type": "Court reporting", "title": "Despite suicide, judge upholds conviction in 1972 murder (The Herald, Dec. 18, 2020)", "url_or_reference": "https://www.heraldnet.com/2020/12/18/in-spite-of-suicide-judge-upholds-conviction-in-1972-murder/", "key_information_obtained": "Kurtz ruling and quotes; Jana's statement"}
+    ],
+    "secondary_sources": [
+      {"type": "Newspaper", "title": "DNA on a boot leads to arrest in 1972 murder of Jody Loomis (The Herald, Apr. 11, 2019)", "url_or_reference": "https://www.heraldnet.com/2019/04/11/dna-strikes-again-edmonds-man-77-arrested-in-1972-killing/", "key_information_obtained": "Arrest, genealogy, six sons, coffee cup, bail"},
+      {"type": "Newspaper", "title": "DNA on a boot: Trial opens in 1972 killing of Jody Loomis (The Herald)", "url_or_reference": "https://www.heraldnet.com/news/dna-on-a-boot-trial-opens-in-1972-killing-of-jody-loomis/", "key_information_obtained": "Boots, wound, discovery at 5:30 p.m."},
+      {"type": "Newspaper", "title": "48 years after Jody Loomis was killed, a trial draws near (The Herald, Sept. 18, 2020)", "url_or_reference": "https://www.heraldnet.com/2020/09/18/48-years-after-jody-loomis-was-killed-a-trial-draws-near/", "key_information_obtained": "Household, 20th birthday, last seen 5 p.m."},
+      {"type": "Newspaper", "title": "Trial in Mill Creek murder tests memories of 48 years ago (The Herald)", "url_or_reference": "https://www.heraldnet.com/news/trial-in-mill-creek-murder-tests-memories-of-48-years-ago/", "key_information_obtained": "Jana testimony; 27 witnesses; finder's deposition"},
+      {"type": "Newspaper", "title": "Suspect in 1972 murder kills himself; jury finds him guilty (The Herald, Nov. 9, 2020)", "url_or_reference": "https://www.heraldnet.com/2020/11/09/suspect-in-1972-murder-kills-himself-jury-finds-him-guilty/", "key_information_obtained": "Verdict, death, quotes"},
+      {"type": "News", "title": "Patch Edmonds arrest report", "url_or_reference": "https://patch.com/washington/edmonds/arrest-made-1972-snoco-rape-murder-cold-case", "key_information_obtained": "2008 lab timeline; April 10, 2019 arrest; five miles"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "The 1987 Jay Cook and Tanya Van Cuylenborg case, the same sheriff's office's first genetic genealogy arrest",
+    "connection_to_current_video": "Same county, same cold case detective, same technique",
+    "teaser_line": "One year before Jody's case broke, the same detective used the same science on a young Canadian couple who vanished in 1987."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Horse's name 'Saudi' and stable on Strumme Road (Primetimer only)",
+      "Whether Jody was still alive when found (some secondary accounts say 'near death')",
+      "Jana's bail-hearing quote wording (single source)",
+      "John Loomis's 'got away with it for 48 years' (not verified verbatim; do not quote)",
+      "CeCe Moore's personal role (most reports credit Deb Stone)",
+      "Exact date of jury deliberations start (reported Nov 6, 2020)"
+    ],
+    "information_gaps": ["Parents' names", "Fiance's name", "Jody's job or schooling", "1972 suspects and early investigation details", "Exact trial opening date (October 2020)"],
+    "questions_to_answer": ["Any appeal or post-2020 litigation (none found)", "Whether jurors knew of Miller's death when they reached the verdict (not confirmed; do not state)"]
+  }
+}

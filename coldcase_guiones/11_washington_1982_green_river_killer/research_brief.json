@@ -1,0 +1,262 @@
+{
+  "video_metadata": {
+    "working_title": "WASHINGTON 1982 Cold Case Solved After 19 Years — Justice for the Green River Victims",
+    "topic_one_sentence": "Between 1982 and the mid-1980s dozens of girls and young women vanished from the Pacific Highway South strip near Sea-Tac Airport in King County, Washington; a task force that rose to dozens of detectives and then shrank to one man kept the case alive until 2001, when a saliva sample taken from truck painter Gary Leon Ridgway in 1987 was matched by improved DNA testing, leading to his 2003 guilty plea to 48 murders (49 in 2011) and to identifications of the last known unnamed victims as late as 2024.",
+    "primary_emotion_to_evoke": "Grief and dignity for the victims, frustration at the lost years, and respect for the families and detectives who refused to let the names be forgotten.",
+    "target_length_minutes": "70",
+    "research_method_note": "Research done on 2026-10-11. Page fetching was blocked by the network proxy, so facts come from web-search result summaries (15 queries, shared budget) cross-checked with well-documented public background. Every timeline event and quote carries a source number matching the numbered source list in investigacion.md. Items marked BACKGROUND are widely documented but were not directly confirmed in a search snippet this session; items marked UNCERTAIN are flagged in notes_and_gaps and are not used as hard claims in the script."
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Gary Leon Ridgway (convicted). The story is centred on the victims; Ridgway is introduced late as the convicted offender.",
+    "age_at_time_of_events": "33 in the summer of 1982 (born February 18, 1949, BACKGROUND); 52 at his arrest on November 30, 2001; 54 at his guilty plea on November 5, 2003; 77 in October 2026.",
+    "occupation_or_status": "Truck painter at the Kenworth truck plant in Renton, Washington, where he had worked since 1969 (AP via HeraldNet [7]). Now serving life without parole at the Washington State Penitentiary in Walla Walla [23][24].",
+    "location": "South King County, Washington: the area around Seattle-Tacoma International Airport, Pacific Highway South, Kent, Auburn, Des Moines, Renton.",
+    "physical_description": "Not used in script beyond archival photos.",
+    "background_brief": "Worked at Kenworth in Renton from 1969 until his 2001 arrest [7]. Came to investigators' attention in 1983 after the disappearance of Marie Malvar [26]; interviewed by King County detective Randy Mullinax in the mid-1980s and passed a polygraph in 1984 [27]; his home and vehicles were searched in April 1987 and he gave a saliva sample by chewing on gauze [5][6].",
+    "psychological_profile": "Not speculated. Judge Richard Jones described his 'Teflon-coated emotions and complete absence of compassion' at sentencing [12][14].",
+    "mundane_humanizing_detail": "Not used: the channel does not humanize the offender. The documented twist is ordinariness: a long-time factory painter who clocked in at the same plant for three decades [7].",
+    "nickname_or_alias_if_any": "'The Green River Killer' (media name, after the river where the first victims were found)."
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {"name": "Wendy Lee Coffield", "role_or_profession": "16-year-old girl [MINOR]", "connection_to_protagonist": "Count in the 2003 plea; charged March 2003 on paint-sphere evidence [30][31]", "specific_impact_suffered": "Last seen in Tacoma July 8, 1982; found in the Green River near Kent July 15, 1982 [2]", "humanizing_detail": "The first victim found; for years her name opened every list of the case [1][2]", "any_quotes_from_them": ""},
+      {"name": "Debra Lynn Bonner", "role_or_profession": "23-year-old woman", "connection_to_protagonist": "Charged March 2003 [30]; plea count", "specific_impact_suffered": "Disappeared July 25, 1982; found in the Green River August 12, 1982 [3][4]", "humanizing_detail": "Her discovery is the date local media mark as the opening of the case [3]", "any_quotes_from_them": ""},
+      {"name": "Marcia Faye Chapman", "role_or_profession": "31-year-old woman, a mother (children BACKGROUND)", "connection_to_protagonist": "DNA match, 2001 [7][5]", "specific_impact_suffered": "Disappeared August 1, 1982, near the airport strip; found in the Green River August 15, 1982 [2][29]", "humanizing_detail": "Oldest of the three women found on August 15", "any_quotes_from_them": ""},
+      {"name": "Cynthia Jean Hinds", "role_or_profession": "17-year-old girl [MINOR]", "connection_to_protagonist": "Charged December 2001; tied by circumstantial evidence per AP [7] (Oxygen [5] lists her among DNA matches: conflict noted)", "specific_impact_suffered": "Disappeared August 11, 1982; found in the Green River near Kent August 15, 1982 [2][29]", "humanizing_detail": "Found in the water beside Marcia Chapman [29]", "any_quotes_from_them": ""},
+      {"name": "Opal Charmaine Mills", "role_or_profession": "16-year-old girl [MINOR]", "connection_to_protagonist": "DNA match, 2001 [7][5]", "specific_impact_suffered": "Last seen August 12, 1982, at a phone booth off the strip; found on the riverbank August 15, 1982 [2][29]", "humanizing_detail": "Last seen at a phone booth: in 1982, a phone booth was how a teenager called home [2]", "any_quotes_from_them": ""},
+      {"name": "Carol Ann Christensen", "role_or_profession": "Young mother of a five-year-old daughter, Sarah", "connection_to_protagonist": "DNA match, 2001 [7]", "specific_impact_suffered": "Found in 1983 in Maple Valley [13]", "humanizing_detail": "Her daughter Sarah King was five when she died [13]", "any_quotes_from_them": ""},
+      {"name": "Linda Jane Rule", "role_or_profession": "16-year-old girl from Everett [MINOR]", "connection_to_protagonist": "Plea count", "specific_impact_suffered": "Killed in 1982 [10]", "humanizing_detail": "Her father Robert Rule forgave the killer in court [10]", "any_quotes_from_them": ""},
+      {"name": "Marie Malvar", "role_or_profession": "18-year-old woman", "connection_to_protagonist": "Plea count; her disappearance first linked Ridgway's truck to the case [26]", "specific_impact_suffered": "Disappeared April 30, 1983, after getting into a pickup; her boyfriend followed it [26]", "humanizing_detail": "Her family and boyfriend searched for the truck themselves [26]", "any_quotes_from_them": ""},
+      {"name": "Debra Lorraine Estes", "role_or_profession": "15-year-old girl [MINOR] (age BACKGROUND)", "connection_to_protagonist": "Charged March 2003 on paint-sphere evidence [30][31]", "specific_impact_suffered": "Disappeared 1982 (BACKGROUND); remains found later", "humanizing_detail": "Her mother Carol Estes spoke at sentencing [13]", "any_quotes_from_them": ""},
+      {"name": "Rebecca 'Becky' Marrero", "role_or_profession": "20-year-old woman from White Center (age BACKGROUND)", "connection_to_protagonist": "49th guilty plea, 2011 [16][17][18]", "specific_impact_suffered": "Disappeared December 1982; remains found in Auburn in December 2010 (BACKGROUND)", "humanizing_detail": "Missing 28 years before she was found", "any_quotes_from_them": ""},
+      {"name": "Lori Anne Razpotnik", "role_or_profession": "15-year-old girl [MINOR]", "connection_to_protagonist": "Plea count as an unidentified victim ('Bones 17') [21][22]", "specific_impact_suffered": "Ran away from her Lewis County home in 1982; remains found in Auburn December 30, 1985; identified December 2023 [21][22]", "humanizing_detail": "Her mother's saliva sample confirmed her name 38 years later [21]", "any_quotes_from_them": ""},
+      {"name": "Tammie Liles", "role_or_profession": "16-year-old girl from Everett [MINOR]", "connection_to_protagonist": "Plea count; 'Bones 20' [19][20]", "specific_impact_suffered": "Partial remains found near Tigard, Oregon, in 1985 and identified by dental records in 1988; a second set ('Bones 20') found in south King County after Ridgway led investigators there in 2003; identified January 22, 2024 [19][20]", "humanizing_detail": "Her mother gave the DNA that confirmed the match [20]", "any_quotes_from_them": ""}
+    ],
+    "collective_victims_if_applicable": {"group_description": "Girls and young women, many of them teenagers and runaways, most of them last seen on or near Pacific Highway South (the 'Sea-Tac Strip') between 1982 and 1984 [1][2]", "total_number_affected": "49 convictions (48 in 2003, 1 in 2011) [11][17]; Ridgway claimed as many as 71 [1-summary][39]", "range_of_impacts": "Murdered; several left unidentified for decades as 'Bones' numbers; families waited up to 41 years for a name [19][21]"}
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Dave Reichert", "role_in_story": "King County detective, one of the first at the August 15, 1982 scene [28][29]; later elected King County Sheriff in 1997 and reassembled the Green River detectives [34]; later a member of Congress (BACKGROUND)", "key_actions_they_took": "Led the early investigation; as sheriff called detectives back to the case including Tom Jensen [34]; in April 2024 talked to Kent students about the case [28]", "notable_quotes": ""},
+      {"name": "Tom Jensen", "role_in_story": "King County detective; the sole full-time investigator on the Green River case in the early 1990s [36][35]", "key_actions_they_took": "Volunteered to stay on the case when the task force was disbanded in 1990 [35]; was among the detectives called back in 1997 [34]", "notable_quotes": "His son Jeff Jensen wrote: 'One detective was to continue working Green River full time. My father volunteered for the job.' [35]"},
+      {"name": "Major Richard Kraske", "role_in_story": "Head of the Criminal Investigation Division; formed the first task force in 1982 [29][33]", "key_actions_they_took": "Led the 25-officer 1982 task force [33]", "notable_quotes": ""},
+      {"name": "Captain Frank Adamson", "role_in_story": "Commander of the reorganized Green River Task Force from January 1984 to 1986 [33][36]", "key_actions_they_took": "Took over in January 1984 [33]", "notable_quotes": ""},
+      {"name": "Randy Mullinax", "role_in_story": "King County detective who interviewed Ridgway in the mid-1980s [27]", "key_actions_they_took": "Interview recorded calm demeanor [27]", "notable_quotes": ""},
+      {"name": "Beverly Himick", "role_in_story": "Washington State Patrol Crime Laboratory forensic scientist [5]", "key_actions_they_took": "Re-examined preserved evidence in 2001 and developed the profiles compared to the 1987 sample [5]", "notable_quotes": "Called the re-examination 'a last-ditch effort' [5]"},
+      {"name": "Microtrace laboratory (Skip Palenik, BACKGROUND for the name)", "role_in_story": "Private trace-evidence lab [31]", "key_actions_they_took": "In March 2003 matched microscopic paint spheres on victims' clothing to paint used at Kenworth [31]", "notable_quotes": ""},
+      {"name": "Norm Maleng", "role_in_story": "King County Prosecuting Attorney [7]", "key_actions_they_took": "Filed the 2001 charges; agreed to the 2003 plea deal sparing the death penalty in exchange for confession and help locating remains [18]", "notable_quotes": "'When I made the decision, I felt at peace with it. I did then, and I do today.' [18]"},
+      {"name": "Judge Richard Jones", "role_in_story": "King County Superior Court judge [10][12]", "key_actions_they_took": "Ordered 48 seconds of silence; imposed 48 consecutive life terms and a $480,000 fine [12][13]", "notable_quotes": "Spoke of 'the final chapter of your reign of terror in our community' and Ridgway's 'Teflon-coated emotions and complete absence of compassion' [12][14]"},
+      {"name": "Robert Rule", "role_in_story": "Father of Linda Rule, from Everett [10]", "key_actions_they_took": "Forgave Ridgway in court; the only moment Ridgway broke down [10]", "notable_quotes": "'Mr. Ridgway, there are people here that hate you. I'm not one of them. I forgive you for what you have done.' [13]"},
+      {"name": "Sarah King", "role_in_story": "Daughter of Carol Christensen [13]", "key_actions_they_took": "Spoke at sentencing [13]", "notable_quotes": "'I was only five when my mother died and my dad told me I would never see her again.' / 'No matter what you say, I will never, ever, ever forgive you.' [13]"},
+      {"name": "Robert (Bobby) Woods", "role_in_story": "Marie Malvar's boyfriend [26]", "key_actions_they_took": "Followed the pickup on April 30, 1983; with Marie's family later led police to Ridgway's truck [26]", "notable_quotes": ""},
+      {"name": "Carol Estes, Joan Mackie, Tim Meehan", "role_in_story": "Mother of Debra Estes; mother of Cindy Smith; brother of Mary Meehan [13][12]", "key_actions_they_took": "Spoke at sentencing (paraphrased only) [13]", "notable_quotes": ""},
+      {"name": "Melvyn Foster", "role_in_story": "Taxi driver publicly treated as a suspect in 1982; never charged (name BACKGROUND; article [38] reports a former suspect's sense of vindication)", "key_actions_they_took": "", "notable_quotes": ""}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "1969", "location": "Renton, WA", "what_happened": "Ridgway begins working as a truck painter at the Kenworth plant", "significance": "Same employer for 32 years; paint later becomes evidence", "source": "[7]"},
+      {"date": "July 8, 1982", "location": "Tacoma, WA", "what_happened": "Wendy Lee Coffield, 16, last seen", "significance": "First known victim", "source": "[2]"},
+      {"date": "July 15, 1982", "location": "Green River near Kent", "what_happened": "Wendy Coffield found in the river", "significance": "First body", "source": "[2]"},
+      {"date": "July 25, 1982", "location": "Sea-Tac strip", "what_happened": "Debra Lynn Bonner, 23, disappears", "significance": "", "source": "[3][4]"},
+      {"date": "August 1, 1982", "location": "Pacific Highway South near the airport", "what_happened": "Marcia Faye Chapman, 31, disappears", "significance": "", "source": "[2]"},
+      {"date": "August 11, 1982", "location": "Sea-Tac strip", "what_happened": "Cynthia Jean Hinds, 17, disappears", "significance": "", "source": "[2]"},
+      {"date": "August 12, 1982", "location": "Phone booth off the strip / Green River", "what_happened": "Opal Mills, 16, last seen at a phone booth; same day Debra Bonner is found in the river", "significance": "", "source": "[2][3]"},
+      {"date": "August 15, 1982", "location": "Green River near Kent", "what_happened": "Chapman and Hinds found in shallow water, Mills on the bank; Detective Dave Reichert among the first at the scene", "significance": "Five victims in a month: police recognize a serial killer", "source": "[29][28][2]"},
+      {"date": "August 16, 1982", "location": "King County", "what_happened": "King County Sheriff's Office sets up the Green River Task Force, 25 officers under Major Richard Kraske", "significance": "", "source": "[6][33]"},
+      {"date": "1982 (exact date uncertain)", "location": "King County", "what_happened": "First task force wound down by year's end", "significance": "Early loss of momentum", "source": "[28]"},
+      {"date": "1982", "location": "Lewis County, WA", "what_happened": "Lori Anne Razpotnik, 15, runs away from home", "significance": "Will be identified only in 2023", "source": "[21]"},
+      {"date": "1982", "location": "Everett / King County", "what_happened": "Linda Jane Rule, 16, killed", "significance": "", "source": "[10]"},
+      {"date": "April 30, 1983", "location": "Pacific Highway South", "what_happened": "Marie Malvar, 18, gets into a pickup; boyfriend Robert Woods follows and loses it at a light", "significance": "Family and boyfriend later lead police to Ridgway's truck", "source": "[26]"},
+      {"date": "1983", "location": "Maple Valley", "what_happened": "Carol Christensen found", "significance": "One of the four 2001 counts", "source": "[13][7]"},
+      {"date": "January 1984", "location": "King County", "what_happened": "Task force reorganized under Captain Frank Adamson", "significance": "Peak of the effort", "source": "[33]"},
+      {"date": "1984", "location": "King County", "what_happened": "Ridgway interviewed by detective Randy Mullinax and passes a polygraph", "significance": "Missed chance", "source": "[27]"},
+      {"date": "1985", "location": "Near Tigard, Oregon", "what_happened": "Partial remains later identified (1988, dental) as Tammie Liles found", "significance": "", "source": "[19][20]"},
+      {"date": "December 30, 1985", "location": "Auburn, WA", "what_happened": "City of Auburn workers find remains later known as Bones 16 and Bones 17", "significance": "", "source": "[21][22]"},
+      {"date": "April 1987", "location": "Ridgway home, King County", "what_happened": "Search warrant on home and vehicles; nothing to justify arrest; Ridgway chews on gauze to give a saliva sample", "significance": "The sample that solves the case 14 years later", "source": "[5][6]"},
+      {"date": "1990", "location": "King County", "what_happened": "Sheriff's Department disbands the task force; one detective, Tom Jensen, stays on full time", "significance": "System-failure ledger", "source": "[35][36]"},
+      {"date": "1997", "location": "King County", "what_happened": "Dave Reichert elected King County Sheriff; calls detectives back to the case including Jensen", "significance": "Revival", "source": "[34]"},
+      {"date": "2001 (spring per one timeline)", "location": "Washington State Patrol Crime Laboratory", "what_happened": "Forensic scientist Beverly Himick re-examines preserved evidence; profiles from three early victims match the 1987 saliva sample", "significance": "The breakthrough", "source": "[5][6][9]"},
+      {"date": "November 30, 2001", "location": "Kenworth plant, Renton", "what_happened": "Ridgway arrested as he leaves his shift", "significance": "19 years after the first victims", "source": "[7]"},
+      {"date": "December 4–5, 2001", "location": "King County", "what_happened": "Prosecutor Norm Maleng charges four counts of aggravated first-degree murder: Chapman, Hinds, Mills, Christensen", "significance": "Date varies by source (AP Dec 4, KOMO Dec 5)", "source": "[7][8]"},
+      {"date": "December 18, 2001", "location": "King County Superior Court", "what_happened": "Ridgway pleads not guilty", "significance": "", "source": "[7]"},
+      {"date": "March 27, 2003", "location": "King County", "what_happened": "Three more counts filed for Coffield, Estes and Bonner after Microtrace matches microscopic paint spheres to Kenworth paint", "significance": "Trace evidence widens the case", "source": "[30][31][32]"},
+      {"date": "2003", "location": "South King County", "what_happened": "Under the plea agreement Ridgway leads investigators to remains, including a second set of Tammie Liles's remains", "significance": "", "source": "[19][20]"},
+      {"date": "November 5, 2003", "location": "King County Superior Court", "what_happened": "Ridgway pleads guilty to 48 counts of aggravated first-degree murder in exchange for being spared the death penalty", "significance": "Largest number of convictions of any US serial killer at the time (BACKGROUND)", "source": "[15][32][18]"},
+      {"date": "December 18, 2003", "location": "King County Superior Court", "what_happened": "Families speak; Robert Rule forgives; Judge Jones orders 48 seconds of silence and imposes 48 consecutive life terms and a $480,000 fine", "significance": "Justice, partial", "source": "[10][11][12][13]"},
+      {"date": "2011 (February)", "location": "King County", "what_happened": "Ridgway charged with and pleads guilty to the murder of Rebecca 'Becky' Marrero, his 49th conviction, under the 2003 agreement", "significance": "49th life sentence", "source": "[16][17][18]"},
+      {"date": "2012", "location": "King County", "what_happened": "DNA identifies Bones 16 as Sandra Majors", "significance": "", "source": "[21]"},
+      {"date": "April 2023", "location": "Washington State", "what_happened": "Washington formally abolishes the death penalty", "significance": "", "source": "[18]"},
+      {"date": "December 2023", "location": "King County", "what_happened": "Bones 17 identified as Lori Anne Razpotnik, 15, via Parabon NanoLabs genetic genealogy; confirmed with her mother's saliva by the University of North Texas", "significance": "", "source": "[21][22]"},
+      {"date": "January 22, 2024", "location": "King County", "what_happened": "Sheriff's Office announces Bones 20 identified as Tammie Liles, 16, via Othram; no other unidentified remains believed connected to Ridgway", "significance": "Last known unnamed victim", "source": "[19][20]"},
+      {"date": "September 9–13, 2024", "location": "King County Jail / Walla Walla", "what_happened": "Ridgway temporarily transferred to King County to help search for undiscovered remains, then returned; cases remain open", "significance": "Current status", "source": "[23][24][25]"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {"exact_date": "August 15, 1982", "exact_location": "Green River near Kent, King County, Washington", "what_is_happening": "Three more victims are found in and beside the river; a 33-year-old detective, Dave Reichert, is among the first to arrive", "what_makes_it_shocking": "Five girls and women found in one month; three of them teenagers", "ironic_twist": "The man responsible gave police a saliva sample in 1987 that sat in storage until 2001; he painted trucks at the same plant the whole time."},
+    "central_mystery_question": "How could someone take dozens of girls and young women from one highway for years and stay free for nearly two decades?"
+  },
+  "the_method": {
+    "_instructions": "How was the case solved? Technical details explained for a general audience.",
+    "technique_name": "STR DNA re-testing of preserved evidence against a 1987 reference sample; microscopic paint-sphere trace analysis",
+    "step_by_step_explanation": ["1987: saliva on gauze collected and kept [5]", "1980s methods could not produce a usable profile from the small, old biological traces (BACKGROUND)", "2001: WSP crime lab re-examines evidence from three early victims; newer methods build profiles [5][9]", "Profiles compared to the 1987 sample: match [5][7]", "2003: Microtrace links microscopic paint spheres on Coffield's and Estes's clothing to the specialized paint used at Kenworth [31]"],
+    "why_it_worked": "The evidence and the reference sample had been preserved for 14 to 19 years until the science caught up [5]",
+    "technical_terms_to_explain": [{"term": "DNA profile", "simple_explanation": "a genetic barcode read at a set of places in the DNA"}, {"term": "reference sample", "simple_explanation": "a known sample from a known person to compare against"}, {"term": "trace evidence", "simple_explanation": "particles too small to see that move from a place or a person onto clothing"}],
+    "scale_of_operation": "Evidence from 1982 compared against a 1987 sample in 2001"
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed?",
+    "institution_that_failed": "Law enforcement and society's attitude toward the victims; budget and political pressure on the task force [33]",
+    "how_they_were_supposed_to_protect": "Investigate every disappearance with equal urgency",
+    "why_they_failed": "Staff cuts and shifting politics [33][35]; limited forensic science in the 1980s [5]; a suspect who passed a polygraph [27]",
+    "specific_incompetence_examples": ["Ridgway's truck linked to Marie Malvar's disappearance in 1983 by her own family and boyfriend [26]", "Ridgway passed a polygraph in 1984 [27]", "1987 saliva sample left untested in a usable way for 14 years [5]", "Task force disbanded in 1990, leaving one detective [35]"],
+    "ironic_details_about_the_failure": "The answer was in police storage from April 1987 onward [5]."
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "King County Sheriff's Office Green River Task Force; Washington State Patrol Crime Laboratory; King County Prosecuting Attorney",
+    "operation_code_name_if_any": "Green River Task Force",
+    "when_investigation_began": "August 16, 1982 [6]",
+    "initial_wrong_assumptions": "A taxi driver was publicly treated as a suspect in 1982 and never charged [38] (name BACKGROUND)",
+    "key_breakthrough": "2001 DNA match to the 1987 saliva sample [5][7]",
+    "the_fatal_mistake": "Biological evidence left on early victims, preserved for 19 years [5]",
+    "how_long_until_caught": "About 19 years and 4 months from the first discovery (July 15, 1982 to November 30, 2001)"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest.",
+    "date_and_time": "November 30, 2001, as he left his shift [7]",
+    "location": "Kenworth truck plant, Renton, WA [7]",
+    "scene_description": "Arrested by King County detectives at his workplace of 32 years [7]",
+    "protagonist_reaction": "Pleaded not guilty December 18, 2001 [7]",
+    "ironic_or_absurd_details": "He was arrested at the plant where he had painted trucks since 1969; paint from that plant later became evidence [7][31]"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["Dec 2001: 4 counts aggravated first-degree murder (Chapman, Hinds, Mills, Christensen) [7][8]", "March 27, 2003: 3 more counts (Coffield, Estes, Bonner) [30]", "Nov 5, 2003: guilty plea to 48 counts [15][32]", "2011: 49th count, Rebecca Marrero [16][17]"],
+    "trial_date_if_applicable": "No trial: plea agreement",
+    "notable_court_testimony": "Families spoke at the December 18, 2003 sentencing; about 20 families, 10 minutes each [13]",
+    "victim_impact_statements": [
+      {"from_whom": "Robert Rule, father of Linda Rule", "key_quote": "Mr. Ridgway, there are people here that hate you. I'm not one of them. I forgive you for what you have done.", "emotional_impact": "The only moment Ridgway wept [10]"},
+      {"from_whom": "Sarah King, daughter of Carol Christensen", "key_quote": "I was only five when my mother died and my dad told me I would never see her again.", "emotional_impact": "A child's waiting [13]"},
+      {"from_whom": "Sarah King", "key_quote": "No matter what you say, I will never, ever, ever forgive you.", "emotional_impact": "[13]"}
+    ],
+    "sentence_received": "48 consecutive life sentences without parole and a $480,000 fine (December 18, 2003) [12][13]; a 49th life sentence in 2011 [17]",
+    "protagonist_statement_in_court": "Apologized for killing 'all those young ladies' (AP fragment) [12][14]",
+    "current_status": "Serving 49 consecutive life sentences at the Washington State Penitentiary in Walla Walla; briefly returned to King County Sept 9–13, 2024 to help search for remains; cases remain open; no 2025–2026 change found [23][24][25]"
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Robert Rule", "exact_quote": "Mr. Ridgway, there are people here that hate you. I'm not one of them. I forgive you for what you have done.", "context": "Sentencing, December 18, 2003", "source": "[13][10]"},
+      {"speaker": "Sarah King", "exact_quote": "I was only five when my mother died and my dad told me I would never see her again.", "context": "Sentencing", "source": "[13]"},
+      {"speaker": "Sarah King", "exact_quote": "No matter what you say, I will never, ever, ever forgive you.", "context": "Sentencing", "source": "[13]"},
+      {"speaker": "Judge Richard Jones", "exact_quote": "Teflon-coated emotions and complete absence of compassion", "context": "Sentencing remarks (fragment)", "source": "[12][14]"},
+      {"speaker": "Judge Richard Jones", "exact_quote": "the final chapter of your reign of terror in our community", "context": "Sentencing remarks (fragment)", "source": "[12]"},
+      {"speaker": "Gary Ridgway", "exact_quote": "all those young ladies", "context": "Apology fragment at sentencing", "source": "[12][14]"},
+      {"speaker": "Norm Maleng", "exact_quote": "When I made the decision, I felt at peace with it. I did then, and I do today.", "context": "On the plea deal (reported 2011)", "source": "[18]"},
+      {"speaker": "Beverly Himick", "exact_quote": "a last-ditch effort", "context": "2001 re-examination of evidence", "source": "[5]"},
+      {"speaker": "Jeff Jensen (son of Tom Jensen)", "exact_quote": "One detective was to continue working Green River full time. My father volunteered for the job.", "context": "Account of the 1990 disbanding", "source": "[35]"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers.",
+    "figures": [
+      {"number": "48", "what_it_represents": "Counts in the November 5, 2003 guilty plea", "source": "[15][32]"},
+      {"number": "49", "what_it_represents": "Total convictions after the 2011 Marrero plea", "source": "[17][23]"},
+      {"number": "71", "what_it_represents": "Number of women Ridgway later claimed (unverified claim)", "source": "[1-summary]"},
+      {"number": "25", "what_it_represents": "Officers on the first 1982 task force", "source": "[33][28]"},
+      {"number": "1", "what_it_represents": "Full-time detective left after 1990", "source": "[35][36]"},
+      {"number": "48 seconds", "what_it_represents": "Silence ordered by the judge", "source": "[12]"},
+      {"number": "$480,000", "what_it_represents": "Fine imposed in 2003", "source": "[13]"},
+      {"number": "14 years", "what_it_represents": "April 1987 sample to 2001 match", "source": "[5]"},
+      {"number": "32 years", "what_it_represents": "Ridgway at Kenworth (1969–2001)", "source": "[7]"},
+      {"number": "41 years", "what_it_represents": "From Tammie Liles's 1983 death era to her full identification in 2024 (approximate)", "source": "[19]"},
+      {"number": "about 20", "what_it_represents": "Families that spoke at sentencing, 10 minutes each", "source": "[13]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Contradictions.",
+    "details": ["A saliva sample sat in storage for 14 years [5]", "He passed a polygraph in 1984 [27]", "Paint from his own workplace tied him to victims [31]", "The task force that once had dozens of officers came down to one detective [35]"]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Visualize scenes.",
+    "key_locations": [
+      {"location_name": "Pacific Highway South ('Sea-Tac Strip')", "physical_description": "Highway lined with motels, bus stops and businesses beside Seattle-Tacoma International Airport", "atmosphere": "Transient; where most victims were last seen", "relevant_details": "[2][26]"},
+      {"location_name": "Green River near Kent", "physical_description": "River through the Kent valley south of Seattle", "atmosphere": "Ordinary riverbank", "relevant_details": "First five victims found here July–August 1982 [2][29]"},
+      {"location_name": "Kenworth truck plant, Renton", "physical_description": "Truck factory", "atmosphere": "", "relevant_details": "Arrest site; source of the paint spheres [7][31]"},
+      {"location_name": "Washington State Penitentiary, Walla Walla", "physical_description": "State prison in eastern Washington", "atmosphere": "", "relevant_details": "Where Ridgway is held [23]"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why care?",
+    "why_this_matters_to_viewer": "The victims were dismissed by many at the time because of their age, poverty or circumstances; the case shows what happens when a society decides some missing girls matter less.",
+    "how_this_could_happen_to_them": "Many victims were teenagers who had run away; any family can lose a child to the street for a season.",
+    "lesson_or_warning": "Preserve evidence, never close the file, and treat every missing girl as someone's daughter.",
+    "current_relevance": "Genetic genealogy named the last unknown victims in 2023 and 2024; the cases remain open [19][21][24]"
+  },
+  "sources": {
+    "_instructions": "List ALL sources. Numbering matches investigacion.md section 13.",
+    "primary_sources": [
+      {"type": "Official", "title": "King County Sheriff's Office, Green River homicides investigation", "url_or_reference": "https://kingcounty.gov/depts/sheriff/about-us/enforcement/investigations/green-river.aspx", "key_information_obtained": "Nov 5, 2003 plea to 48 counts; 2003 charges [32]"},
+      {"type": "Court transcript (broadcast)", "title": "CNN transcript, Nov 5, 2003 plea hearing", "url_or_reference": "https://www.cnn.com/TRANSCRIPTS/0311/05/se.02.html", "key_information_obtained": "Plea colloquy [15]"},
+      {"type": "Forensic paper", "title": "AAFS 2006 D32 (Microtrace)", "url_or_reference": "https://www.aafs.org/sites/default/files/media/documents/AAFS-2006-D32.pdf", "key_information_obtained": "Paint spheres [31]"}
+    ],
+    "secondary_sources": [
+      {"type": "News", "title": "Seattle Times, The Green River killer's victims (2001-12-01)", "url_or_reference": "https://archive.seattletimes.com/archive/20011201/victimlist01m/the-green-river-killers-victims", "key_information_obtained": "Victim list [1]"},
+      {"type": "News", "title": "Fox News, Victims of Green River Killer", "url_or_reference": "https://www.foxnews.com/story/victims-of-green-river-killer", "key_information_obtained": "Dates and ages [2]"},
+      {"type": "News", "title": "KIRO 7, On this day", "url_or_reference": "https://www.kiro7.com/news/local/on-this-day-green-river-killer-case-opens-in-1982-with-discovery-of-23-year-old-woman-s-body/975319517/", "key_information_obtained": "Bonner [3]"},
+      {"type": "Encyclopedia", "title": "HistoryLink File 2020", "url_or_reference": "https://historylink.org/File/2020", "key_information_obtained": "Bonner and overview [4]"},
+      {"type": "News", "title": "Oxygen, How Gary Ridgway was captured", "url_or_reference": "https://www.oxygen.com/the-dna-of-murder-with-paul-holes/crime-time/green-river-killer-gary-ridgway-dna-capture", "key_information_obtained": "1987 sample, Himick quote [5]"},
+      {"type": "Reference", "title": "Biography.com timeline", "url_or_reference": "https://www.biography.com/crime/gary-ridgway-green-river-killer-timeline", "key_information_obtained": "Task force date, 1987 search [6]"},
+      {"type": "News (AP)", "title": "HeraldNet, Ridgway charged in 4 Green River killings", "url_or_reference": "https://www.heraldnet.com/2001/12/04/ridgway-charged-in-4-green-river-killings/", "key_information_obtained": "Arrest, Kenworth since 1969, charges [7]"},
+      {"type": "News", "title": "KOMO, Timeline of Green River killings", "url_or_reference": "https://komonews.com/archive/timeline-of-green-river-killings-11-20-2015", "key_information_obtained": "Charges [8]"},
+      {"type": "News", "title": "Seattle Times, Timeline: DNA testing helped lead investigators", "url_or_reference": "https://archive.seattletimes.com/archive/20031106/greenline06m/timeline-dna-testing-helped-lead-investigators-to-green-river-killer", "key_information_obtained": "DNA timeline [9]"},
+      {"type": "News", "title": "HeraldNet, Everett father's words draw tears", "url_or_reference": "https://www.heraldnet.com/?p=413384", "key_information_obtained": "Robert Rule [10]"},
+      {"type": "News", "title": "Seattle Times, Ridgway sentenced to life in prison", "url_or_reference": "https://archive.seattletimes.com/archive/20031218/ridgway18m/ridgway-sentenced-to-life-in-prison", "key_information_obtained": "Sentencing [11]"},
+      {"type": "News (AP)", "title": "Lawrence Journal-World, Green River Killer gets life sentence", "url_or_reference": "https://www2.ljworld.com/news/2003/dec/19/green_river_killer/", "key_information_obtained": "48 seconds, judge quotes [12]"},
+      {"type": "News", "title": "HeraldNet, Families, friends speak at hearing", "url_or_reference": "https://heraldnet.com/news/families-friends-speak-at-hearing", "key_information_obtained": "Family statements [13]"},
+      {"type": "News", "title": "NBC News, Green River killer apologizes for crimes", "url_or_reference": "https://www.nbcnews.com/id/wbna3747236", "key_information_obtained": "Apology [14]"},
+      {"type": "News", "title": "Westside Seattle, Green River Killer charged in White Center woman's death (2011)", "url_or_reference": "https://westsideseattle.com/robinson-papers/2011/02/07/green-river-killer-charged-white-center-womans-death", "key_information_obtained": "Marrero [16]"},
+      {"type": "News", "title": "CBS News, Ridgway to plead guilty to 49th murder", "url_or_reference": "https://cbsnews.com/news/gary-ridgway-green-river-killer-to-plead-guilty-to-49th-murder-today", "key_information_obtained": "49th plea [17]"},
+      {"type": "News", "title": "HeraldNet (2011), plea terms and Maleng quote", "url_or_reference": "https://www.heraldnet.com/?p=414429", "key_information_obtained": "Plea terms, Maleng, death penalty abolition [18]"},
+      {"type": "News", "title": "KPTV, Last unidentified victim identified", "url_or_reference": "https://www.kptv.com/2024/01/22/last-known-victim-green-river-killer-identified-40-years-later", "key_information_obtained": "Liles [19]"},
+      {"type": "Lab release", "title": "DNASolves/Othram, King County Tammie Liles", "url_or_reference": "https://dnasolves.com/articles/king-county-tammie-liles/", "key_information_obtained": "Liles method [20]"},
+      {"type": "News", "title": "Kent Reporter, Human remains identified as victim of Green River Killer", "url_or_reference": "https://www.kentreporter.com/news/human-remains-identified-as-victim-of-green-river-killer", "key_information_obtained": "Razpotnik [21]"},
+      {"type": "News", "title": "KIRO 7, Bones found in 1985 identified", "url_or_reference": "https://www.kiro7.com/news/local/bones-found-1985-identified-green-river-killer-victim-after-extensive-dna-research/76LGXEEENNB2TMUGLSO2UUTXFU", "key_information_obtained": "Razpotnik [22]"},
+      {"type": "News", "title": "Kent Reporter, Why the Green River Killer was in King County Jail in September", "url_or_reference": "https://www.kentreporter.com/?p=72730", "key_information_obtained": "2024 transfer [23]"},
+      {"type": "News", "title": "FOX 13 Seattle, Reason for Ridgway's Seattle visit released", "url_or_reference": "https://www.fox13seattle.com/news/reason-gary-ridgway-seattle-visit", "key_information_obtained": "2024 transfer [24]"},
+      {"type": "News", "title": "KOMO, Ridgway returns to Washington State Penitentiary", "url_or_reference": "https://komonews.com/news/local/green-river-killer-gary-ridgway-booked-king-county-jail-murder-life-sentences-dna-confessions-death-penalty-washington-state-penitentiary", "key_information_obtained": "Return to Walla Walla [25]"},
+      {"type": "News", "title": "Seattle Times, Green River victim's brother recalls his early suspicions", "url_or_reference": "https://archive.seattletimes.com/archive/20031224/ridgway24m/green-river-victims-brother-recalls-his-early-suspicions-of-ridgway", "key_information_obtained": "Malvar [26]"},
+      {"type": "News", "title": "Seattle Times, Ridgway stayed cool in interview 19 years ago", "url_or_reference": "https://archive.seattletimes.com/archive/20040210/85interview10m/ridgway-stayed-cool-in-interview-19-years-ago", "key_information_obtained": "Mullinax interview, polygraph [27]"},
+      {"type": "News", "title": "Kent Reporter, Reichert shares details with Kent students (2024)", "url_or_reference": "https://www.kentreporter.com/2024/04/25/reichert-shares-details-of-green-river-killer-case-with-kent-students/", "key_information_obtained": "Reichert, 25 detectives [28]"},
+      {"type": "Secondary", "title": "Crime Library, Green River (routine)", "url_or_reference": "https://crimelibrary.org/serial_killers/predators/greenriver/routine_2.html", "key_information_obtained": "August 15 scene, rafter, Kraske [29]"},
+      {"type": "News", "title": "Seattle Times, Three more charges against Ridgway", "url_or_reference": "https://archive.seattletimes.com/archive/20030328/ridgway28m/three-more-charges-against-ridgway-in-green-river-case", "key_information_obtained": "2003 charges [30]"},
+      {"type": "News", "title": "Seattle Times, Politics shadowed Green River task force", "url_or_reference": "https://archive.seattletimes.com/archive/20011206/taskforce06m/politics-shadowed-green-river-task-force", "key_information_obtained": "Task force history [33]"},
+      {"type": "Secondary", "title": "Crime Library, Green River (learned)", "url_or_reference": "https://crimelibrary.org/serial_killers/predators/greenriver/learned_4.html", "key_information_obtained": "1997 revival [34]"},
+      {"type": "Publisher", "title": "Dark Horse, Jeff Jensen's true tale of the Green River Killer", "url_or_reference": "https://www.darkhorse.com/newsfeed/jeff-jensens-true-tale-green-river-killer/", "key_information_obtained": "Tom Jensen [35]"},
+      {"type": "News", "title": "Seattle Times (1993), Three more Green River victims?", "url_or_reference": "https://archive.seattletimes.com/archive/19930530/1704049/three-more-green-river-victims----missing-women-not-on-public-list", "key_information_obtained": "Jensen sole investigator; Adamson [36]"},
+      {"type": "News", "title": "Seattle Times (2001), Former suspect reports feeling a sense of vindication", "url_or_reference": "https://archive.seattletimes.com/archive/20011203/suspects03m/former-suspect-reports-feeling-a-sense-of-vindication", "key_information_obtained": "Early suspect [38]"},
+      {"type": "News", "title": "Christian Science Monitor (2013), Green River Killer wants to help police", "url_or_reference": "https://www.csmonitor.com/USA/Latest-News-Wires/2013/0918/Green-River-Killer-wants-to-help-police-find-other-victims", "key_information_obtained": "Unfound victims [39]"}
+    ]
+  },
+  "next_video_hook": {"_instructions": "Tease.", "next_topic": "Another solved cold case from the channel's list", "connection_to_current_video": "Preserved evidence that waited for science", "teaser_line": "The next case is waiting."},
+  "notes_and_gaps": {
+    "_instructions": "Unverified items.",
+    "unverified_claims": [
+      "Which three victims were DNA matches: AP [7] says Chapman, Mills, Christensen with Hinds circumstantial; Oxygen [5] says Mills, Chapman, Hinds with Christensen circumstantial. Script follows AP wording only loosely ('three of the four').",
+      "Charges date Dec 4 (AP) vs Dec 5 (KOMO, Oxygen) 2001.",
+      "Mullinax interview year: 1984 per summary of [27]; article headline implies 1985. Script says 'in the mid-1980s' and polygraph 'in 1984'.",
+      "Rafter discovery on August 15 [29]: date link single-sourced; script says only that a man on a raft saw bodies in the river.",
+      "Ridgway birth date, Navy service, ages of Estes and Marrero, Marrero remains found December 2010: BACKGROUND.",
+      "Melvyn Foster's name as the early suspect in [38]: BACKGROUND; script does not name him.",
+      "Claim of up to 71 victims comes from Ridgway himself; unverified.",
+      "The 'I killed so many women' line could not be confirmed and is not used."
+    ],
+    "information_gaps": ["Exact 2001 lab date", "Exact peak size and cost of the task force (figures conflict: 60 vs 125; $30 million only on a conference slide)", "Family quotes for Coffield, Mills, Hinds"],
+    "questions_to_answer": ["Any 2025–2026 development (none found)", "Whether any of the cases Ridgway was taken to search in 2024 produced remains"]
+  }
+}

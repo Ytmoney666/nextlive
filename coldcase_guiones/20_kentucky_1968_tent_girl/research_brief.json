@@ -1,0 +1,239 @@
+{
+  "video_metadata": {
+    "working_title": "KENTUCKY 1968 Cold Case Identified After 30 Years — The Tent Girl Was Barbara Taylor",
+    "topic_one_sentence": "A young woman found wrapped in green canvas beside U.S. 25 near Georgetown, Kentucky, on May 17, 1968, stayed nameless for 30 years until the finder's son-in-law, Todd Matthews, matched her to a sister's online post, and mitochondrial DNA confirmed she was Barbara Ann 'Bobbie' Hackmann Taylor; her killing has never been solved and no one was ever charged.",
+    "primary_emotion_to_evoke": "grief turned into stubborn hope: a nameless woman given back her name by an ordinary man with a computer",
+    "target_length_minutes": "70-75 (about 12,500 words at 170 wpm)"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Barbara Ann 'Bobbie' Hackmann Taylor (the victim, known for 30 years only as 'Tent Girl'); story hero: J. Todd Matthews",
+    "age_at_time_of_events": "24 when she disappeared in late 1967 (born September 12, 1943). In 1968 investigators estimated her age at 16 to 19.",
+    "occupation_or_status": "Young wife and mother of an infant daughter, recently moved from Illinois to Lexington, Kentucky, with her husband George Earl Taylor, a carnival worker.",
+    "location": "Lexington, Kentucky (last known residence, late 1967); body found beside U.S. Route 25 near its intersection with Interstate 75, north of Georgetown, Scott County, Kentucky.",
+    "physical_description": "1968 description: about 5 feet 1 inch, about 110 to 115 pounds, reddish-brown hair, estimated 16 to 19 years old. Re-examination in 1998 by forensic anthropologist Dr. Emily Craig estimated 20 to 30.",
+    "background_brief": "Born in Illinois on September 12, 1943; grew up in the East St. Louis / Collinsville area of Illinois in a large family with six siblings (secondary source). In 1967 she moved to Kentucky with her husband without telling her family in Illinois. She had an eight-month-old daughter when she vanished.",
+    "psychological_profile": "No documented personal statements survive in the sources found. Her sister Rosemary kept searching for her for three decades.",
+    "mundane_humanizing_detail": "Her family called her Bobbie. Her sister Rosemary Westbrook was still posting online appeals for her in 1997-1998.",
+    "nickname_or_alias_if_any": "Bobbie; 'Tent Girl' (name given by press and public because of the tent-like canvas she was wrapped in)"
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {"name": "Barbara Ann 'Bobbie' Hackmann Taylor", "role_or_profession": "Young mother", "connection_to_protagonist": "The victim", "specific_impact_suffered": "Killed in late 1967 or early 1968; body left in canvas beside a highway; buried nameless for 30 years", "humanizing_detail": "Mother of an infant daughter; one of seven children", "any_quotes_from_them": "None documented"},
+      {"name": "Infant daughter of Barbara Taylor (name withheld)", "role_or_profession": "[MENOR] in 1967, about eight months old", "connection_to_protagonist": "Barbara's daughter", "specific_impact_suffered": "Grew up without her mother; told by her father's side that her mother had left", "humanizing_detail": "Not named in the script for privacy", "any_quotes_from_them": "None used"},
+      {"name": "Rosemary Westbrook", "role_or_profession": "Barbara's sister, of Benton, Arkansas", "connection_to_protagonist": "Sister who never stopped looking", "specific_impact_suffered": "Spent three decades not knowing; posted online appeals; gave the DNA reference sample", "humanizing_detail": "Her online listing described her sister in terms that matched the details carved on the Tent Girl's headstone", "any_quotes_from_them": "No verified direct quote found"},
+      {"name": "Jan Daigle and Marie Copeland", "role_or_profession": "Barbara's sisters (Placerville, California; Arundel, Maine)", "connection_to_protagonist": "Surviving sisters listed in 1998 coverage", "specific_impact_suffered": "Lost a sister without knowing it for 30 years", "humanizing_detail": "Family spread across the country by 1998", "any_quotes_from_them": "None found"}
+    ],
+    "collective_victims_if_applicable": {"group_description": "Families of the missing and the unidentified dead in the United States", "total_number_affected": "Not quantified in our sources", "range_of_impacts": "Decades without answers; the Doe Network and NamUs were built to close that gap"}
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Wilbur Riddle", "role_in_story": "Found the body on May 17, 1968", "key_actions_they_took": "While collecting old glass insulators along U.S. 25 north of Georgetown, found a bundle of heavy green canvas containing the body of a young woman and alerted authorities. Described in accounts as a well driller by trade (secondary).", "notable_quotes": "None verified"},
+      {"name": "J. Todd Matthews", "role_in_story": "Riddle's son-in-law; amateur investigator who identified her", "key_actions_they_took": "Heard the story on Halloween night 1987 at 17 from Lori Riddle; married Lori (1988 per one source); researched for about a decade, at first in person; built a Tent Girl website in 1997; in January 1998 (some accounts say February) found Rosemary Westbrook's post and emailed her; later co-founded the Doe Network and worked at NamUs", "notable_quotes": "'It took 30 years, and ultimately, I was called to the Department of Justice to develop the NamUs program in 2007.' (NBC)"},
+      {"name": "Lori Riddle Matthews", "role_in_story": "Wilbur Riddle's daughter; Todd's wife", "key_actions_they_took": "Told Todd and friends the story of the body her father found, on Halloween night 1987", "notable_quotes": "None verified"},
+      {"name": "George Earl Taylor", "role_in_story": "Barbara's husband; carnival worker; described by sources as the prime suspect", "key_actions_they_took": "Did not report her missing; told her family she had left him for another man", "notable_quotes": "None verified. Died of cancer in October 1987. Never charged, never tried, never convicted."},
+      {"name": "Dr. Emily Craig", "role_in_story": "Kentucky forensic anthropologist", "key_actions_they_took": "Examined the exhumed remains in Frankfort in March 1998; estimated age at death 20 to 30", "notable_quotes": "None verified"},
+      {"name": "Kenneth Grant", "role_in_story": "Deputy coroner, 1968", "key_actions_they_took": "Preliminary examination at St. Joseph Hospital (single secondary source)", "notable_quotes": "None"},
+      {"name": "Dr. Frank Cleveland", "role_in_story": "Pathologist/coroner, 1968", "key_actions_they_took": "Full autopsy: slight discoloration of the skull, no poisons found; cause of death reported differently by sources (single secondary source)", "notable_quotes": "None"},
+      {"name": "Scott County Sheriff's Office", "role_in_story": "Agency that announced the identification", "key_actions_they_took": "Announced on April 23, 1998, that the Tent Girl was Barbara Ann Hackmann Taylor", "notable_quotes": "None verified"},
+      {"name": "Tracie LeFevre", "role_in_story": "Herald-Citizen (Cookeville, Tennessee) reporter", "key_actions_they_took": "Reported on Matthews and the April 25, 1998 funeral", "notable_quotes": "'That search concluded only yesterday in Georgetown, Ky., at the funeral of Barbara Hackmann Taylor.'"}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "1943-09-12", "location": "Illinois", "what_happened": "Barbara Ann Hackmann born", "significance": "Victim's real age at death: 24", "source": "[1] Wikipedia, Barbara Ann Hackmann Taylor"},
+      {"date": "1967 (earlier in the year)", "location": "Illinois to Kentucky", "what_happened": "Barbara moves to Kentucky with husband George Earl Taylor, a carnival worker, without informing her family in Illinois", "significance": "Family loses track of her", "source": "[1] Wikipedia; [16] Medium summary"},
+      {"date": "c. 1967-12-06 (late 1967)", "location": "Lexington, Kentucky", "what_happened": "Barbara disappears; she has an eight-month-old daughter. Her husband files no missing-person report and tells her family she left him for another man", "significance": "No record exists to connect her to the body found later", "source": "[1] Wikipedia; [2] CBS News"},
+      {"date": "1968-05-17", "location": "U.S. Route 25 near I-75, north of Georgetown, Scott County, KY", "what_happened": "Wilbur Riddle, collecting glass insulators, finds the body of a young woman wrapped in heavy green canvas like a tent", "significance": "Start of the 30-year mystery", "source": "[1] Wikipedia; [3] Herald-Citizen 1998; [6] Anomaly Info"},
+      {"date": "May 1968", "location": "St. Joseph Hospital, Lexington; autopsy", "what_happened": "Preliminary exam by deputy coroner Kenneth Grant; autopsy by Dr. Frank Cleveland finds slight discoloration of the skull and no poisons; cause of death reported variously as asphyxia after a blow to the head, or undetermined; ruled a homicide", "significance": "Estimated age 16-19, 5 ft 1 in, 110-115 lb, reddish-brown hair", "source": "[6] Anomaly Info (single secondary source for names); [1] Wikipedia for description"},
+      {"date": "after 1968 (year varies by source)", "location": "Georgetown Cemetery, county-owned section", "what_happened": "Buried as an unknown under a donated headstone bearing a police-sketch likeness and the words TENT GIRL with estimated age, height and weight", "significance": "The stone's description later matched her sister's post", "source": "[1] Wikipedia; [5] Find a Grave; [2] CBS"},
+      {"date": "1987-10", "location": "not specified", "what_happened": "George Earl Taylor dies of cancer", "significance": "Dies more than ten years before his wife is identified; never charged", "source": "[1] Wikipedia; [16] Medium summary"},
+      {"date": "1987-10-31", "location": "Tennessee", "what_happened": "Todd Matthews, 17, hears the Tent Girl story from Lori Riddle, Wilbur Riddle's daughter, on Halloween night", "significance": "Beginning of a decade-long search", "source": "[11] Ranker timeline; [4] NBC"},
+      {"date": "1988 (late 1980s)", "location": "Tennessee", "what_happened": "Todd Matthews marries Lori Riddle", "significance": "Riddle becomes his father-in-law", "source": "[11] Ranker (1988); [1] Wikipedia (late 1980s)"},
+      {"date": "1997", "location": "Livingston, Tennessee", "what_happened": "Matthews creates a website dedicated to the Tent Girl", "significance": "Moves the search onto the internet", "source": "[11] Ranker; [7] The Line Up"},
+      {"date": "January 1998 (some accounts: February)", "location": "Internet", "what_happened": "Matthews finds a missing-person listing posted by Rosemary Westbrook of Benton, Arkansas, about her sister; the description matches the details on the Tent Girl's headstone; he emails her", "significance": "The breakthrough", "source": "[2] CBS News; [12] Oxygen"},
+      {"date": "1998-03-02", "location": "Georgetown Cemetery; laboratory in Frankfort, KY", "what_happened": "Remains exhumed and examined by forensic anthropologist Dr. Emily Craig, who estimates age 20 to 30", "significance": "Opens the way to DNA comparison", "source": "[6] Anomaly Info; [1] Wikipedia (March 1998)"},
+      {"date": "March-April 1998", "location": "Laboratory in the Raleigh-Durham area, North Carolina", "what_happened": "Bone and teeth compared with a saliva/cheek sample from Rosemary Westbrook; mitochondrial DNA comparison reported as a match", "significance": "Scientific confirmation", "source": "[2] CBS News; [6] Anomaly Info; mitochondrial method per secondary summaries (to verify)"},
+      {"date": "1998-04-23", "location": "Scott County, Kentucky", "what_happened": "Scott County Sheriff's Office announces the Tent Girl is Barbara Ann Hackmann Taylor", "significance": "30 years after discovery; one source gives April 22", "source": "[1] Wikipedia"},
+      {"date": "1998-04-25", "location": "Georgetown, Kentucky", "what_happened": "Funeral of Barbara Hackmann Taylor; she is reburied in Georgetown Cemetery; new marker with her name, original TENT GIRL stone kept with a base added beneath; family leaves the Taylor surname off the new stone", "significance": "Her name restored", "source": "[3] Herald-Citizen, April 26, 1998; [1] Wikipedia; [5] Find a Grave"},
+      {"date": "1999", "location": "Internet", "what_happened": "The Doe Network begins as a website; becomes a volunteer organization in 2001 and a 501(c) nonprofit on July 29, 2011; Matthews is described as a co-founder", "significance": "Legacy of the case", "source": "[8] Doe Network About; [9] Doe Network bio"},
+      {"date": "2007", "location": "U.S. Department of Justice", "what_happened": "Matthews says he was called to the Department of Justice to help develop NamUs", "significance": "National database for missing and unidentified persons", "source": "[4] NBC"},
+      {"date": "2011-early 2020", "location": "NamUs / UNT Health Science Center", "what_happened": "Matthews joins NamUs management in 2011, later director of case management and communications; let go in early 2020", "significance": "From factory worker to national program", "source": "[9] Doe Network bio; [10] Undark"},
+      {"date": "2018-02", "location": "Television", "what_happened": "Investigation Discovery series 'Who Killed Jane Doe?' airs an episode on the Tent Girl", "significance": "Renewed attention", "source": "[14] News-Graphic; [15] IMDb"},
+      {"date": "As of October 2026", "location": "Kentucky", "what_happened": "No one has ever been charged; the homicide remains officially unsolved; the man described as the prime suspect died in 1987", "significance": "Identification without justice", "source": "[1] Wikipedia; [2] CBS; no later news of charges found"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {"exact_date": "May 17, 1968", "exact_location": "Roadside of U.S. Route 25 near Interstate 75, north of Georgetown, Kentucky", "what_is_happening": "Wilbur Riddle, looking for old glass telephone-line insulators, finds a heavy bundle of green canvas; inside is the body of a young woman", "what_makes_it_shocking": "No one reports her missing; no one claims her; she is buried as TENT GIRL for 30 years", "ironic_twist": "The man who finally named her was the finder's own son-in-law, who first heard the story as a Halloween tale at 17"},
+    "central_mystery_question": "Who was the girl in the tent, and why did no one come looking for her for 30 years?"
+  },
+  "the_method": {
+    "_instructions": "How was the case finally resolved? Technical details for a general audience.",
+    "technique_name": "Amateur internet comparison of missing and unidentified listings, confirmed by exhumation and mitochondrial DNA comparison with a sister",
+    "step_by_step_explanation": [
+      "Matthews gathered the known description of the Tent Girl (age estimate, height, weight, hair, date and place found).",
+      "In 1997 he built a website about her and searched early online missing-person listings.",
+      "In January 1998 he found a post by Rosemary Westbrook describing her sister who vanished from Lexington in late 1967.",
+      "He emailed Westbrook; her description matched the details on the headstone.",
+      "Authorities exhumed the remains on March 2, 1998; Dr. Emily Craig re-examined them.",
+      "Bone and teeth were compared with a cheek or saliva sample from Westbrook; the DNA matched.",
+      "On April 23, 1998, the Scott County Sheriff's Office announced the identification."
+    ],
+    "why_it_worked": "For the first time, the description of an unknown body and the description of a missing woman were both public and searchable in the same place; one person read both.",
+    "technical_terms_to_explain": [
+      {"term": "Mitochondrial DNA", "simple_explanation": "Small rings of DNA in the energy-making parts of cells, passed almost unchanged from a mother to all her children, so sisters share the same sequence; it survives well in old bone and teeth because each cell holds many copies."},
+      {"term": "Exhumation", "simple_explanation": "Lifting a buried body from the grave with legal permission for examination."},
+      {"term": "Forensic anthropologist", "simple_explanation": "A scientist who reads age, sex and history from bones."}
+    ],
+    "scale_of_operation": "One man, one computer, one email, one sister; roughly ten years of private effort"
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed?",
+    "institution_that_failed": "The 1960s-1990s missing and unidentified persons system as a whole",
+    "how_they_were_supposed_to_protect": "Missing-person reports and descriptions of unknown dead were supposed to be compared so families could find their loved ones",
+    "why_they_failed": "No missing-person report was filed for Barbara; there was no national, public, searchable database matching unidentified remains to missing adults; the age estimate (16-19) was well below her real age (24); the estimated time of death was shorter than the months she had actually been missing",
+    "specific_incompetence_examples": [
+      "No missing-person report was ever filed by her husband",
+      "Age estimate 16-19 versus real age 24",
+      "30 years between discovery and identification",
+      "Identification came from a volunteer, not from an official system"
+    ],
+    "ironic_details_about_the_failure": "Barbara disappeared from Lexington, about a dozen miles from where she was found, yet stayed nameless for 30 years."
+  },
+  "the_investigation": {
+    "_instructions": "How was the case resolved?",
+    "investigating_agency": "Scott County authorities (coroner and sheriff); Kentucky forensic anthropologist in 1998",
+    "operation_code_name_if_any": "None",
+    "when_investigation_began": "May 17, 1968",
+    "initial_wrong_assumptions": "Estimated age 16-19; estimated recent time of death",
+    "key_breakthrough": "Rosemary Westbrook's online listing found by Todd Matthews in January 1998",
+    "the_fatal_mistake": "Not applicable; no one charged",
+    "how_long_until_caught": "Victim identified after 30 years; killer never identified in court"
+  },
+  "the_confrontation": {
+    "_instructions": "The climactic moment.",
+    "date_and_time": "April 23, 1998 (announcement); April 25, 1998 (funeral)",
+    "location": "Scott County / Georgetown, Kentucky",
+    "scene_description": "Announcement that the Tent Girl had a name; funeral in Georgetown two days later",
+    "protagonist_reaction": "Not documented in verified quotes",
+    "ironic_or_absurd_details": "The original TENT GIRL headstone was kept, with a new marker bearing her real name added beneath it"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": [],
+    "trial_date_if_applicable": "None",
+    "notable_court_testimony": "None",
+    "victim_impact_statements": [],
+    "sentence_received": "None",
+    "protagonist_statement_in_court": "None",
+    "current_status": "Unsolved homicide. George Earl Taylor, described by sources as the prime suspect, died of cancer in October 1987 and was never charged, tried or convicted; he is presumed innocent. No later charges reported as of October 2026."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Todd Matthews", "exact_quote": "It took 30 years, and ultimately, I was called to the Department of Justice to develop the NamUs program in 2007.", "context": "Interview about how the Tent Girl case led to his national work", "source": "[4] NBC Philadelphia"},
+      {"speaker": "Tracie LeFevre, Herald-Citizen (narration)", "exact_quote": "That search concluded only yesterday in Georgetown, Ky., at the funeral of Barbara Hackmann Taylor.", "context": "April 26, 1998 article on Matthews", "source": "[3] Herald-Citizen via archive"},
+      {"speaker": "Headstone inscription", "exact_quote": "TENT GIRL", "context": "Words on the donated stone over the unknown grave", "source": "[1] Wikipedia; [5] Find a Grave"},
+      {"speaker": "NBC headline", "exact_quote": "Solving 'Tent Girl' Case, Factory Worker Turns Missing Persons Expert", "context": "Headline of NBC profile of Matthews", "source": "[4] NBC Philadelphia"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers.",
+    "figures": [
+      {"number": "30 years", "what_it_represents": "From discovery (May 17, 1968) to identification (April 1998)", "source": "[1]"},
+      {"number": "24", "what_it_represents": "Barbara's real age at disappearance", "source": "[1]"},
+      {"number": "16 to 19", "what_it_represents": "1968 age estimate", "source": "[1] [6]"},
+      {"number": "20 to 30", "what_it_represents": "1998 age estimate by Dr. Emily Craig", "source": "[6]"},
+      {"number": "5 ft 1 in; 110-115 lb", "what_it_represents": "Height and weight estimate", "source": "[6] [1]"},
+      {"number": "8 months", "what_it_represents": "Age of her daughter when she disappeared", "source": "[1]"},
+      {"number": "17", "what_it_represents": "Todd Matthews's age when he first heard the story (Halloween 1987)", "source": "[11]"},
+      {"number": "27", "what_it_represents": "Matthews's age in April 1998 (CBS gives 28)", "source": "[3] [2]"},
+      {"number": "about 10 years", "what_it_represents": "Matthews's search", "source": "[3]"},
+      {"number": "October 1987", "what_it_represents": "Death of George Earl Taylor, more than 10 years before the identification", "source": "[1]"},
+      {"number": "6 siblings", "what_it_represents": "Barbara's siblings (secondary)", "source": "[16]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "She vanished from Lexington, about a dozen miles from where she was found.",
+      "Investigators thought she was a teenager; she was a 24-year-old mother.",
+      "The finder's future son-in-law first heard the story as a Halloween tale.",
+      "The headstone that hid her name also carried the description that helped restore it.",
+      "The man described as the prime suspect had been dead for more than ten years when she was identified."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details for visualizing.",
+    "key_locations": [
+      {"location_name": "U.S. 25 near I-75, north of Georgetown, KY", "physical_description": "Roadside along an old highway near the then-new interstate", "atmosphere": "Ordinary rural roadside in May", "relevant_details": "Old telephone poles with glass insulators drew Riddle there"},
+      {"location_name": "Georgetown Cemetery", "physical_description": "Historic cemetery; county-owned section", "atmosphere": "Quiet", "relevant_details": "Original TENT GIRL stone with sketch remains; new marker with her name added beneath"},
+      {"location_name": "Lexington, KY", "physical_description": "City about a dozen miles south of Georgetown", "atmosphere": "Bluegrass region", "relevant_details": "Last known residence of Barbara and George Earl Taylor in late 1967"},
+      {"location_name": "Livingston, Tennessee", "physical_description": "Small town in Overton County", "atmosphere": "Small-town", "relevant_details": "Home of Todd Matthews in 1998"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "Thousands of unidentified people are still waiting for names; anyone can help",
+    "how_this_could_happen_to_them": "If no one files a report, a person can disappear from every record",
+    "lesson_or_warning": "A name matters; a missing-person report matters; public databases work",
+    "current_relevance": "The Doe Network and NamUs, both tied to Matthews, are still used by families and investigators"
+  },
+  "sources": {
+    "_instructions": "List ALL sources.",
+    "primary_sources": [
+      {"type": "Newspaper 1998", "title": "Livingston man identifies Tent Girl (Herald-Citizen, Tracie LeFevre, April 26, 1998)", "url_or_reference": "https://www.angelfire.com/tn3/campbell_doe/HC.html", "key_information_obtained": "Matthews 27, about a decade of searching, funeral in Georgetown on April 25, 1998"},
+      {"type": "News", "title": "The Story Of Tent Girl - CBS News", "url_or_reference": "https://www.cbsnews.com/news/the-story-of-tent-girl/", "key_information_obtained": "January email to Westbrook, DNA from teeth and bones vs. saliva, Earl Taylor told family she left; suspicions"},
+      {"type": "News", "title": "Solving 'Tent Girl' Case, Factory Worker Turns Missing Persons Expert (NBC)", "url_or_reference": "https://www.nbcphiladelphia.com/news/local/namus-todd-matthews-tent-girl-barbara-ann-hackman/116308/", "key_information_obtained": "Matthews quote on NamUs 2007"},
+      {"type": "Organization", "title": "Doe Network - About", "url_or_reference": "https://www.doenetwork.org/about.php", "key_information_obtained": "1999 website, 2001 volunteer org, July 29, 2011 nonprofit"},
+      {"type": "Organization", "title": "Doe Network - J. Todd Matthews bio", "url_or_reference": "https://www.doenetwork.org/ToddBio.html", "key_information_obtained": "NamUs roles, 2011 joining"},
+      {"type": "Local newspaper", "title": "Tent Girls just tip of iceberg for Matthews (Georgetown News-Graphic)", "url_or_reference": "https://www.news-graphic.com/opinion/columnists/tent-girls-just-tip-of-iceberg-for-matthews/article_c684e958-4016-11e3-b0f4-001a4bcf887a.html", "key_information_obtained": "Local perspective on Matthews"}
+    ],
+    "secondary_sources": [
+      {"type": "Encyclopedia", "title": "Barbara Ann Hackmann Taylor (Wikipedia)", "url_or_reference": "https://en.wikipedia.org/wiki/Barbara_Ann_Hackmann_Taylor", "key_information_obtained": "Dates, description, suspect, burial, April 23, 1998 announcement"},
+      {"type": "Memorial", "title": "Find a Grave memorial 7468", "url_or_reference": "https://www.findagrave.com/memorial/7468/barbara_ann-hackmann", "key_information_obtained": "Grave and markers"},
+      {"type": "Article", "title": "1968, May 17: Tent Girl (Anomaly Info)", "url_or_reference": "http://anomalyinfo.com/Stories/1968-may-17-tent-girl", "key_information_obtained": "Autopsy names, March 2, 1998 exhumation, Dr. Emily Craig, Raleigh-Durham lab"},
+      {"type": "Article", "title": "A Body in Kentucky: The 30-Year-Long Mystery of Tent Girl (The Line Up / HuffPost)", "url_or_reference": "https://the-line-up.com/tent-girl", "key_information_obtained": "Narrative overview"},
+      {"type": "Article", "title": "Tent Girl timeline (Ranker)", "url_or_reference": "https://www.ranker.com/list/tent-girl-timeline/jodi-smith", "key_information_obtained": "Halloween 1987, marriage 1988, website 1997"},
+      {"type": "Article", "title": "Who Was The First Internet Sleuth? (Oxygen)", "url_or_reference": "https://www.oxygen.com/crime-time/who-is-todd-matthews-how-did-internet-sleuthing-start", "key_information_obtained": "Internet sleuthing context"},
+      {"type": "News", "title": "Uncertain future for key missing persons database (Undark, 2020)", "url_or_reference": "https://undark.org/2020/12/15/uncertain-future-for-key-missing-persons-database/", "key_information_obtained": "Matthews let go from NamUs in early 2020"},
+      {"type": "Local newspaper", "title": "'Tent Girl' documentary to air Tuesday (News-Graphic, 2018)", "url_or_reference": "https://www.news-graphic.com/news/tent-girl-documentary-to-air-tuesday/article_7ac9205c-fd5d-11e7-9917-2347ee37b16c.html", "key_information_obtained": "2018 TV episode"},
+      {"type": "Database", "title": "Who Killed Jane Doe? The Tent Girl (IMDb)", "url_or_reference": "https://www.imdb.com/title/tt7559982/plotsummary/", "key_information_obtained": "2018 episode"},
+      {"type": "Blog", "title": "The Mystery of Tent Girl (Medium)", "url_or_reference": "https://medium.com/@chelsealynnqueen94/the-mystery-of-tent-girl-the-identification-of-barbara-ann-hackmann-taylor-bf208264d5f8", "key_information_obtained": "Illinois upbringing, six siblings, October 1987 death of cancer (cross-check only)"},
+      {"type": "Magazine", "title": "Who Are You? NamUs helps law enforcement identify the unidentifiable (KLE Magazine, 2017)", "url_or_reference": "https://www.klemagazine.com/blog/2017/2/10/who-are-you-namus-helps-law-enforcement-identify-the-unidentifiable", "key_information_obtained": "NamUs origin linked to a Scott County case"},
+      {"type": "Background", "title": "FBI National Crime Information Center (NCIC)", "url_or_reference": "https://www.fbi.gov/services/cjis/ncic", "key_information_obtained": "General context: NCIC began in 1967; unidentified person file added later (background knowledge)"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "Another unidentified-victim case solved by volunteers and DNA",
+    "connection_to_current_video": "The Doe Network and NamUs legacy",
+    "teaser_line": "Next time, another name that waited decades to be spoken."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Riddle's trade as a well driller (stated in brief from producer; not confirmed by search snippets)",
+      "Mitochondrial DNA as the exact method (only secondary summaries; consistent with sibling comparison)",
+      "Autopsy names Kenneth Grant and Dr. Frank Cleveland and cause-of-death wording (single secondary source)",
+      "Exact date of disappearance (c. December 6, 1967 per Wikipedia)",
+      "Year of the original burial (1968 vs 1971 in different accounts)",
+      "Number of children (one infant daughter vs three in some accounts)",
+      "Marriage year of Todd and Lori (1988 vs late 1980s)",
+      "Announcement date April 23 vs April 22, 1998",
+      "Month of first contact: January vs February 1998"
+    ],
+    "information_gaps": [
+      "No verified direct quotes from Rosemary Westbrook or Wilbur Riddle",
+      "Wilbur Riddle's date of death",
+      "Who paid for the original headstone"
+    ],
+    "questions_to_answer": [
+      "Has the Scott County Sheriff's Office or Kentucky State Police made any statement on the homicide after 1998?"
+    ]
+  }
+}

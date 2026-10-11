@@ -1,0 +1,274 @@
+{
+  "video_metadata": {
+    "working_title": "CALIFORNIA 1985 Cold Case Solved After 25 Years — Justice for the Lost Women of South LA",
+    "topic_one_sentence": "How ten murders of Black women and girls in South Los Angeles (1985–2007) and the survival of Enietra Washington were finally tied to one man through California's familial DNA program and a pizza crust collected by an undercover officer, and why the community says police took far too long.",
+    "primary_emotion_to_evoke": "grief turning into quiet outrage at a system that did not warn the women at risk, then bittersweet justice",
+    "target_length_minutes": "70"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Lonnie David Franklin Jr. (convicted; died on death row 2020)",
+    "age_at_time_of_events": "Born 1952 (background; consistent with reported ages 57 at arrest in 2010, 63 at conviction in 2016, 67 at death in 2020) [NBC News 2010; AP 2016; CDCR 2020]",
+    "occupation_or_status": "Former City of Los Angeles sanitation worker (garbage collector) and onetime garage attendant for the Los Angeles Police Department; neighbors knew him as a mechanic who worked on cars in his driveway [AP via Inquirer.net 2016; NBC News 2010]",
+    "location": "A house on 81st Street in South Los Angeles [NBC News 2010]",
+    "physical_description": "Not used in script beyond public mugshots; Enietra Washington's 1988 description was challenged by the defense on height and pock-marks [ABC7 2016]",
+    "background_brief": "Served in the U.S. Army in Germany; in 1974 near Stuttgart he and two other soldiers attacked a 17-year-old girl, and a German court convicted all three men (penalty-phase testimony, 2016) [ABC7 2016; AP 2016]. General discharge 1975 (single-sourced, fan wiki; not used).",
+    "psychological_profile": "Not speculated. Prosecutor Beth Silverman told jurors the murders 'followed a pattern' and that he targeted women made vulnerable by the crack-cocaine epidemic [AP via Inquirer.net 2016].",
+    "mundane_humanizing_detail": "To neighbors he was a friendly mechanic who often stopped to chat as he tinkered with cars in the driveway of his mint-green house on 81st Street [NBC News 2010].",
+    "nickname_or_alias_if_any": "'Grim Sleeper', coined by LA Weekly reporter Christine Pelisek in 2008 because of the apparent 13-to-14-year gap between 1988 and 2002 [KQED; Pelisek; Wikipedia]"
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {"name": "Debra Jackson", "role_or_profession": "Woman of South LA, age 29", "connection_to_protagonist": "First of the ten murders he was convicted of", "specific_impact_suffered": "Killed; found August 10, 1985", "humanizing_detail": "Limited public detail found", "any_quotes_from_them": ""},
+      {"name": "Henrietta Wright", "role_or_profession": "Age 34 (AP) or 35 (other outlets)", "connection_to_protagonist": "Convicted murder count", "specific_impact_suffered": "Killed August 1986", "humanizing_detail": "Her niece Irene Ephriam attended the verdict", "any_quotes_from_them": ""},
+      {"name": "Barbara Ware", "role_or_profession": "Age 23", "connection_to_protagonist": "Convicted murder count", "specific_impact_suffered": "Killed January 1987", "humanizing_detail": "Diana Ware, reported as her mother, spoke after the verdict", "any_quotes_from_them": ""},
+      {"name": "Bernita Sparks", "role_or_profession": "Age 26", "connection_to_protagonist": "Convicted murder count", "specific_impact_suffered": "Shot once in the chest; found in a trash bin, April 1987, in the same alley where Janecia Peters was found 20 years later", "humanizing_detail": "Limited public detail found", "any_quotes_from_them": ""},
+      {"name": "Mary Lowe", "role_or_profession": "Age 26", "connection_to_protagonist": "Convicted murder count", "specific_impact_suffered": "Shot and beaten; found behind a large shrub in an alley, November 1987", "humanizing_detail": "Limited public detail found", "any_quotes_from_them": ""},
+      {"name": "Lachrica Jefferson", "role_or_profession": "Age 22", "connection_to_protagonist": "Convicted murder count", "specific_impact_suffered": "Killed January 1988", "humanizing_detail": "Limited public detail found", "any_quotes_from_them": ""},
+      {"name": "Alicia 'Monique' Alexander", "role_or_profession": "Age 18", "connection_to_protagonist": "Convicted murder count", "specific_impact_suffered": "Found under a mattress in an alley, September 1988", "humanizing_detail": "Daughter of Porter Alexander Jr. and Mary Alexander, who attended the trial", "any_quotes_from_them": ""},
+      {"name": "Enietra Washington", "role_or_profession": "Survivor, about 30 in 1988, 57 at trial", "connection_to_protagonist": "Attempted murder count; key prosecution witness", "specific_impact_suffered": "November 20, 1988: accepted a ride in an orange Ford Pinto, was shot in the chest, sexually assaulted, photographed and pushed out of the car", "humanizing_detail": "Told her attacker that if she died she would haunt him", "any_quotes_from_them": "Called him 'a piece of evil' at sentencing (AP); '100 percent' certain identification (ABC7)"},
+      {"name": "Princess Berthomieux [MINOR, 15]", "role_or_profession": "Girl of 15 in foster care", "connection_to_protagonist": "Convicted murder count", "specific_impact_suffered": "Strangled; found in an Inglewood alley, March 2002 (March 9 or 19, sources differ)", "humanizing_detail": "Foster sister Samara Herard spoke after the death verdict", "any_quotes_from_them": ""},
+      {"name": "Valerie McCorvey", "role_or_profession": "Age 35, mother of one", "connection_to_protagonist": "Convicted murder count", "specific_impact_suffered": "Strangled, July 2003", "humanizing_detail": "Mother of one child", "any_quotes_from_them": ""},
+      {"name": "Janecia Peters", "role_or_profession": "Age 25", "connection_to_protagonist": "Convicted murder count; her case triggered the 2007 DNA link and task force", "specific_impact_suffered": "Shot in the back; found inside a sealed plastic garbage bag in a trash bin in an alley on January 1, 2007", "humanizing_detail": "Detectives visited her mother but did not tell her the case was linked to a serial killer (Pelisek)", "any_quotes_from_them": ""}
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "Black women and girls of South Los Angeles, many affected by poverty and the crack epidemic; plus women whose photos were found in his home and uncharged deaths presented at the penalty phase",
+      "total_number_affected": "10 murders + 1 attempted murder convicted; 3 more deaths (Georgia Mae Thomas 43, Sharon Dismuke 21, Inez Warren 28) presented at penalty phase without charges; 2 missing women (Ayellah Marshall 18, Rolenia Morris 29) whose ID cards were found in his garage; about 180 photos of about 160 women released in Dec 2010",
+      "range_of_impacts": "Murder, survival with lifelong trauma, families waiting up to 31 years"
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Det. Dennis Kilcoyne", "role_in_story": "LAPD detective who led the 2007 task force", "key_actions_they_took": "Ran the investigation from 2007; publicly described the failed 2008 familial search and the 2010 hit; said several serial killers operated in the same area in the 1980s", "notable_quotes": "'learned of a man that as we know now turned out to be a direct relative of our suspect' (Stanford Law blog, 2010)"},
+      {"name": "Christine Pelisek", "role_in_story": "LA Weekly reporter", "key_actions_they_took": "Revealed the secret task force in August 2008, coined 'Grim Sleeper', reported that families had not been told", "notable_quotes": ""},
+      {"name": "Margaret Prescod", "role_in_story": "Founder of the Black Coalition Fighting Back Serial Murders (1986)", "key_actions_they_took": "Weekly protests at LAPD headquarters; pushed reward increase; decades of criticism", "notable_quotes": "'We are saddened that Lonnie Franklin died without providing information on the scores of women he killed.' (KPFK, 2020)"},
+      {"name": "Jerry Brown", "role_in_story": "California Attorney General 2007–2011", "key_actions_they_took": "Adopted the first state familial DNA search policy (2008)", "notable_quotes": "'In the face of a multitude of objections, we've crafted a balanced policy to respect the rights of citizens and at the same time deploy the most powerful DNA search technology available' (CA OAG, 2010)"},
+      {"name": "Beth Silverman", "role_in_story": "Deputy District Attorney, prosecutor", "key_actions_they_took": "Tried the case 2016; chose not to add uncharged killings to avoid more delay", "notable_quotes": "The murders 'followed a pattern' (AP, Feb 2016)"},
+      {"name": "Seymour Amster", "role_in_story": "Defense attorney", "key_actions_they_took": "Challenged DNA and ballistics, suggested other attackers, sought a new trial", "notable_quotes": ""},
+      {"name": "Judge Kathleen Kennedy", "role_in_story": "Los Angeles Superior Court judge", "key_actions_they_took": "Denied new trial; imposed death sentence Aug 10, 2016", "notable_quotes": "'This is not a sentence of vengeance.' (AP, 2016)"},
+      {"name": "Porter Alexander Jr. and Mary Alexander", "role_in_story": "Parents of Alicia Alexander", "key_actions_they_took": "Attended trial", "notable_quotes": "'He took my baby' (CSM); 'We got what we came to get, a just verdict' / 'I'm glad I lived to see it. It's a long time coming.' (AP); Mary: 'It didn't come when I wanted but it came right on time' (AP)"},
+      {"name": "Christopher Franklin", "role_in_story": "Son of Lonnie Franklin Jr.", "key_actions_they_took": "Convicted on a felony weapons charge in 2009; his DNA in the state database produced the familial lead. He was not involved in the murders.", "notable_quotes": ""},
+      {"name": "Ingrid W.", "role_in_story": "German woman attacked in 1974", "key_actions_they_took": "Testified at the 2016 penalty phase", "notable_quotes": ""}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "1974", "location": "Near Stuttgart / Ludwigsburg, West Germany", "what_happened": "Franklin, a U.S. soldier, and two other men attacked a 17-year-old girl; a German court convicted all three", "significance": "Earliest known violent crime; presented at 2016 penalty phase", "source": "ABC7, 'Woman testifies about 1974 gang rape involving Grim Sleeper' (2016)"},
+      {"date": "1985-08-10", "location": "South Los Angeles", "what_happened": "Debra Jackson, 29, found dead", "significance": "First of the ten convicted murders", "source": "AP list via Fox News 'Women who died at the hands of the Grim Sleeper'"},
+      {"date": "1985-09", "location": "Los Angeles", "what_happened": "LAPD press conference on a series of South LA killings; department criticized for not alerting the community earlier", "significance": "Start of community criticism", "source": "Wikipedia 'Grim Sleeper' summarizing LA Times coverage; LA Times via prostitutescollective.net"},
+      {"date": "1986", "location": "Los Angeles", "what_happened": "Margaret Prescod founds the Black Coalition Fighting Back Serial Murders; weekly protests at LAPD headquarters; reward raised from $10,000 to $25,000 in March 1986", "significance": "Community organizing against police indifference", "source": "KPFK (Prescod); Wikipedia"},
+      {"date": "1986-08", "location": "South Los Angeles", "what_happened": "Henrietta Wright killed", "significance": "Convicted count", "source": "AP list via Fox News"},
+      {"date": "1987-01", "location": "South Los Angeles", "what_happened": "Barbara Ware, 23, killed", "significance": "Convicted count", "source": "AP list via Fox News"},
+      {"date": "1987-04", "location": "South Los Angeles", "what_happened": "Bernita Sparks, 26, shot once in the chest, found in a trash bin", "significance": "Same alley as Janecia Peters 20 years later", "source": "AP list via Fox News"},
+      {"date": "1987-11", "location": "South Los Angeles", "what_happened": "Mary Lowe, 26, shot and beaten, found behind a large shrub in an alley", "significance": "Convicted count", "source": "AP list via Fox News"},
+      {"date": "1988-01", "location": "South Los Angeles", "what_happened": "Lachrica Jefferson, 22, killed", "significance": "Convicted count", "source": "AP list via Fox News"},
+      {"date": "1988-09", "location": "South Los Angeles", "what_happened": "Alicia 'Monique' Alexander, 18, found under a mattress in an alley", "significance": "Convicted count", "source": "AP via Fox 5 Atlanta, May 5, 2016"},
+      {"date": "1988-11-20", "location": "South Los Angeles", "what_happened": "Enietra Washington accepts a ride in an orange Ford Pinto; shot in the chest, sexually assaulted, photographed, pushed out of the car; survives", "significance": "The only known survivor; key witness", "source": "Boston Globe, Feb 26, 2016; ABC7 2016"},
+      {"date": "1988–2002", "location": "Los Angeles", "what_happened": "Apparent pause of about 13–14 years in linked killings", "significance": "Origin of the 'Sleeper' nickname; police later believed he never stopped", "source": "Crime Library; ABC7 News 2020"},
+      {"date": "2002-03", "location": "Inglewood, alley", "what_happened": "Princess Berthomieux, 15, strangled; found in an alley (March 9 or 19)", "significance": "Start of the second series", "source": "AP list via Fox News"},
+      {"date": "2003-07", "location": "South Los Angeles", "what_happened": "Valerie McCorvey, 35, mother of one, strangled", "significance": "Convicted count", "source": "AP list via Fox News"},
+      {"date": "2007-01-01", "location": "South Los Angeles, alley trash bin", "what_happened": "Janecia Peters, 25, shot in the back, found in a sealed garbage bag", "significance": "DNA from her case links the series", "source": "CBS LA, 'Jury recommends death for Grim Sleeper killer' (2016)"},
+      {"date": "2007 (May per Wikipedia)", "location": "Los Angeles", "what_happened": "DNA links Peters' killing to earlier murders; LAPD forms a task force without public announcement, led by Det. Dennis Kilcoyne", "significance": "Investigation reopened, but in secret", "source": "Police1/AP; Wikipedia; Pelisek"},
+      {"date": "2008-04", "location": "California", "what_happened": "AG Jerry Brown's office adopts the first statewide familial DNA search policy", "significance": "Legal tool that will solve the case", "source": "California OAG press release, July 2010"},
+      {"date": "2008-08", "location": "Los Angeles", "what_happened": "LA Weekly's Christine Pelisek reveals the secret task force and names the killer 'Grim Sleeper'; families had not been told; City Council pledges a $500,000 reward within days", "significance": "Public learns of serial killer 20+ years after first murder", "source": "Pelisek (christinepelisek.com); KQED; NBC News 2008; Crime Library"},
+      {"date": "2008 (Dec. 3 per Stanford blog)", "location": "California DOJ", "what_happened": "First familial search for the Grim Sleeper finds no relative", "significance": "Failure that keeps case open", "source": "California OAG; Stanford Law blog 2010"},
+      {"date": "2009", "location": "Los Angeles", "what_happened": "Christopher Franklin convicted on a felony weapons charge; DNA added to state database. May 2009 billboards advertise reward", "significance": "Sets up the familial hit", "source": "Stanford Law blog 2010; Crime Library"},
+      {"date": "2010-04-28", "location": "California DOJ", "what_happened": "Second familial search run; returns a likely relative (the son)", "significance": "Breakthrough", "source": "Stanford Law blog 2010; California OAG"},
+      {"date": "2010 (late June–early July)", "location": "Orange County / LA area pizza restaurant", "what_happened": "Undercover officer posing as a busboy at a birthday party collects pizza crust, napkin and glass used by Franklin; DNA matches crime scenes", "significance": "Confirmation sample", "source": "Boston Globe 2016; AFTE"},
+      {"date": "2010-07-07", "location": "81st Street, South Los Angeles", "what_happened": "Lonnie David Franklin Jr. arrested at home", "significance": "End of 25-year hunt", "source": "AFTE; Crime Library; CA OAG"},
+      {"date": "2010-12-16", "location": "Los Angeles", "what_happened": "LAPD releases about 180 photos of about 160 women found in his home, asks public for help", "significance": "Fear of more victims", "source": "NBC News/AP Dec 2010; Philadelphia Daily News Dec 17, 2010"},
+      {"date": "2016-02-16", "location": "Los Angeles Superior Court, downtown", "what_happened": "Opening statements; trial nearly six years after arrest", "significance": "Trial begins", "source": "CNN Feb 16, 2016; AP via Inquirer.net"},
+      {"date": "2016-02-25", "location": "Los Angeles", "what_happened": "Enietra Washington, 57, testifies", "significance": "Survivor testimony", "source": "Boston Globe Feb 26, 2016; ABC7"},
+      {"date": "2016-05-05", "location": "Los Angeles", "what_happened": "Jury convicts Franklin, 63, of 10 murders and 1 attempted murder", "significance": "Justice", "source": "AP via Fox 5 Atlanta"},
+      {"date": "2016-05 (penalty phase)", "location": "Los Angeles", "what_happened": "Ingrid W. testifies about 1974; evidence of uncharged deaths of Georgia Mae Thomas, Sharon Dismuke, Inez Warren presented", "significance": "Wider scope", "source": "ABC7 2016; AP via Afro"},
+      {"date": "2016-06-06", "location": "Los Angeles", "what_happened": "Jury recommends death", "significance": "Penalty verdict", "source": "CBS LA; AP via Fox 7 Austin"},
+      {"date": "2016-08-10", "location": "Los Angeles", "what_happened": "Judge Kathleen Kennedy denies new trial and sentences Franklin to death; Washington calls him 'a piece of evil'", "significance": "Sentence", "source": "ABC7; AP via Fox News"},
+      {"date": "2019-03-13", "location": "Sacramento", "what_happened": "Gov. Gavin Newsom orders a moratorium on executions", "significance": "Death sentence would not be carried out", "source": "Office of the Governor press release (background knowledge, verify)"},
+      {"date": "2020-03-28", "location": "San Quentin State Prison", "what_happened": "Franklin found unresponsive in his single cell around 7:20 p.m., pronounced dead 7:43 p.m.; no signs of trauma", "significance": "Dies without appeals resolved or further disclosures", "source": "CDCR news release, March 29, 2020"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {
+      "exact_date": "November 20, 1988",
+      "exact_location": "South Los Angeles",
+      "what_is_happening": "Enietra Washington, about 30, walking to a friend's house, accepts a ride from a man in an orange Ford Pinto",
+      "what_makes_it_shocking": "She is shot in the chest, assaulted, photographed and pushed out of the car, and survives",
+      "ironic_twist": "The man who would be named 22 years later had once worked as a garage attendant for the same police department hunting him; and the final proof came from a pizza crust at a birthday party"
+    },
+    "central_mystery_question": "How could one man kill for over two decades in the same neighborhood, and why did it take until 2010 to stop him?"
+  },
+  "the_method": {
+    "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+    "technique_name": "Familial DNA searching of the California offender database + abandoned DNA (discarded pizza crust, napkin, glass)",
+    "step_by_step_explanation": [
+      "Crime-scene DNA from the killings yields a profile with no exact match in the offender databases",
+      "California (2008) allows a familial search: look for profiles close enough to be a parent, child or sibling",
+      "2008 search: no close relative in the database",
+      "2009: son convicted on felony weapons charge; DNA uploaded",
+      "April 28, 2010: second search flags the son as a likely close relative",
+      "Detectives focus on the father, the right age and living in the area",
+      "Undercover officer collects items he discards at a pizza restaurant",
+      "Lab compares the DNA to crime-scene evidence: match; arrest July 7, 2010"
+    ],
+    "why_it_worked": "The killer himself was never in the database, but his son entered it in 2009",
+    "technical_terms_to_explain": [
+      {"term": "Familial search", "simple_explanation": "Instead of asking 'is this the man?', the database is asked 'who here could be his son or brother?'"},
+      {"term": "Abandoned DNA", "simple_explanation": "DNA left on things a person throws away, which police may legally collect"},
+      {"term": "Ballistics", "simple_explanation": "Marks a gun leaves on a bullet, like a fingerprint for the weapon"}
+    ],
+    "scale_of_operation": "10 convicted murders and 1 attempted murder over 22 years (1985–2007)"
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "Los Angeles Police Department and city leadership (as alleged by community advocates and reporters)",
+    "how_they_were_supposed_to_protect": "Warn residents of a serial threat, prioritize the killings, keep families informed",
+    "why_they_failed": "According to critics, the victims were poor Black women, some affected by drugs or sex work, and were not treated as a priority; LAPD denied indifference",
+    "specific_incompetence_examples": [
+      "1985: department criticized for not alerting South LA to a possible serial killer earlier (LA Times as summarized by Wikipedia)",
+      "1980s: Prescod says she was told by the officer in charge the killer was 'only killing hookers' (her account, KPFK)",
+      "Reward in 1986 only raised from $10,000 to $25,000 after pressure",
+      "2007: task force formed after DNA link but no public warning (Wikipedia; Pelisek)",
+      "Families not told their relatives were linked to a serial killer until press reports (Pelisek)",
+      "Nearly six years from arrest to trial (AP; NPR)",
+      "Uncharged deaths and missing women never resolved (AP; KPFK)"
+    ],
+    "ironic_details_about_the_failure": "The killer had once been a garage attendant for the LAPD; Bernita Sparks (1987) and Janecia Peters (2007) were found in the same alley 20 years apart"
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "LAPD (task force led by Det. Dennis Kilcoyne) with California Department of Justice DNA lab",
+    "operation_code_name_if_any": "Not publicly documented (avoid '800 task force' claims unless verified)",
+    "when_investigation_began": "1985 (individual cases); 2007 (linked task force)",
+    "initial_wrong_assumptions": "Several serial killers were active in South LA in the 1980s, which complicated linking cases (Kilcoyne, Crime Library); the 'sleep' assumption",
+    "key_breakthrough": "April 28, 2010 familial search hit to son Christopher Franklin",
+    "the_fatal_mistake": "Leaving pizza crust, napkin and a glass at a restaurant table",
+    "how_long_until_caught": "Almost 25 years after the first murder (Aug 1985 – July 2010)"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "July 7, 2010",
+    "location": "His home on 81st Street, South Los Angeles",
+    "scene_description": "Arrested at home; later searches of house, garage and cars found photos and videos of women",
+    "protagonist_reaction": "No documented statement used",
+    "ironic_or_absurd_details": "Neighbors knew him as a friendly mechanic"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["10 counts of murder", "1 count of attempted murder (Enietra Washington)"],
+    "trial_date_if_applicable": "Opening statements February 16, 2016; verdict May 5, 2016",
+    "notable_court_testimony": "Enietra Washington's testimony; penalty-phase testimony of Ingrid W.; evidence of three uncharged deaths",
+    "victim_impact_statements": [
+      {"from_whom": "Enietra Washington", "key_quote": "'You are truly a piece of evil' (as reported by AP headline)", "emotional_impact": "Said she had lived in fear since 1988"},
+      {"from_whom": "Sister of a victim (name not given in source)", "key_quote": "'You didn't just take anyone off the street, you took someone who was really loved.'", "emotional_impact": "Insists on victims' humanity"}
+    ],
+    "sentence_received": "Death (August 10, 2016)",
+    "protagonist_statement_in_court": "Not used (not verified)",
+    "current_status": "Died March 28, 2020 at San Quentin while on death row; never executed. As of October 2026 the case is closed by his death; uncharged deaths and missing women remain unresolved publicly."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Porter Alexander Jr.", "exact_quote": "He took my baby", "context": "After May 5, 2016 verdict", "source": "Christian Science Monitor, May 6, 2016"},
+      {"speaker": "Irene Ephriam (niece of Henrietta Wright)", "exact_quote": "It's closure. It's been 30 years, and we needed this.", "context": "After verdict", "source": "Christian Science Monitor, May 6, 2016"},
+      {"speaker": "Diana Ware (reported as mother of Barbara Ware)", "exact_quote": "I'm glad it's over, and that he'll never get out to hurt anybody else. Justice has been served", "context": "After verdict", "source": "Christian Science Monitor, May 6, 2016"},
+      {"speaker": "Porter Alexander Jr.", "exact_quote": "We got what we came to get, a just verdict", "context": "After death verdict June 6, 2016", "source": "AP via Fox 7 Austin"},
+      {"speaker": "Porter Alexander Jr.", "exact_quote": "I'm glad I lived to see it. It's a long time coming.", "context": "After death verdict", "source": "AP via Fox 7 Austin"},
+      {"speaker": "Mary Alexander", "exact_quote": "It didn't come when I wanted but it came right on time", "context": "After death verdict", "source": "AP via Fox 7 Austin"},
+      {"speaker": "Samara Herard (foster sister of Princess Berthomieux)", "exact_quote": "This closes out a chapter and you have to go on ... but I'll never get my sister back", "context": "After death verdict", "source": "CBS LA / AP 2016"},
+      {"speaker": "Judge Kathleen Kennedy", "exact_quote": "This is not a sentence of vengeance.", "context": "Sentencing Aug 10, 2016", "source": "AP via Fox News / ABC7"},
+      {"speaker": "Sister of a victim", "exact_quote": "You didn't just take anyone off the street, you took someone who was really loved.", "context": "Sentencing", "source": "AP via Fox News 'Grim Sleeper sentenced to death for murder spree'"},
+      {"speaker": "Enietra Washington", "exact_quote": "You are truly a piece of evil", "context": "Sentencing, to Franklin's face", "source": "AP via Fox News/KMPH headline"},
+      {"speaker": "Enietra Washington (testimony, as headlined)", "exact_quote": "If I die I am going to haunt you", "context": "What she testified she told her attacker in 1988", "source": "Boston Globe, Feb 26, 2016"},
+      {"speaker": "Beth Silverman", "exact_quote": "followed a pattern", "context": "Opening statement", "source": "AP via Inquirer.net, Feb 2016"},
+      {"speaker": "Jerry Brown", "exact_quote": "In the face of a multitude of objections, we've crafted a balanced policy to respect the rights of citizens and at the same time deploy the most powerful DNA search technology available", "context": "July 2010 announcement", "source": "California OAG press release"},
+      {"speaker": "Det. Dennis Kilcoyne", "exact_quote": "learned of a man that as we know now turned out to be a direct relative of our suspect", "context": "July 2010 news conference", "source": "Stanford Law School blog, July 8, 2010"},
+      {"speaker": "Margaret Prescod", "exact_quote": "We are saddened that Lonnie Franklin died without providing information on the scores of women he killed.", "context": "After his 2020 death", "source": "KPFK"},
+      {"speaker": "Margaret Prescod (to police commissioners, 1980s)", "exact_quote": "The department's refusal to publicize the slayings has further endangered the lives of poor black women living on the Southside", "context": "LA Times report", "source": "LA Times as reproduced at prostitutescollective.net"},
+      {"speaker": "Margaret Prescod (her account of what police told her)", "exact_quote": "only killing hookers", "context": "Words she says the officer in charge used in the 1980s", "source": "KPFK"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "10", "what_it_represents": "Murder convictions (9 women, one 15-year-old girl)", "source": "AP 2016"},
+      {"number": "1", "what_it_represents": "Attempted murder conviction (Enietra Washington)", "source": "AP 2016"},
+      {"number": "15 to 35", "what_it_represents": "Ages of the murdered victims", "source": "AP via Inquirer.net 2016"},
+      {"number": "22 years", "what_it_represents": "Span of convicted crimes, 1985–2007", "source": "AP"},
+      {"number": "about 13–14 years", "what_it_represents": "Apparent gap 1988–2002", "source": "ABC7 News 2020; NBC 2010"},
+      {"number": "$500,000", "what_it_represents": "City reward pledged 2008", "source": "NBC News 2008; NBC LA"},
+      {"number": "$10,000 to $25,000", "what_it_represents": "Reward increase won by activists in March 1986", "source": "Wikipedia"},
+      {"number": "about 180 photos / about 160 women", "what_it_represents": "Images released December 16, 2010", "source": "NBC News/AP; Philadelphia Daily News"},
+      {"number": "nearly 6 years", "what_it_represents": "Arrest to trial", "source": "AP via Afro; NPR"},
+      {"number": "3", "what_it_represents": "Uncharged deaths presented at penalty phase", "source": "AP via Afro"},
+      {"number": "2", "what_it_represents": "Missing women whose ID cards were found in his garage", "source": "AP via Afro"},
+      {"number": "67", "what_it_represents": "Age at death, March 28, 2020", "source": "CDCR"},
+      {"number": "April 28, 2010", "what_it_represents": "Date of successful familial search", "source": "Stanford Law blog"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "He once worked as a garage attendant for the LAPD",
+      "Two victims found in the same alley 20 years apart",
+      "The nickname 'Sleeper' assumed he stopped; police later believed he never did",
+      "The proof came from a pizza crust at a birthday party",
+      "His son's unrelated weapons conviction led to him",
+      "Sentenced to death, he died in his cell without being executed"
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "South Los Angeles alleys", "physical_description": "Alleys and trash bins where victims were left", "atmosphere": "Neighborhood hit by the crack epidemic in the 1980s", "relevant_details": "Bernita Sparks and Janecia Peters found in the same alley"},
+      {"location_name": "81st Street house", "physical_description": "Mint-green house where he worked on cars in the driveway", "atmosphere": "Ordinary residential street", "relevant_details": "Photos found in house, garage and cars"},
+      {"location_name": "Inglewood alley", "physical_description": "Alley where Princess Berthomieux was found", "atmosphere": "", "relevant_details": "2002"},
+      {"location_name": "San Quentin State Prison", "physical_description": "Death row", "atmosphere": "", "relevant_details": "Died there 2020"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "Whose deaths get urgency decides how long a killer stays free",
+    "how_this_could_happen_to_them": "Any community not warned of danger is exposed",
+    "lesson_or_warning": "Every victim deserves the same urgency; science only works if someone keeps the case alive",
+    "current_relevance": "Familial DNA searching remains debated; many women whose photos were found were never identified publicly"
+  },
+  "sources": {
+    "_instructions": "List ALL sources.",
+    "primary_sources": [
+      {"type": "Government press release", "title": "Brown's Forensic Experts Identify Grim Sleeper Serial Killer Suspect Through Unprecedented Use of Familial DNA", "url_or_reference": "https://oag.ca.gov/news/press-releases/browns-forensic-experts-identify-grim-sleeper-serial-killer-suspect-through", "key_information_obtained": "2008 policy, first search failed, Brown quote"},
+      {"type": "Government press release", "title": "Condemned inmate Lonnie Franklin dies (CDCR)", "url_or_reference": "https://www.cdcr.ca.gov/news/2020/03/29/condemned-inmate-lonnie-franklin-dies/", "key_information_obtained": "Death March 28, 2020"}
+    ],
+    "secondary_sources": [
+      {"type": "AP", "title": "Los Angeles man guilty in 10 'Grim Sleeper' serial killings", "url_or_reference": "https://www.fox5atlanta.com/news/los-angeles-man-guilty-in-10-grim-sleeper-serial-killings", "key_information_obtained": "Verdict"},
+      {"type": "AP", "title": "Women who died at the hands of the Grim Sleeper", "url_or_reference": "https://www.foxnews.com/us/women-who-died-at-the-hands-of-the-grim-sleeper", "key_information_obtained": "Victim list"},
+      {"type": "Newspaper", "title": "'If I die I am going to haunt you,' woman told serial killer", "url_or_reference": "https://www.bostonglobe.com/news/nation/2016/02/26/die-going-haunt-you-woman-told-serial-killer/NL9LpheKsK8CP1UN2KhXWM/story.html", "key_information_obtained": "Washington testimony; busboy"},
+      {"type": "Professional journal", "title": "Keeping it All in the Family (AFTE)", "url_or_reference": "https://afte.org/?p=34642", "key_information_obtained": "Pizza crust, napkin, glass; arrest July 7, 2010"},
+      {"type": "Blog (Stanford Law)", "title": "Familial DNA Searching and Abandoned DNA Identify the Grim Sleeper", "url_or_reference": "https://law.stanford.edu/2010/07/08/familial-dna-searching-and-abandoned-dna-identify-the-grim-sleeper-serial-killer/", "key_information_obtained": "Dates of searches; son's 2009 conviction"},
+      {"type": "Radio", "title": "KPFK – Margaret Prescod on the death of Lonnie Franklin", "url_or_reference": "https://www.kpfk.org/blogs/kpfk-news-department/post/death-of-serial-killer-lonnie-franklin/", "key_information_obtained": "Community criticism"},
+      {"type": "Other — see investigacion.md section 13", "title": "Full numbered list", "url_or_reference": "investigacion.md", "key_information_obtained": ""}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "Another familial-DNA or genetic-genealogy case",
+    "connection_to_current_video": "A relative's DNA naming a killer",
+    "teaser_line": "Sometimes the person who leads police to a killer has never met the victim."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Exact day of Henrietta Wright (Aug 12, 1986?), Barbara Ware (Jan 10, 1987?), Bernita Sparks (Apr 15 or 16, 1987), Mary Lowe (Nov 1, 1987?), Lachrica Jefferson (Jan 30, 1988?), Alicia Alexander (Sept 11, 1988?), Princess Berthomieux (Mar 9 or 19, 2002), Valerie McCorvey (July 11, 2003?)",
+      "Name and location of the pizza restaurant (reported as a buffet pizza restaurant in Orange County; not confirmed)",
+      "Exact date DOJ notified LAPD of the familial hit (July 2 per one source)",
+      "Diana Ware's exact relationship to Barbara Ware",
+      "Caliber of the handgun used in 1980s cases",
+      "Whether a photo of Washington was found in his home"
+    ],
+    "information_gaps": ["Few biographical details about most victims", "No direct quotes from Bratton or Beck verified"],
+    "questions_to_answer": ["Did LAPD publicly respond to the 2008 criticism with specific statements"]
+  }
+}

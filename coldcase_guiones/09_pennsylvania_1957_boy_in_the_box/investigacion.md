@@ -229,12 +229,12 @@ A 9 de octubre de 2026: nadie ha sido detenido, acusado ni condenado por la muer
 
 ## 14. Verificación del guion
 
-- Total de palabras: 12659
-- Palabras por parte: P1: 1259, P2: 1443, P3: 1252, P4: 1230, P5: 1234, P6: 1277, P7: 1256, P8: 1243, P9: 1223, P10: 1242
-- Duración estimada a 170 ppm: 74.5 minutos (~1 h 14 min)
+- Total de palabras: 12681
+- Palabras por parte: P1: 1259, P2: 1447, P3: 1258, P4: 1230, P5: 1236, P6: 1277, P7: 1258, P8: 1252, P9: 1222, P10: 1242
+- Duración estimada a 170 ppm: 74.6 minutos (~1 h 14 min)
 - Formato: 10 párrafos separados por una línea en blanco; sin títulos, corchetes ni acotaciones; 2 CTA (tras el gancho y al final) con "this channel".
 - Revisión frase a frase hecha contra research_brief.json; se eliminaron o matizaron afirmaciones no respaldadas (p. ej. "puerta a puerta", "miles de visitantes", lápida de 1998 aún en pie, causa de la vacilación del descubridor).
-- Nota de estilo: el guion contiene más preguntas retóricas (~25) que el rango orientativo del perfil (4–12), concentradas en las partes 3 y 9 (preguntas abiertas reales del caso).
+- Nota de estilo: revisado el 11 oct 2026; de 25 signos de interrogación se pasó a 10 (dentro del rango 4–12 del perfil), reescribiendo 15 preguntas como frases afirmativas sin cambiar el sentido.
 
 **10 afirmaciones clave y su fuente:**
 

@@ -1,0 +1,242 @@
+{
+  "video_metadata": {
+    "working_title": "ILLINOIS 1993 Cold Case Solved After 9 Years — Justice for the Brown's Chicken Seven",
+    "topic_one_sentence": "On January 8, 1993, seven people were murdered at closing time at a Brown's Chicken & Pasta in Palatine, Illinois; the case stayed unsolved for more than nine years until an ex-girlfriend's tip in 2002 and saliva DNA on a half-eaten chicken dinner, frozen in 1993, led to the convictions of Juan Luna (2007) and James Degorski (2009).",
+    "primary_emotion_to_evoke": "grief turning into quiet outrage at nine years of silence, then relief at a long-delayed justice",
+    "target_length_minutes": "70 (about 12,300-12,900 words at 170 wpm)"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "The seven victims as a group (Richard Ehlenfeldt, Lynn Ehlenfeldt, Guadalupe Maldonado, Michael Castro, Rico Solis, Thomas Mennes, Marcus Nellsen); narrative hero of the solution: Anne Lockett (later Anne England), James Degorski's former girlfriend; killers: Juan Luna and James Degorski",
+    "age_at_time_of_events": "Victims 16 to 50. Juan Luna was 18 according to prosecutors; James Degorski was about 20 (he was reported as 37 at his 2009 trial).",
+    "occupation_or_status": "Owners and employees of a fast-food franchise restaurant; the killers were young men from the northwest suburbs; Luna had worked as a cook for several years during high school (trial coverage).",
+    "location": "Brown's Chicken & Pasta, 168 West Northwest Highway, Palatine, Illinois (northwest suburbs of Chicago)",
+    "physical_description": "Not used; real archival photos only.",
+    "background_brief": "At the time of his May 2002 arrest Luna lived in Carpentersville with his wife and 4-year-old son. Degorski's home was in Hoffman Estates in 1993 according to trial testimony. Both had kept the secret for more than nine years.",
+    "psychological_profile": "Not speculated. Prosecutors at Degorski's 2009 trial framed the killings as being about thrills and 'doing something big' (Daily Herald headline). Degorski maintains his innocence; Luna later also maintained his innocence despite his videotaped confession.",
+    "mundane_humanizing_detail": "The clue that solved the case was an ordinary fast-food meal: chicken, fries, coleslaw and uneaten biscuits thrown into a trash can.",
+    "nickname_or_alias_if_any": "Victims are often called 'the Brown's Chicken seven' in coverage; Anne Lockett appears in later coverage as Anne England."
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {"name": "Richard E. Ehlenfeldt", "role_or_profession": "Co-owner of the Palatine Brown's Chicken & Pasta franchise", "connection_to_protagonist": "Owner of the restaurant", "specific_impact_suffered": "Murdered, age 50", "humanizing_detail": "Father of daughters Jennifer (Jennifer Shilling, later a Wisconsin legislator) and Joy; his sister Ann Ehlenfeldt spoke after the 2009 verdict.", "any_quotes_from_them": ""},
+      {"name": "Lynn A. Ehlenfeldt (nee Wiese)", "role_or_profession": "Co-owner of the franchise", "connection_to_protagonist": "Owner of the restaurant, Richard's wife", "specific_impact_suffered": "Murdered, age 49", "humanizing_detail": "Ran the business with her husband; mother of Jennifer and Joy.", "any_quotes_from_them": ""},
+      {"name": "Guadalupe 'Lupe' Maldonado", "role_or_profession": "Employee (described in some coverage as a cook; verify)", "connection_to_protagonist": "Worked at the restaurant", "specific_impact_suffered": "Murdered, age 46", "humanizing_detail": "Named by the Village of Palatine in its 2007 statement as 'Lupe Maldonado'.", "any_quotes_from_them": ""},
+      {"name": "Michael C. Castro", "role_or_profession": "Part-time employee, Palatine High School student", "connection_to_protagonist": "Worked at the restaurant", "specific_impact_suffered": "Murdered, age 16 [MINOR]", "humanizing_detail": "Filipino-American; one of the two youngest victims; his parents raised the alarm when he did not come home.", "any_quotes_from_them": ""},
+      {"name": "Rico L. Solis", "role_or_profession": "Part-time employee, Palatine High School student", "connection_to_protagonist": "Worked at the restaurant", "specific_impact_suffered": "Murdered, age 17 [MINOR]", "humanizing_detail": "Filipino-American; his sisters were in court for the 2009 verdict.", "any_quotes_from_them": ""},
+      {"name": "Thomas Mennes", "role_or_profession": "Employee", "connection_to_protagonist": "Worked at the restaurant", "specific_impact_suffered": "Murdered, age 32", "humanizing_detail": "Limited public biographical detail found.", "any_quotes_from_them": ""},
+      {"name": "Marcus Nellsen", "role_or_profession": "Employee", "connection_to_protagonist": "Worked at the restaurant", "specific_impact_suffered": "Murdered, age 31", "humanizing_detail": "His mother, Diane Clayton, spoke publicly after the 2009 verdict. Spelling 'Neilsen' appears in one source; 'Nellsen' is the majority spelling.", "any_quotes_from_them": ""}
+    ],
+    "collective_victims_if_applicable": {"group_description": "Seven people: the two owners and five employees, two of them teenagers", "total_number_affected": "7 killed; seven families; the Palatine community", "range_of_impacts": "Death; nine years of uncertainty for families; two capital trials; continuing appeals"}
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Anne Lockett (Anne England)", "role_in_story": "Former girlfriend of James Degorski; tipster in 2002; star witness at both trials", "key_actions_they_took": "In late March 2002 confided to a friend that she knew who committed the murders; the friend called Palatine police. Testified that Degorski called her at Forest Hospital, where she was in treatment for substance abuse, the day after the murders and told her to watch the news because he had done something big; that Degorski and Luna described their involvement weeks later; and that Degorski threatened to kill her if she talked.", "notable_quotes": "\"I can't live with this anymore.\" (her words to prosecutors, as reported in trial coverage)"},
+      {"name": "Eileen Bakalla", "role_in_story": "Friend of Degorski; second key witness", "key_actions_they_took": "Testified the men called her shortly after the murders, said they had robbed the restaurant, and that at her Elgin home they divided about $1,600; while she drove Degorski home to Hoffman Estates past the restaurant surrounded by police cars and ambulances, he told her more than a robbery had happened.", "notable_quotes": ""},
+      {"name": "Matt Wzientek", "role_in_story": "Witness about the gun", "key_actions_they_took": "Testified he took a .38 revolver from a friend's home in summer 1992 and sold the gun and bullets to Degorski for $15 later that year.", "notable_quotes": ""},
+      {"name": "Jane Homeyer", "role_in_story": "Crime scene investigator", "key_actions_they_took": "Collected the leftovers of a chicken meal (with fries, coleslaw, uneaten biscuits) from a trash can at the scene and, days later, placed them in a freezer at the Northern Illinois Crime Lab, because DNA or bite-mark evidence might later prove valuable.", "notable_quotes": ""},
+      {"name": "Dr. Henry Lee", "role_in_story": "Famed forensic scientist brought in around February 1994", "key_actions_they_took": "Predicted the half-eaten chicken dinner would be key to solving the crime; expert witness at Luna's trial.", "notable_quotes": ""},
+      {"name": "Ken Pfoser", "role_in_story": "Forensic scientist", "key_actions_they_took": "Testified that DNA from the bones of the discarded chicken matched Luna.", "notable_quotes": ""},
+      {"name": "Jerry Bratcher", "role_in_story": "Palatine police chief during the original investigation", "key_actions_they_took": "Led the department; criticized in the 1997 Better Government Association report, which said he ignored 'Lead 80'.", "notable_quotes": ""},
+      {"name": "Judge Vincent Gaughan", "role_in_story": "Cook County judge who presided over both trials", "key_actions_they_took": "Entered life-without-parole sentences; in January 2018 rejected Degorski's bid for a new trial.", "notable_quotes": ""},
+      {"name": "Jennifer Shilling", "role_in_story": "Oldest daughter of Richard and Lynn Ehlenfeldt; Wisconsin state representative in 2007", "key_actions_they_took": "Issued the Ehlenfeldt family statement after Luna's verdict.", "notable_quotes": "\"many questions have arisen for which we will never have answers\""},
+      {"name": "Joy Ehlenfeldt", "role_in_story": "Daughter of the Ehlenfeldts", "key_actions_they_took": "Read a nine-page statement to Luna in the 2007 death-penalty phase.", "notable_quotes": "\"there are no words to begin to adequately describe how your crime has impacted our family\""},
+      {"name": "Diane Clayton", "role_in_story": "Mother of Marcus Nellsen", "key_actions_they_took": "Spoke after Degorski's jury spared him the death penalty.", "notable_quotes": "\"In my opinion, James Degorski deserved the death penalty\""}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "Summer 1992", "location": "Northwest suburbs of Chicago", "what_happened": "Matt Wzientek takes a .38 revolver from a friend's home; later in 1992 he sells it with bullets to Degorski for $15.", "significance": "Origin of the weapon per trial testimony", "source": "[20] Daily Herald 2009 trial coverage"},
+      {"date": "January 8, 1993 (Friday), around 9 p.m. closing", "location": "Brown's Chicken & Pasta, 168 W. Northwest Highway, Palatine", "what_happened": "Luna (18) and Degorski enter at closing time; seven people are shot and killed; money is taken.", "significance": "The crime", "source": "[1] Wikipedia; [30] AP via NBC News 2007"},
+      {"date": "Night of January 8, 1993", "location": "Palatine", "what_happened": "Michael Castro's parents call police when he fails to come home; later a relative calls because a car is still in the lot.", "significance": "The families raise the alarm", "source": "[4] CBS Chicago 2023; [1] Wikipedia"},
+      {"date": "Night of January 8-9, 1993", "location": "Elgin and Hoffman Estates", "what_happened": "Per Bakalla's testimony, she picks the men up, they divide about $1,600 at her Elgin home; driving Degorski home past the police-surrounded restaurant, he tells her more than a robbery happened.", "significance": "First witness to the aftermath", "source": "[20] Daily Herald 2009"},
+      {"date": "Early January 9, 1993 (around 3 a.m.)", "location": "The restaurant", "what_happened": "Officers find the back door open and the seven bodies in the walk-in cooler and freezer, more than 5.5 hours after closing.", "significance": "Discovery", "source": "[4] CBS Chicago; [1] Wikipedia"},
+      {"date": "January 9, 1993", "location": "Palatine", "what_happened": "Degorski calls Anne Lockett at Forest Hospital and tells her to watch the news because he had done something big (her testimony).", "significance": "The secret begins", "source": "[7] Daily Herald 2007-04-16"},
+      {"date": "January 9-11, 1993", "location": "Palatine", "what_happened": "A former Brown's worker is arrested and released two days later without charge.", "significance": "First false lead", "source": "[2] Daily Herald timeline; [24] Loerzel"},
+      {"date": "Mid-January 1993", "location": "Northern Illinois Crime Lab", "what_happened": "Jane Homeyer freezes the leftover chicken meal from the trash can (about five days after the murders).", "significance": "The evidence that later solved the case", "source": "[8] Daily Herald 2007-04-17; [23] NBC Chicago"},
+      {"date": "January 25, 1993", "location": "Palatine", "what_happened": "Reward reaches $100,000.", "significance": "Public appeal", "source": "[2] Daily Herald timeline"},
+      {"date": "Around February 1994", "location": "Palatine", "what_happened": "Dr. Henry Lee is brought in; he predicts the half-eaten chicken dinner will be key.", "significance": "Expert focus on the meal", "source": "[8] Daily Herald 2007-04-17"},
+      {"date": "August 1996", "location": "Illinois", "what_happened": "Illinois Association of Chiefs of Police says the Better Government Association and Chicago Crime Commission have no legal authority to probe the investigation.", "significance": "Public fight over the stalled case", "source": "[25] Daily Herald 1996-08-20"},
+      {"date": "1997", "location": "Chicago", "what_happened": "BGA releases a scathing report: crime scene compromised, police crime lab a 'disaster', Chief Bratcher accused of ignoring 'Lead 80' about a gang tip.", "significance": "System-failure ledger", "source": "[24] Loerzel 2007; [2] Daily Herald timeline"},
+      {"date": "1998", "location": "Illinois State Police crime lab", "what_happened": "A section chief finds two DNA profiles on the food; at least one male contributor; no suspect to compare.", "significance": "The DNA exists but has no name", "source": "[9] Daily Herald 2007-04-18"},
+      {"date": "April 27, 2001", "location": "Palatine", "what_happened": "The restaurant building is torn down.", "significance": "Scene erased; case still open", "source": "[2] Daily Herald timeline; [28] ABC7"},
+      {"date": "Late March 2002", "location": "Northwest suburbs", "what_happened": "Anne Lockett confides to a friend; the friend calls Palatine police.", "significance": "Breakthrough after more than nine years", "source": "[1] Wikipedia; [7] Daily Herald 2007"},
+      {"date": "April 2002 (mid-April)", "location": "Northwest suburbs", "what_happened": "Police put Luna and Degorski under surveillance and obtain DNA samples from them.", "significance": "Confirmation step", "source": "[1] Wikipedia; [9] Daily Herald"},
+      {"date": "May 2002", "location": "Crime lab", "what_happened": "Luna's DNA matches saliva on the chicken; prosecutors later cite a 1 in 2.8 trillion probability among Hispanics.", "significance": "Scientific confirmation", "source": "[1] Wikipedia; [9] Daily Herald"},
+      {"date": "May 16, 2002", "location": "Northwest suburbs", "what_happened": "Luna and Degorski arrested; Luna (living in Carpentersville with wife and 4-year-old son) gives a 43-minute videotaped confession hours later.", "significance": "Arrest", "source": "[2] Daily Herald timeline; [10] Daily Herald 2007-04-25; [14] NRN"},
+      {"date": "May 17, 2002", "location": "Palatine", "what_happened": "Degorski gives a roughly five-minute videotaped statement admitting he shot two of the seven victims; defense later says it was made under duress.", "significance": "Second confession", "source": "[21] Daily Herald 2007-09-19"},
+      {"date": "April-May 2007", "location": "Cook County Criminal Court, Chicago", "what_happened": "Luna's trial before Judge Vincent Gaughan; testimony by Lockett, Homeyer, Lee, Pfoser; closing arguments May 9, 2007; convicted of seven counts of first-degree murder (May 10, 2007).", "significance": "First conviction", "source": "[30] NBC News; [11] WBEZ; [8][9][10] Daily Herald"},
+      {"date": "May 14-17, 2007", "location": "Chicago", "what_happened": "Jury finds Luna eligible for death; Joy Ehlenfeldt reads a nine-page statement; on May 17 jury spares Luna's life by a single holdout vote (11-1).", "significance": "Life instead of death", "source": "[12][13] Daily Herald; [11] WBEZ"},
+      {"date": "2007 (formal sentencing; NRN dates it August 2007)", "location": "Chicago", "what_happened": "Luna formally sentenced to life in prison without parole.", "significance": "Sentence", "source": "[14] NRN (single source for month)"},
+      {"date": "September 29, 2009", "location": "Chicago", "what_happened": "After a nearly monthlong trial, a jury of six men and six women convicts Degorski in under two hours; key witnesses Lockett (England) and Bakalla.", "significance": "Second conviction", "source": "[15] NBC Chicago; [29] AP via NBC News; [16] Daily Herald"},
+      {"date": "September 30, 2009", "location": "Chicago", "what_happened": "Jury finds Degorski eligible for the death penalty after a 90-minute deliberation.", "significance": "Capital phase", "source": "[16] Daily Herald 2009-09-29"},
+      {"date": "October 20, 2009", "location": "Chicago", "what_happened": "Jury spares Degorski death (10 for death, 2 against); Judge Gaughan later formally enters life without parole.", "significance": "Final sentence", "source": "[17] Chicagoist; [18] NBC Chicago; [19] WILL"},
+      {"date": "2010", "location": "Illinois", "what_happened": "A reward of $98,129 is split evenly between Lockett and another tipster.", "significance": "Reward that later fuels appeals", "source": "[1] Wikipedia"},
+      {"date": "2011", "location": "Illinois", "what_happened": "Illinois abolishes the death penalty (signed March 9, 2011; effective July 1, 2011).", "significance": "Context: no death sentence possible now", "source": "General public record (background knowledge; verify)"},
+      {"date": "September 2016", "location": "Cook County", "what_happened": "Degorski seeks a hearing claiming new evidence that a key prosecution witness lied.", "significance": "Post-conviction fight", "source": "[27] WCBU/AP 2016"},
+      {"date": "January 2018", "location": "Cook County", "what_happened": "Judge Gaughan rules Degorski's lawyer failed to prove his rights were violated; no new trial.", "significance": "Denial", "source": "[26] Fox 32; [1] Wikipedia"},
+      {"date": "June 13, 2022", "location": "Illinois Appellate Court", "what_happened": "Appeals court denies Degorski's bid for a new trial arguing prosecutors withheld that Lockett was eligible for a $100,000 reward.", "significance": "Latest documented ruling", "source": "[1] Wikipedia; [3] Daily Herald 2023"},
+      {"date": "January 8, 2023", "location": "Palatine", "what_happened": "30th anniversary coverage; a retired officer says at least 100 people worked the task force at its peak.", "significance": "Memory", "source": "[3] Daily Herald; [28] ABC7; [4] CBS"},
+      {"date": "As of October 2026", "location": "Illinois Department of Corrections", "what_happened": "No new rulings found for 2023-2026; both men understood to be serving natural life without parole.", "significance": "Current status", "source": "Searches of 2024-2026 coverage returned nothing new; verify on IDOC inmate search before publishing"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {"exact_date": "Friday, January 8, 1993, around 9 p.m.", "exact_location": "Brown's Chicken & Pasta, 168 W. Northwest Highway, Palatine, Illinois", "what_is_happening": "Closing time; seven people inside, owners and employees, two of them high school students.", "what_makes_it_shocking": "All seven were killed and placed in the walk-in cooler and freezer; the case stayed cold for more than nine years.", "ironic_twist": "The killer's identity sat in a crime-lab freezer the whole time, in the saliva on a half-eaten chicken dinner he bought and threw away."},
+    "central_mystery_question": "Who could kill seven people for about $1,600, and how could the answer stay hidden for nine years when one of them had left his DNA on a meal in the trash?"
+  },
+  "the_method": {
+    "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+    "technique_name": "Traditional STR DNA comparison of saliva on preserved food evidence, triggered by an informant tip (not genetic genealogy)",
+    "step_by_step_explanation": [
+      "1993: investigator Jane Homeyer collects the leftover meal from a trash can and freezes it at the Northern Illinois Crime Lab.",
+      "1994: Henry Lee predicts the meal will be the key.",
+      "1998: Illinois State Police analysts find two DNA profiles on the food, at least one male, but no name to compare.",
+      "2002: Anne Lockett's tip gives police two names.",
+      "April 2002: police take DNA samples from Luna and Degorski.",
+      "May 2002: Luna's profile matches the major profile on the chicken bones; Degorski is excluded from the food.",
+      "May 16-17, 2002: arrests and videotaped statements."
+    ],
+    "why_it_worked": "The meal had been preserved for nine years; DNA could not name anyone on its own, but once a human witness gave a name, it could confirm or exclude.",
+    "technical_terms_to_explain": [
+      {"term": "DNA profile", "simple_explanation": "A short genetic barcode read from a handful of places in the DNA; two barcodes either match or they do not."},
+      {"term": "Reference sample", "simple_explanation": "A known sample from a person, used to compare with the crime-scene sample."},
+      {"term": "Mixture / minor profile", "simple_explanation": "More than one person's DNA on the same item; the weaker one is the minor profile. On the chicken, a second minor profile was never identified."},
+      {"term": "Random match probability", "simple_explanation": "How rare the profile is; prosecutors cited 1 in 2.8 trillion."}
+    ],
+    "scale_of_operation": "Seven victims, about $1,600 divided afterward per testimony; a task force of at least 100 people at its peak; thousands of leads."
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "The Palatine-led multi-agency task force (as criticized in the 1997 BGA report) and the evidence-handling chain",
+    "how_they_were_supposed_to_protect": "Secure the scene, preserve evidence, follow tips.",
+    "why_they_failed": "According to the BGA report (based largely on anonymous task-force interviews), the scene was badly compromised and the police crime lab was a 'disaster'; DNA swabs from testing were later lost; the defense argued repeated thawing and ungloved handling contaminated the chicken.",
+    "specific_incompetence_examples": ["A former employee arrested on January 9, 1993 and released two days later without charge", "BGA: crime scene compromised; crime lab a 'disaster'", "BGA: Lead 80 (jailhouse informant gang tip) allegedly ignored", "All DNA swabs taken during testing were later lost (testimony)", "Food frozen about five days after the murders"],
+    "ironic_details_about_the_failure": "The answer was not hidden in a database but in the silence of people who knew; Lockett carried it for more than nine years."
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Palatine Police Department with a multi-agency task force; Northern Illinois Crime Lab; Illinois State Police crime lab; Cook County State's Attorney's Office",
+    "operation_code_name_if_any": "None known",
+    "when_investigation_began": "January 9, 1993",
+    "initial_wrong_assumptions": "Early arrest of a former worker; years of tips including a gang theory (Lead 80).",
+    "key_breakthrough": "Anne Lockett's late-March 2002 disclosure to a friend, who called police.",
+    "the_fatal_mistake": "Luna ate from a chicken dinner at the scene and threw it in the trash; Degorski told his girlfriend he had done 'something big'.",
+    "how_long_until_caught": "9 years, 4 months (January 8, 1993 to May 16, 2002)"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "May 16, 2002 (Luna's statement recorded hours after arrest; Degorski's on May 17, 2002)",
+    "location": "Northwest suburbs of Chicago; Palatine police",
+    "scene_description": "After weeks of surveillance and a DNA match, both men were arrested. Luna gave a 43-minute videotaped confession with a bullet-by-bullet account; Degorski gave a roughly five-minute statement admitting he shot two victims.",
+    "protagonist_reaction": "Both later maintained their innocence at trial.",
+    "ironic_or_absurd_details": "Luna had married and had a 4-year-old son; nine years of ordinary life after the crime."
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["Seven counts of first-degree murder (each defendant)"],
+    "trial_date_if_applicable": "Luna: April-May 2007 (14-day trial). Degorski: September 2009 (nearly monthlong).",
+    "notable_court_testimony": "Lockett on the phone call to Forest Hospital and the threat; Bakalla on the $1,600 split; Homeyer on collecting the meal; Henry Lee; Ken Pfoser on the DNA match; defense experts on a second, unidentified minor DNA profile and contamination.",
+    "victim_impact_statements": [
+      {"from_whom": "Joy Ehlenfeldt", "key_quote": "there are no words to begin to adequately describe how your crime has impacted our family", "emotional_impact": "Nine-page statement read to Luna in May 2007"},
+      {"from_whom": "Diane Clayton, mother of Marcus Nellsen", "key_quote": "In my opinion, James Degorski deserved the death penalty", "emotional_impact": "Anger after jurors spared Degorski"}
+    ],
+    "sentence_received": "Both: natural life in prison without parole (Luna 2007; Degorski 2009). Juries spared death by 11-1 (Luna) and 10-2 (Degorski).",
+    "protagonist_statement_in_court": "Not documented in our sources.",
+    "current_status": "Both serving life without parole as of the latest coverage found. Degorski's new-trial bids were denied in January 2018 and on appeal on June 13, 2022. No 2023-2026 rulings found."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Anne Lockett", "exact_quote": "I can't live with this anymore.", "context": "What she told prosecutors about why she came forward in 2002", "source": "[1] Wikipedia citing trial coverage; [7] Daily Herald 2007-04-16"},
+      {"speaker": "Jennifer Shilling (Ehlenfeldt family statement)", "exact_quote": "many questions have arisen for which we will never have answers", "context": "After Luna's guilty verdict, May 2007", "source": "[36] ABC7 2007; [13] Daily Herald"},
+      {"speaker": "Joy Ehlenfeldt", "exact_quote": "there are no words to begin to adequately describe how your crime has impacted our family", "context": "Victim impact statement, Luna death-penalty phase, May 2007", "source": "[13] Daily Herald 2007-05-15"},
+      {"speaker": "Village of Palatine", "exact_quote": "patiently waited over 14 years for a conviction in this case", "context": "Statement after Luna's verdict about the families", "source": "[36] ABC7 2007"},
+      {"speaker": "Diane Clayton", "exact_quote": "In my opinion, James Degorski deserved the death penalty", "context": "After the October 2009 sentencing verdict", "source": "[15] NBC Chicago 2009"},
+      {"speaker": "Better Government Association report (1997)", "exact_quote": "disaster", "context": "Description of the police crime lab", "source": "[24] Loerzel 2007"},
+      {"speaker": "Degorski's defense filings", "exact_quote": "a troubled woman, prone to dishonesty", "context": "Describing Lockett in post-conviction filings", "source": "[26] Fox 32"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "7", "what_it_represents": "People killed", "source": "[1]"},
+      {"number": "16 and 17", "what_it_represents": "Ages of Michael Castro and Rico Solis", "source": "[1][6]"},
+      {"number": "9 p.m.", "what_it_represents": "Closing time", "source": "[4]"},
+      {"number": "5.5+ hours", "what_it_represents": "Time after closing before the bodies were found", "source": "[4]"},
+      {"number": "$1,600", "what_it_represents": "Approximate money divided afterward (Bakalla testimony)", "source": "[20]"},
+      {"number": "$15", "what_it_represents": "Price Degorski paid for the .38 revolver and bullets", "source": "[20]"},
+      {"number": "$100,000", "what_it_represents": "Reward by January 25, 1993", "source": "[2]"},
+      {"number": "100+", "what_it_represents": "People on the task force at its peak", "source": "[28]"},
+      {"number": "1 in 2.8 trillion", "what_it_represents": "Random match probability cited by prosecutors", "source": "[9]"},
+      {"number": "43 minutes", "what_it_represents": "Length of Luna's videotaped confession", "source": "[10]"},
+      {"number": "about 5 minutes", "what_it_represents": "Length of Degorski's videotaped statement", "source": "[21]"},
+      {"number": "11-1 and 10-2", "what_it_represents": "Jury votes for death that failed for lack of unanimity (Luna, Degorski)", "source": "[11][17]"},
+      {"number": "$98,129", "what_it_represents": "Reward split in 2010 between Lockett and another tipster", "source": "[1]"},
+      {"number": "9 years 4 months", "what_it_represents": "From the murders to the arrests", "source": "[2]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "The evidence that solved the case was a fast-food meal a killer bought, ate and threw away.",
+      "The restaurant building was torn down in 2001, one year before the case was solved.",
+      "Degorski was driven home past the crime scene while police and ambulances surrounded it.",
+      "A tip, not a database, unlocked the DNA; science could confirm but could not name.",
+      "Both juries had a majority for death, and both defendants received life because the vote was not unanimous; Illinois abolished the death penalty in 2011."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "Brown's Chicken & Pasta, 168 W. Northwest Highway, Palatine", "physical_description": "A fast-food franchise restaurant on a main road; back door; walk-in cooler and freezer", "atmosphere": "Winter Friday night at closing time", "relevant_details": "Torn down April 27, 2001"},
+      {"location_name": "Forest Hospital", "physical_description": "Treatment facility where Lockett was a patient in January 1993", "atmosphere": "", "relevant_details": "Where Degorski called her the day after"},
+      {"location_name": "Elgin", "physical_description": "Bakalla's home", "atmosphere": "", "relevant_details": "Where the money was divided"},
+      {"location_name": "Cook County Criminal Courthouse, Chicago", "physical_description": "", "atmosphere": "", "relevant_details": "Both trials before Judge Vincent Gaughan"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "Ordinary workplaces, after-school jobs, closing shifts.",
+    "how_this_could_happen_to_them": "Two of the victims were high school students working part-time.",
+    "lesson_or_warning": "Evidence can wait for years, but it still needs a human voice to break silence; one person's courage ended nine years of waiting.",
+    "current_relevance": "Debates about preserving evidence, informant rewards, and young offenders' life sentences."
+  },
+  "sources": {
+    "_instructions": "List ALL sources.",
+    "primary_sources": [
+      {"type": "Trial coverage", "title": "Daily Herald trial reports 2007 and 2009 (Lockett, Homeyer, Lee, DNA, videotapes)", "url_or_reference": "https://www.dailyherald.com/20070416/news/former-friend-of-suspect-testifies-about-waiting-9-years-to-talk-to-police/", "key_information_obtained": "Lockett testimony"},
+      {"type": "Appellate ruling coverage", "title": "Degorski appeal denied June 13, 2022", "url_or_reference": "https://en.wikipedia.org/wiki/Brown%27s_Chicken_massacre", "key_information_obtained": "Reward-eligibility claim rejected"}
+    ],
+    "secondary_sources": [
+      {"type": "Newspaper", "title": "Daily Herald timeline (2023)", "url_or_reference": "https://www.dailyherald.com/20230108/news/timeline-of-the-browns-chicken-murder-case/", "key_information_obtained": "Key dates"},
+      {"type": "TV", "title": "CBS Chicago 30 years ago", "url_or_reference": "https://www.cbsnews.com/chicago/news/30-years-ago-sunday-browns-chicken-massacre-palatine", "key_information_obtained": "Discovery details"},
+      {"type": "TV", "title": "ABC7 30 years later investigator reflects", "url_or_reference": "https://abc7chicago.com/post/browns-chicken-massacre-murders-cold-case-solved-dna-test/12676035/", "key_information_obtained": "Task force size"},
+      {"type": "Radio", "title": "WBEZ jury decides against death penalty", "url_or_reference": "https://www.wbez.org/2007/05/18/jury-decides-against-death-penalty-in-browns-chicken-case", "key_information_obtained": "Luna sentencing verdict"},
+      {"type": "Journalist blog", "title": "Robert Loerzel, On the Brown's Chicken murders (2007)", "url_or_reference": "https://www.robertloerzel.com/2007/03/22/on-the-browns-chicken-murders/", "key_information_obtained": "BGA report, early arrest"},
+      {"type": "Full list", "title": "See investigacion.md section 13", "url_or_reference": "investigacion.md", "key_information_obtained": "36 numbered sources"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "Another solved Midwest cold case",
+    "connection_to_current_video": "Preserved evidence waiting for a name",
+    "teaser_line": "Some evidence waits nine years. Some waits forty."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Exact time bodies were found (CBS: around 3 a.m.; other sources only 'more than 5.5 hours after closing')",
+      "Degorski's exact age in January 1993 (about 20; derived from age 37 at 2009 trial)",
+      "Whether Luna had worked at this specific Brown's restaurant (coverage says he worked as a cook for several years in high school)",
+      "Month of Luna's formal sentencing (NRN: August 2007)",
+      "Guadalupe Maldonado's exact job title",
+      "Exact wording of quotes taken from search-result summaries"
+    ],
+    "information_gaps": ["Biographical detail on Thomas Mennes, Marcus Nellsen, Guadalupe Maldonado", "Any 2023-2026 filings by Luna or Degorski", "Identity of the friend who called police for Lockett and of the second reward recipient"],
+    "questions_to_answer": ["Is either man's case pending any post-conviction or emerging-adult sentencing motion in 2026?"]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "video_metadata": {
+    "working_title": "MASSACHUSETTS 1964 Cold Case: Killer Identified After 49 Years — Justice for Mary Sullivan",
+    "topic_one_sentence": "Nineteen-year-old Mary Sullivan was raped and strangled in her new Beacon Hill apartment on January 4, 1964, the last killing attributed to the Boston Strangler; Albert DeSalvo confessed but was never tried, was killed in prison in 1973, and only in July 2013 did familial Y-STR DNA from a nephew's discarded water bottle, followed by the exhumation of DeSalvo's remains, link him to her murder with odds quoted at one in 220 billion, while his responsibility for the other killings remains debated.",
+    "primary_emotion_to_evoke": "grief turning into the bittersweet relief of a partial answer, with lingering unease about the other women",
+    "target_length_minutes": "70-75"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Mary Sullivan (victim, the heart of the story); Albert Henry DeSalvo (the man the DNA identified)",
+    "age_at_time_of_events": "Mary Sullivan: 19 in January 1964. Albert DeSalvo: born September 3, 1931, so 32 in January 1964; 42 when he was killed in November 1973.",
+    "occupation_or_status": "Mary: a young woman from Cape Cod who had just moved to Boston. DeSalvo: married father of two, worked odd jobs/handyman work and construction-type labour (background; see notes); serving a life sentence for unrelated sexual assaults and robberies at his death; never charged with or convicted of any murder.",
+    "location": "44A Charles Street, Beacon Hill, Boston, Massachusetts",
+    "physical_description": "Not used; real archival photo of Mary only.",
+    "background_brief": "Mary grew up on Cape Cod in an Irish Catholic family; her younger sister Diane, then 17, was her best friend. She moved into a third-floor apartment on Charles Street shared by three young women only days before she was killed (sources say between one and four days).",
+    "psychological_profile": "Not applicable to the victim. DeSalvo: con man and sexual predator by his record ('Measuring Man', 'Green Man'); Bridgewater psychiatrist Dr. Ames Robey reportedly doubted he was capable of homicide (per Casey Sherman, 2025).",
+    "mundane_humanizing_detail": "For her nephew Casey Sherman, Mary was a portrait on the mantel at home; his mother said they had planned to live their lives together.",
+    "nickname_or_alias_if_any": "DeSalvo: 'The Measuring Man', 'The Green Man'."
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {"name": "Mary Sullivan", "role_or_profession": "19-year-old from Cape Cod, newly arrived in Boston", "connection_to_protagonist": "DNA matched DeSalvo to seminal fluid on her body and a blanket at the scene (2013)", "specific_impact_suffered": "Raped and strangled in her apartment on January 4, 1964", "humanizing_detail": "Described by her nephew as 'the joy of her Irish Catholic family'; best friend of her younger sister Diane", "any_quotes_from_them": "None documented"},
+      {"name": "Diane (Sullivan) Dodd", "role_or_profession": "Mary's younger sister, 17 in 1964; mother of Casey Sherman", "connection_to_protagonist": "Family of the victim", "specific_impact_suffered": "Lost her sister and best friend", "humanizing_detail": "Told her teenage son that Mary was not just a statistic", "any_quotes_from_them": "'She was my sister and my best friend.' (as recounted in BU Bostonia, 2016) [19]"},
+      {"name": "Anna Slesers", "role_or_profession": "Seamstress, 55", "connection_to_protagonist": "First killing attributed to the Boston Strangler", "specific_impact_suffered": "Found strangled in her apartment June 14, 1962", "humanizing_detail": "", "any_quotes_from_them": ""},
+      {"name": "Joann Graff", "role_or_profession": "23, of Lawrence", "connection_to_protagonist": "Strangler-series victim killed November 23, 1963, the day after the Kennedy assassination", "specific_impact_suffered": "Murdered", "humanizing_detail": "", "any_quotes_from_them": ""}
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "Women killed in the Boston area between June 1962 and January 1964 whose murders were attributed to the 'Boston Strangler'",
+      "total_number_affected": "11 on the 'official' list; 13 counting two further killings DeSalvo also confessed to. Names usually listed: Anna Slesers (June 14, 1962), Mary Mullen (June 28, 1962), Nina Nichols (June 30, 1962), Helen Blake (June 30, 1962), Ida Irga (August 19, 1962), Jane Sullivan (August 20/21, 1962), Sophie Clark (December 5, 1962), Patricia Bissette (December 31, 1962), Mary Brown (March 1963), Beverly Samans (May 6, 1963), Evelyn Corbin (September 8/9, 1963), Joann Graff (November 23, 1963), Mary Sullivan (January 4, 1964).",
+      "range_of_impacts": "Victims ranged in age from 85 to 19; most were sexually assaulted and strangled in their own homes; DNA evidence links DeSalvo only to Mary Sullivan."
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Casey Sherman", "role_in_story": "Mary's nephew (son of her sister Diane), journalist and author of 'A Rose for Mary' (2003)", "key_actions_they_took": "Pushed for re-examination; involved in the 2000-2001 exhumations and private testing; in 2013 accepted the DNA result; in November 2025 hosted Oxygen's 'The Boston Strangler: Unheard Confession' and said he doubts DeSalvo was the Strangler", "notable_quotes": "'This is now full justice for my aunt, Mary Sullivan.' (2013) [5][21]; 'I only go where the evidence leads.' (2013) [21]; 'I've lived with Mary's memory every day, my whole life.' (2013, AP) [21]"},
+      {"name": "Daniel F. Conley", "role_in_story": "Suffolk County District Attorney in 2013", "key_actions_they_took": "Announced the familial match on July 11, 2013, sought the exhumation, announced the confirmatory match on July 19, 2013; stressed the evidence applied only to the Sullivan case", "notable_quotes": "Described the result as a 'familial match' (July 11, 2013) [6]"},
+      {"name": "Martha Coakley", "role_in_story": "Massachusetts Attorney General in 2013", "key_actions_they_took": "Joint announcements in July 2013", "notable_quotes": "Said the finding 'leaves no doubt that Albert DeSalvo was responsible for the brutal murder of Mary Sullivan' and that he was 'most likely' responsible for the other killings [3][4]"},
+      {"name": "Edward F. Davis", "role_in_story": "Boston Police Commissioner in 2013", "key_actions_they_took": "Joint announcements; his department's cold case squad ran the test", "notable_quotes": "None verified"},
+      {"name": "Boston Police Department cold case squad", "role_in_story": "Investigators", "key_actions_they_took": "Used NIJ cold-case grant funding to compare the preserved crime-scene evidence with DNA from a DeSalvo nephew; an officer followed the nephew and collected a discarded water bottle", "notable_quotes": ""},
+      {"name": "James E. Starrs", "role_in_story": "George Washington University professor of forensic science", "key_actions_they_took": "Led the private team that exhumed DeSalvo in October 2001 and in December 2001 announced that DNA they found did not match him", "notable_quotes": "'We have found evidence and the evidence does not and cannot be associated with Albert DeSalvo.' [11]"},
+      {"name": "Elaine Whitfield Sharp", "role_in_story": "Attorney for the DeSalvo family", "key_actions_they_took": "Objected to the covert collection of the nephew's DNA; disputed the 2013 conclusion", "notable_quotes": "Objected that police would 'sneakily, creepily, take his water bottle and take his DNA' [6]"},
+      {"name": "Edward W. Brooke", "role_in_story": "Massachusetts Attorney General 1963-1967", "key_actions_they_took": "Created the Special Division of Crime Research and Detection ('Strangler Bureau') led by Assistant AG John S. Bottomly; approved involvement of psychic Peter Hurkos", "notable_quotes": ""},
+      {"name": "John S. Bottomly", "role_in_story": "Assistant AG heading the Strangler Bureau", "key_actions_they_took": "Led the task force; appointment controversial because of his lack of criminal-law experience; took DeSalvo's 1965 confession statements (background)", "notable_quotes": ""},
+      {"name": "F. Lee Bailey", "role_in_story": "DeSalvo's attorney", "key_actions_they_took": "Took DeSalvo as a client after George Nassar told him of DeSalvo's claims; his client confessed in 1965 but was never tried for the murders", "notable_quotes": ""},
+      {"name": "George Nassar", "role_in_story": "Fellow inmate at Bridgewater State Hospital", "key_actions_they_took": "Told his attorney F. Lee Bailey that DeSalvo had confessed to him; named by some writers as an alternative suspect (no charges)", "notable_quotes": ""}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "1931-09-03", "location": "Chelsea, Massachusetts", "what_happened": "Albert Henry DeSalvo born", "significance": "Age contrast", "source": "[15] Wikipedia, Albert DeSalvo"},
+      {"date": "1961-1962 (background)", "location": "Cambridge area", "what_happened": "DeSalvo arrested as the so-called 'Measuring Man', who posed as a modeling-agency talent scout to get into women's apartments; served a short sentence", "significance": "Earlier record; dates single-sourced from background", "source": "[15] Wikipedia (nickname confirmed); dates to verify"},
+      {"date": "1962-06-14", "location": "Back Bay, Boston", "what_happened": "Anna Slesers, 55, a seamstress, found strangled in her apartment: the first killing attributed to the Boston Strangler", "significance": "Start of the series", "source": "[13] History.com; [17] Crime Library"},
+      {"date": "1962-06-28 to 1963-11-23", "location": "Boston, Cambridge, Lynn, Salem, Lawrence and other communities", "what_happened": "Further killings attributed to the Strangler: Mary Mullen, Nina Nichols, Helen Blake, Ida Irga, Jane Sullivan, Sophie Clark, Patricia Bissette, Mary Brown, Beverly Samans, Evelyn Corbin, Joann Graff", "significance": "Climate of fear before Mary arrived", "source": "[17] Crime Library; [18] Lawrence History Center; [14] Wikipedia"},
+      {"date": "1963-11-23", "location": "54 Essex St., Lawrence, Massachusetts", "what_happened": "Joann Graff, 23, killed, the day after the assassination of President Kennedy", "significance": "Last killing before Mary's", "source": "[18] Lawrence History Center"},
+      {"date": "Late December 1963 / early January 1964", "location": "44A Charles Street, Beacon Hill, Boston", "what_happened": "Mary Sullivan, 19, leaves Cape Cod and moves into an apartment shared by three young women", "significance": "She had been there only days (sources: one to four days)", "source": "[8] Boston Magazine; [21] CBS/AP; [14] Wikipedia"},
+      {"date": "1964-01-04", "location": "44A Charles Street, Boston", "what_happened": "Mary Sullivan raped and strangled in her apartment, reportedly in the afternoon; found that day; a card reading 'Happy New Year' was left at the scene", "significance": "Last killing attributed to the Strangler; seminal fluid on her body and a blanket preserved", "source": "[9] WBUR timeline; [13] History.com; [2] NIJ; [14] Wikipedia"},
+      {"date": "January 1964", "location": "Massachusetts Attorney General's office", "what_happened": "Attorney General Edward Brooke creates the Special Division of Crime Research and Detection led by Assistant AG John S. Bottomly; later approves involvement of psychic Peter Hurkos, whose suspect had no evidence against him", "significance": "Statewide task force; credibility damaged", "source": "[16] Crime Library, Strangler Bureau; exact date to verify"},
+      {"date": "1964-10-27 and following days", "location": "Cambridge / Boston area", "what_happened": "A young woman assaulted by an intruder who left without killing her describes him; police identify and arrest DeSalvo for the 'Green Man' sexual assaults", "significance": "DeSalvo enters custody; not yet a Strangler suspect", "source": "[13] History.com; [27] Oxygen"},
+      {"date": "1965", "location": "Bridgewater State Hospital", "what_happened": "DeSalvo tells cellmate George Nassar he is the Strangler; Nassar tells his lawyer F. Lee Bailey, who takes DeSalvo as a client; DeSalvo confesses in detail to the 11 'official' killings plus two others", "significance": "The confession, never tested in court", "source": "[13] History.com; [15] Wikipedia; [27] Oxygen"},
+      {"date": "1967-01-18", "location": "Middlesex County, Massachusetts", "what_happened": "Under arrangements with prosecutors, DeSalvo is never charged with the Strangler murders; he is convicted of the unrelated 'Green Man' assaults and robberies and sentenced to life", "significance": "No court ever tests the murder confession", "source": "[13] History.com; [15] Wikipedia; [9] WBUR"},
+      {"date": "February 1967", "location": "Bridgewater to Lynn, Massachusetts", "what_happened": "DeSalvo escapes from Bridgewater State Hospital and is recaptured in Lynn", "significance": "Brief panic; exact dates (Feb 24-25) from background", "source": "[15] Wikipedia (photo caption, Lynn 1967)"},
+      {"date": "1973-11-26", "location": "Walpole State Prison (MCI-Cedar Junction)", "what_happened": "DeSalvo stabbed to death by an unidentified fellow inmate", "significance": "He dies never charged with any murder", "source": "[13] History.com; [10] CBS Boston timeline"},
+      {"date": "2000-10-14", "location": "Cape Cod area cemetery", "what_happened": "Mary Sullivan's remains exhumed for DNA testing at the family's initiative", "significance": "Decades of doubt reach the grave", "source": "[9] WBUR timeline; [10] CBS Boston timeline"},
+      {"date": "2000-10-20", "location": "Boston", "what_happened": "Attorney General Thomas Reilly says his office will do new DNA tests on evidence from Sullivan's slaying", "significance": "Official re-examination begins", "source": "[9] WBUR timeline"},
+      {"date": "2001-10-26", "location": "Peabody, Massachusetts", "what_happened": "DeSalvo's body exhumed at his family's request for private DNA testing led by James Starrs", "significance": "First exhumation", "source": "[9] WBUR timeline; [11] CBS 2001"},
+      {"date": "2001-12-06", "location": "Washington / Boston", "what_happened": "Starrs announces that DNA his team found on Sullivan's remains and clothing 'does not and cannot be associated with Albert DeSalvo'; material from two other people", "significance": "Doubt peaks; later authorities said privately tested evidence was questionable", "source": "[11] CBS 2001; [12] Fox 2001; [29] CNN transcript"},
+      {"date": "2003", "location": "", "what_happened": "Casey Sherman publishes 'A Rose for Mary: The Hunt for the Real Boston Strangler', questioning DeSalvo's guilt", "significance": "Family campaign", "source": "[20] Wikipedia, Casey Sherman; [19] BU Bostonia"},
+      {"date": "2009 and 2012", "location": "Boston", "what_happened": "Boston receives National Institute of Justice cold-case grants; BPD cold case squad uses some funding on the Sullivan case", "significance": "Money for the test", "source": "[2] NIJ"},
+      {"date": "2013 (before July 11)", "location": "Boston area", "what_happened": "A plainclothes investigator follows a DeSalvo nephew and collects a water bottle he discarded; Y-STR testing shows a familial match to the seminal fluid preserved from the Sullivan scene, excluding about 99.9 percent of suspects", "significance": "The breakthrough", "source": "[2] NIJ; [6] ABA Journal; [3] NBC"},
+      {"date": "2013-07-11", "location": "Boston", "what_happened": "DA Conley, AG Coakley and Commissioner Davis announce the familial match; Conley says it applies only to Sullivan; a judge approves exhumation", "significance": "Public announcement", "source": "[6] ABA Journal; [25] CS Monitor; [9] WBUR"},
+      {"date": "2013-07-12", "location": "Puritan Lawn Memorial Park, Peabody, Massachusetts", "what_happened": "DeSalvo's remains exhumed and taken to the medical examiner's office in Boston for samples", "significance": "Confirmation sample", "source": "[7] Boston Magazine; [30] WBUR"},
+      {"date": "2013-07-19", "location": "Boston", "what_happened": "Officials announce that DNA from a femur and three teeth matches the seminal fluid; odds that another white male was the source put at one in 220 billion", "significance": "DeSalvo identified as source of the Sullivan evidence", "source": "[1] Suffolk DA; [2] NIJ; [4] CBS; [3] NBC"},
+      {"date": "2025-11-15", "location": "", "what_happened": "Fox News reports Casey Sherman doubts DeSalvo committed the murders; Oxygen airs 'The Boston Strangler: Unheard Confession' with previously unheard audio", "significance": "The debate continues", "source": "[23] Fox News; [24] Oxygen"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {
+      "exact_date": "January 4, 1964",
+      "exact_location": "44A Charles Street, Beacon Hill, Boston",
+      "what_is_happening": "A 19-year-old who has just moved from Cape Cod to the city is killed in her new apartment days after arriving",
+      "what_makes_it_shocking": "Boston had lived with a serial strangler for 19 months; she was the last victim",
+      "ironic_twist": "The man who confessed was never tried; his confession was doubted for decades, even by Mary's own family, and the answer came 49 years later from a water bottle thrown away by his nephew"
+    },
+    "central_mystery_question": "Did the man who confessed actually kill Mary Sullivan, and what does that tell us about the other women"
+  },
+  "the_method": {
+    "_instructions": "How did the protagonist do what they did? Technical details that can be explained to a general audience.",
+    "technique_name": "Familial Y-STR DNA comparison with covert discarded sample, followed by exhumation and direct confirmatory DNA testing",
+    "step_by_step_explanation": [
+      "Seminal fluid from Mary's body and from a blanket at the scene had been preserved by Boston police for nearly 50 years",
+      "Analysts developed a Y-chromosome (Y-STR) profile from it",
+      "Because the Y chromosome passes almost unchanged from father to son, all men in a paternal line share it",
+      "An investigator collected a water bottle discarded by a DeSalvo nephew; his Y-STR profile matched the crime scene, excluding about 99.9 percent of men",
+      "A Y-STR match points to a family line, not an individual, so authorities obtained court approval to exhume DeSalvo",
+      "DNA from a femur and three teeth was compared directly; a nationally recognized lab reported a match with odds of one in 220 billion"
+    ],
+    "why_it_worked": "Evidence had been preserved; Y-STR testing works on male DNA even when mixed with female DNA; a paternal relative was available",
+    "technical_terms_to_explain": [
+      {"term": "Y-STR", "simple_explanation": "A genetic surname: markers on the Y chromosome shared by a man, his father, brothers, sons and paternal nephews"},
+      {"term": "Familial match", "simple_explanation": "The sample does not name a man, it names a family"},
+      {"term": "Confirmatory sample", "simple_explanation": "A direct sample from the person himself, here from bone and teeth"}
+    ],
+    "scale_of_operation": "One case out of 11-13; officials said there was not enough testable DNA in the other cases"
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "A fragmented investigation across many police jurisdictions and a state task force; a legal system that never tested the confession",
+    "how_they_were_supposed_to_protect": "Identify and try the killer",
+    "why_they_failed": "No forensic method could link a suspect in 1964; jurisdictions divided; DeSalvo's confession was never brought before a jury",
+    "specific_incompetence_examples": [
+      "The Strangler Bureau was led by an Assistant AG criticized for lack of criminal-law experience [16]",
+      "Involvement of psychic Peter Hurkos damaged the Bureau's credibility; his suspect had no evidence against him [16]",
+      "DeSalvo was never charged with any murder; he received life for the Green Man crimes instead [13]",
+      "He was killed in 1973; the killer was never identified [13]"
+    ],
+    "ironic_details_about_the_failure": "The evidence that answered the question had been in police storage the whole time; private tests in 2001 pointed the other way, and authorities later called that evidence questionable [22]"
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Boston Police Department cold case squad, Suffolk County DA's office, Massachusetts AG's office",
+    "operation_code_name_if_any": "None",
+    "when_investigation_began": "January 1964; cold case work funded by NIJ grants in 2009 and 2012",
+    "initial_wrong_assumptions": "Many investigators and writers doubted a single killer; DeSalvo's confession was believed by some and doubted by others",
+    "key_breakthrough": "Nephew's discarded water bottle gives a familial Y-STR match",
+    "the_fatal_mistake": "Not applicable (DeSalvo was dead); the nephew's discarded bottle provided the lead",
+    "how_long_until_caught": "Identified 49 years after the murder (January 1964 to July 2013); never tried"
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "July 12, 2013 (exhumation); July 19, 2013 (result)",
+    "location": "Puritan Lawn Memorial Park, Peabody; Office of the Chief Medical Examiner, Boston",
+    "scene_description": "Court-approved exhumation of DeSalvo's remains for confirmatory DNA testing",
+    "protagonist_reaction": "DeSalvo had been dead since 1973; his family's lawyer disputed the conclusion",
+    "ironic_or_absurd_details": "DeSalvo's grave had already been opened once, in 2001, by his own family trying to prove his innocence"
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["DeSalvo: never charged with any Strangler murder", "Convicted January 1967 of unrelated sexual assaults/robberies ('Green Man' cases), life sentence"],
+    "trial_date_if_applicable": "January 1967 (Green Man case only)",
+    "notable_court_testimony": "None on the murders",
+    "victim_impact_statements": [{"from_whom": "Casey Sherman", "key_quote": "This is now full justice for my aunt, Mary Sullivan.", "emotional_impact": "Acceptance in 2013"}],
+    "sentence_received": "Life imprisonment for the Green Man crimes",
+    "protagonist_statement_in_court": "None",
+    "current_status": "As of October 2026: DeSalvo dead since November 26, 1973, never convicted of any murder; authorities stated in 2013 the DNA identifies him as the source of the Sullivan evidence; no DNA link to the other killings; his responsibility for them remains debated (Sherman's 2025 documentary disputes it). No search found any new official development after 2013."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Martha Coakley, Massachusetts Attorney General", "exact_quote": "leaves no doubt that Albert DeSalvo was responsible for the brutal murder of Mary Sullivan", "context": "July 19, 2013 announcement", "source": "[3] NBC News; [4] CBS News"},
+      {"speaker": "Casey Sherman", "exact_quote": "This is now full justice for my aunt, Mary Sullivan.", "context": "July 2013 reaction", "source": "[5] CBS Boston; [21] CBS News"},
+      {"speaker": "Casey Sherman", "exact_quote": "I only go where the evidence leads", "context": "July 2013, explaining why he accepted the DNA after years of doubt", "source": "[21] CBS News"},
+      {"speaker": "Casey Sherman", "exact_quote": "I've lived with Mary's memory every day, my whole life.", "context": "July 2013, AP", "source": "[21] CBS News / AP"},
+      {"speaker": "Casey Sherman", "exact_quote": "the joy of her Irish Catholic family", "context": "Describing Mary, 2013, AP", "source": "[21] CBS News / AP"},
+      {"speaker": "Diane Dodd (as recounted by her son)", "exact_quote": "She was my sister and my best friend.", "context": "What she told teenage Casey", "source": "[19] BU Bostonia 2016"},
+      {"speaker": "Casey Sherman", "exact_quote": "My aunt was the reason I went to BU", "context": "On studying journalism", "source": "[19] BU Bostonia 2016"},
+      {"speaker": "James E. Starrs", "exact_quote": "We have found evidence and the evidence does not and cannot be associated with Albert DeSalvo", "context": "December 2001, after private testing", "source": "[11] CBS News 2001"},
+      {"speaker": "Elaine Whitfield Sharp", "exact_quote": "sneakily, creepily, take his water bottle and take his DNA", "context": "July 2013, objecting to covert collection", "source": "[6] ABA Journal"},
+      {"speaker": "Daniel Conley (fragment)", "exact_quote": "familial match", "context": "July 11, 2013", "source": "[6] ABA Journal; [21]"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "19", "what_it_represents": "Mary's age", "source": "[3][9]"},
+      {"number": "11 / 13", "what_it_represents": "'Official' Strangler killings / total DeSalvo confessed to", "source": "[14][15]"},
+      {"number": "85 to 19", "what_it_represents": "Age range of the victims", "source": "[16]"},
+      {"number": "19 months", "what_it_represents": "June 14, 1962 to January 4, 1964", "source": "[13][9]"},
+      {"number": "99.9 percent", "what_it_represents": "Share of men excluded by the familial Y-STR match", "source": "[2][6]"},
+      {"number": "1 in 220 billion", "what_it_represents": "Odds that a white male other than DeSalvo was the source", "source": "[1][4]"},
+      {"number": "1 femur, 3 teeth", "what_it_represents": "Samples from the exhumed remains", "source": "[2]"},
+      {"number": "49 years", "what_it_represents": "January 1964 to July 2013", "source": "calculated"},
+      {"number": "2009, 2012", "what_it_represents": "NIJ cold-case grants to Boston", "source": "[2]"},
+      {"number": "1973", "what_it_represents": "DeSalvo killed at Walpole, age 42", "source": "[13][15]"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "The man who confessed to being the Boston Strangler was never charged with a single murder",
+      "Mary's own nephew spent years arguing DeSalvo was innocent of her murder, then accepted the 2013 DNA, then in 2025 again voiced doubts about DeSalvo as the Strangler",
+      "DeSalvo's grave was opened twice: in 2001 by his family to clear him, in 2013 by prosecutors to confirm the link",
+      "The answer came from a nephew who had done nothing wrong and threw away a water bottle"
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "44A Charles Street, Beacon Hill", "physical_description": "Apartment building on Beacon Hill's main shopping street, shared apartment of three young women", "atmosphere": "Winter, days after New Year 1964", "relevant_details": "Mary had lived there only days"},
+      {"location_name": "Cape Cod / Hyannis", "physical_description": "Mary's home region; Casey Sherman born in Hyannis", "atmosphere": "", "relevant_details": "Exact hometown to verify"},
+      {"location_name": "Bridgewater State Hospital", "physical_description": "State institution where DeSalvo was held for observation", "atmosphere": "", "relevant_details": "Where he confessed"},
+      {"location_name": "Puritan Lawn Memorial Park, Peabody", "physical_description": "Cemetery", "atmosphere": "", "relevant_details": "Exhumations 2001 and 2013"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "A confession is not proof; evidence preserved for decades can answer questions no one could answer at the time",
+    "how_this_could_happen_to_them": "Mary was a young woman starting her life in a new city",
+    "lesson_or_warning": "Keep the evidence; test the confession; separate what is proven from what is assumed",
+    "current_relevance": "Familial DNA and covert discarded samples are now routine in cold cases, and still debated on privacy grounds"
+  },
+  "sources": {
+    "_instructions": "List ALL sources.",
+    "primary_sources": [
+      {"type": "Prosecutor release", "title": "DeSalvo DNA a Match to Mary Sullivan Crime Scene Evidence, Authorities Announce [1]", "url_or_reference": "https://archive.suffolkdistrictattorney.com/desalvo-dna-a-match-to-mary-sullivan-crime-scene-evidence-authorities-announce/", "key_information_obtained": "July 19, 2013 match; 1 in 220 billion; joint announcement"},
+      {"type": "Government (NIJ)", "title": "Solving Cold Cases with DNA: The Boston Strangler Case [2]", "url_or_reference": "https://nij.ojp.gov/topics/articles/solving-cold-cases-dna-boston-strangler-case", "key_information_obtained": "Grants 2009/2012; nephew; Y-STR; blanket; femur and three teeth"}
+    ],
+    "secondary_sources": [
+      {"type": "News", "title": "NBC News, Authorities: DNA match leaves 'no doubt' [3]", "url_or_reference": "https://www.nbcnews.com/news/us-news/authorities-dna-match-leaves-no-doubt-about-boston-strangler-final-flna6c10686968", "key_information_obtained": "Coakley quote; only Sullivan case"},
+      {"type": "News", "title": "CBS News, DNA links DeSalvo to woman believed to be last victim [4]", "url_or_reference": "https://cbsnews.com/news/boston-strangler-case-dna-links-albert-desalvo-to-woman-believed-to-be-last-victim-authorities-say", "key_information_obtained": "220 billion; Coakley"},
+      {"type": "News", "title": "CBS Boston, Sullivan family: DNA definitively links DeSalvo [5]", "url_or_reference": "https://cbsnews.com/boston/news/sullivan-family-dna-evidence-definitively-links-desalvo-in-boston-strangler-case", "key_information_obtained": "Family reaction"},
+      {"type": "News", "title": "ABA Journal, DNA links dead suspect [6]", "url_or_reference": "https://www.abajournal.com/news/article/dna_links_dead_suspect_to_boston_strangler_slaying_authorities_plan_to_exhu", "key_information_obtained": "Familial match, water bottle, Sharp quote"},
+      {"type": "News", "title": "Boston Magazine, Officials dug up the body [7]", "url_or_reference": "https://www.bostonmagazine.com/?p=616171", "key_information_obtained": "Exhumation"},
+      {"type": "News", "title": "Boston Magazine, DNA matched to crime scene evidence [8]", "url_or_reference": "https://bostonmagazine.com/?p=632041", "key_information_obtained": "Four days after moving"},
+      {"type": "News", "title": "WBUR timeline [9]", "url_or_reference": "https://www.wbur.org/news/2013/07/11/timeline-main-events-in-the-case-of-the-boston-strangler", "key_information_obtained": "Dates 1964-2013"},
+      {"type": "News", "title": "CBS Boston timeline [10]", "url_or_reference": "https://www.cbsnews.com/boston/news/timeline-the-case-of-the-boston-strangler/", "key_information_obtained": "Dates"},
+      {"type": "News", "title": "CBS News 2001, New Doubt in Boston Strangler Case [11]", "url_or_reference": "https://www.cbsnews.com/news/new-doubt-in-boston-strangler-case/", "key_information_obtained": "Starrs quote"},
+      {"type": "News", "title": "Fox News 2001, DNA evidence casts doubt [12]", "url_or_reference": "https://www.foxnews.com/story/dna-evidence-casts-doubt-on-boston-stranglers-guilt", "key_information_obtained": "2001 results"},
+      {"type": "Reference", "title": "History.com, Boston Strangler strikes again [13]", "url_or_reference": "https://www.history.com/this-day-in-history/january-4/boston-strangler-strikes-again", "key_information_obtained": "Slesers; Green Man; arrest; 1967; 1973"},
+      {"type": "Reference", "title": "Wikipedia, Boston Strangler [14]", "url_or_reference": "https://en.wikipedia.org/wiki/Boston_Strangler", "key_information_obtained": "Victims; 44A Charles St; card"},
+      {"type": "Reference", "title": "Wikipedia, Albert DeSalvo [15]", "url_or_reference": "https://en.wikipedia.org/wiki/Albert_DeSalvo", "key_information_obtained": "Birth; nicknames; Lynn 1967"},
+      {"type": "Reference", "title": "Crime Library, Strangler Bureau [16]", "url_or_reference": "https://www.crimelibrary.org/serial_killers/notorious/boston/8.html", "key_information_obtained": "Brooke, Bottomly, Hurkos; ages 85 to 19"},
+      {"type": "Reference", "title": "Crime Library, victims [17]", "url_or_reference": "https://crimelibrary.org/serial_killers/notorious/boston/ladies_2.html?sect=1", "key_information_obtained": "Victim dates"},
+      {"type": "Archive", "title": "Lawrence History Center [18]", "url_or_reference": "https://lawrencehistory.org/node/25688", "key_information_obtained": "Joann Graff"},
+      {"type": "University magazine", "title": "BU, Tales of Heroes in Print and Film [19]", "url_or_reference": "https://www.bu.edu/articles/2016/heroes-print-film/", "key_information_obtained": "Sherman family memories"},
+      {"type": "Reference", "title": "Wikipedia, Casey Sherman [20]", "url_or_reference": "https://en.wikipedia.org/wiki/Casey_Sherman", "key_information_obtained": "A Rose for Mary 2003"},
+      {"type": "News", "title": "CBS/AP, DNA revelation provides some closure [21]", "url_or_reference": "https://cbsnews.com/news/boston-strangler-dna-revelation-provides-some-closure-for-victims-family", "key_information_obtained": "Sherman quotes"},
+      {"type": "News", "title": "CBS, DNA doesn't prove link, lawyer says [22]", "url_or_reference": "https://cbsnews.com/news/dna-doesnt-prove-boston-strangler-link-lawyer-says", "key_information_obtained": "Sharp; authorities on questionable private evidence"},
+      {"type": "News", "title": "Fox News 2025, Unheard confession tapes [23]", "url_or_reference": "https://www.foxnews.com/us/boston-stranglers-unheard-confession-tapes-cast-new-doubt-americas-jack-ripper-victims-nephew", "key_information_obtained": "Sherman doubts; Robey"},
+      {"type": "News", "title": "Oxygen, Unheard Confession trailer [24]", "url_or_reference": "https://www.oxygen.com/crime-news/the-boston-strangler-unheard-confession-trailer", "key_information_obtained": "2025 documentary"},
+      {"type": "News", "title": "Christian Science Monitor 2013 [25]", "url_or_reference": "https://www.csmonitor.com/USA/USA-Update/2013/0711/Boston-Strangler-case-Will-new-DNA-evidence-finally-bring-resolution", "key_information_obtained": "July 11 context"},
+      {"type": "Reference", "title": "Biography.com, Albert DeSalvo [26]", "url_or_reference": "https://www.biography.com/crime-figure/albert-de-salvo", "key_information_obtained": "Death 1973"},
+      {"type": "News", "title": "Oxygen, Who was Albert DeSalvo [27]", "url_or_reference": "https://www.oxygen.com/crime-news/who-was-albert-desalvo-the-purported-boston-strangler", "key_information_obtained": "Green Man, arrest, Nassar, Bailey"},
+      {"type": "Magazine", "title": "Crime Magazine, final murder January 4, 1964 [28]", "url_or_reference": "https://crimemagazine.com/boston-strangler-committed-final-murder-january-4-1964", "key_information_obtained": "Context"},
+      {"type": "Transcript", "title": "CNN transcript Dec 7, 2001 [29]", "url_or_reference": "https://www.cnn.com/TRANSCRIPTS/0112/07/lt.07.html", "key_information_obtained": "2001 results"},
+      {"type": "News", "title": "WBUR July 12, 2013 [30]", "url_or_reference": "https://www.wbur.org/news/2013/07/12/desalvo-boston-strangler", "key_information_obtained": "Exhumation"},
+      {"type": "News", "title": "Philadelphia Inquirer July 21, 2013 [31]", "url_or_reference": "https://www.inquirer.com/philly/news/nation_world/20130721_DNA_confirms_link_in_Boston_Strangler_case.html", "key_information_obtained": "Confirmation"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "Another decades-old murder answered by a relative's DNA",
+    "connection_to_current_video": "Familial DNA",
+    "teaser_line": "Next, another case where the answer was hiding in a family tree."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Hyannis as Mary's exact hometown (only 'Cape Cod' confirmed)",
+      "Exact number of days she had lived on Charles Street (sources: previous day vs four days)",
+      "Roommates' names and who found her (not used in script)",
+      "Exact date of creation of the Strangler Bureau (January 1964, background)",
+      "Measuring Man arrest/release dates; escape dates Feb 24-25, 1967",
+      "Name of the nephew (not used) and of the laboratory (not used)",
+      "Exact wording of Sherman's 2001 statements",
+      "Whether Sherman's 2025 doubts extend to the Sullivan DNA result itself"
+    ],
+    "information_gaps": ["Mary's job plans in Boston, school, birth date", "Ages of several earlier victims"],
+    "questions_to_answer": ["Any official statement on the other killings after 2013 (none found)"]
+  }
+}

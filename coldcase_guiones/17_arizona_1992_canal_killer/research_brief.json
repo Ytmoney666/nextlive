@@ -1,0 +1,274 @@
+{
+  "video_metadata": {
+    "working_title": "ARIZONA 1992 Cold Case Solved After 22 Years — Justice for Angela Brosso and Melanie Bernas",
+    "topic_one_sentence": "Two young women were killed while riding their bikes along the Arizona Canal in north Phoenix in November 1992 and September 1993; the case stayed unsolved for 22 years until a Y-DNA surname search in public genealogy databases and a covertly collected DNA sample led to the January 2015 arrest of Bryan Patrick Miller, a Phoenix man known locally as the costumed 'Zombie Hunter', who was convicted in April 2023 and sentenced to death in June 2023.",
+    "primary_emotion_to_evoke": "grief turning into quiet vindication; unease at how ordinary and visible the killer was",
+    "target_length_minutes": "70-75"
+  },
+  "protagonist": {
+    "_instructions": "The main character of your story - can be hero, villain, or antihero. Fill with verified facts only.",
+    "full_name": "Bryan Patrick Miller",
+    "age_at_time_of_events": "About 20 in November 1992 and about 21 in September 1993 (derived: 42 at his January 2015 arrest, 50 at his June 2023 sentencing). Exact birth date not verified.",
+    "occupation_or_status": "Phoenix resident; at the time of arrest he lived in the Sunnyslope neighborhood of Phoenix with his daughter. Convicted in April 2023; sentenced to death June 7, 2023; on Arizona death row.",
+    "location": "Phoenix, Arizona; lived for a period in Everett, Washington, after the murders.",
+    "physical_description": "Not used in the script beyond public photos; no description verified.",
+    "background_brief": "At about 16, in 1989, he stabbed a woman in the back in the parking lot of Paradise Valley Mall in Phoenix and served about a year in juvenile detention; the victim testified at his 2022 trial. A few years after the canal murders he moved to Everett, Washington, where he was charged with assault in 2002 and reportedly acquitted. He later moved back to Phoenix with his daughter into a home that had belonged to a grandmother, described by police as a hoarding situation.",
+    "psychological_profile": "At trial the defense argued he was insane at the time of the murders because of autism and dissociative disorders rooted in severe childhood abuse by his mother; the judge rejected insanity and convicted him. At sentencing the judge accepted that the childhood abuse was proven as mitigation but imposed death. He has maintained he did not commit the murders.",
+    "mundane_humanizing_detail": "He was known in Phoenix's science-fiction and comic convention scene as the 'Zombie Hunter', a costumed character he played in public.",
+    "nickname_or_alias_if_any": "The Zombie Hunter"
+  },
+  "victims_or_targets": {
+    "_instructions": "People affected by the protagonist's actions. Include 3-5 key figures minimum.",
+    "individuals": [
+      {
+        "name": "Angela 'Angie' Brosso",
+        "role_or_profession": "21-year-old who worked at a Phoenix technology firm on a new interactive voice response system; had studied at the DeVry Institute of Technology in Los Angeles; grew up in Camp Hill, Pennsylvania; moved to Phoenix in June 1992 with her boyfriend.",
+        "connection_to_protagonist": "None known; a stranger.",
+        "specific_impact_suffered": "Killed on the night of November 8, 1992, on the eve of her 22nd birthday, while on a solo evening bike ride near her apartment and the Arizona Canal in north Phoenix. Her body was found the next morning; part of her remains was recovered from the canal about ten days later by a man who was fishing.",
+        "humanizing_detail": "Her boyfriend stayed home that night to bake her a birthday cake. A former boss and co-worker described her as bold, someone who would always make you laugh or smile; she enjoyed riding her bike.",
+        "any_quotes_from_them": "None verified."
+      },
+      {
+        "name": "Melanie Bernas [MINOR, 17]",
+        "role_or_profession": "17-year-old junior at Arcadia High School in Phoenix who had signed up for accelerated classes.",
+        "connection_to_protagonist": "None known; a stranger.",
+        "specific_impact_suffered": "Went out on an evening bike ride on September 21, 1993, while her mother was at dinner; she was stabbed and found dead in the Arizona Canal on the morning of September 22, 1993, about a mile and a half from where Angela Brosso had been found.",
+        "humanizing_detail": "Friends described her as adventurous and spontaneous (azfamily, May 18, 2023).",
+        "any_quotes_from_them": "None verified."
+      },
+      {
+        "name": "The 1989 Paradise Valley Mall stabbing survivor (name not used)",
+        "role_or_profession": "Woman attacked in a mall parking lot in Phoenix in 1989.",
+        "connection_to_protagonist": "Stranger stabbed by Miller when he was about 16.",
+        "specific_impact_suffered": "Stabbed in the back; survived; testified at the 2022 trial, 33 years later.",
+        "humanizing_detail": "Her testimony let the court hear about the attack decades later.",
+        "any_quotes_from_them": "None used."
+      }
+    ],
+    "collective_victims_if_applicable": {
+      "group_description": "Families of Angela and Melanie, and the cyclists, runners and residents who used the north Phoenix canal paths.",
+      "total_number_affected": "Two murder victims; one earlier stabbing survivor.",
+      "range_of_impacts": "Decades of grief, fear on the canal paths, and a 22-year wait for an arrest followed by more than eight years to a sentence."
+    }
+  },
+  "supporting_characters": {
+    "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
+    "characters": [
+      {"name": "Joe (Angela's boyfriend; last name not used)", "role_in_story": "Last person known to have seen Angela at home", "key_actions_they_took": "Stayed home to bake her birthday cake; went out on his bike three times that night looking for her; reported her missing; testified at the 2022 trial.", "notable_quotes": "None verified verbatim."},
+      {"name": "Linda (Angela's mother; reported as Linda Brosso and Linda Strock)", "role_in_story": "Victim's mother", "key_actions_they_took": "Testified at the April 2023 penalty phase and gave an impact statement.", "notable_quotes": "Said she no longer has the holidays other mothers have because 'Angie won't be there' (azfamily, April 19, 2023)."},
+      {"name": "Marlene Bernas", "role_in_story": "Melanie's mother", "key_actions_they_took": "Testified by phone at trial in October 2022 about the last evening: she left for dinner just after 7 p.m., kissed Melanie goodbye and told her she loved her; she came home to an empty house and called hospital emergency rooms.", "notable_quotes": "Paraphrased only."},
+      {"name": "Jill Canetta", "role_in_story": "Melanie's older sister", "key_actions_they_took": "Gave a victim impact statement in 2023 describing her ongoing grief.", "notable_quotes": "Paraphrased only."},
+      {"name": "Rachel (Rachael) Schepemaker", "role_in_story": "Melanie's friend", "key_actions_they_took": "Recalled being convinced the body in the canal was not Melanie, until friends came to her crying the next day.", "notable_quotes": "Paraphrased only."},
+      {"name": "Colleen Fitzpatrick", "role_in_story": "Forensic genealogist, Identifinders International", "key_actions_they_took": "Approached Phoenix police at a 2014 conference; ran the crime-scene Y-DNA profile against public genealogy databases; the search returned matches to the surname Miller.", "notable_quotes": "'Any kind of lead generated from genetic genealogy is just a lead' (ISHI News)."},
+      {"name": "Detective Clark Schwartzkopf", "role_in_story": "Phoenix police cold case detective", "key_actions_they_took": "Worked the canal cases; his suspect list contained people named Miller, including Bryan Patrick Miller.", "notable_quotes": "None verified."},
+      {"name": "Mike Meislish", "role_in_story": "Retired Phoenix homicide detective", "key_actions_they_took": "Testified at trial in October 2022 about the Bernas scene.", "notable_quotes": "None used."},
+      {"name": "Judge Suzanne Cohen", "role_in_story": "Maricopa County Superior Court judge", "key_actions_they_took": "Presided over the bench trial; found Miller guilty on April 11, 2023; sentenced him to death on June 7, 2023.", "notable_quotes": "Reportedly called the crimes 'beyond the pale' (single source; verify)."}
+    ]
+  },
+  "chronological_timeline": {
+    "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
+    "events": [
+      {"date": "1885 (approx.)", "location": "Phoenix", "what_happened": "The Arizona Canal, the northernmost of the Salt River Valley's main irrigation canals, was built in the 1880s; by the 1990s its banks were used as paths by cyclists and runners.", "significance": "Setting", "source": "General historical background (Salt River Project history); verify exact year"},
+      {"date": "1989", "location": "Paradise Valley Mall parking lot, Phoenix", "what_happened": "Miller, then about 16, stabbed a woman in the back; he served about one year in juvenile detention.", "significance": "Earlier violence; record later unsealed", "source": "azfamily, Oct 12, 2022; Fox 10 (juvenile records unsealed)"},
+      {"date": "June 1992", "location": "Phoenix", "what_happened": "Angela Brosso moved to Phoenix and rented an apartment with her boyfriend.", "significance": "Victim portrait", "source": "Oxygen / Dateline NBC material"},
+      {"date": "November 3, 1992", "location": "Arizona / USA", "what_happened": "Presidential election; Arizona voters also approved a Martin Luther King Jr. holiday.", "significance": "Era snapshot", "source": "General historical record"},
+      {"date": "November 8, 1992, evening", "location": "North Phoenix, near the Arizona Canal (Cactus Road / Interstate 17 area per one source)", "what_happened": "Angela Brosso, 21, went on a solo evening bike ride on the eve of her 22nd birthday; her boyfriend stayed home baking her birthday cake. When she did not return, he searched three times on his bike and then reported her missing.", "significance": "Last hours", "source": "CBS News 48 Hours timeline; azfamily Oct 5, 2022"},
+      {"date": "November 9, 1992", "location": "Near a bike path by the canal, north Phoenix", "what_happened": "Angela's body was found the next morning.", "significance": "Discovery", "source": "CBS News 48 Hours timeline; KOLD/azfamily Sept 29, 2022"},
+      {"date": "About November 19, 1992", "location": "Arizona Canal", "what_happened": "About ten days later, part of her remains was found in the canal by a man who was fishing.", "significance": "Discovery", "source": "CBS News 48 Hours timeline; Oxygen"},
+      {"date": "September 21, 1993, evening", "location": "Phoenix", "what_happened": "Melanie Bernas, 17, an Arcadia High School junior, went for an evening bike ride while her mother was out to dinner (left just after 7 p.m.). Her mother came home to find Melanie and her bike gone and called emergency rooms.", "significance": "Second victim", "source": "Arizona Republic via Yahoo News (mother's testimony); CBS News"},
+      {"date": "September 22, 1993, morning", "location": "Arizona Canal, about 1.5 miles from the Brosso site", "what_happened": "Melanie was found dead in the canal; she had been stabbed.", "significance": "Discovery; DNA later linked both cases", "source": "Arizona Republic via Yahoo; Oxygen; CBS News"},
+      {"date": "1990s (date not verified)", "location": "Phoenix", "what_happened": "DNA evidence collected after both crimes showed the attacks were linked to the same unknown man.", "significance": "Series confirmed; no name", "source": "AP via KTAR / ABC15"},
+      {"date": "Mid-1990s (exact year not verified)", "location": "Everett, Washington", "what_happened": "Miller moved to Everett, Washington, a few years after the murders.", "significance": "Killer leaves Arizona", "source": "12News arrest report; Phoenix New Times"},
+      {"date": "2002", "location": "Everett, Washington", "what_happened": "Miller was charged with assault in an attack on a woman, who survived; he was reportedly acquitted.", "significance": "Missed chance (single-sourced)", "source": "12News / Phoenix New Times arrest coverage"},
+      {"date": "Later (date not verified)", "location": "Sunnyslope, Phoenix", "what_happened": "Miller moved back to Phoenix with his daughter into a home that had belonged to a grandmother.", "significance": "Killer living in the city where the crimes occurred", "source": "12News / Fox News arrest coverage"},
+      {"date": "2014", "location": "Conference; Phoenix", "what_happened": "Forensic genealogist Colleen Fitzpatrick approached Phoenix police at a conference and ran the crime-scene Y-DNA profile against public genealogy databases; the result pointed to the surname Miller.", "significance": "Genealogy lead", "source": "12News (forensic genealogist); ISHI News; azfamily/KOLD Sept 29, 2022"},
+      {"date": "2014-January 2015", "location": "Phoenix", "what_happened": "Detectives narrowed a list including men named Miller; undercover officers took Bryan Patrick Miller to lunch at a restaurant and collected his DNA from a glass.", "significance": "Discarded DNA", "source": "CBS News; azfamily trial coverage; ABC15"},
+      {"date": "January 13, 2015", "location": "Sunnyslope, Phoenix", "what_happened": "The covert sample matched the crime-scene DNA; Miller, 42, was arrested at his home and charged in both murders.", "significance": "Arrest after 22 years", "source": "CBS News 48 Hours timeline; 12News; Fox News"},
+      {"date": "February 2, 2015", "location": "Maricopa County Superior Court", "what_happened": "Miller pleaded not guilty.", "significance": "Legal process begins", "source": "KJZZ, Feb 2, 2015"},
+      {"date": "2015-2022", "location": "Maricopa County Superior Court", "what_happened": "Years of delay over mental health and an insanity defense; a judge found him competent to stand trial; Miller waived a jury.", "significance": "Seven years to trial", "source": "Court TV (mentally fit); Oxygen (insanity defense); AP"},
+      {"date": "Early October 2022", "location": "Phoenix", "what_happened": "Bench trial began before Judge Suzanne Cohen; Angela's boyfriend, Melanie's mother, retired detective Mike Meislish and the 1989 stabbing survivor testified; the 2015 interrogation video was shown.", "significance": "Trial", "source": "KOLD/azfamily Sept 29, 2022; azfamily Oct 5, Oct 6, Oct 12, Nov 3, 2022; Yahoo/Arizona Republic"},
+      {"date": "April 11, 2023", "location": "Maricopa County Superior Court", "what_happened": "Judge Cohen found Miller guilty on all counts: two counts each of first-degree murder, kidnapping and attempted sexual assault (AP wording), rejecting the insanity defense.", "significance": "Conviction", "source": "azfamily Apr 11, 2023; KTAR (AP); ABC15"},
+      {"date": "April 19, 2023", "location": "Court", "what_happened": "Penalty phase: Angela's mother and Melanie's sister testified.", "significance": "Family voices", "source": "azfamily Apr 19, 2023"},
+      {"date": "May 22, 2023", "location": "Court", "what_happened": "Miller spoke, saying he was not seeking sympathy and hoped the families could find peace.", "significance": "Statement", "source": "azfamily May 22, 2023"},
+      {"date": "June 7, 2023", "location": "Maricopa County Superior Court, downtown Phoenix", "what_happened": "Judge Cohen sentenced Miller, 50, to death for each murder, plus prison terms on the other counts (24 years reported).", "significance": "Sentence", "source": "azfamily June 7, 2023; Fox 10; Court TV; Maricopa County Attorney's Office"},
+      {"date": "October 2023", "location": "Arizona death row", "what_happened": "In interviews for 48 Hours / azfamily, Miller said death row is cold and the food 'not great' and denied committing the murders.", "significance": "No remorse; maintains innocence", "source": "CBS News; azfamily Oct 24, 2023"},
+      {"date": "2024", "location": "Arizona Supreme Court", "what_happened": "Automatic appeal CR-23-0157-AP: opening-brief deadline extended to June 12, 2024, then to September 10, 2024, with a warning that no further extensions would be granted absent extraordinary circumstances.", "significance": "Current status", "source": "Arizona Supreme Court docket CR-23-0157-AP"},
+      {"date": "October 2026", "location": "-", "what_happened": "No ruling on the automatic appeal was found in research; Miller remains under sentence of death.", "significance": "Status to re-verify", "source": "Searches of news and docket, Oct 2026"}
+    ]
+  },
+  "cold_open_material": {
+    "_instructions": "The most dramatic moment of your story - this will be your hook.",
+    "the_moment": {
+      "exact_date": "November 8, 1992",
+      "exact_location": "North Phoenix, Arizona, near the Arizona Canal",
+      "what_is_happening": "Angela Brosso leaves for a solo evening bike ride on the eve of her 22nd birthday while her boyfriend stays home to bake her birthday cake.",
+      "what_makes_it_shocking": "She never comes home; ten months later a 17-year-old high school junior on her own evening bike ride along the same canal is killed about a mile and a half away; the same DNA is left behind.",
+      "ironic_twist": "The man the DNA finally named in 2015 was a familiar figure in Phoenix fan conventions, playing a costumed hero called the 'Zombie Hunter', living in the same city."
+    },
+    "central_mystery_question": "Who was riding the dark canal paths of north Phoenix in 1992 and 1993, and how did a surname hidden in a hobby genealogy database lead to him 22 years later?"
+  },
+  "the_method": {
+    "_instructions": "Technical details that can be explained to a general audience.",
+    "technique_name": "Y-chromosome STR surname search in public genetic genealogy databases (an early form of forensic genetic genealogy), followed by covert reference DNA collection",
+    "step_by_step_explanation": [
+      "Crime-scene DNA from both cases came from the same unknown man; his profile never matched anyone in criminal DNA databases.",
+      "The Y chromosome is passed from father to son almost unchanged, much like a surname in many families.",
+      "Genealogy hobbyists upload Y-DNA marker results to public databases, often listed with their surnames.",
+      "Colleen Fitzpatrick entered the crime-scene Y-DNA marker numbers into her software and searched the public databases; the closest matches carried the surname Miller.",
+      "This did not identify anyone; it suggested the killer was likely related through the male line to men named Miller.",
+      "Phoenix detectives compared the surname with their list of persons of interest and narrowed it to a handful of men.",
+      "Undercover officers took Bryan Patrick Miller to lunch and collected the glass he drank from.",
+      "The laboratory compared his DNA with the crime-scene profile and found a match on January 13, 2015."
+    ],
+    "why_it_worked": "Male-line DNA and surnames often travel together; combined with an existing suspect list, the surname turned thousands of possibilities into a few.",
+    "technical_terms_to_explain": [
+      {"term": "Y-STR", "simple_explanation": "A set of short repeated DNA patterns on the Y chromosome, passed from father to son like a family name."},
+      {"term": "CODIS", "simple_explanation": "The FBI-run network of criminal DNA databases; national searching began in 1998."},
+      {"term": "Discarded DNA", "simple_explanation": "DNA left on an object a person throws away or leaves behind, such as a glass, which police can collect without a warrant under U.S. law in most situations."}
+    ],
+    "scale_of_operation": "Suspect pool reportedly narrowed from a long list to about five or six men named Miller (sources differ)."
+  },
+  "systemic_failure": {
+    "_instructions": "What institution, system, or authority failed to prevent this?",
+    "institution_that_failed": "No single institution; the limits of early-1990s DNA databases and of the justice system's handling of a teenager who had already stabbed a stranger.",
+    "how_they_were_supposed_to_protect": "A prior violent offender's DNA in a database could have produced a match.",
+    "why_they_failed": "In 1992-1993 there was no national DNA database; Miller's 1989 offense was handled in juvenile court; the 2002 Washington case reportedly ended in acquittal.",
+    "specific_incompetence_examples": [
+      "1989 stabbing: about one year in juvenile detention (azfamily).",
+      "2002 Everett assault charge: reportedly acquitted (single-sourced).",
+      "22 years between the first murder and the arrest; more than 8 more years to a sentence."
+    ],
+    "ironic_details_about_the_failure": "The killer lived openly in Phoenix, appeared in costume at public fan events, and was matched only after a private genealogist offered help at a conference."
+  },
+  "the_investigation": {
+    "_instructions": "How was the protagonist caught?",
+    "investigating_agency": "Phoenix Police Department (homicide and cold case units); Maricopa County Attorney's Office",
+    "operation_code_name_if_any": "None known",
+    "when_investigation_began": "November 9, 1992",
+    "initial_wrong_assumptions": "Not documented in our sources; not used in the script.",
+    "key_breakthrough": "2014 Y-DNA surname search pointing to 'Miller'.",
+    "the_fatal_mistake": "Accepting a lunch invitation from undercover officers and leaving his glass behind.",
+    "how_long_until_caught": "About 22 years and 2 months after the first murder."
+  },
+  "the_confrontation": {
+    "_instructions": "The arrest, raid, or climactic moment when everything collapses.",
+    "date_and_time": "January 13, 2015 (reported as late Tuesday)",
+    "location": "His home in Sunnyslope, Phoenix",
+    "scene_description": "Arrested at home after the DNA match; interrogated the same day; the interrogation video was shown at trial in November 2022.",
+    "protagonist_reaction": "Pleaded not guilty on February 2, 2015; later pursued an insanity defense; maintains he did not commit the murders.",
+    "ironic_or_absurd_details": "The home was described by police as a hoarding situation."
+  },
+  "legal_resolution": {
+    "_instructions": "Court proceedings, sentencing, and aftermath.",
+    "charges_filed": ["Two counts of first-degree murder", "Two counts of kidnapping", "Sexual assault-related counts (AP: two counts of attempted sexual assault; some outlets describe one sexual assault and one attempted sexual assault)"],
+    "trial_date_if_applicable": "Bench trial began in early October 2022 before Judge Suzanne Cohen; verdict April 11, 2023.",
+    "notable_court_testimony": "Angela's boyfriend described her last day; Marlene Bernas testified by phone; retired detective Mike Meislish described the Bernas scene; the 1989 stabbing survivor testified; the defense argued insanity based on autism, dissociative disorders and childhood abuse.",
+    "victim_impact_statements": [
+      {"from_whom": "Linda, Angela's mother", "key_quote": "'Angie won't be there' (about holidays)", "emotional_impact": "Every holiday marked by absence"},
+      {"from_whom": "Jill Canetta, Melanie's older sister", "key_quote": "Paraphrased: described her ongoing grief", "emotional_impact": "Lifelong loss"}
+    ],
+    "sentence_received": "Death, imposed June 7, 2023, for each first-degree murder, plus prison terms on the remaining counts.",
+    "protagonist_statement_in_court": "May 22, 2023: said he was not seeking sympathy and hoped the families could find peace (paraphrase).",
+    "current_status": "As of October 2026: on Arizona death row; automatic appeal to the Arizona Supreme Court (CR-23-0157-AP) — no decision found in research. Re-verify before publishing."
+  },
+  "verified_quotes": {
+    "_instructions": "ONLY include quotes you can verify from reliable sources.",
+    "quotes": [
+      {"speaker": "Linda, Angela Brosso's mother", "exact_quote": "Angie won't be there", "context": "Penalty-phase testimony, explaining she no longer has the holidays other mothers have", "source": "azfamily, April 19, 2023"},
+      {"speaker": "Colleen Fitzpatrick", "exact_quote": "Any kind of lead generated from genetic genealogy is just a lead", "context": "On the Miller surname result", "source": "ISHI News, 'New perspectives at ISHI'"},
+      {"speaker": "Bryan Patrick Miller", "exact_quote": "not great", "context": "Describing death row food in 2023 interviews", "source": "CBS News, October 2023"},
+      {"speaker": "Judge Suzanne Cohen (reported)", "exact_quote": "beyond the pale", "context": "Describing the crimes before sentencing", "source": "Single-source summary of sentencing coverage; verify before use"}
+    ]
+  },
+  "statistics_and_numbers": {
+    "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
+    "figures": [
+      {"number": "21", "what_it_represents": "Angela's age; she would have turned 22 the next day", "source": "CBS News; Oxygen"},
+      {"number": "17", "what_it_represents": "Melanie's age", "source": "Yahoo/Arizona Republic; CBS"},
+      {"number": "About 1.5 miles", "what_it_represents": "Distance between the two scenes", "source": "Arizona Republic via Yahoo; Fox 10"},
+      {"number": "About 10 months", "what_it_represents": "Time between the two murders", "source": "Derived from dates"},
+      {"number": "3", "what_it_represents": "Times Angela's boyfriend went out searching", "source": "CBS / azfamily"},
+      {"number": "22 years", "what_it_represents": "From Nov 1992 to the Jan 2015 arrest", "source": "Derived; CBS; Fox 10"},
+      {"number": "42", "what_it_represents": "Miller's age at arrest", "source": "12News; Fox News"},
+      {"number": "50", "what_it_represents": "Miller's age at sentencing", "source": "azfamily; Fox 10"},
+      {"number": "6", "what_it_represents": "Database matches to the surname Miller reported from the Y-DNA search; counts at trial", "source": "12News/ISHI; KTAR (AP)"},
+      {"number": "About 5", "what_it_represents": "Suspects left after the surname filter (one account)", "source": "ISHI News"},
+      {"number": "About 8 years 5 months", "what_it_represents": "From arrest (Jan 2015) to sentence (June 2023)", "source": "Derived"},
+      {"number": "33 years", "what_it_represents": "Between the 1989 stabbing and the survivor's testimony in 2022", "source": "azfamily Oct 12, 2022"},
+      {"number": "24 years", "what_it_represents": "Reported prison term on non-capital counts", "source": "Sentencing coverage (verify)"}
+    ]
+  },
+  "ironic_and_absurd_details": {
+    "_instructions": "Small details that highlight contradictions.",
+    "details": [
+      "Angela was killed while her boyfriend was baking her birthday cake.",
+      "The killer played a costumed hero, the 'Zombie Hunter', at public fan events in the same city.",
+      "He was caught after accepting a lunch with strangers who were undercover officers.",
+      "The decisive lead came from hobby genealogy databases built for finding relatives, years before the 2018 Golden State Killer case made the method famous."
+    ]
+  },
+  "sensory_and_environmental_details": {
+    "_instructions": "Details that help viewers visualize scenes.",
+    "key_locations": [
+      {"location_name": "Arizona Canal, north Phoenix", "physical_description": "Concrete-lined irrigation canal with dirt and paved maintenance banks used as paths", "atmosphere": "Open, quiet in the evening (general context)", "relevant_details": "Both women were riding near it; the two scenes were about 1.5 miles apart"},
+      {"location_name": "Sunnyslope, Phoenix", "physical_description": "Older north Phoenix neighborhood", "atmosphere": "-", "relevant_details": "Miller's home at the time of arrest"},
+      {"location_name": "Paradise Valley Mall, Phoenix", "physical_description": "Shopping mall", "atmosphere": "-", "relevant_details": "Scene of the 1989 stabbing"},
+      {"location_name": "Maricopa County Superior Court, downtown Phoenix", "physical_description": "Courthouse", "atmosphere": "-", "relevant_details": "Bench trial and sentencing"}
+    ]
+  },
+  "universal_stakes": {
+    "_instructions": "Why should viewers care?",
+    "why_this_matters_to_viewer": "Two young women doing something ordinary, riding a bike in their own neighborhood, were killed by a stranger.",
+    "how_this_could_happen_to_them": "Shared public paths; a familiar face in the community.",
+    "lesson_or_warning": "DNA preserved carefully in 1992 waited 22 years for the science to catch up; consumer genealogy has changed what is possible and raised privacy questions.",
+    "current_relevance": "One of the earliest uses of public genealogy databases by U.S. police, three years before the Golden State Killer arrest."
+  },
+  "sources": {
+    "_instructions": "List ALL sources.",
+    "primary_sources": [
+      {"type": "Court docket", "title": "Arizona Supreme Court CR-23-0157-AP, State v. Miller", "url_or_reference": "https://apps.azcourts.gov/aacc/appella/ASC/CR/CR230157.PDF", "key_information_obtained": "Automatic appeal; brief deadline extensions in 2024"},
+      {"type": "Prosecutor release", "title": "Maricopa County Attorney's Office news release", "url_or_reference": "https://maricopacountyattorney.org/CivicAlerts.aspx?AID=998", "key_information_obtained": "Sentencing; mother's statement"}
+    ],
+    "secondary_sources": [
+      {"type": "TV news", "title": "The case against the Zombie Hunter (timeline)", "url_or_reference": "https://www.cbsnews.com/news/bryan-patrick-miller-zombie-hunter-phoenix-canal-murders-timeline/", "key_information_obtained": "Timeline; boyfriend baking cake; arrest Jan 13, 2015"},
+      {"type": "TV news", "title": "Zombie Hunter's unique murder defense: His mother created a monster", "url_or_reference": "https://www.cbsnews.com/news/zombie-hunter-bryan-patrick-miller-phoenix-unique-murder-defense-48-hours/", "key_information_obtained": "Insanity defense; DNA; automatic appeal"},
+      {"type": "TV news", "title": "Convicted killer known as the Zombie Hunter says life on death row is cold", "url_or_reference": "https://www.cbsnews.com/news/zombie-hunter-bryan-patrick-miller-convicted-killer-death-row-48-hours/", "key_information_obtained": "Death row interview"},
+      {"type": "TV news", "title": "'Zombie Hunter' sentenced to death for Phoenix canal murders", "url_or_reference": "https://www.azfamily.com/2023/06/07/zombie-hunter-sentenced-death-phoenix-canal-murders/", "key_information_obtained": "Sentence June 7, 2023"},
+      {"type": "TV news", "title": "Phoenix canal murders: Bryan Patrick Miller sentenced to death", "url_or_reference": "https://www.fox10phoenix.com/news/phoenix-canal-murders-trial", "key_information_obtained": "Sentence; 1.5 miles"},
+      {"type": "TV news", "title": "DNA, genealogy led to arrest in Phoenix canal murders case", "url_or_reference": "https://www.azfamily.com/2022/09/29/dna-genealogy-led-arrest-phoenix-canal-murders-case/", "key_information_obtained": "Genealogy method"},
+      {"type": "TV news", "title": "Forensic genealogist helped solve Phoenix canal murder cold cases", "url_or_reference": "https://12news.com/article/news/local/valley/forensic-genealogist-helped-solve-phoenix-canal-murder-cold-cases/75-359838007", "key_information_obtained": "Fitzpatrick; Miller surname; Sunnyslope arrest"},
+      {"type": "Trade press", "title": "New perspectives at ISHI", "url_or_reference": "https://www.ishinews.com/new-perspectives-at-ishi/", "key_information_obtained": "Fitzpatrick quote; five suspects"},
+      {"type": "TV news", "title": "Victim describes 1989 'Zombie Hunter' stabbing attack during trial", "url_or_reference": "https://www.azfamily.com/2022/10/12/victim-describes-1989-zombie-hunter-stabbing-attack-during-trial/", "key_information_obtained": "1989 stabbing"},
+      {"type": "Newspaper", "title": "Canal killings: At Miller trial, mother recalls the last night she saw her daughter alive (Arizona Republic)", "url_or_reference": "https://news.yahoo.com/canal-killings-miller-trial-mother-001302259.html", "key_information_obtained": "Melanie's last evening; Arcadia High School"},
+      {"type": "TV news", "title": "Victims' family members testify in Zombie Hunter trial penalty phase", "url_or_reference": "https://www.azfamily.com/2023/04/19/victims-family-members-testify-zombie-hunter-trial-penalty-phase/", "key_information_obtained": "Linda's quote"},
+      {"type": "Wire (AP via KTAR)", "title": "Maricopa County judge finds Phoenix man guilty of first-degree murder in canal cases", "url_or_reference": "https://ktar.com/arizona-news/maricopa-county-judge-finds-phoenix-man-guilty-of-first-degree-murder-in-canal-cases", "key_information_obtained": "Counts; jury waiver"},
+      {"type": "TV news", "title": "Arrest made in notorious Phoenix canal murders", "url_or_reference": "https://12news.com/article/news/local/arrest-made-in-notorious-phoenix-canal-murders/184245853", "key_information_obtained": "Arrest; Everett; daughter"},
+      {"type": "Radio", "title": "Phoenix man pleads not guilty in cold case murders", "url_or_reference": "https://www.kjzz.org/2015-02-02/content-96790-phoenix-man-pleads-not-guilty-cold-case-murders", "key_information_obtained": "Plea Feb 2015"},
+      {"type": "TV/web", "title": "Oxygen: 'The Zombie Hunter' kills two young women biking along Phoenix canal", "url_or_reference": "https://www.oxygen.com/dateline-secrets-uncovered/crime-news/bryan-patrick-miller-kills-angela-brosso-and-melanie-bernas", "key_information_obtained": "Angela's background"}
+    ]
+  },
+  "next_video_hook": {
+    "_instructions": "Tease for your next video.",
+    "next_topic": "Another early genetic genealogy case",
+    "connection_to_current_video": "The technique that named the Zombie Hunter in 2015 became famous in 2018",
+    "teaser_line": "Three years after Phoenix, the same idea would catch the most wanted serial offender in California history."
+  },
+  "notes_and_gaps": {
+    "_instructions": "Things you still need to research or verify.",
+    "unverified_claims": [
+      "Exact location of Angela's body (one source: near Cactus Road and Interstate 17).",
+      "2002 Everett assault charge and acquittal (single source family).",
+      "Whether the glass was a water glass or another object.",
+      "Exact number of Miller matches and suspects (five vs six).",
+      "Judge's 'beyond the pale' quote.",
+      "24-year prison term on non-capital counts.",
+      "Angela's mother's surname (Brosso vs Strock)."
+    ],
+    "information_gaps": [
+      "Year Miller moved to and returned from Washington.",
+      "Exact date the two cases were first linked by DNA.",
+      "Current appeal status as of October 2026."
+    ],
+    "questions_to_answer": ["Has the Arizona Supreme Court ruled on CR-23-0157-AP?"]
+  }
+}

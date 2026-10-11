@@ -4,11 +4,13 @@
 
 ## 1. Título del video
 
-- **Final:** `HAWAII 1991 Cold Case Solved After 32 Years — Justice for Dana Ireland` (68 caracteres)
+> **Nota de cambio (11 oct 2026):** el título anterior («HAWAII 1991 Cold Case Solved After 32 Years — Justice for Dana Ireland») se sustituyó porque «Solved» no es exacto: Albert Lauro Jr. nunca fue detenido, acusado ni condenado, y murió en julio de 2024. El nuevo título dice «DNA Identified» en lugar de «Solved». En el guion se revisaron las frases para no decir que el caso quedó resuelto en sentido judicial ni presentar a Lauro como autor probado; se habla del «man DNA identified» o de lo que «police say».
+
+- **Final:** `HAWAII 1991 Cold Case — DNA Identified the Killer After 32 Years | Dana Ireland` (79 caracteres)
 - **Alternativo 1:** `HAWAII 1991: Three Men Went to Prison — The DNA Matched None of Them` (68)
 - **Alternativo 2 (gancho tipo Root of Crime):** `Christmas Eve 1991 — The Man the DNA Named Was Never a Suspect` (61)
 
-Nota legal: "Solved" y "Justice" son fórmula del canal; en el guion se dice con precisión que Albert Lauro Jr. **nunca fue acusado ni condenado**. En la miniatura y el título no se le llama "killer".
+Nota legal: el título ya no usa "Solved" ni "Justice for"; en el guion se dice con precisión que Albert Lauro Jr. **nunca fue acusado ni condenado**. En la miniatura y el título no se le nombra; "the Killer" se refiere solo a la identificación por ADN que anunció la policía.
 
 ## 2. Miniatura
 
@@ -277,9 +279,9 @@ Contexto general sin URL de caso: Guerra del Golfo y dimisión de Gorbachov (25 
 
 ## 14. Verificación del guion
 
-- **Total:** 12.569 palabras en 10 partes.
-- **Palabras por parte:** P1 1.248 · P2 1.291 · P3 1.240 · P4 1.244 · P5 1.252 · P6 1.222 · P7 1.300 · P8 1.221 · P9 1.268 · P10 1.283.
-- **Duración estimada a 170 ppm:** unos 73,9 minutos (≈1 h 14 min).
+- **Total:** 12.583 palabras en 10 partes.
+- **Palabras por parte:** P1 1.251 · P2 1.291 · P3 1.240 · P4 1.244 · P5 1.252 · P6 1.222 · P7 1.300 · P8 1.221 · P9 1.268 · P10 1.294.
+- **Duración estimada a 170 ppm:** unos 74,0 minutos (≈1 h 14 min).
 - **Formato:** 10 párrafos separados por una línea en blanco; sin corchetes, guiones bajos ni markdown; exactamente 2 llamadas a la acción ("this channel"); el motivo "The DNA had been there all along" aparece 4 veces.
 
 **Las 10 afirmaciones clave y su respaldo:**
