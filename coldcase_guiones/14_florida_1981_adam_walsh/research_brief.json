@@ -567,6 +567,14 @@
       {
         "fact": "Evidence sat in a Tallahassee crime lab for about 25 years without being examined (per review of Matthews's book)",
         "source": "[18]"
+      },
+      {
+        "fact": "DNA fingerprinting developed in Britain (Alec Jeffreys, Leicester) in the mid-1980s; a child inherits half of his DNA from each parent, so parents' reference samples allow kinship comparison",
+        "source": "Background knowledge (well documented)"
+      },
+      {
+        "fact": "Calendar: July 27 and August 10, 1981 were Mondays; December 16, 2008 was a Tuesday; 10,004 days between July 27, 1981 and December 16, 2008",
+        "source": "Computed (python datetime)"
       }
     ]
   },

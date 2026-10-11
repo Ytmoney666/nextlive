@@ -177,3 +177,26 @@ No hubo ADN, genealogía genética ni prueba nueva. El cierre de 2008 se basó e
 29. 6abc/AP, "Questions linger in Adam Walsh probe" — https://6abc.com/archive/6564374/
 30. CBS Miami, "Adam Walsh case 40 years later" — https://www.cbsnews.com/miami/news/adam-walsh-case-40-years-later
 31. Biography.com, "Ottis Toole" — https://www.biography.com/crime-figure/ottis-toole
+
+## 14. Verificación del guion
+
+- **Párrafos:** 10 (uno por parte), separados por una línea en blanco; sin encabezados, corchetes, viñetas ni indicaciones visuales.
+- **Palabras por parte:** 1.272 · 1.245 · 1.282 · 1.231 · 1.267 · 1.263 · 1.236 · 1.268 · 1.244 · 1.259
+- **Total:** 12.567 palabras → **≈ 73,9 minutos** a 170 ppm.
+- **Signos de interrogación:** 7 (máximo 12).
+- **CTA:** 2 ("Subscribe to this channel" tras el gancho; cierre con el mantra "No case stays cold forever").
+- **Seguridad:** la víctima es un menor; no se describe el estado de los restos (solo "partial remains"); causa de muerte solo como "murdered"; no se usa la cita gráfica de Matthews; Toole aparece siempre como nunca acusado ni condenado ("Police named him").
+- **Correcciones hechas en la verificación:** eliminados detalles sensoriales inventados (Revé "holding the hand", "drove"), género del guardia, "largest investigation in its history", cifra de compradores, "memorial", cita inventada "Who killed our son", explicación no documentada de la pérdida de pruebas ("flood/fire"), creencia atribuida a los Walsh (sustituida por lo dicho por John Walsh), y la afirmación sobre el NCIC (matizada).
+
+**10 afirmaciones clave y sus fuentes**
+
+1. Adam, 6 años, desapareció el 27-07-1981 de la sección de juguetes de Sears en el Hollywood Mall, junto a una consola Atari, mientras su madre compraba cerca unos minutos — [1][2][27]
+2. Un guardia adolescente expulsó a los chicos mayores por alborotar y Adam, al parecer, salió con ellos — [2][27]
+3. El 10-08-1981 se hallaron restos parciales en un canal junto al Turnpike cerca de Vero Beach, ~120 millas; identificación dental al día siguiente; el resto nunca apareció — [1][2][28]
+4. Ottis Toole confesó el 21-10-1983, se retractó y repitió el ciclo; dijo haber enterrado el cuerpo cerca de Vero Beach, sin hallazgos — [1][15]
+5. Sangre en la moqueta del Cadillac de 1971, no atribuible en 1983; en 1994 el coche y la moqueta habían desaparecido de la custodia policial — [3][16][29]
+6. Reagan firmó la Missing Children Act el 12-10-1982 e inauguró el NCMEC el 13-06-1984 elogiando a los Walsh — [9][10]
+7. America's Most Wanted debutó el 07-02-1988 con John Walsh y contribuyó a más de 1.000 capturas — [14]
+8. Toole murió el 15-09-1996 en Raiford, a los 49 años, sin haber sido acusado del caso — [1][4][15][31]
+9. Bush firmó la Adam Walsh Act el 27-07-2006 en el Rose Garden, 25.º aniversario; SORNA con tres niveles — [11][12]
+10. El 16-12-2008 el jefe Wagner cerró el caso y nombró a Toole, sin ADN ni pruebas nuevas, y pidió perdón; citas de Wagner y John Walsh — [3][4][5]
