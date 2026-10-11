@@ -156,3 +156,22 @@ William DeRoos nunca fue detenido, acusado ni condenado; murió el 7 de agosto d
 19. Vermont State Police — página del caso: https://vsp.vermont.gov/node/303
 20. PEOPLE vía AOL — She Was Strangled in Her Bedroom with No Witnesses. Some Suspected Ted Bundy — But Real Killer Was Just Steps Away: https://www.aol.com/she-strangled-her-bedroom-no-160000935.html
 21. Bangor Daily News (AP) — Vermont murder cold case new evidence: https://www.bangordailynews.com/2023/02/21/new-england/new-england-news/vermont-murder-cold-case-new-evidence/
+
+## 14. Verificación del guion
+
+- **Palabras por parte:** 1.437 / 1.317 / 1.238 / 1.238 / 1.296 / 1.265 / 1.225 / 1.225 / 1.224 / 1.214 (todas ≥ 1.200).
+- **Total:** 12.679 palabras, 10 párrafos, 7 signos de interrogación (máximo 12).
+- **Duración estimada a 170 ppm:** ≈ 74,6 minutos.
+- **Revisión aplicada:** se eliminaron o matizaron detalles no documentados (forma de entrada, reacciones de vecinos, motivos de la esposa, detalles de la vida en Tailandia, violencia posterior de fuente única, afirmación Bundy–Keppel). DeRoos se describe siempre como "identified by DNA", "according to Burlington police", "never charged", "never convicted". La identidad se reserva hasta la parte 8.
+
+**10 afirmaciones clave y sus fuentes:**
+1. Rita Curran, 24, maestra de segundo grado en Milton, hallada muerta en su dormitorio de Brookes Ave en la madrugada del 20 jul 1971 — [1][2][19][21]
+2. Fue golpeada, agredida sexualmente y estrangulada; bata rasgada — [1][2][20]
+3. Colilla Lark junto a su brazo derecho — [11]
+4. DeRoos (31, nacido en Chicago el 14-12-1939) vivía en el tercer piso, dos pisos encima; entrada policial del 28-07-1971 — [8][2][3]
+5. Coartada: dijo haber estado en casa toda la noche, confirmada por su esposa; según el informe de 2023 nunca fue investigado como persona de interés — [1][2][8]
+6. Rumor Bundy sin pruebas; Bundy lo negó ante Hagmaier el 22-01-1989; "dead end" — [1][12][14]
+7. Perfil de ADN en 2014 sin coincidencias; nuevo equipo en 2019; Parabon/CeCe Moore en 2022, "a few hours" — [1][4]
+8. Medio hermano: 97 % de probabilidad; ADN de la bata coincide con la colilla — [8][2][7]
+9. Exesposa cambió su versión ("Five decades later, she gave our detectives a different story: the truth."); DeRoos en Tailandia como monje budista; murió el 07-08-1986 por sobredosis de morfina en San Francisco — [9][13]
+10. Rueda de prensa del 21-02-2023, caso cerrado; Sarah George: causa probable de asesinato agravado en primer grado y "I would have felt perfectly comfortable going to trial." — [6][7][5]

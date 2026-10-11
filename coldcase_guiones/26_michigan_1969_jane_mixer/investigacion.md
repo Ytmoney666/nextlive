@@ -138,3 +138,23 @@ En 2001 la Policía Estatal de Michigan reabrió el caso; un detective hizo anal
 18. FBI, CODIS and NDIS Fact Sheet — https://www.fbi.gov/how-we-can-help-you/dna-fingerprint-act-of-2005-expungement-policy/codis-and-ndis-fact-sheet ; caso Colin Pitchfork — https://en.wikipedia.org/wiki/Colin_Pitchfork (contexto)
 19. Electric Literature, sobre *The Red Parts* — https://electricliterature.com/maggie-nelsons-the-red-parts-bends-the-true-crime-model-until-it-breaks/
 20. 99WFMK, "Six Michigan serial killers serving life" — https://99wfmk.com/six-michigan-serial-killers-serving-life-in-prison/
+
+## 14. Verificación del guion
+- **Párrafos:** 10 (uno por parte), separados por una línea en blanco.
+- **Palabras por parte:** 1.257 / 1.274 / 1.261 / 1.247 / 1.311 / 1.215 / 1.229 / 1.214 / 1.231 / 1.274.
+- **Total:** 12.513 palabras → ≈ 73,6 minutos a 170 ppm.
+- **Signos de interrogación:** 4 (máximo permitido: 12).
+- **CTAs:** 2 ("Subscribe to this channel" tras el gancho; cierre con "No case stays cold forever").
+- **Revisión factual:** se eliminaron o suavizaron detalles no documentados (la madre esperando junto al teléfono, el calibre, el impermeable, el nombre "David Johnson", el nombre del fiscal, cifras de viajes compartidos, fechas exactas de veredicto y sentencia). La identidad de Leiterman se retiene hasta la Parte 8. Ruelas se presenta como descartado (no sospechoso). Collins: "never charged in the death of Jane Mixer".
+
+**10 afirmaciones clave y sus fuentes**
+1. Jane Louise Mixer, 23, residente del Law Quadrangle, de Muskegon, hija del dentista Dr. Dan C. Mixer — [1]
+2. Salió del campus la noche del 20 de marzo de 1969 con un viaje del tablón del campus; iba a anunciar su compromiso (relato familiar) — [1][9]
+3. Su padre salió a buscarla hacia las 11 p. m. y condujo varias horas — [5]
+4. Hallada el 21 de marzo de 1969 junto a la valla del Denton Cemetery, Cross St., 2 millas al este de Ypsilanti; primera crónica: golpeada y estrangulada, media al cuello; después: dos disparos en la cabeza — [1][7][13]
+5. Tercera de siete jóvenes; Collins condenado solo por Beineman y nunca acusado por Jane — [1][12][9]
+6. Reapertura en 2001 y análisis en 2002 en un laboratorio de la Policía Estatal de Michigan — [14][8][6]
+7. ADN de Leiterman en tres muestras de las pantimedias, posiblemente sudor/saliva/piel; su ADN entró al sistema tras su detención de 2001 por falsificar recetas — [7][8]
+8. Mancha de sangre de la mano = John Ruelas, 4 años en 1969, mató a su madre en 2002; muestras analizadas el mismo día — [6][7]
+9. Detenido en noviembre de 2004 a los 62 años, enfermero jubilado que vivía en Ann Arbor en 1969; culpable de asesinato en primer grado en julio de 2005 tras menos de 3 horas; perpetua sin libertad condicional — [3][4][7][5b]
+10. 2016: Wixted y seis expertos sostienen que la contaminación pudo condenar al hombre equivocado; Leiterman mantiene su inocencia — [6][5b]
