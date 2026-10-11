@@ -62,44 +62,232 @@
   "supporting_characters": {
     "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
     "characters": [
-      {"name": "Ottis Elwood Toole", "role_in_story": "Drifter and convicted killer (in unrelated cases) whom Hollywood police named in 2008 as Adam's killer. NEVER charged or convicted in Adam's death.", "key_actions_they_took": "Confessed on October 21, 1983, while imprisoned, then recanted; confessed and recanted more than once; reportedly told a niece before his death that he did it (reported by John Walsh); died in prison September 15, 1996, aged 49 [1][3][15][31]", "notable_quotes": "None used (no verified exact quote)"},
-      {"name": "Chadwick (Chad) E. Wagner", "role_in_story": "Hollywood Police Chief who closed the case on December 16, 2008", "key_actions_they_took": "Named Toole; apologized to the Walshes for early mistakes made before he became chief [3][6]", "notable_quotes": "\"If Ottis Toole were alive today, he would be arrested for the abduction and murder of Adam Walsh.\" [3]; \"If you're looking for that magic wand or that hidden document that just appeared, it's not there.\" [5]"},
-      {"name": "Joe Matthews", "role_in_story": "Retired Miami Beach homicide detective and polygraph investigator", "key_actions_they_took": "Consulted as early as four days after the abduction; years later, at the Walshes' request, reviewed the case and concluded Toole was the killer; submitted a report before the 2008 announcement; co-wrote Bringing Adam Home (2011) with Les Standiford; described 98 FDLE photos of Toole's Cadillac [16][17][18][19]", "notable_quotes": "On the photos: \"Looking at it, you actually see a blood transfer from Adam's face onto the carpet.\" [16] (graphic; do NOT use in script)"},
-      {"name": "Jack Hoffman", "role_in_story": "Hollywood police detective, described as the less experienced lead investigator", "key_actions_they_took": "Led the early investigation; clashed with Matthews [17][18]", "notable_quotes": ""},
-      {"name": "Jimmy Campbell", "role_in_story": "Family friend questioned early", "key_actions_they_took": "Questioned, cleared after two polygraph tests and hypnosis; in 1996 Hollywood Chief Richard Witt called his involvement a physical impossibility [8][22]", "notable_quotes": "Witt: \"physical impossibility\" (fragment) [8]"},
-      {"name": "Henry Lee Lucas", "role_in_story": "Toole's associate, a notorious false confessor", "key_actions_they_took": "Backed Toole's confession to the Walsh murder, though he had a reputation for false confessions [15]", "notable_quotes": ""},
-      {"name": "Jeffrey Dahmer", "role_in_story": "Alternative theory raised by some", "key_actions_they_took": "Living in South Florida in 1981; considered years later; denied any involvement when questioned in prison in 1992; never charged; Hollywood police said in 2008 the file pointed only to Toole [20][23]", "notable_quotes": ""},
-      {"name": "Arthur Jay Harris", "role_in_story": "Author and critic", "key_actions_they_took": "Disputes the Toole conclusion and even the reliability of the identification; his claims are opinion-leaning and contested [24]", "notable_quotes": ""},
-      {"name": "Ronald Reagan", "role_in_story": "President", "key_actions_they_took": "Signed the Missing Children Act on October 12, 1982; opened NCMEC June 13, 1984, crediting the courage of John and Revé Walsh [9][10]", "notable_quotes": ""},
-      {"name": "George W. Bush", "role_in_story": "President", "key_actions_they_took": "Signed the Adam Walsh Child Protection and Safety Act in the Rose Garden on July 27, 2006 [11]", "notable_quotes": ""}
+      {
+        "name": "Ottis Elwood Toole",
+        "role_in_story": "Drifter and convicted killer (in unrelated cases) whom Hollywood police named in 2008 as Adam's killer. NEVER charged or convicted in Adam's death.",
+        "key_actions_they_took": "Confessed on October 21, 1983, while imprisoned, then recanted; confessed and recanted more than once; reportedly told a niece before his death that he did it (reported by John Walsh); died in prison September 15, 1996, aged 49 [1][3][15][31]",
+        "notable_quotes": "None used (no verified exact quote)"
+      },
+      {
+        "name": "Chadwick (Chad) E. Wagner",
+        "role_in_story": "Hollywood Police Chief who closed the case on December 16, 2008",
+        "key_actions_they_took": "Named Toole; apologized to the Walshes for early mistakes made before he became chief [3][6]",
+        "notable_quotes": "\"If Ottis Toole were alive today, he would be arrested for the abduction and murder of Adam Walsh.\" [3]; \"If you're looking for that magic wand or that hidden document that just appeared, it's not there.\" [5]"
+      },
+      {
+        "name": "Joe Matthews",
+        "role_in_story": "Retired Miami Beach homicide detective and polygraph investigator",
+        "key_actions_they_took": "Consulted as early as four days after the abduction; years later, at the Walshes' request, reviewed the case and concluded Toole was the killer; submitted a report before the 2008 announcement; co-wrote Bringing Adam Home (2011) with Les Standiford; described 98 FDLE photos of Toole's Cadillac [16][17][18][19]",
+        "notable_quotes": "On the photos: \"Looking at it, you actually see a blood transfer from Adam's face onto the carpet.\" [16] (graphic; do NOT use in script)"
+      },
+      {
+        "name": "Jack Hoffman",
+        "role_in_story": "Hollywood police detective, described as the less experienced lead investigator",
+        "key_actions_they_took": "Led the early investigation; clashed with Matthews [17][18]",
+        "notable_quotes": ""
+      },
+      {
+        "name": "Jimmy Campbell",
+        "role_in_story": "Family friend questioned early",
+        "key_actions_they_took": "Questioned, cleared after two polygraph tests and hypnosis; in 1996 Hollywood Chief Richard Witt called his involvement a physical impossibility [8][22]",
+        "notable_quotes": "Witt: \"physical impossibility\" (fragment) [8]"
+      },
+      {
+        "name": "Henry Lee Lucas",
+        "role_in_story": "Toole's associate, a notorious false confessor",
+        "key_actions_they_took": "Backed Toole's confession to the Walsh murder, though he had a reputation for false confessions [15]",
+        "notable_quotes": ""
+      },
+      {
+        "name": "Jeffrey Dahmer",
+        "role_in_story": "Alternative theory raised by some",
+        "key_actions_they_took": "Living in South Florida in 1981; considered years later; denied any involvement when questioned in prison in 1992; never charged; Hollywood police said in 2008 the file pointed only to Toole [20][23]",
+        "notable_quotes": ""
+      },
+      {
+        "name": "Arthur Jay Harris",
+        "role_in_story": "Author and critic",
+        "key_actions_they_took": "Disputes the Toole conclusion and even the reliability of the identification; his claims are opinion-leaning and contested [24]",
+        "notable_quotes": ""
+      },
+      {
+        "name": "Ronald Reagan",
+        "role_in_story": "President",
+        "key_actions_they_took": "Signed the Missing Children Act on October 12, 1982; opened NCMEC June 13, 1984, crediting the courage of John and Revé Walsh [9][10]",
+        "notable_quotes": ""
+      },
+      {
+        "name": "George W. Bush",
+        "role_in_story": "President",
+        "key_actions_they_took": "Signed the Adam Walsh Child Protection and Safety Act in the Rose Garden on July 27, 2006 [11]",
+        "notable_quotes": ""
+      }
     ]
   },
   "chronological_timeline": {
     "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
     "events": [
-      {"date": "1974-11-14", "location": "Florida", "what_happened": "Adam John Walsh is born", "significance": "Age 6 at abduction", "source": "[1] Wikipedia, Murder of Adam Walsh (background knowledge, consistent)"},
-      {"date": "1981-07-27", "location": "Sears, Hollywood Mall, Hollywood, Florida", "what_happened": "Revé Walsh leaves Adam watching older boys play video games at an Atari display in the toy department while she shops nearby for a few minutes; a teenage security guard ejects the disruptive boys; when Revé returns Adam is gone", "significance": "The abduction", "source": "[1][2][27]"},
-      {"date": "1981-07-27 onward", "location": "Hollywood, Florida", "what_happened": "Massive search, flyers, reward; Hollywood police lead the case", "significance": "Start of the investigation", "source": "[1][28]"},
-      {"date": "1981-08-10", "location": "Drainage canal beside the Florida Turnpike near Vero Beach, Indian River County, about 120 miles north", "what_happened": "Two fishermen find Adam's head; the Walshes are in New York for a television appearance", "significance": "Proof of murder; the rest of his remains were never found", "source": "[1][2][28]"},
-      {"date": "1981-08-11", "location": "Vero Beach area", "what_happened": "Identification by dental records; a family friend recognised the gap of the missing front baby teeth", "significance": "Confirmation", "source": "[1][24]"},
-      {"date": "1981", "location": "Florida", "what_happened": "Walshes found the Adam Walsh Child Resource Center (later merged with NCMEC)", "significance": "Start of advocacy", "source": "Background knowledge; verify [25]"},
-      {"date": "1982-10-12", "location": "White House", "what_happened": "Reagan signs the Missing Children Act, creating access to a central computer file (FBI NCIC) for missing children; credits Sen. Paula Hawkins and Rep. Clay Shaw", "significance": "First federal reform", "source": "[10][25]"},
-      {"date": "1983-05-25", "location": "USA", "what_happened": "Reagan proclaims the first National Missing Children's Day", "significance": "National awareness", "source": "[25]"},
-      {"date": "1983-10-10", "location": "NBC", "what_happened": "TV film Adam airs (Daniel J. Travanti, JoBeth Williams); the real Walshes appear at the end with photos of missing children", "significance": "National awareness", "source": "[14b] Wikipedia AMW / Adam (film); exact airdate from background knowledge, verify"},
-      {"date": "1983-10-21", "location": "Florida prison (Toole held for unrelated crimes)", "what_happened": "Ottis Toole confesses to abducting and killing Adam; he later recants and repeats the cycle", "significance": "Prime suspect emerges", "source": "[1][15]"},
-      {"date": "1983", "location": "Florida", "what_happened": "Blood is found on carpeting of Toole's 1971 Cadillac; tests of the time cannot show whose blood it is; Toole tells police he buried the body near Vero Beach but searchers find nothing", "significance": "The key evidence", "source": "[3][16][1]"},
-      {"date": "1984-06-13", "location": "White House", "what_happened": "Reagan opens the National Center for Missing and Exploited Children, crediting the courage of John and Revé Walsh", "significance": "NCMEC begins", "source": "[9]"},
-      {"date": "1988-02-07", "location": "Fox", "what_happened": "America's Most Wanted debuts with John Walsh as host; four days later a viewer tip leads to the arrest of David James Roberts", "significance": "Walsh's national platform; more than 1,000 captures over its run", "source": "[14]"},
-      {"date": "1994", "location": "Hollywood police", "what_happened": "A detective seeks the carpet for DNA testing and discovers both the carpet and the car are gone from police custody", "significance": "Lost evidence", "source": "[3][16][29]"},
-      {"date": "1994", "location": "Walmart stores", "what_happened": "Walmart creates the Code Adam alert, promoted with NCMEC", "significance": "Legacy", "source": "[13]"},
-      {"date": "1996-03-17", "location": "Seattle Times", "what_happened": "Hollywood Chief Richard Witt says Jimmy Campbell's involvement is a physical impossibility; case still open", "significance": "Wrong suspects cleared", "source": "[8]"},
-      {"date": "1996-09-15", "location": "Florida State Prison, Raiford", "what_happened": "Ottis Toole dies of cirrhosis/liver failure, aged 49, serving life sentences for unrelated murders; never charged with Adam's murder; a niece later reported he confessed before death", "significance": "No trial possible", "source": "[1][15][31][7]"},
-      {"date": "2003", "location": "U.S. Congress", "what_happened": "Code Adam Act requires federal buildings to adopt the protocol", "significance": "Legacy", "source": "[13]"},
-      {"date": "2006-07-27", "location": "Rose Garden, White House", "what_happened": "Bush signs the Adam Walsh Child Protection and Safety Act (Pub.L. 109-248), including SORNA, a three-tier national sex-offender registration standard, on the 25th anniversary", "significance": "Major federal law", "source": "[11][12]"},
-      {"date": "c. 2006-2008", "location": "Florida", "what_happened": "Joe Matthews reviews the case at the Walshes' request and submits a report concluding Toole was the killer", "significance": "The push to close", "source": "[17][19]"},
-      {"date": "2008-12-16", "location": "Hollywood, Florida, police news conference", "what_happened": "Chief Chadwick Wagner announces the case is closed and names Toole; no DNA or new physical evidence; apologises for early mistakes; Revé places Adam's photo on podium", "significance": "Official end after 27 years", "source": "[3][4][5][6]"},
-      {"date": "2011", "location": "Publishing", "what_happened": "Bringing Adam Home (Les Standiford with Joe Matthews) published; describes 98 FDLE photographs of the Cadillac", "significance": "Public record of the evidence", "source": "[16][18]"},
-      {"date": "2026-07-27", "location": "Hollywood, Florida", "what_happened": "Local10 marks 45 years since the disappearance; case remains officially closed with Toole named; no new development found", "significance": "Current status", "source": "[20]"}
+      {
+        "date": "1974-11-14",
+        "location": "Florida",
+        "what_happened": "Adam John Walsh is born",
+        "significance": "Age 6 at abduction",
+        "source": "[1] Wikipedia, Murder of Adam Walsh (background knowledge, consistent)"
+      },
+      {
+        "date": "1981-07-27",
+        "location": "Sears, Hollywood Mall, Hollywood, Florida",
+        "what_happened": "Revé Walsh leaves Adam watching older boys play video games at an Atari display in the toy department while she shops nearby for a few minutes; a teenage security guard ejects the disruptive boys; when Revé returns Adam is gone",
+        "significance": "The abduction",
+        "source": "[1][2][27]"
+      },
+      {
+        "date": "1981-07-27 onward",
+        "location": "Hollywood, Florida",
+        "what_happened": "Massive search, flyers, reward; Hollywood police lead the case",
+        "significance": "Start of the investigation",
+        "source": "[1][28]"
+      },
+      {
+        "date": "1981-08-10",
+        "location": "Drainage canal beside the Florida Turnpike near Vero Beach, Indian River County, about 120 miles north",
+        "what_happened": "Two fishermen find Adam's head; the Walshes are in New York for a television appearance",
+        "significance": "Proof of murder; the rest of his remains were never found",
+        "source": "[1][2][28]"
+      },
+      {
+        "date": "1981-08-11",
+        "location": "Vero Beach area",
+        "what_happened": "Identification by dental records; a family friend recognised the gap of the missing front baby teeth",
+        "significance": "Confirmation",
+        "source": "[1][24]"
+      },
+      {
+        "date": "1981",
+        "location": "Florida",
+        "what_happened": "Walshes found the Adam Walsh Child Resource Center (later merged with NCMEC)",
+        "significance": "Start of advocacy",
+        "source": "Background knowledge; verify [25]"
+      },
+      {
+        "date": "1982-10-12",
+        "location": "White House",
+        "what_happened": "Reagan signs the Missing Children Act, creating access to a central computer file (FBI NCIC) for missing children; credits Sen. Paula Hawkins and Rep. Clay Shaw",
+        "significance": "First federal reform",
+        "source": "[10][25]"
+      },
+      {
+        "date": "1983-05-25",
+        "location": "USA",
+        "what_happened": "Reagan proclaims the first National Missing Children's Day",
+        "significance": "National awareness",
+        "source": "[25]"
+      },
+      {
+        "date": "1983-10-10",
+        "location": "NBC",
+        "what_happened": "TV film Adam airs (Daniel J. Travanti, JoBeth Williams); the real Walshes appear at the end with photos of missing children",
+        "significance": "National awareness",
+        "source": "[14b] Wikipedia AMW / Adam (film); exact airdate from background knowledge, verify"
+      },
+      {
+        "date": "1983-10-21",
+        "location": "Florida prison (Toole held for unrelated crimes)",
+        "what_happened": "Ottis Toole confesses to abducting and killing Adam; he later recants and repeats the cycle",
+        "significance": "Prime suspect emerges",
+        "source": "[1][15]"
+      },
+      {
+        "date": "1983",
+        "location": "Florida",
+        "what_happened": "Blood is found on carpeting of Toole's 1971 Cadillac; tests of the time cannot show whose blood it is; Toole tells police he buried the body near Vero Beach but searchers find nothing",
+        "significance": "The key evidence",
+        "source": "[3][16][1]"
+      },
+      {
+        "date": "1984-06-13",
+        "location": "White House",
+        "what_happened": "Reagan opens the National Center for Missing and Exploited Children, crediting the courage of John and Revé Walsh",
+        "significance": "NCMEC begins",
+        "source": "[9]"
+      },
+      {
+        "date": "1988-02-07",
+        "location": "Fox",
+        "what_happened": "America's Most Wanted debuts with John Walsh as host; four days later a viewer tip leads to the arrest of David James Roberts",
+        "significance": "Walsh's national platform; more than 1,000 captures over its run",
+        "source": "[14]"
+      },
+      {
+        "date": "1994",
+        "location": "Hollywood police",
+        "what_happened": "A detective seeks the carpet for DNA testing and discovers both the carpet and the car are gone from police custody",
+        "significance": "Lost evidence",
+        "source": "[3][16][29]"
+      },
+      {
+        "date": "1994",
+        "location": "Walmart stores",
+        "what_happened": "Walmart creates the Code Adam alert, promoted with NCMEC",
+        "significance": "Legacy",
+        "source": "[13]"
+      },
+      {
+        "date": "1996-03-17",
+        "location": "Seattle Times",
+        "what_happened": "Hollywood Chief Richard Witt says Jimmy Campbell's involvement is a physical impossibility; case still open",
+        "significance": "Wrong suspects cleared",
+        "source": "[8]"
+      },
+      {
+        "date": "1996-09-15",
+        "location": "Florida State Prison, Raiford",
+        "what_happened": "Ottis Toole dies of cirrhosis/liver failure, aged 49, serving life sentences for unrelated murders; never charged with Adam's murder; a niece later reported he confessed before death",
+        "significance": "No trial possible",
+        "source": "[1][15][31][7]"
+      },
+      {
+        "date": "2003",
+        "location": "U.S. Congress",
+        "what_happened": "Code Adam Act requires federal buildings to adopt the protocol",
+        "significance": "Legacy",
+        "source": "[13]"
+      },
+      {
+        "date": "2006-07-27",
+        "location": "Rose Garden, White House",
+        "what_happened": "Bush signs the Adam Walsh Child Protection and Safety Act (Pub.L. 109-248), including SORNA, a three-tier national sex-offender registration standard, on the 25th anniversary",
+        "significance": "Major federal law",
+        "source": "[11][12]"
+      },
+      {
+        "date": "c. 2006-2008",
+        "location": "Florida",
+        "what_happened": "Joe Matthews reviews the case at the Walshes' request and submits a report concluding Toole was the killer",
+        "significance": "The push to close",
+        "source": "[17][19]"
+      },
+      {
+        "date": "2008-12-16",
+        "location": "Hollywood, Florida, police news conference",
+        "what_happened": "Chief Chadwick Wagner announces the case is closed and names Toole; no DNA or new physical evidence; apologises for early mistakes; Revé places Adam's photo on podium",
+        "significance": "Official end after 27 years",
+        "source": "[3][4][5][6]"
+      },
+      {
+        "date": "2011",
+        "location": "Publishing",
+        "what_happened": "Bringing Adam Home (Les Standiford with Joe Matthews) published; describes 98 FDLE photographs of the Cadillac",
+        "significance": "Public record of the evidence",
+        "source": "[16][18]"
+      },
+      {
+        "date": "2026-07-27",
+        "location": "Hollywood, Florida",
+        "what_happened": "Local10 marks 45 years since the disappearance; case remains officially closed with Toole named; no new development found",
+        "significance": "Current status",
+        "source": "[20]"
+      }
     ]
   },
   "cold_open_material": {
@@ -125,10 +313,22 @@
     ],
     "why_it_worked": "It did not produce proof in a court sense; it produced an official police conclusion accepted by the family and disputed by critics",
     "technical_terms_to_explain": [
-      {"term": "Exceptional clearance / closing a case", "simple_explanation": "Police declare a case closed when they believe they know who did it but cannot arrest or charge that person, for example because he is dead"},
-      {"term": "Blood typing vs DNA", "simple_explanation": "In 1983 labs could say a stain was blood and sometimes its type; they could not tell whose blood it was. DNA testing, used in US courts from the late 1980s, could"},
-      {"term": "NCIC", "simple_explanation": "The FBI's National Crime Information Center, a national computer index police use; the 1982 Act opened it to missing children's records"},
-      {"term": "SORNA", "simple_explanation": "Title I of the 2006 Adam Walsh Act, national minimum standards for sex-offender registration in three tiers"}
+      {
+        "term": "Exceptional clearance / closing a case",
+        "simple_explanation": "Police declare a case closed when they believe they know who did it but cannot arrest or charge that person, for example because he is dead"
+      },
+      {
+        "term": "Blood typing vs DNA",
+        "simple_explanation": "In 1983 labs could say a stain was blood and sometimes its type; they could not tell whose blood it was. DNA testing, used in US courts from the late 1980s, could"
+      },
+      {
+        "term": "NCIC",
+        "simple_explanation": "The FBI's National Crime Information Center, a national computer index police use; the 1982 Act opened it to missing children's records"
+      },
+      {
+        "term": "SORNA",
+        "simple_explanation": "Title I of the 2006 Adam Walsh Act, national minimum standards for sex-offender registration in three tiers"
+      }
     ],
     "scale_of_operation": "One case, 27 years, one police department, multiple confessions and recantations"
   },
@@ -165,11 +365,17 @@
   },
   "legal_resolution": {
     "_instructions": "Court proceedings, sentencing, and aftermath.",
-    "charges_filed": ["None in Adam Walsh's death. Toole was never charged or convicted; police named him."],
+    "charges_filed": [
+      "None in Adam Walsh's death. Toole was never charged or convicted; police named him."
+    ],
     "trial_date_if_applicable": "None",
     "notable_court_testimony": "None",
     "victim_impact_statements": [
-      {"from_whom": "John Walsh", "key_quote": "This is not to look back and point fingers, but it is to let it rest.", "emotional_impact": "Acceptance of the closure [3]"}
+      {
+        "from_whom": "John Walsh",
+        "key_quote": "This is not to look back and point fingers, but it is to let it rest.",
+        "emotional_impact": "Acceptance of the closure [3]"
+      }
     ],
     "sentence_received": "None for this case. Toole was serving life sentences for unrelated murders when he died [4][15]",
     "protagonist_statement_in_court": "None",
@@ -178,30 +384,111 @@
   "verified_quotes": {
     "_instructions": "ONLY include quotes you can verify from reliable sources.",
     "quotes": [
-      {"speaker": "John Walsh", "exact_quote": "We needed to know. We needed to know. And today we know.", "context": "December 16, 2008 news conference", "source": "[4] AP via NBC News"},
-      {"speaker": "John Walsh", "exact_quote": "This is not to look back and point fingers, but it is to let it rest.", "context": "December 16, 2008", "source": "[3] ABC News"},
-      {"speaker": "Chadwick Wagner", "exact_quote": "If Ottis Toole were alive today, he would be arrested for the abduction and murder of Adam Walsh.", "context": "December 16, 2008", "source": "[3] ABC News"},
-      {"speaker": "Chadwick Wagner", "exact_quote": "If you're looking for that magic wand or that hidden document that just appeared, it's not there.", "context": "December 16, 2008", "source": "[5] AP via NBC News"},
-      {"speaker": "Richard Witt (Hollywood police chief, 1996)", "exact_quote": "physical impossibility", "context": "On whether family friend Jimmy Campbell could have been involved", "source": "[8] Seattle Times, March 17, 1996"}
+      {
+        "speaker": "John Walsh",
+        "exact_quote": "We needed to know. We needed to know. And today we know.",
+        "context": "December 16, 2008 news conference",
+        "source": "[4] AP via NBC News"
+      },
+      {
+        "speaker": "John Walsh",
+        "exact_quote": "This is not to look back and point fingers, but it is to let it rest.",
+        "context": "December 16, 2008",
+        "source": "[3] ABC News"
+      },
+      {
+        "speaker": "Chadwick Wagner",
+        "exact_quote": "If Ottis Toole were alive today, he would be arrested for the abduction and murder of Adam Walsh.",
+        "context": "December 16, 2008",
+        "source": "[3] ABC News"
+      },
+      {
+        "speaker": "Chadwick Wagner",
+        "exact_quote": "If you're looking for that magic wand or that hidden document that just appeared, it's not there.",
+        "context": "December 16, 2008",
+        "source": "[5] AP via NBC News"
+      },
+      {
+        "speaker": "Richard Witt (Hollywood police chief, 1996)",
+        "exact_quote": "physical impossibility",
+        "context": "On whether family friend Jimmy Campbell could have been involved",
+        "source": "[8] Seattle Times, March 17, 1996"
+      }
     ]
   },
   "statistics_and_numbers": {
     "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
     "figures": [
-      {"number": "6", "what_it_represents": "Adam's age", "source": "[1][2]"},
-      {"number": "about 5 to under 10 minutes", "what_it_represents": "Time Revé was away, per differing accounts", "source": "[2][27]"},
-      {"number": "14 days (July 27 to August 10, 1981)", "what_it_represents": "Time until his remains were found", "source": "[1][2]"},
-      {"number": "about 120 miles", "what_it_represents": "Distance from Hollywood to the canal near Vero Beach", "source": "[28]"},
-      {"number": "October 21, 1983", "what_it_represents": "Toole's first confession", "source": "[1]"},
-      {"number": "1971", "what_it_represents": "Model year of Toole's Cadillac", "source": "[16]"},
-      {"number": "98", "what_it_represents": "FDLE photographs of the Cadillac described by Matthews", "source": "[16]"},
-      {"number": "49", "what_it_represents": "Toole's age at death, September 15, 1996", "source": "[4][15]"},
-      {"number": "5", "what_it_represents": "Life sentences Toole was serving for unrelated murders (AP)", "source": "[4]"},
-      {"number": "27 years", "what_it_represents": "From abduction to case closure", "source": "[3]"},
-      {"number": "more than 1,000", "what_it_represents": "Fugitives captured with help of America's Most Wanted; 1,000th in 2008", "source": "[14]"},
-      {"number": "3 tiers", "what_it_represents": "SORNA offender classification under the 2006 Act", "source": "[12]"},
-      {"number": "10 minutes", "what_it_represents": "Typical Code Adam threshold before police are called", "source": "[13]"},
-      {"number": "45 years", "what_it_represents": "Anniversary marked July 27, 2026", "source": "[20]"}
+      {
+        "number": "6",
+        "what_it_represents": "Adam's age",
+        "source": "[1][2]"
+      },
+      {
+        "number": "about 5 to under 10 minutes",
+        "what_it_represents": "Time Revé was away, per differing accounts",
+        "source": "[2][27]"
+      },
+      {
+        "number": "14 days (July 27 to August 10, 1981)",
+        "what_it_represents": "Time until his remains were found",
+        "source": "[1][2]"
+      },
+      {
+        "number": "about 120 miles",
+        "what_it_represents": "Distance from Hollywood to the canal near Vero Beach",
+        "source": "[28]"
+      },
+      {
+        "number": "October 21, 1983",
+        "what_it_represents": "Toole's first confession",
+        "source": "[1]"
+      },
+      {
+        "number": "1971",
+        "what_it_represents": "Model year of Toole's Cadillac",
+        "source": "[16]"
+      },
+      {
+        "number": "98",
+        "what_it_represents": "FDLE photographs of the Cadillac described by Matthews",
+        "source": "[16]"
+      },
+      {
+        "number": "49",
+        "what_it_represents": "Toole's age at death, September 15, 1996",
+        "source": "[4][15]"
+      },
+      {
+        "number": "5",
+        "what_it_represents": "Life sentences Toole was serving for unrelated murders (AP)",
+        "source": "[4]"
+      },
+      {
+        "number": "27 years",
+        "what_it_represents": "From abduction to case closure",
+        "source": "[3]"
+      },
+      {
+        "number": "more than 1,000",
+        "what_it_represents": "Fugitives captured with help of America's Most Wanted; 1,000th in 2008",
+        "source": "[14]"
+      },
+      {
+        "number": "3 tiers",
+        "what_it_represents": "SORNA offender classification under the 2006 Act",
+        "source": "[12]"
+      },
+      {
+        "number": "10 minutes",
+        "what_it_represents": "Typical Code Adam threshold before police are called",
+        "source": "[13]"
+      },
+      {
+        "number": "45 years",
+        "what_it_represents": "Anniversary marked July 27, 2026",
+        "source": "[20]"
+      }
     ]
   },
   "ironic_and_absurd_details": {
@@ -217,9 +504,70 @@
   "sensory_and_environmental_details": {
     "_instructions": "Details that help viewers visualize scenes.",
     "key_locations": [
-      {"location_name": "Sears, Hollywood Mall", "physical_description": "Department store in an enclosed mall in Hollywood, Broward County; toy department with an Atari video game display", "atmosphere": "Summer weekday, children out of school", "relevant_details": "Teenage security guard ejected rowdy boys [2]"},
-      {"location_name": "Canal near Vero Beach", "physical_description": "Drainage canal beside the Florida Turnpike, Indian River County, about 120 miles north", "atmosphere": "Rural citrus country", "relevant_details": "Found by two fishermen [2][28]"},
-      {"location_name": "Florida State Prison, Raiford", "physical_description": "Maximum security state prison", "atmosphere": "", "relevant_details": "Where Toole died in 1996 [15][31]"}
+      {
+        "location_name": "Sears, Hollywood Mall",
+        "physical_description": "Department store in an enclosed mall in Hollywood, Broward County; toy department with an Atari video game display",
+        "atmosphere": "Summer weekday, children out of school",
+        "relevant_details": "Teenage security guard ejected rowdy boys [2]"
+      },
+      {
+        "location_name": "Canal near Vero Beach",
+        "physical_description": "Drainage canal beside the Florida Turnpike, Indian River County, about 120 miles north",
+        "atmosphere": "Rural citrus country",
+        "relevant_details": "Found by two fishermen [2][28]"
+      },
+      {
+        "location_name": "Florida State Prison, Raiford",
+        "physical_description": "Maximum security state prison",
+        "atmosphere": "",
+        "relevant_details": "Where Toole died in 1996 [15][31]"
+      }
+    ],
+    "era_context": [
+      {
+        "fact": "Ronald Reagan inaugurated January 20, 1981",
+        "source": "Background knowledge (well documented)"
+      },
+      {
+        "fact": "Wedding of Prince Charles and Lady Diana Spencer, July 29, 1981 (two days after the abduction)",
+        "source": "Background knowledge (well documented)"
+      },
+      {
+        "fact": "MTV launched August 1, 1981",
+        "source": "Background knowledge (well documented)"
+      },
+      {
+        "fact": "Etan Patz, 6, disappeared in New York City on May 25, 1979; May 25 chosen as National Missing Children's Day (1983)",
+        "source": "[25] + background knowledge"
+      },
+      {
+        "fact": "Atlanta child murders: suspect Wayne Williams arrested June 21, 1981 (script: 'a suspect had been arrested only weeks before')",
+        "source": "Background knowledge (well documented)"
+      },
+      {
+        "fact": "One of the first US convictions using DNA: Tommie Lee Andrews, Orlando, Florida, 1987",
+        "source": "Background knowledge; verify"
+      },
+      {
+        "fact": "FBI national DNA index (NDIS/CODIS) began national operation in 1998",
+        "source": "Background knowledge (FBI)"
+      },
+      {
+        "fact": "Jeffrey Dahmer arrested in Milwaukee in 1991; questioned about Adam in 1992 and denied involvement",
+        "source": "[20][23] + background"
+      },
+      {
+        "fact": "FBI UCR 'cleared by exceptional means': offender identified, enough evidence to arrest and charge, location known, arrest prevented by circumstances beyond police control such as death",
+        "source": "FBI UCR handbook (background knowledge); the script does NOT claim Hollywood used this exact classification"
+      },
+      {
+        "fact": "Rep. Clay Shaw represented a Broward County (Fort Lauderdale) district; Sen. Paula Hawkins (R-Florida)",
+        "source": "[10] + background"
+      },
+      {
+        "fact": "Evidence sat in a Tallahassee crime lab for about 25 years without being examined (per review of Matthews's book)",
+        "source": "[18]"
+      }
     ]
   },
   "universal_stakes": {
@@ -232,38 +580,188 @@
   "sources": {
     "_instructions": "List ALL sources.",
     "primary_sources": [
-      {"type": "Presidential remarks", "title": "[9] Reagan, Remarks at the opening of NCMEC, June 13, 1984", "url_or_reference": "https://www.reaganlibrary.gov/research/speeches/61384a", "key_information_obtained": "Credits the Walshes' courage"},
-      {"type": "Presidential remarks", "title": "[10] Reagan, Remarks on signing the Missing Children Act, October 12, 1982", "url_or_reference": "Reagan Library / American Presidency Project, https://www.presidency.ucsb.edu (exact URL to confirm)", "key_information_obtained": "Signing date, central computer file, Hawkins and Shaw"},
-      {"type": "White House release", "title": "[11] President Bush signs H.R. 4472, July 27, 2006", "url_or_reference": "https://georgewbush-whitehouse.archives.gov/news/releases/2006/07/text/20060727-6.html", "key_information_obtained": "Rose Garden signing, 25 years"},
-      {"type": "News conference coverage (AP)", "title": "[4] Police: 1981 killing of Adam Walsh solved", "url_or_reference": "https://www.nbcnews.com/id/28257294/ns/us_news-crime_and_courts/t/police-killing-adam-walsh-solved", "key_information_obtained": "John Walsh quote, photo on podium, Toole life sentences"}
+      {
+        "type": "Presidential remarks",
+        "title": "[9] Reagan, Remarks at the opening of NCMEC, June 13, 1984",
+        "url_or_reference": "https://www.reaganlibrary.gov/research/speeches/61384a",
+        "key_information_obtained": "Credits the Walshes' courage"
+      },
+      {
+        "type": "Presidential remarks",
+        "title": "[10] Reagan, Remarks on signing the Missing Children Act, October 12, 1982",
+        "url_or_reference": "Reagan Library / American Presidency Project, https://www.presidency.ucsb.edu (exact URL to confirm)",
+        "key_information_obtained": "Signing date, central computer file, Hawkins and Shaw"
+      },
+      {
+        "type": "White House release",
+        "title": "[11] President Bush signs H.R. 4472, July 27, 2006",
+        "url_or_reference": "https://georgewbush-whitehouse.archives.gov/news/releases/2006/07/text/20060727-6.html",
+        "key_information_obtained": "Rose Garden signing, 25 years"
+      },
+      {
+        "type": "News conference coverage (AP)",
+        "title": "[4] Police: 1981 killing of Adam Walsh solved",
+        "url_or_reference": "https://www.nbcnews.com/id/28257294/ns/us_news-crime_and_courts/t/police-killing-adam-walsh-solved",
+        "key_information_obtained": "John Walsh quote, photo on podium, Toole life sentences"
+      }
     ],
     "secondary_sources": [
-      {"type": "Encyclopedia", "title": "[1] Murder of Adam Walsh", "url_or_reference": "https://en.wikipedia.org/wiki/Murder_of_Adam_Walsh", "key_information_obtained": "Timeline"},
-      {"type": "Reference", "title": "[2] History.com, Adam Walsh is abducted", "url_or_reference": "https://www.history.com/this-day-in-history/july-27/adam-walsh-is-abducted", "key_information_obtained": "Abduction, guard, discovery"},
-      {"type": "News", "title": "[3] ABC News, Case Closed: Police ID Adam Walsh Killer", "url_or_reference": "https://abcnews.go.com/TheLaw/story?id=6471791", "key_information_obtained": "Wagner quotes, apology, carpet lost"},
-      {"type": "News (AP)", "title": "[5] Questions linger in Adam Walsh probe", "url_or_reference": "https://www.nbcnews.com/id/wbna28314608", "key_information_obtained": "No DNA, magic wand quote"},
-      {"type": "News", "title": "[6] ABA Journal", "url_or_reference": "https://abajournal.com/news/article/adam_walsh_case_closed_drifter_murdered_son_of_most_wanted_host", "key_information_obtained": "No further proceedings"},
-      {"type": "News", "title": "[7] Spokesman-Review, John Walsh's personal mystery solved", "url_or_reference": "https://www.spokesman.com/stories/2008/dec/17/john-walshs-personal-mystery-solved/", "key_information_obtained": "Shorts and sandal; niece"},
-      {"type": "News", "title": "[8] Seattle Times, 6-Year-Old's Murder Still Haunts Nation (1996)", "url_or_reference": "https://archive.seattletimes.com/archive/19960317/2319536/6-year-olds-murder-still-haunts-nation", "key_information_obtained": "Campbell cleared"},
-      {"type": "Encyclopedia", "title": "[12] Adam Walsh Child Protection and Safety Act", "url_or_reference": "https://en.wikipedia.org/wiki/Adam_Walsh_Child_Protection_and_Safety_Act", "key_information_obtained": "SORNA, tiers, Pub.L. 109-248"},
-      {"type": "Encyclopedia / news", "title": "[13] Code Adam; Christian Science Monitor 1994", "url_or_reference": "https://en.wikipedia.org/wiki/Code_Adam ; https://www.csmonitor.com/1994/0414/14083.html", "key_information_obtained": "1994 origin, 2003 law"},
-      {"type": "Encyclopedia", "title": "[14] America's Most Wanted", "url_or_reference": "https://en.wikipedia.org/wiki/America%27s_Most_Wanted", "key_information_obtained": "Debut, captures, Adam film"},
-      {"type": "Encyclopedia", "title": "[15] Ottis Toole", "url_or_reference": "https://en.wikipedia.org/wiki/Ottis_Toole", "key_information_obtained": "Death, Lucas"},
-      {"type": "News", "title": "[16] NBC Miami, New Book Reveals Fresh Evidence in Walsh Case (2011)", "url_or_reference": "https://www.nbcmiami.com/news/local/new-book-reveals-disturbing-evidence-that-closed-infamous-adam-walsh-murder-case/1891015/", "key_information_obtained": "98 photos, lost car and carpet"},
-      {"type": "Radio", "title": "[17] NPR interview transcript, Bringing Adam Home", "url_or_reference": "https://www.npr.org/transcripts/185247363", "key_information_obtained": "Matthews, Hoffman"},
-      {"type": "News", "title": "[18] Tampa Bay Times, A case of criminal errors (2011)", "url_or_reference": "https://www.tampabay.com/archive/2011/02/27/a-case-of-criminal-errors", "key_information_obtained": "Review of book"},
-      {"type": "Investigative news", "title": "[19] Florida Bulldog (2011)", "url_or_reference": "https://www.floridabulldog.org/2011/01/hollywood-police-chief-should-explain-why-he-thinks-ottis-toole-murdered-adam-walsh/", "key_information_obtained": "Matthews report, records dispute"},
-      {"type": "News", "title": "[20] Local10, 45 years after Adam Walsh disappearance (2026)", "url_or_reference": "https://local10.com/news/local/2026/07/27/45-years-after-adam-walsh-disappearance-from-hollywood-mall", "key_information_obtained": "Current status"},
-      {"type": "News", "title": "[21] WPTV, Remembering Adam Walsh 40 years after", "url_or_reference": "https://www.wptv.com/news/state/broward/remembering-adam-walsh-40-years-after-6-year-olds-disappearance", "key_information_obtained": "Anniversary"},
-      {"type": "News", "title": "[22] Investigation Discovery, 5 Facts", "url_or_reference": "https://www.investigationdiscovery.com/crimefeed/crime-history/5-facts-to-know-about-kidnapping-and-murder-of-adam-walsh", "key_information_obtained": "Campbell polygraphs, hypnosis"},
-      {"type": "News", "title": "[23] Investigation Discovery, Toole or Dahmer", "url_or_reference": "https://investigationdiscovery.com/crimefeed/crime-history/was-adam-walsh-son-of-john-walsh-killed-by-ottis-toole-or-jeffrey-dahmer", "key_information_obtained": "Dahmer theory"},
-      {"type": "Critical blog/book", "title": "[24] Arthur Jay Harris, The Unsolved Murder of Adam Walsh", "url_or_reference": "https://arthurjayharris.substack.com/p/the-unsolved-murder-of-adam-walsh-7d1", "key_information_obtained": "Disputes; dental ID"},
-      {"type": "Law firm history page", "title": "[25] Lauth, History of Missing Persons Law", "url_or_reference": "https://lauthmissingpersons.com/history-of-missing-persons-law-in-the-united-states", "key_information_obtained": "1982 and 1984 Acts, Missing Children's Day"},
-      {"type": "Commentary", "title": "[26] Broward Palm Beach New Times", "url_or_reference": "https://www.browardpalmbeach.com/?p=40641561", "key_information_obtained": "Critique of closure"},
-      {"type": "Reference", "title": "[27] Crime Library", "url_or_reference": "https://crimelibrary.org/criminal_mind/psychology/child_abduction/9.html", "key_information_obtained": "Teens ejected"},
-      {"type": "News (Cox)", "title": "[28] WFTV, Adam Walsh: looking back 40 years", "url_or_reference": "https://www.wftv.com/news/trending/adam-walsh-looking-back-40-years-after-child-abduction-that-changed-america/DACNGXGOW5FTHITUS6XIFEDBP4/", "key_information_obtained": "120 miles, baseball cap, fishermen"},
-      {"type": "News", "title": "[29] 6abc / AP, Questions linger", "url_or_reference": "https://6abc.com/archive/6564374/", "key_information_obtained": "1994 lost carpet"},
-      {"type": "Reference", "title": "[31] Biography.com, Ottis Toole", "url_or_reference": "https://www.biography.com/crime-figure/ottis-toole", "key_information_obtained": "Death by cirrhosis"}
+      {
+        "type": "Encyclopedia",
+        "title": "[1] Murder of Adam Walsh",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Murder_of_Adam_Walsh",
+        "key_information_obtained": "Timeline"
+      },
+      {
+        "type": "Reference",
+        "title": "[2] History.com, Adam Walsh is abducted",
+        "url_or_reference": "https://www.history.com/this-day-in-history/july-27/adam-walsh-is-abducted",
+        "key_information_obtained": "Abduction, guard, discovery"
+      },
+      {
+        "type": "News",
+        "title": "[3] ABC News, Case Closed: Police ID Adam Walsh Killer",
+        "url_or_reference": "https://abcnews.go.com/TheLaw/story?id=6471791",
+        "key_information_obtained": "Wagner quotes, apology, carpet lost"
+      },
+      {
+        "type": "News (AP)",
+        "title": "[5] Questions linger in Adam Walsh probe",
+        "url_or_reference": "https://www.nbcnews.com/id/wbna28314608",
+        "key_information_obtained": "No DNA, magic wand quote"
+      },
+      {
+        "type": "News",
+        "title": "[6] ABA Journal",
+        "url_or_reference": "https://abajournal.com/news/article/adam_walsh_case_closed_drifter_murdered_son_of_most_wanted_host",
+        "key_information_obtained": "No further proceedings"
+      },
+      {
+        "type": "News",
+        "title": "[7] Spokesman-Review, John Walsh's personal mystery solved",
+        "url_or_reference": "https://www.spokesman.com/stories/2008/dec/17/john-walshs-personal-mystery-solved/",
+        "key_information_obtained": "Shorts and sandal; niece"
+      },
+      {
+        "type": "News",
+        "title": "[8] Seattle Times, 6-Year-Old's Murder Still Haunts Nation (1996)",
+        "url_or_reference": "https://archive.seattletimes.com/archive/19960317/2319536/6-year-olds-murder-still-haunts-nation",
+        "key_information_obtained": "Campbell cleared"
+      },
+      {
+        "type": "Encyclopedia",
+        "title": "[12] Adam Walsh Child Protection and Safety Act",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Adam_Walsh_Child_Protection_and_Safety_Act",
+        "key_information_obtained": "SORNA, tiers, Pub.L. 109-248"
+      },
+      {
+        "type": "Encyclopedia / news",
+        "title": "[13] Code Adam; Christian Science Monitor 1994",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Code_Adam ; https://www.csmonitor.com/1994/0414/14083.html",
+        "key_information_obtained": "1994 origin, 2003 law"
+      },
+      {
+        "type": "Encyclopedia",
+        "title": "[14] America's Most Wanted",
+        "url_or_reference": "https://en.wikipedia.org/wiki/America%27s_Most_Wanted",
+        "key_information_obtained": "Debut, captures, Adam film"
+      },
+      {
+        "type": "Encyclopedia",
+        "title": "[15] Ottis Toole",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Ottis_Toole",
+        "key_information_obtained": "Death, Lucas"
+      },
+      {
+        "type": "News",
+        "title": "[16] NBC Miami, New Book Reveals Fresh Evidence in Walsh Case (2011)",
+        "url_or_reference": "https://www.nbcmiami.com/news/local/new-book-reveals-disturbing-evidence-that-closed-infamous-adam-walsh-murder-case/1891015/",
+        "key_information_obtained": "98 photos, lost car and carpet"
+      },
+      {
+        "type": "Radio",
+        "title": "[17] NPR interview transcript, Bringing Adam Home",
+        "url_or_reference": "https://www.npr.org/transcripts/185247363",
+        "key_information_obtained": "Matthews, Hoffman"
+      },
+      {
+        "type": "News",
+        "title": "[18] Tampa Bay Times, A case of criminal errors (2011)",
+        "url_or_reference": "https://www.tampabay.com/archive/2011/02/27/a-case-of-criminal-errors",
+        "key_information_obtained": "Review of book"
+      },
+      {
+        "type": "Investigative news",
+        "title": "[19] Florida Bulldog (2011)",
+        "url_or_reference": "https://www.floridabulldog.org/2011/01/hollywood-police-chief-should-explain-why-he-thinks-ottis-toole-murdered-adam-walsh/",
+        "key_information_obtained": "Matthews report, records dispute"
+      },
+      {
+        "type": "News",
+        "title": "[20] Local10, 45 years after Adam Walsh disappearance (2026)",
+        "url_or_reference": "https://local10.com/news/local/2026/07/27/45-years-after-adam-walsh-disappearance-from-hollywood-mall",
+        "key_information_obtained": "Current status"
+      },
+      {
+        "type": "News",
+        "title": "[21] WPTV, Remembering Adam Walsh 40 years after",
+        "url_or_reference": "https://www.wptv.com/news/state/broward/remembering-adam-walsh-40-years-after-6-year-olds-disappearance",
+        "key_information_obtained": "Anniversary"
+      },
+      {
+        "type": "News",
+        "title": "[22] Investigation Discovery, 5 Facts",
+        "url_or_reference": "https://www.investigationdiscovery.com/crimefeed/crime-history/5-facts-to-know-about-kidnapping-and-murder-of-adam-walsh",
+        "key_information_obtained": "Campbell polygraphs, hypnosis"
+      },
+      {
+        "type": "News",
+        "title": "[23] Investigation Discovery, Toole or Dahmer",
+        "url_or_reference": "https://investigationdiscovery.com/crimefeed/crime-history/was-adam-walsh-son-of-john-walsh-killed-by-ottis-toole-or-jeffrey-dahmer",
+        "key_information_obtained": "Dahmer theory"
+      },
+      {
+        "type": "Critical blog/book",
+        "title": "[24] Arthur Jay Harris, The Unsolved Murder of Adam Walsh",
+        "url_or_reference": "https://arthurjayharris.substack.com/p/the-unsolved-murder-of-adam-walsh-7d1",
+        "key_information_obtained": "Disputes; dental ID"
+      },
+      {
+        "type": "Law firm history page",
+        "title": "[25] Lauth, History of Missing Persons Law",
+        "url_or_reference": "https://lauthmissingpersons.com/history-of-missing-persons-law-in-the-united-states",
+        "key_information_obtained": "1982 and 1984 Acts, Missing Children's Day"
+      },
+      {
+        "type": "Commentary",
+        "title": "[26] Broward Palm Beach New Times",
+        "url_or_reference": "https://www.browardpalmbeach.com/?p=40641561",
+        "key_information_obtained": "Critique of closure"
+      },
+      {
+        "type": "Reference",
+        "title": "[27] Crime Library",
+        "url_or_reference": "https://crimelibrary.org/criminal_mind/psychology/child_abduction/9.html",
+        "key_information_obtained": "Teens ejected"
+      },
+      {
+        "type": "News (Cox)",
+        "title": "[28] WFTV, Adam Walsh: looking back 40 years",
+        "url_or_reference": "https://www.wftv.com/news/trending/adam-walsh-looking-back-40-years-after-child-abduction-that-changed-america/DACNGXGOW5FTHITUS6XIFEDBP4/",
+        "key_information_obtained": "120 miles, baseball cap, fishermen"
+      },
+      {
+        "type": "News",
+        "title": "[29] 6abc / AP, Questions linger",
+        "url_or_reference": "https://6abc.com/archive/6564374/",
+        "key_information_obtained": "1994 lost carpet"
+      },
+      {
+        "type": "Reference",
+        "title": "[31] Biography.com, Ottis Toole",
+        "url_or_reference": "https://www.biography.com/crime-figure/ottis-toole",
+        "key_information_obtained": "Death by cirrhosis"
+      }
     ]
   },
   "next_video_hook": {
@@ -284,7 +782,14 @@
       "Matthews's claim about blood-transfer photos: his interpretation; graphic, not used",
       "Birth years of Walsh siblings from background knowledge"
     ],
-    "information_gaps": ["No autopsy report publicly available per Harris [24]", "Exact name of reward amount", "Exact date the Cadillac left custody"],
-    "questions_to_answer": ["Was the case formally 'exceptionally cleared' in FBI terms (wording used by press varies)", "Any 2026 release of records"]
+    "information_gaps": [
+      "No autopsy report publicly available per Harris [24]",
+      "Exact name of reward amount",
+      "Exact date the Cadillac left custody"
+    ],
+    "questions_to_answer": [
+      "Was the case formally 'exceptionally cleared' in FBI terms (wording used by press varies)",
+      "Any 2026 release of records"
+    ]
   }
 }
