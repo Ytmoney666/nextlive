@@ -197,3 +197,26 @@ Gerald Robinson fue **condenado** por asesinato el 11 de mayo de 2006. La conden
 39. Toledo Blade (5 may 2006) — Defense probes — https://www.bishop-accountability.org/news2006/05_06/2006_05_05_Yonke_DefenseProbes.htm
 
 Nota: muchas piezas de Toledo Blade/AP se consultaron a través de sus reproducciones en bishop-accountability.org (fragmentos de búsqueda; WebFetch bloqueado). Antes de publicar, contrastar con los originales.
+
+## 14. Verificación del guion
+
+- **Partes:** 10 párrafos (uno por parte), separados por una línea en blanco.
+- **Palabras por parte:** 1.232 · 1.270 · 1.262 · 1.220 · 1.261 · 1.239 · 1.234 · 1.218 · 1.244 · 1.274
+- **Total:** 12.454 palabras → **≈73,3 minutos** a 170 ppm.
+- **Signos de interrogación:** 7 (máximo 12).
+- Sin encabezados, markdown, corchetes ni indicaciones visuales. 2 CTA ("this channel"): tras el gancho y al cierre. Mantra final incluido. Motivo repetido: "Her name was Sister Margaret Ann" (título del documental de WTOL).
+- Causa de muerte: una sola frase llana ("She had been strangled and stabbed thirty-one times."). Sin detalles rituales ni gráficos. La denuncia de 2003 no se describe y se indica que no fue corroborada.
+- Críticas a la diócesis y dudas sobre la condena: siempre atribuidas (testimonio de Marx, fiscal Mandros, WTOL 2026, defensa, Kerger, NAS 2009) y presentadas como "questions that remain"; se aclara que ni Vetter ni Mons. Schmit fueron acusados de delito.
+- Correcciones hechas en la revisión: eliminados detalles no documentados (color del mantel, hábito, horarios hospitalarios inventados, "pastor que bautizó a sus hijos", carrera posterior del Dr. Baron, ubicación del hogar familiar, "decades of experience" de Sutton); fecha de entrega al jurado cambiada a "In May 2006"; Mandros descrito solo como fiscal del juicio.
+
+**10 afirmaciones clave y sus fuentes:**
+1. Asesinada el Sábado Santo, 5 abr 1980, en la sacristía de la capilla del Mercy Hospital de Toledo, a los 71 años — [1][2][5]
+2. Cuerpo hallado por una monja hacia las 8:20 a.m.; Sister Phyllis Ann Gerold oyó gritos durante el desayuno — [13][14]
+3. Marx y Kina hallaron en el escritorio de Robinson un abrecartas con forma de espada que encajaba con la descripción del arma — [1][12]
+4. Robinson dijo haber oído la confesión del asesino y luego admitió que lo inventó, "to protect himself" (testimonio de Marx) — [11]
+5. 19 abr 1980: Vetter y Mons. Schmit interrumpieron el interrogatorio y se fueron con Robinson; Vetter exigió todos los informes y algunos no se volvieron a ver (testimonio de Marx; fiscal Mandros) — [12]
+6. Reapertura en dic. 2003 a partir de una denuncia ante la junta diocesana (11 jun 2003) remitida por Cooley y Vercellotti al fiscal general; denuncia no corroborada — [24][25][26]
+7. Arresto el 23 abr 2004; el análisis de patrones de sangre indicó que el arma estaba "in the control of the suspect"; interrogatorio de ~90 min por Tom Ross — [10]
+8. Henry Lee y Paulette Sutton vincularon las manchas de transferencia del mantel con el medallón del Capitolio del abrecartas; los jurados lo calificaron de "critical" — [7][9][36]
+9. Culpable el 11 may 2006 tras ~6 h 25 min; condena obligatoria de 15 años a perpetua — [3][15]
+10. Recursos fallidos (2007, 2008, 2009, 2011, 2013); murió el 4 jul 2014 a los 76 en un hospicio penitenciario de Columbus; cita de Kerger — [17][18][20][21][22][23]

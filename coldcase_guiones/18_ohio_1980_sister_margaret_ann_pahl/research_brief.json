@@ -54,63 +54,357 @@
   "supporting_characters": {
     "_instructions": "Investigators, accomplices, witnesses, family members - anyone who plays a significant role.",
     "characters": [
-      {"name": "Sister Phyllis Ann Gerold", "role_in_story": "President of Mercy Hospital in 1980", "key_actions_they_took": "Heard screaming from the chapel while eating breakfast; found two or three nuns and Pahl's body; testified in 2006 [13]", "notable_quotes": "None verbatim"},
-      {"name": "Leslie Kerner", "role_in_story": "Former EKG technician at Mercy", "key_actions_they_took": "Testified she arrived about 6:50 a.m., punched the clock, and saw Father Robinson standing near the open chapel doors; defense noted 1980 reports did not mention a priest and a 2004 report worded her account differently [14]", "notable_quotes": "None verbatim"},
-      {"name": "Grace Jones", "role_in_story": "Trial witness", "key_actions_they_took": "Testified that between about 7 and 7:30 a.m. she saw a priest leave the chapel carrying a duffel bag and walk past her while she waited for an elevator [14]", "notable_quotes": "None verbatim"},
-      {"name": "Dr. Jack Baron", "role_in_story": "Resident physician at Mercy in 1980", "key_actions_they_took": "Testified he saw a priest in the hallway while running to the chapel [14]", "notable_quotes": "None verbatim"},
-      {"name": "Detective (later Sergeant) Arthur Marx", "role_in_story": "Toledo police investigator in 1980", "key_actions_they_took": "Interviewed Robinson; with Lt. Bill Kina found a letter opener in Robinson's desk; testified Robinson first claimed to have heard the killer's confession and then admitted making it up [11][12]", "notable_quotes": "Testified Robinson said he made up the story 'to protect himself' [11]"},
-      {"name": "Lt. Bill Kina", "role_in_story": "Toledo police officer in 1980", "key_actions_they_took": "With Marx found the letter opener matching the description of the weapon in Robinson's desk [12]", "notable_quotes": "None"},
-      {"name": "Deputy Chief Ray Vetter", "role_in_story": "Toledo deputy police chief in 1980 (retired 1986)", "key_actions_they_took": "According to Marx's testimony, he and Msgr. Jerome Schmit came to the April 19, 1980 interview and left with Robinson; Marx testified Vetter required all copies of reports on the case to be turned over to him [12]", "notable_quotes": "None"},
-      {"name": "Msgr. Jerome Schmit", "role_in_story": "Official of the Toledo Catholic Diocese in 1980", "key_actions_they_took": "According to Marx's testimony, came to the interview room with Vetter and left with Robinson [12]; in June 2026 letters were submitted to the Toledo Board of Honor about removing a street sign honoring him [30][31]", "notable_quotes": "None"},
-      {"name": "Tom Ross", "role_in_story": "Cold case investigator, Lucas County Prosecutor's Office", "key_actions_they_took": "Re-examined the case from December 2003; interrogated Robinson for about 90 minutes after the arrest; testified at a February 2006 hearing [10][11]", "notable_quotes": "None verbatim"},
-      {"name": "Sergeant Steve Forrester", "role_in_story": "Toledo police officer supervising the cold case unit", "key_actions_they_took": "Arrested Robinson on April 23, 2004; testified at trial [10][14]", "notable_quotes": "None verbatim"},
-      {"name": "Claudia Vercellotti and Dr. Robert Cooley", "role_in_story": "Local SNAP coordinator, and a psychologist on the diocesan review board", "key_actions_they_took": "Took a 2003 complaint that named Robinson to the Ohio attorney general's office, which passed it to Lucas County prosecutors [24][25]", "notable_quotes": "None verbatim"},
-      {"name": "Dr. Henry Lee", "role_in_story": "Forensic scientist called by the prosecution", "key_actions_they_took": "Showed how chemicals enhanced bloodstains on the altar cloth and how shapes within a circle appeared to match the U.S. Capitol on the letter opener's medallion [7][8]", "notable_quotes": "None verbatim"},
-      {"name": "Paulette Sutton", "role_in_story": "Bloodstain pattern analyst from Memphis", "key_actions_they_took": "Testified several stains were consistent with the shape and details of the letter opener; laid a transparent copy of the medallion over the mark on the linen [7][36]", "notable_quotes": "Paraphrase only (Court TV): highly unlikely the mark came from anything other than the letter opener [36]"},
-      {"name": "Dean Mandros", "role_in_story": "Lucas County prosecutor's chief of the criminal division", "key_actions_they_took": "Argued the 1980 interview was broken off against normal procedure and that some reports were never seen again [12]", "notable_quotes": "None verbatim"},
-      {"name": "Alan Konop", "role_in_story": "Lead defense attorney at trial", "key_actions_they_took": "Focused on missing reports and inconsistent police statements; after verdict said the defense disagreed and would appeal [15][39]", "notable_quotes": "Paraphrase only [15]"},
-      {"name": "Judge Thomas Osowik", "role_in_story": "Lucas County Common Pleas trial judge", "key_actions_they_took": "Imposed the mandatory 15-years-to-life sentence immediately after verdict [3]", "notable_quotes": "None"},
-      {"name": "Richard (Rick) Kerger", "role_in_story": "Robinson's appellate attorney", "key_actions_they_took": "Pursued postconviction relief, Ohio Supreme Court review, and federal habeas and compassionate release in 2014 [17][20]", "notable_quotes": "'It's unfortunate we couldn't finish out the federal case, I think it would have had a different ending.' [20]"},
-      {"name": "Beth Como", "role_in_story": "Jury foreman", "key_actions_they_took": "With another juror described deliberations to the Blade in October 2006 [9]", "notable_quotes": "Jurors called Lee and Sutton's testimony 'critical' [9]"}
+      {
+        "name": "Sister Phyllis Ann Gerold",
+        "role_in_story": "President of Mercy Hospital in 1980",
+        "key_actions_they_took": "Heard screaming from the chapel while eating breakfast; found two or three nuns and Pahl's body; testified in 2006 [13]",
+        "notable_quotes": "None verbatim"
+      },
+      {
+        "name": "Leslie Kerner",
+        "role_in_story": "Former EKG technician at Mercy",
+        "key_actions_they_took": "Testified she arrived about 6:50 a.m., punched the clock, and saw Father Robinson standing near the open chapel doors; defense noted 1980 reports did not mention a priest and a 2004 report worded her account differently [14]",
+        "notable_quotes": "None verbatim"
+      },
+      {
+        "name": "Grace Jones",
+        "role_in_story": "Trial witness",
+        "key_actions_they_took": "Testified that between about 7 and 7:30 a.m. she saw a priest leave the chapel carrying a duffel bag and walk past her while she waited for an elevator [14]",
+        "notable_quotes": "None verbatim"
+      },
+      {
+        "name": "Dr. Jack Baron",
+        "role_in_story": "Resident physician at Mercy in 1980",
+        "key_actions_they_took": "Testified he saw a priest in the hallway while running to the chapel [14]",
+        "notable_quotes": "None verbatim"
+      },
+      {
+        "name": "Detective (later Sergeant) Arthur Marx",
+        "role_in_story": "Toledo police investigator in 1980",
+        "key_actions_they_took": "Interviewed Robinson; with Lt. Bill Kina found a letter opener in Robinson's desk; testified Robinson first claimed to have heard the killer's confession and then admitted making it up [11][12]",
+        "notable_quotes": "Testified Robinson said he made up the story 'to protect himself' [11]"
+      },
+      {
+        "name": "Lt. Bill Kina",
+        "role_in_story": "Toledo police officer in 1980",
+        "key_actions_they_took": "With Marx found the letter opener matching the description of the weapon in Robinson's desk [12]",
+        "notable_quotes": "None"
+      },
+      {
+        "name": "Deputy Chief Ray Vetter",
+        "role_in_story": "Toledo deputy police chief in 1980 (retired 1986)",
+        "key_actions_they_took": "According to Marx's testimony, he and Msgr. Jerome Schmit came to the April 19, 1980 interview and left with Robinson; Marx testified Vetter required all copies of reports on the case to be turned over to him [12]",
+        "notable_quotes": "None"
+      },
+      {
+        "name": "Msgr. Jerome Schmit",
+        "role_in_story": "Official of the Toledo Catholic Diocese in 1980",
+        "key_actions_they_took": "According to Marx's testimony, came to the interview room with Vetter and left with Robinson [12]; in June 2026 letters were submitted to the Toledo Board of Honor about removing a street sign honoring him [30][31]",
+        "notable_quotes": "None"
+      },
+      {
+        "name": "Tom Ross",
+        "role_in_story": "Cold case investigator, Lucas County Prosecutor's Office",
+        "key_actions_they_took": "Re-examined the case from December 2003; interrogated Robinson for about 90 minutes after the arrest; testified at a February 2006 hearing [10][11]",
+        "notable_quotes": "None verbatim"
+      },
+      {
+        "name": "Sergeant Steve Forrester",
+        "role_in_story": "Toledo police officer supervising the cold case unit",
+        "key_actions_they_took": "Arrested Robinson on April 23, 2004; testified at trial [10][14]",
+        "notable_quotes": "None verbatim"
+      },
+      {
+        "name": "Claudia Vercellotti and Dr. Robert Cooley",
+        "role_in_story": "Local SNAP coordinator, and a psychologist on the diocesan review board",
+        "key_actions_they_took": "Took a 2003 complaint that named Robinson to the Ohio attorney general's office, which passed it to Lucas County prosecutors [24][25]",
+        "notable_quotes": "None verbatim"
+      },
+      {
+        "name": "Dr. Henry Lee",
+        "role_in_story": "Forensic scientist called by the prosecution",
+        "key_actions_they_took": "Showed how chemicals enhanced bloodstains on the altar cloth and how shapes within a circle appeared to match the U.S. Capitol on the letter opener's medallion [7][8]",
+        "notable_quotes": "None verbatim"
+      },
+      {
+        "name": "Paulette Sutton",
+        "role_in_story": "Bloodstain pattern analyst from Memphis",
+        "key_actions_they_took": "Testified several stains were consistent with the shape and details of the letter opener; laid a transparent copy of the medallion over the mark on the linen [7][36]",
+        "notable_quotes": "Paraphrase only (Court TV): highly unlikely the mark came from anything other than the letter opener [36]"
+      },
+      {
+        "name": "Dean Mandros",
+        "role_in_story": "Lucas County prosecutor's chief of the criminal division",
+        "key_actions_they_took": "Argued the 1980 interview was broken off against normal procedure and that some reports were never seen again [12]",
+        "notable_quotes": "None verbatim"
+      },
+      {
+        "name": "Alan Konop",
+        "role_in_story": "Lead defense attorney at trial",
+        "key_actions_they_took": "Focused on missing reports and inconsistent police statements; after verdict said the defense disagreed and would appeal [15][39]",
+        "notable_quotes": "Paraphrase only [15]"
+      },
+      {
+        "name": "Judge Thomas Osowik",
+        "role_in_story": "Lucas County Common Pleas trial judge",
+        "key_actions_they_took": "Imposed the mandatory 15-years-to-life sentence immediately after verdict [3]",
+        "notable_quotes": "None"
+      },
+      {
+        "name": "Richard (Rick) Kerger",
+        "role_in_story": "Robinson's appellate attorney",
+        "key_actions_they_took": "Pursued postconviction relief, Ohio Supreme Court review, and federal habeas and compassionate release in 2014 [17][20]",
+        "notable_quotes": "'It's unfortunate we couldn't finish out the federal case, I think it would have had a different ending.' [20]"
+      },
+      {
+        "name": "Beth Como",
+        "role_in_story": "Jury foreman",
+        "key_actions_they_took": "With another juror described deliberations to the Blade in October 2006 [9]",
+        "notable_quotes": "Jurors called Lee and Sutton's testimony 'critical' [9]"
+      }
     ]
   },
   "chronological_timeline": {
     "_instructions": "List every significant event with exact dates when possible. This is the backbone of your script.",
     "events": [
-      {"date": "1908", "location": "Edgerton, Ohio", "what_happened": "Margaret Ann Pahl is born", "significance": "Victim's origins", "source": "[5] Toledo Blade commentary, 2014"},
-      {"date": "c. 1927 (age 19)", "location": "Our Lady of the Pines, Fremont, Ohio", "what_happened": "Enters the Sisters of Mercy", "significance": "Start of more than 52 years of religious life", "source": "[5]"},
-      {"date": "c. 1934 (age 26)", "location": "St. Rita's, Lima, Ohio", "what_happened": "Graduates as a trained nurse", "significance": "Nursing career", "source": "[5]"},
-      {"date": "1954", "location": "St. Charles Hospital, Toledo", "what_happened": "Joins as supervisor; becomes administrator about five years later", "significance": "Leadership role", "source": "[5]"},
-      {"date": "1962", "location": "Mercy Hospital, Toledo", "what_happened": "Becomes director of nursing", "significance": "Link to the hospital where she would die", "source": "[5]"},
-      {"date": "1971", "location": "Mercy Hospital, Toledo", "what_happened": "Moves to pastoral work, mainly caring for the hospital chapels", "significance": "Why she was in the sacristy on Holy Saturday", "source": "[5]"},
-      {"date": "April 5, 1980, about 6:50 a.m.", "location": "Mercy Hospital corridor", "what_happened": "EKG technician Leslie Kerner later testified she saw Father Robinson near the open chapel doors (1980 reports did not mention a priest)", "significance": "Contested eyewitness account", "source": "[14] Toledo Blade, May 5, 2006"},
-      {"date": "April 5, 1980, about 7 to 7:30 a.m.", "location": "Near the chapel elevators", "what_happened": "Grace Jones later testified she saw a priest leave the chapel carrying a duffel bag", "significance": "Second witness account", "source": "[14]"},
-      {"date": "April 5, 1980, about 8:20 a.m.", "location": "Sacristy of St. Joseph's Chapel, Mercy Hospital", "what_happened": "A nun discovers Sister Margaret Ann's body; hospital president Sister Phyllis Ann Gerold hears screaming at breakfast and goes to the chapel", "significance": "Discovery on Holy Saturday", "source": "[14][13]"},
-      {"date": "April 1980 (about two weeks after the killing per Wikipedia)", "location": "Robinson's quarters/desk", "what_happened": "Det. Arthur Marx and Lt. Bill Kina find a sword-shaped letter opener in Robinson's desk", "significance": "The future murder weapon in police hands in 1980", "source": "[1][12]"},
-      {"date": "April 19, 1980", "location": "Toledo police interview room", "what_happened": "Interview of Robinson; per Marx's testimony, Deputy Chief Ray Vetter and Msgr. Jerome Schmit knocked, met with Robinson and left with him, cutting the interview short", "significance": "Investigation stalls; later central to diocese criticism", "source": "[12] Toledo Blade, May 6, 2006"},
-      {"date": "1980", "location": "Toledo", "what_happened": "Robinson tells Marx he heard the killer's confession, then admits making it up", "significance": "Admitted lie to police", "source": "[11][1]"},
-      {"date": "1980 onward", "location": "Toledo Police Department", "what_happened": "Per Marx, Vetter required all copies of reports turned over to him; prosecutor said some were never seen again; no charges; case goes cold", "significance": "System failure", "source": "[12]"},
-      {"date": "1986", "location": "Toledo", "what_happened": "Deputy Chief Vetter retires", "significance": "Cold years", "source": "[12]"},
-      {"date": "June 11, 2003", "location": "Toledo Diocese review board", "what_happened": "A woman testifies with allegations that named Robinson; board member Dr. Robert Cooley wants them reported to police", "significance": "Chain of events that reopened the case", "source": "[24]"},
-      {"date": "September 2003", "location": "Ohio Attorney General's office", "what_happened": "Claudia Vercellotti forwards the matter to the attorney general, saying church officials were not moving on it", "significance": "Outside route to law enforcement", "source": "[25]"},
-      {"date": "December 2003", "location": "Lucas County Prosecutor's Office", "what_happened": "Cold case investigators reopen the 1980 file after recognizing Robinson's name; they could not substantiate the woman's allegations", "significance": "Case reopened", "source": "[24][26]"},
-      {"date": "April 23, 2004", "location": "Toledo", "what_happened": "Cold case detectives arrest Robinson, more than 24 years after the killing; Tom Ross interrogates him for about 90 minutes", "significance": "Breakthrough", "source": "[10]"},
-      {"date": "April 2004", "location": "Toledo", "what_happened": "Investigators say blood-pattern analysis showed the weapon was 'in the control of the suspect'; some parishioners publicly back the priest", "significance": "Basis of charge; divided community", "source": "[10][34]"},
-      {"date": "February 2006", "location": "Lucas County Common Pleas Court", "what_happened": "Pretrial hearing; Tom Ross testifies about the 1980 lie told to Marx", "significance": "Pretrial", "source": "[11]"},
-      {"date": "April 2006 (jury selection mid-April; testimony from about April 21-24)", "location": "Lucas County Common Pleas Court, Toledo", "what_happened": "Murder trial begins before Judge Thomas Osowik", "significance": "Trial", "source": "[3][13][33]"},
-      {"date": "Late April 2006", "location": "Courtroom", "what_happened": "Henry Lee and Paulette Sutton testify about the altar-cloth transfer stains and the letter opener's medallion", "significance": "Key forensic evidence", "source": "[7][8][36]"},
-      {"date": "May 11, 2006", "location": "Courtroom", "what_happened": "After about six hours and 25 minutes of deliberation, jury convicts Robinson of murder; sentenced to mandatory 15 years to life", "significance": "Verdict", "source": "[3][15]"},
-      {"date": "October 2006", "location": "Toledo", "what_happened": "Two jurors, including foreman Beth Como, describe deliberations; call Lee and Sutton's testimony 'critical'", "significance": "Why the jury convicted", "source": "[9]"},
-      {"date": "December 2007 (month per recollection; appeal loss confirmed)", "location": "Ohio Sixth District Court of Appeals", "what_happened": "Conviction upheld on direct appeal", "significance": "Appeals fail", "source": "[23][1]"},
-      {"date": "2008", "location": "Ohio Supreme Court", "what_happened": "Declines to hear Robinson's appeal", "significance": "Appeals fail", "source": "[22]"},
-      {"date": "October 5, 2009", "location": "U.S. Supreme Court", "what_happened": "Denies review without comment", "significance": "Appeals fail", "source": "[21]"},
-      {"date": "April 2011", "location": "Lucas County Common Pleas Court", "what_happened": "Judge Gene Zmuda denies postconviction relief (claims of withheld documents incl. 139 misfiled pages, and an alternative suspect)", "significance": "Appeals fail", "source": "[17][19]"},
-      {"date": "February 2013", "location": "Ohio Sixth District Court of Appeals", "what_happened": "Upholds the denial of postconviction relief", "significance": "Appeals fail", "source": "[18][17]"},
-      {"date": "June 2013", "location": "Ohio Supreme Court", "what_happened": "Declines review, two justices dissenting; state appeals exhausted", "significance": "Appeals fail", "source": "[17]"},
-      {"date": "May/June 2014", "location": "U.S. District Court, Northern District of Ohio", "what_happened": "Kerger files federal petitions; Judge James S. Gwin rules federal court lacks jurisdiction to grant compassionate release", "significance": "Final legal moves", "source": "[20][35]"},
-      {"date": "July 4, 2014", "location": "Prison hospice (Franklin Medical Center), Columbus, Ohio", "what_happened": "Robinson dies at 76, eight years into his sentence, still maintaining innocence", "significance": "End of the legal story", "source": "[2][20]"},
-      {"date": "March 2026", "location": "Toledo", "what_happened": "WTOL 11 releases the documentary 'Her Name Was Sister Margaret Ann' (streaming from March 23), examining the diocese's role", "significance": "Renewed public questions", "source": "[28][29]"},
-      {"date": "June 2026", "location": "Toledo Board of Honor", "what_happened": "Key figures submit letters alleging church interference; board weighs removing a street sign honoring Msgr. Jerome Schmit; diocese had not responded to WTOL's questions", "significance": "Questions that remain", "source": "[30][31]"}
+      {
+        "date": "1908",
+        "location": "Edgerton, Ohio",
+        "what_happened": "Margaret Ann Pahl is born",
+        "significance": "Victim's origins",
+        "source": "[5] Toledo Blade commentary, 2014"
+      },
+      {
+        "date": "c. 1927 (age 19)",
+        "location": "Our Lady of the Pines, Fremont, Ohio",
+        "what_happened": "Enters the Sisters of Mercy",
+        "significance": "Start of more than 52 years of religious life",
+        "source": "[5]"
+      },
+      {
+        "date": "c. 1934 (age 26)",
+        "location": "St. Rita's, Lima, Ohio",
+        "what_happened": "Graduates as a trained nurse",
+        "significance": "Nursing career",
+        "source": "[5]"
+      },
+      {
+        "date": "1954",
+        "location": "St. Charles Hospital, Toledo",
+        "what_happened": "Joins as supervisor; becomes administrator about five years later",
+        "significance": "Leadership role",
+        "source": "[5]"
+      },
+      {
+        "date": "1962",
+        "location": "Mercy Hospital, Toledo",
+        "what_happened": "Becomes director of nursing",
+        "significance": "Link to the hospital where she would die",
+        "source": "[5]"
+      },
+      {
+        "date": "1971",
+        "location": "Mercy Hospital, Toledo",
+        "what_happened": "Moves to pastoral work, mainly caring for the hospital chapels",
+        "significance": "Why she was in the sacristy on Holy Saturday",
+        "source": "[5]"
+      },
+      {
+        "date": "April 5, 1980, about 6:50 a.m.",
+        "location": "Mercy Hospital corridor",
+        "what_happened": "EKG technician Leslie Kerner later testified she saw Father Robinson near the open chapel doors (1980 reports did not mention a priest)",
+        "significance": "Contested eyewitness account",
+        "source": "[14] Toledo Blade, May 5, 2006"
+      },
+      {
+        "date": "April 5, 1980, about 7 to 7:30 a.m.",
+        "location": "Near the chapel elevators",
+        "what_happened": "Grace Jones later testified she saw a priest leave the chapel carrying a duffel bag",
+        "significance": "Second witness account",
+        "source": "[14]"
+      },
+      {
+        "date": "April 5, 1980, about 8:20 a.m.",
+        "location": "Sacristy of St. Joseph's Chapel, Mercy Hospital",
+        "what_happened": "A nun discovers Sister Margaret Ann's body; hospital president Sister Phyllis Ann Gerold hears screaming at breakfast and goes to the chapel",
+        "significance": "Discovery on Holy Saturday",
+        "source": "[14][13]"
+      },
+      {
+        "date": "April 1980 (about two weeks after the killing per Wikipedia)",
+        "location": "Robinson's quarters/desk",
+        "what_happened": "Det. Arthur Marx and Lt. Bill Kina find a sword-shaped letter opener in Robinson's desk",
+        "significance": "The future murder weapon in police hands in 1980",
+        "source": "[1][12]"
+      },
+      {
+        "date": "April 19, 1980",
+        "location": "Toledo police interview room",
+        "what_happened": "Interview of Robinson; per Marx's testimony, Deputy Chief Ray Vetter and Msgr. Jerome Schmit knocked, met with Robinson and left with him, cutting the interview short",
+        "significance": "Investigation stalls; later central to diocese criticism",
+        "source": "[12] Toledo Blade, May 6, 2006"
+      },
+      {
+        "date": "1980",
+        "location": "Toledo",
+        "what_happened": "Robinson tells Marx he heard the killer's confession, then admits making it up",
+        "significance": "Admitted lie to police",
+        "source": "[11][1]"
+      },
+      {
+        "date": "1980 onward",
+        "location": "Toledo Police Department",
+        "what_happened": "Per Marx, Vetter required all copies of reports turned over to him; prosecutor said some were never seen again; no charges; case goes cold",
+        "significance": "System failure",
+        "source": "[12]"
+      },
+      {
+        "date": "1986",
+        "location": "Toledo",
+        "what_happened": "Deputy Chief Vetter retires",
+        "significance": "Cold years",
+        "source": "[12]"
+      },
+      {
+        "date": "June 11, 2003",
+        "location": "Toledo Diocese review board",
+        "what_happened": "A woman testifies with allegations that named Robinson; board member Dr. Robert Cooley wants them reported to police",
+        "significance": "Chain of events that reopened the case",
+        "source": "[24]"
+      },
+      {
+        "date": "September 2003",
+        "location": "Ohio Attorney General's office",
+        "what_happened": "Claudia Vercellotti forwards the matter to the attorney general, saying church officials were not moving on it",
+        "significance": "Outside route to law enforcement",
+        "source": "[25]"
+      },
+      {
+        "date": "December 2003",
+        "location": "Lucas County Prosecutor's Office",
+        "what_happened": "Cold case investigators reopen the 1980 file after recognizing Robinson's name; they could not substantiate the woman's allegations",
+        "significance": "Case reopened",
+        "source": "[24][26]"
+      },
+      {
+        "date": "April 23, 2004",
+        "location": "Toledo",
+        "what_happened": "Cold case detectives arrest Robinson, more than 24 years after the killing; Tom Ross interrogates him for about 90 minutes",
+        "significance": "Breakthrough",
+        "source": "[10]"
+      },
+      {
+        "date": "April 2004",
+        "location": "Toledo",
+        "what_happened": "Investigators say blood-pattern analysis showed the weapon was 'in the control of the suspect'; some parishioners publicly back the priest",
+        "significance": "Basis of charge; divided community",
+        "source": "[10][34]"
+      },
+      {
+        "date": "February 2006",
+        "location": "Lucas County Common Pleas Court",
+        "what_happened": "Pretrial hearing; Tom Ross testifies about the 1980 lie told to Marx",
+        "significance": "Pretrial",
+        "source": "[11]"
+      },
+      {
+        "date": "April 2006 (jury selection mid-April; testimony from about April 21-24)",
+        "location": "Lucas County Common Pleas Court, Toledo",
+        "what_happened": "Murder trial begins before Judge Thomas Osowik",
+        "significance": "Trial",
+        "source": "[3][13][33]"
+      },
+      {
+        "date": "Late April 2006",
+        "location": "Courtroom",
+        "what_happened": "Henry Lee and Paulette Sutton testify about the altar-cloth transfer stains and the letter opener's medallion",
+        "significance": "Key forensic evidence",
+        "source": "[7][8][36]"
+      },
+      {
+        "date": "May 11, 2006",
+        "location": "Courtroom",
+        "what_happened": "After about six hours and 25 minutes of deliberation, jury convicts Robinson of murder; sentenced to mandatory 15 years to life",
+        "significance": "Verdict",
+        "source": "[3][15]"
+      },
+      {
+        "date": "October 2006",
+        "location": "Toledo",
+        "what_happened": "Two jurors, including foreman Beth Como, describe deliberations; call Lee and Sutton's testimony 'critical'",
+        "significance": "Why the jury convicted",
+        "source": "[9]"
+      },
+      {
+        "date": "December 2007 (month per recollection; appeal loss confirmed)",
+        "location": "Ohio Sixth District Court of Appeals",
+        "what_happened": "Conviction upheld on direct appeal",
+        "significance": "Appeals fail",
+        "source": "[23][1]"
+      },
+      {
+        "date": "2008",
+        "location": "Ohio Supreme Court",
+        "what_happened": "Declines to hear Robinson's appeal",
+        "significance": "Appeals fail",
+        "source": "[22]"
+      },
+      {
+        "date": "October 5, 2009",
+        "location": "U.S. Supreme Court",
+        "what_happened": "Denies review without comment",
+        "significance": "Appeals fail",
+        "source": "[21]"
+      },
+      {
+        "date": "April 2011",
+        "location": "Lucas County Common Pleas Court",
+        "what_happened": "Judge Gene Zmuda denies postconviction relief (claims of withheld documents incl. 139 misfiled pages, and an alternative suspect)",
+        "significance": "Appeals fail",
+        "source": "[17][19]"
+      },
+      {
+        "date": "February 2013",
+        "location": "Ohio Sixth District Court of Appeals",
+        "what_happened": "Upholds the denial of postconviction relief",
+        "significance": "Appeals fail",
+        "source": "[18][17]"
+      },
+      {
+        "date": "June 2013",
+        "location": "Ohio Supreme Court",
+        "what_happened": "Declines review, two justices dissenting; state appeals exhausted",
+        "significance": "Appeals fail",
+        "source": "[17]"
+      },
+      {
+        "date": "May/June 2014",
+        "location": "U.S. District Court, Northern District of Ohio",
+        "what_happened": "Kerger files federal petitions; Judge James S. Gwin rules federal court lacks jurisdiction to grant compassionate release",
+        "significance": "Final legal moves",
+        "source": "[20][35]"
+      },
+      {
+        "date": "July 4, 2014",
+        "location": "Prison hospice (Franklin Medical Center), Columbus, Ohio",
+        "what_happened": "Robinson dies at 76, eight years into his sentence, still maintaining innocence",
+        "significance": "End of the legal story",
+        "source": "[2][20]"
+      },
+      {
+        "date": "March 2026",
+        "location": "Toledo",
+        "what_happened": "WTOL 11 releases the documentary 'Her Name Was Sister Margaret Ann' (streaming from March 23), examining the diocese's role",
+        "significance": "Renewed public questions",
+        "source": "[28][29]"
+      },
+      {
+        "date": "June 2026",
+        "location": "Toledo Board of Honor",
+        "what_happened": "Key figures submit letters alleging church interference; board weighs removing a street sign honoring Msgr. Jerome Schmit; diocese had not responded to WTOL's questions",
+        "significance": "Questions that remain",
+        "source": "[30][31]"
+      }
     ]
   },
   "cold_open_material": {
@@ -136,9 +430,18 @@
     ],
     "why_it_worked": "A transfer stain works like a rubber stamp: a bloody object pressed onto fabric leaves its outline. A distinctive object leaves a distinctive print.",
     "technical_terms_to_explain": [
-      {"term": "Transfer stain", "simple_explanation": "A bloodstain made when a bloody object touches a surface and leaves its shape, like a stamp or a wet footprint"},
-      {"term": "Chemical enhancement", "simple_explanation": "Reagents that make faint or invisible blood traces show up more clearly"},
-      {"term": "Pattern match vs DNA match", "simple_explanation": "Pattern analysis compares shapes and is interpretive; it does not identify a person the way DNA can. The 2009 National Academy of Sciences report criticised the subjectivity of bloodstain pattern interpretation in general [38]"}
+      {
+        "term": "Transfer stain",
+        "simple_explanation": "A bloodstain made when a bloody object touches a surface and leaves its shape, like a stamp or a wet footprint"
+      },
+      {
+        "term": "Chemical enhancement",
+        "simple_explanation": "Reagents that make faint or invisible blood traces show up more clearly"
+      },
+      {
+        "term": "Pattern match vs DNA match",
+        "simple_explanation": "Pattern analysis compares shapes and is interpretive; it does not identify a person the way DNA can. The 2009 National Academy of Sciences report criticised the subjectivity of bloodstain pattern interpretation in general [38]"
+      }
     ],
     "scale_of_operation": "One preserved altar cloth, one letter opener, a small cold case team"
   },
@@ -176,11 +479,17 @@
   },
   "legal_resolution": {
     "_instructions": "Court proceedings, sentencing, and aftermath.",
-    "charges_filed": ["Murder (Lucas County Common Pleas Court)"],
+    "charges_filed": [
+      "Murder (Lucas County Common Pleas Court)"
+    ],
     "trial_date_if_applicable": "April to May 11, 2006",
     "notable_court_testimony": "Marx on the admitted lie and the cut-short interview; Kerner, Jones and Baron on sightings; Lee and Sutton on the altar cloth [7][11][12][14]",
     "victim_impact_statements": [
-      {"from_whom": "Lee Pahl (nephew), reaction to reporters", "key_quote": "Paraphrase: relieved, a bit in shock, needing time to digest [15]", "emotional_impact": "Relief after 26 years"}
+      {
+        "from_whom": "Lee Pahl (nephew), reaction to reporters",
+        "key_quote": "Paraphrase: relieved, a bit in shock, needing time to digest [15]",
+        "emotional_impact": "Relief after 26 years"
+      }
     ],
     "sentence_received": "15 years to life (mandatory), imposed immediately [3]",
     "protagonist_statement_in_court": "Not documented in sources consulted",
@@ -189,29 +498,106 @@
   "verified_quotes": {
     "_instructions": "ONLY include quotes you can verify from reliable sources.",
     "quotes": [
-      {"speaker": "Arthur Marx (testimony describing Robinson's explanation)", "exact_quote": "to protect himself", "context": "Why Robinson said he invented the claim of hearing the killer's confession", "source": "[11] Toledo Blade, Feb. 4, 2006"},
-      {"speaker": "Cold case investigators (AP 2006 summary)", "exact_quote": "in the control of the suspect", "context": "Their conclusion from blood-pattern analysis about the weapon", "source": "[10] AP, May 12, 2006"},
-      {"speaker": "Richard Kerger, Robinson's attorney", "exact_quote": "It's unfortunate we couldn't finish out the federal case, I think it would have had a different ending.", "context": "After Robinson's death, July 2014", "source": "[20] AP, July 4, 2014"},
-      {"speaker": "Jurors (Toledo Blade, Oct. 2006)", "exact_quote": "critical", "context": "How jurors described Lee and Sutton's testimony", "source": "[9]"},
-      {"speaker": "WTOL 2026 profile headline (nephew Lee Pahl's memories)", "exact_quote": "She had a radiant smile", "context": "Profile of Sister Margaret Ann through her nephew", "source": "[6]"}
+      {
+        "speaker": "Arthur Marx (testimony describing Robinson's explanation)",
+        "exact_quote": "to protect himself",
+        "context": "Why Robinson said he invented the claim of hearing the killer's confession",
+        "source": "[11] Toledo Blade, Feb. 4, 2006"
+      },
+      {
+        "speaker": "Cold case investigators (AP 2006 summary)",
+        "exact_quote": "in the control of the suspect",
+        "context": "Their conclusion from blood-pattern analysis about the weapon",
+        "source": "[10] AP, May 12, 2006"
+      },
+      {
+        "speaker": "Richard Kerger, Robinson's attorney",
+        "exact_quote": "It's unfortunate we couldn't finish out the federal case, I think it would have had a different ending.",
+        "context": "After Robinson's death, July 2014",
+        "source": "[20] AP, July 4, 2014"
+      },
+      {
+        "speaker": "Jurors (Toledo Blade, Oct. 2006)",
+        "exact_quote": "critical",
+        "context": "How jurors described Lee and Sutton's testimony",
+        "source": "[9]"
+      },
+      {
+        "speaker": "WTOL 2026 profile headline (nephew Lee Pahl's memories)",
+        "exact_quote": "She had a radiant smile",
+        "context": "Profile of Sister Margaret Ann through her nephew",
+        "source": "[6]"
+      }
     ]
   },
   "statistics_and_numbers": {
     "_instructions": "Concrete numbers add credibility and impact. Verify all figures.",
     "figures": [
-      {"number": "71", "what_it_represents": "Sister Margaret Ann's age (some reports say 72)", "source": "[1][2]"},
-      {"number": "52+", "what_it_represents": "Years as a Sister of Mercy", "source": "[5]"},
-      {"number": "1908", "what_it_represents": "Year of birth, Edgerton, Ohio", "source": "[5]"},
-      {"number": "31", "what_it_represents": "Stab wounds in most reports (range 27-32 in some sources)", "source": "[2][14]"},
-      {"number": "8:20 a.m.", "what_it_represents": "Approximate discovery time", "source": "[14]"},
-      {"number": "24 years", "what_it_represents": "From killing to arrest (April 5, 1980 to April 23, 2004)", "source": "[10]"},
-      {"number": "90 minutes", "what_it_represents": "Length of Ross's interrogation after arrest", "source": "[10]"},
-      {"number": "6 hours 25 minutes", "what_it_represents": "Jury deliberation", "source": "[15]"},
-      {"number": "15 years to life", "what_it_represents": "Mandatory sentence", "source": "[3]"},
-      {"number": "139", "what_it_represents": "Pages of misfiled police documents cited on appeal", "source": "[17]"},
-      {"number": "2", "what_it_represents": "Ohio Supreme Court justices dissenting from the 2013 denial of review", "source": "[17]"},
-      {"number": "76", "what_it_represents": "Robinson's age at death, July 4, 2014", "source": "[2][20]"},
-      {"number": "153,000", "what_it_represents": "Recent views of the WTOL documentary on YouTube (demand data supplied by the user, not independently verified)", "source": "User-provided"}
+      {
+        "number": "71",
+        "what_it_represents": "Sister Margaret Ann's age (some reports say 72)",
+        "source": "[1][2]"
+      },
+      {
+        "number": "52+",
+        "what_it_represents": "Years as a Sister of Mercy",
+        "source": "[5]"
+      },
+      {
+        "number": "1908",
+        "what_it_represents": "Year of birth, Edgerton, Ohio",
+        "source": "[5]"
+      },
+      {
+        "number": "31",
+        "what_it_represents": "Stab wounds in most reports (range 27-32 in some sources)",
+        "source": "[2][14]"
+      },
+      {
+        "number": "8:20 a.m.",
+        "what_it_represents": "Approximate discovery time",
+        "source": "[14]"
+      },
+      {
+        "number": "24 years",
+        "what_it_represents": "From killing to arrest (April 5, 1980 to April 23, 2004)",
+        "source": "[10]"
+      },
+      {
+        "number": "90 minutes",
+        "what_it_represents": "Length of Ross's interrogation after arrest",
+        "source": "[10]"
+      },
+      {
+        "number": "6 hours 25 minutes",
+        "what_it_represents": "Jury deliberation",
+        "source": "[15]"
+      },
+      {
+        "number": "15 years to life",
+        "what_it_represents": "Mandatory sentence",
+        "source": "[3]"
+      },
+      {
+        "number": "139",
+        "what_it_represents": "Pages of misfiled police documents cited on appeal",
+        "source": "[17]"
+      },
+      {
+        "number": "2",
+        "what_it_represents": "Ohio Supreme Court justices dissenting from the 2013 denial of review",
+        "source": "[17]"
+      },
+      {
+        "number": "76",
+        "what_it_represents": "Robinson's age at death, July 4, 2014",
+        "source": "[2][20]"
+      },
+      {
+        "number": "153,000",
+        "what_it_represents": "Recent views of the WTOL documentary on YouTube (demand data supplied by the user, not independently verified)",
+        "source": "User-provided"
+      }
     ]
   },
   "ironic_and_absurd_details": {
@@ -226,8 +612,18 @@
   "sensory_and_environmental_details": {
     "_instructions": "Details that help viewers visualize scenes.",
     "key_locations": [
-      {"location_name": "Mercy Hospital, Toledo", "physical_description": "Catholic hospital run by the Sisters of Mercy; has since closed (described as 'former Mercy Hospital' in 2014 coverage)", "atmosphere": "Holy Week; Easter preparations", "relevant_details": "St. Joseph's Chapel and its sacristy [5][2]"},
-      {"location_name": "Lucas County Common Pleas Court", "physical_description": "Downtown Toledo courthouse", "atmosphere": "Crowded trial in spring 2006", "relevant_details": "Lunchtime crowds and divided reactions at the verdict [37]"}
+      {
+        "location_name": "Mercy Hospital, Toledo",
+        "physical_description": "Catholic hospital run by the Sisters of Mercy; has since closed (described as 'former Mercy Hospital' in 2014 coverage)",
+        "atmosphere": "Holy Week; Easter preparations",
+        "relevant_details": "St. Joseph's Chapel and its sacristy [5][2]"
+      },
+      {
+        "location_name": "Lucas County Common Pleas Court",
+        "physical_description": "Downtown Toledo courthouse",
+        "atmosphere": "Crowded trial in spring 2006",
+        "relevant_details": "Lunchtime crowds and divided reactions at the verdict [37]"
+      }
     ]
   },
   "universal_stakes": {
@@ -240,18 +636,68 @@
   "sources": {
     "_instructions": "List ALL sources.",
     "primary_sources": [
-      {"type": "Trial coverage (Toledo Blade, reprinted)", "title": "Experts testify on bloodstain patterns, DNA (Apr. 27, 2006)", "url_or_reference": "https://www.bishop-accountability.org/news2006/05_06/2006_04_27_Yonke_ExpertsTestify.htm", "key_information_obtained": "Lee and Sutton testimony"},
-      {"type": "Trial coverage (Toledo Blade)", "title": "Priest lied (Feb. 4, 2006)", "url_or_reference": "https://www.bishop-accountability.org/news2006/01_02/2006_02_04_Reiter_PriestLied.htm", "key_information_obtained": "False confession story told to Marx"},
-      {"type": "Trial coverage (Toledo Blade)", "title": "Police grilled (May 6, 2006)", "url_or_reference": "https://www.bishop-accountability.org/news2006/05_06/2006_05_06_Yonke_PoliceGrilled.htm", "key_information_obtained": "Vetter, Schmit, reports, letter opener found by Marx and Kina"},
-      {"type": "Trial coverage (Toledo Blade)", "title": "Priest seen (May 5, 2006)", "url_or_reference": "https://www.bishop-accountability.org/news2006/05_06/2006_05_05_Yonke_PriestSeen.htm", "key_information_obtained": "Kerner, Jones, Baron; 8:20 a.m. discovery"},
-      {"type": "Trial coverage (Toledo Blade)", "title": "Witnesses recall (Apr. 25, 2006)", "url_or_reference": "https://www.bishop-accountability.org/news2006/03_04/2006_04_25_Yonke_WitnessesRecall.htm", "key_information_obtained": "Sister Phyllis Ann Gerold testimony"},
-      {"type": "AP", "title": "Priest convicted of slaying nun (May 11-12, 2006)", "url_or_reference": "https://www.nbcnews.com/id/wbna12739830", "key_information_obtained": "Verdict and sentence"}
+      {
+        "type": "Trial coverage (Toledo Blade, reprinted)",
+        "title": "Experts testify on bloodstain patterns, DNA (Apr. 27, 2006)",
+        "url_or_reference": "https://www.bishop-accountability.org/news2006/05_06/2006_04_27_Yonke_ExpertsTestify.htm",
+        "key_information_obtained": "Lee and Sutton testimony"
+      },
+      {
+        "type": "Trial coverage (Toledo Blade)",
+        "title": "Priest lied (Feb. 4, 2006)",
+        "url_or_reference": "https://www.bishop-accountability.org/news2006/01_02/2006_02_04_Reiter_PriestLied.htm",
+        "key_information_obtained": "False confession story told to Marx"
+      },
+      {
+        "type": "Trial coverage (Toledo Blade)",
+        "title": "Police grilled (May 6, 2006)",
+        "url_or_reference": "https://www.bishop-accountability.org/news2006/05_06/2006_05_06_Yonke_PoliceGrilled.htm",
+        "key_information_obtained": "Vetter, Schmit, reports, letter opener found by Marx and Kina"
+      },
+      {
+        "type": "Trial coverage (Toledo Blade)",
+        "title": "Priest seen (May 5, 2006)",
+        "url_or_reference": "https://www.bishop-accountability.org/news2006/05_06/2006_05_05_Yonke_PriestSeen.htm",
+        "key_information_obtained": "Kerner, Jones, Baron; 8:20 a.m. discovery"
+      },
+      {
+        "type": "Trial coverage (Toledo Blade)",
+        "title": "Witnesses recall (Apr. 25, 2006)",
+        "url_or_reference": "https://www.bishop-accountability.org/news2006/03_04/2006_04_25_Yonke_WitnessesRecall.htm",
+        "key_information_obtained": "Sister Phyllis Ann Gerold testimony"
+      },
+      {
+        "type": "AP",
+        "title": "Priest convicted of slaying nun (May 11-12, 2006)",
+        "url_or_reference": "https://www.nbcnews.com/id/wbna12739830",
+        "key_information_obtained": "Verdict and sentence"
+      }
     ],
     "secondary_sources": [
-      {"type": "Encyclopedia", "title": "Murder of Margaret Ann Pahl", "url_or_reference": "https://en.wikipedia.org/wiki/Murder_of_Margaret_Ann_Pahl", "key_information_obtained": "Overview"},
-      {"type": "Commentary (Toledo Blade, 2014)", "title": "Robinson's death closes a chapter, but not the book", "url_or_reference": "https://www.bishop-accountability.org/?p=180012", "key_information_obtained": "Biography of Pahl"},
-      {"type": "TV documentary series (WTOL, 2026)", "title": "Her Name Was Sister Margaret Ann", "url_or_reference": "https://www.bishop-accountability.org/2026/03/her-name-was-sister-margaret-ann/", "key_information_obtained": "Diocese questions, Lee Pahl"},
-      {"type": "AP", "title": "Priest convicted of killing nun dies in prison (July 4, 2014)", "url_or_reference": "https://www.bishop-accountability.org/news2014/07_08/2014_07_04_Mullen_ConvictedPriest.htm", "key_information_obtained": "Death, Kerger quote, Gwin ruling"}
+      {
+        "type": "Encyclopedia",
+        "title": "Murder of Margaret Ann Pahl",
+        "url_or_reference": "https://en.wikipedia.org/wiki/Murder_of_Margaret_Ann_Pahl",
+        "key_information_obtained": "Overview"
+      },
+      {
+        "type": "Commentary (Toledo Blade, 2014)",
+        "title": "Robinson's death closes a chapter, but not the book",
+        "url_or_reference": "https://www.bishop-accountability.org/?p=180012",
+        "key_information_obtained": "Biography of Pahl"
+      },
+      {
+        "type": "TV documentary series (WTOL, 2026)",
+        "title": "Her Name Was Sister Margaret Ann",
+        "url_or_reference": "https://www.bishop-accountability.org/2026/03/her-name-was-sister-margaret-ann/",
+        "key_information_obtained": "Diocese questions, Lee Pahl"
+      },
+      {
+        "type": "AP",
+        "title": "Priest convicted of killing nun dies in prison (July 4, 2014)",
+        "url_or_reference": "https://www.bishop-accountability.org/news2014/07_08/2014_07_04_Mullen_ConvictedPriest.htm",
+        "key_information_obtained": "Death, Kerger quote, Gwin ruling"
+      }
     ]
   },
   "next_video_hook": {
@@ -278,6 +724,68 @@
     "questions_to_answer": [
       "Did the diocese ever respond publicly to WTOL's 2026 questions",
       "Is the former Mercy Hospital building still standing"
+    ],
+    "general_context_used_in_script": [
+      {
+        "fact": "1980 era: Carter presidency, Iran hostage crisis since Nov 1979, high inflation, Reagan campaign, Lake Placid 'Miracle on Ice' Feb 1980, US boycott of Moscow Olympics",
+        "source": "General historical record (encyclopedic)"
+      },
+      {
+        "fact": "DNA profiling developed by Alec Jeffreys in England in 1984; first US DNA-based conviction 1987 (Florida); FBI national DNA database (CODIS/NDIS) operating 1998",
+        "source": "General forensic history (FBI CODIS pages; encyclopedic)"
+      },
+      {
+        "fact": "Toledo: Lucas County seat on the Maumee River at western Lake Erie; 'Glass City'; ~350,000 residents in 1980; Jeep production; seat of the Catholic Diocese of Toledo (19 counties, to verify)",
+        "source": "US Census 1980; encyclopedic"
+      },
+      {
+        "fact": "Sisters of Mercy founded in Dublin in 1831 by Catherine McAuley (House of Mercy, Baggot Street); arrived in the US in the 1840s; fourth vow of service to the poor, sick and uneducated",
+        "source": "Sisters of Mercy public history (sistersofmercy.org)"
+      },
+      {
+        "fact": "Holy Week liturgy: altar stripped after Holy Thursday Mass, no Mass on Good Friday, Easter Vigil after dark on Holy Saturday",
+        "source": "Roman Missal / general Catholic liturgy"
+      },
+      {
+        "fact": "Seal of confession is absolute in canon law; violation carries the gravest penalty (excommunication)",
+        "source": "Code of Canon Law cc. 983, 1386 (general)"
+      },
+      {
+        "fact": "Memory is reconstructive; Innocence Project: eyewitness misidentification a factor in roughly 69% of DNA exonerations",
+        "source": "Innocence Project (innocenceproject.org)"
+      },
+      {
+        "fact": "Ohio has no statute of limitations for murder",
+        "source": "Ohio Revised Code 2901.13"
+      },
+      {
+        "fact": "Boston Globe Spotlight series began January 2002; USCCB Dallas Charter June 2002 required diocesan review boards",
+        "source": "General record; USCCB Charter for the Protection of Children and Young People"
+      },
+      {
+        "fact": "Paul Kirk's 1955 bloodstain analysis in the Sam Sheppard case (Ohio, 1954 killing); conviction overturned 1966, acquitted at retrial 1966",
+        "source": "General forensic history; Sheppard v. Maxwell (1966)"
+      },
+      {
+        "fact": "Henry Lee: born in China, raised in Taiwan, former police officer, led Connecticut State Police forensic lab, testified for the defense in the O. J. Simpson trial (1995)",
+        "source": "Encyclopedic"
+      },
+      {
+        "fact": "Nearly half of Americans have type O blood",
+        "source": "American Red Cross blood type data"
+      },
+      {
+        "fact": "Ohio murder sentence (law at time of offense): indeterminate 15 years to life, parole board decides after minimum",
+        "source": "[3] mandatory sentence; general Ohio sentencing law"
+      },
+      {
+        "fact": "Habeas corpus petitions ask a federal court to rule state custody violates the Constitution; strong deference to state courts",
+        "source": "28 U.S.C. 2254 (general)"
+      },
+      {
+        "fact": "2009 NAS report criticized subjectivity of bloodstain pattern analysis",
+        "source": "[38] National Academy of Sciences, Strengthening Forensic Science in the United States (2009)"
+      }
     ]
   }
 }
