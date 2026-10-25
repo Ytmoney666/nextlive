@@ -1,7 +1,7 @@
 # Investigación — Medgar Evers (Jackson, Mississippi, 1963)
 
 ## 1. Título del video
-**Principal (75 caracteres):** MISSISSIPPI 1963 Cold Case Solved After 31 Years — Justice for Medgar Evers
+**Principal (75 caracteres):** Medgar Evers: How a Widow and Secret Files Solved a 31-Year Cold Case | Mississippi 1963
 
 **Alternativos:**
 1. MISSISSIPPI 1963 Cold Case Solved After 31 Years — His Fingerprint Was on the Rifle All Along

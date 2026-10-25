@@ -4,7 +4,7 @@
 
 ## 1. Título del video
 
-**Final:** IOWA 1979 Cold Case Solved After 39 Years — Justice for Michelle Martinko (73 caracteres)
+**Final:** IOWA 1979 Cold Case Solved — Her Attacker Bled in the Car, and DNA Named Him 39 Years Later (73 caracteres)
 
 Alternativos:
 - She Went to Buy a Winter Coat — Her Killer Was Never a Suspect (Michelle Martinko, 1979) (88)

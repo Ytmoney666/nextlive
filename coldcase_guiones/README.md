@@ -72,13 +72,13 @@ Las 30 historias están completas. Cada una tiene 10 partes de 1.200 palabras o 
 
 | # | Título | Palabras | Duración (170 ppm) |
 |---|---|---|---|
-| 1 | IOWA 1979 Cold Case Solved After 39 Years — Justice for Michelle Martinko | 12.570 | ~74 min |
+| 1 | IOWA 1979 Cold Case Solved — Her Attacker Bled in the Car. and DNA Named Him 39 Years Later | 12.570 | ~74 min |
 | 2 | COLORADO 1982 Cold Case Solved After 39 Years — Justice for Annette and Bobbie Jo | 12.288 | ~72 min |
 | 3 | IDAHO 1996 Cold Case Solved After 23 Years — Justice for Angie Dodge | 12.383 | ~73 min |
-| 4 | HAWAII 1991 Cold Case — DNA Identified the Killer After 32 Years | Dana Ireland | 12.583 | ~74 min |
-| 5 | TEXAS 1974 Cold Case Solved After 46 Years — Justice for Carla Walker | 12.660 | ~74 min |
+| 4 | HAWAII 1991 Cold Case — DNA Identified the Killer After 32 Years \\| Dana Ireland | 12.583 | ~74 min |
+| 5 | TEXAS 1974 Cold Case Solved After 46 Years — Justice for Carla Walker | 12.658 | ~74 min |
 | 6 | MINNESOTA 1993 Cold Case Solved After 25 Years — Justice for Jeanie Childs | 12.469 | ~73 min |
-| 7 | CALIFORNIA 1975 Cold Case Solved After 43 Years — Justice for the Golden State Killer's Victims | 12.854 | ~76 min |
+| 7 | CALIFORNIA 1975 Cold Case Solved After 43 Years — Justice for the Golden State Killer's Victims | 12.852 | ~76 min |
 | 8 | CALIFORNIA 1996 Cold Case Solved After 26 Years — Justice for Kristin Smart | 12.457 | ~73 min |
 | 9 | PENNSYLVANIA 1957 Cold Case Identified After 65 Years — The Boy in the Box Finally Has a Name | 12.681 | ~75 min |
 | 10 | PENNSYLVANIA 1992 Cold Case Solved After 25 Years — Justice for Christy Mirack | 12.383 | ~73 min |
@@ -98,9 +98,9 @@ Las 30 historias están completas. Cada una tiene 10 partes de 1.200 palabras o 
 | 24 | TEXAS 1995 Cold Case Solved After 26 Years — Justice for Mary Catherine Edwards | 12.482 | ~73 min |
 | 25 | MICHIGAN 1987 Cold Case Solved After 26 Years — Justice for Rick & Gail Brink | 12.340 | ~73 min |
 | 26 | MICHIGAN 1969 Cold Case Solved After 35 Years — Justice for Jane Mixer | 12.513 | ~74 min |
-| 27 | MASSACHUSETTS 1969 Cold Case — DNA Identified Her Killer After 49 Years | Jane Britton | 12.478 | ~73 min |
-| 28 | MISSISSIPPI 1963 Cold Case Solved After 31 Years — Justice for Medgar Evers | 12.392 | ~73 min |
-| 29 | VERMONT 1971 Cold Case — DNA Identified Her Killer After 51 Years | Rita Curran | 12.744 | ~75 min |
+| 27 | MASSACHUSETTS 1969 Cold Case — DNA Identified Her Killer After 49 Years \\| Jane Britton | 12.478 | ~73 min |
+| 28 | Medgar Evers: How a Widow and Secret Files Solved a 31-Year Cold Case \\| Mississippi 1963 | 12.392 | ~73 min |
+| 29 | VERMONT 1971 Cold Case — DNA Identified Her Killer After 51 Years \\| Rita Curran | 12.744 | ~75 min |
 | 30 | WASHINGTON 1986 Cold Case Solved After 32 Years — Justice for Michella Welch | 12.429 | ~73 min |
 
 - Del 1 al 10: la primera entrega.
